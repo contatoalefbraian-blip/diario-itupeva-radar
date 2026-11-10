@@ -1,5 +1,5 @@
 {
- "gerado": "10/11/2026 19:38",
+ "gerado": "10/11/2026 19:41",
  "pautas": [
   {
    "titulo": "Acidentes matam duas pessoas em rodovias de Jundiaí - G1",
@@ -496,7 +496,12 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "09/11 20:09"
+   "hora": "09/11 20:09",
+   "foto": "6b29b5863304.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1439x800",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/09/suspeito-chefe-trafico-bahia-preso-em-salto-sp.ghtml"
   },
   {
    "titulo": "Defesa Civil envia quase 7 mil garrafas de água para famílias em Itapeva - G1",
@@ -612,7 +617,7 @@
   },
   {
    "titulo": "Wet’n Wild inaugura KOBRA, a montanha-russa aquática mais alta do mundo - G1",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWVB3cW11TEhVb2VRbHFSZTlaTVc4dHlJSEp2SWIyWEYybFQ1eUxNN0pTQmsweUFLVXMtaDJhdndyZFQ0Yk9UeHNRbnNmdHp5TkFUUVlualI0R0l2bHBLUUM2aHpRLVZhUndYRmNJb0Z0WEJscWtXb2pFMk1YWEV2LUdHUi01eXhkVFh3VS1sSU9jbGhOVjdkamdTczl6QXk2dlpLcUlfSUQyLTZBUDZtWUlscnNua3ZHb2JDWmh5cXcxSFhFYXFqTmVNUWEzLXRhR19JeXFqZlo1UURCSm5MVWxNbEVUNFBZdUNCTHh5WDRpU1VPcnBlMldB0gGIAkFVX3lxTFBzaVJyY2lyenpiVW5WbnBKbGhMRnV2czNyQmp3NDJDdVpZRExNM1hsbGNBdm5VaFExbVdOMUNzQlI0UHV2THh5dENMUEoxWlBZakhKeUFCMVdpd3NuSGF0b3lQNG4tZDNpNG1LU0kzSU5mekxJWFJjanFjWkhadHIwQ0VGc0VZZEZmN2lfdTNzUWVfR1JtejhFWUJIS3hsd3o1X2ZGbHNCdjVSY3cwZEE1VXV4bjBDQ0l3T2Q5d3BqendfbEs0WWhBTVdieWdid0NJRmMtSkkwZVVnZ1ltNEJRSm1QU2dfRnJsMEFJc2NIVmZiS2FtcHpZTmRBLWlLeFhlM2FiUDFoeg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc2lScmNpcnp6YlVuVm5wSmxoTEZ1dnMzckJqdzQyQ3VaWURMTTNYbGxjQXZuVWhRMW1XTjFDc0JSNFB1dkx4eXRDTFBKMVpQWWpISnlBQjFXaXdzbkhhdG95UDRuLWQzaTRtS1NJM0lOZnpMSVhSY2pxY1pIWnRyMENFRnNFWWRGZjdpX3Uzc1FlX0dSbXo4RVlCSEt4bHd6NV9mRmxzQnY1UmN3MGRBNVV1eG4wQ0NJd09kOXdwanp3X2xLNFloQU1XYnlnYndDSUZjLUpJMGVVZ2dZbTRCUUptUFNnX0ZybDBBSXNjSFZmYkthbXB6WU5kQS1pS3hYZTNhYlAxaHrSAYgCQVVfeXFMUHNpUnJjaXJ6emJVblZucEpsaExGdXZzM3JCanc0MkN1WllETE0zWGxsY0F2blVoUTFtV04xQ3NCUjRQdXZMeHl0Q0xQSjFaUFlqSEp5QUIxV2l3c25IYXRveVA0bi1kM2k0bUtTSTNJTmZ6TElYUmNqcWNaSFp0cjBDRUZzRVlkRmY3aV91M3NRZV9HUm16OEVZQkhLeGx3ejVfZkZsc0J2NVJjdzBkQTVVdXhuMENDSXdPZDl3cGp6d19sSzRZaEFNV2J5Z2J3Q0lGYy1KSTBlVWdnWW00QlFKbVBTZ19GcmwwQUlzY0hWZmJLYW1wellOZEEtaUt4WGUzYWJQMWh6?oc=5",
    "fonte": "G1",
    "quando": 1794341981.0,
    "categoria": "itupeva",
