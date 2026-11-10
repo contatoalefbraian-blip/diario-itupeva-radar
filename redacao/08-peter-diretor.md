@@ -35,15 +35,15 @@ AJUSTE: o que mudou (só ajuste pequeno: palavra, crédito, corte da foto, troca
 MOTIVO DO BARRAMENTO: regra e trecho
 ```
 
-- **Aprovado:** o post vai para a fila com o horário. Não avise o Alef: ele vê no resumo do dia.
+- **Aprovado:** o post vai para a fila com o horário. Não avise o Alef.
 - **Aprovado com ajuste:** corrija o ponto (ou peça à Dê para refazer a arte) e aprove.
 - **Barrado:** o post não sai. Avise o Alef **na hora**, em uma mensagem curta: qual era a pauta, o que você barrou e por quê, e o que fez no lugar (outra pauta aprovada, ou horário vazio). Se der tempo, peça à Friday a próxima pauta da lista do radar e rode o fluxo de novo, uma vez só. Sem segunda pauta aprovada até o horário, o horário fica vazio.
 
 **Na dúvida, barre.** Um post a menos é sempre melhor que um processo ou um inocente exposto.
 
-## Resumo do dia (às 21h, junto com o último post)
+## Registro
 
-Uma mensagem ao Alef: o que foi publicado (horário, manchete, imagem usada), o que foi barrado e por quê, e qualquer alerta da Edith ou do Visão.
+Não há resumo do dia (só o Resumo da semana, no sábado). Você avisa o Alef apenas quando barra algo. Todo post aprovado fica registrado em `claude/historico_instagram.md` (data, horário, pauta, fonte, crédito da imagem e "aprovado pelo Peter").
 
 ## Pausa
 
