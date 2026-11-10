@@ -1,5 +1,5 @@
 {
- "gerado": "10/11/2026 20:02",
+ "gerado": "10/11/2026 20:09",
  "pautas": [
   {
    "titulo": "Defesa Civil de Vinhedo integra força-tarefa em Santa Bárbara d’Oeste após temporal - Portal VV8",
@@ -16,10 +16,10 @@
    ],
    "pontos": 12,
    "hora": "10/11 16:26",
-   "foto": "2ee37cb7f6d6.jpg",
-   "credito": "Imagem ilustrativa: John Sutton / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto": "810118b99327.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1024x782"
+   "foto_tamanho": "1600x1600"
   },
   {
    "titulo": "JJ: Defesa Civil alerta para possibilidade de chuva em Jundiaí - sampi.net.br",
@@ -36,7 +36,7 @@
    ],
    "pontos": 12,
    "hora": "10/11 16:03",
-   "foto": "d6f76d1616b1.jpg",
+   "foto": "b7d27d042090.jpg",
    "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
@@ -57,10 +57,11 @@
    ],
    "pontos": 12,
    "hora": "10/11 16:03",
-   "foto": "a8cc03214346.jpg",
-   "credito": "Imagem ilustrativa: David Smith / Wikimedia Commons (CC BY-SA 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "768x1024"
+   "foto": "0aa8dd367f32.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3017721/jundiai/2026/11/defesa-civil-alerta-para-possibilidade-de-chuva-em-jundiai-"
   },
   {
    "titulo": "Defesa Civil alerta para possibilidade de chuva em Jundiaí a partir desta quarta-feira (11) - Prefeitura de Jundiaí",
@@ -77,7 +78,7 @@
    ],
    "pontos": 12,
    "hora": "10/11 15:18",
-   "foto": "0e40bd3a5afc.jpg",
+   "foto": "b80fd5f1aedf.jpg",
    "credito": "Foto: Prefeitura de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1067",
@@ -98,7 +99,7 @@
    ],
    "pontos": 12,
    "hora": "10/11 15:12",
-   "foto": "e88d096e7938.jpg",
+   "foto": "3a029641b090.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1440x1800",
@@ -117,7 +118,7 @@
    "assuntos": [],
    "pontos": 10,
    "hora": "10/11 19:41",
-   "foto": "f23c2f5678cf.jpg",
+   "foto": "5368a2a221f6.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
@@ -136,7 +137,7 @@
    "assuntos": [],
    "pontos": 10,
    "hora": "10/11 15:12",
-   "foto": "6524fa98e91a.jpg",
+   "foto": "90e681c8ff6d.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
@@ -155,10 +156,10 @@
    "assuntos": [],
    "pontos": 10,
    "hora": "10/11 09:35",
-   "foto": "b52380af1a83.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto": "27fae7dc51e1.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "foto_tamanho": "1600x1195"
   },
   {
    "titulo": "Comerciante de Itupeva é preso com 56 botijões antes de iniciar revenda - JORNAL DA REGIÃO",
@@ -175,7 +176,7 @@
    ],
    "pontos": 9,
    "hora": "10/11 18:52",
-   "foto": "c62b6e493ffb.jpg",
+   "foto": "4e86a2fcb27d.jpg",
    "credito": "Foto: JORNAL DA REGIÃO",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x631",
@@ -196,10 +197,11 @@
    ],
    "pontos": 9,
    "hora": "10/11 17:43",
-   "foto": "8ab84fa53adb.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "foto": "3fd8452197e8.jpg",
+   "credito": "Foto: onda poços",
+   "foto_tipo": "materia",
+   "foto_tamanho": "708x371",
+   "materia_url": "https://ondapocos.com.br/inscricoes-encerradas-1a-corre-pocos-tera-atletas-de-57-cidades/"
   },
   {
    "titulo": "Aumenta possibilidade de chuva a partir desta quarta (11) em Jundiaí - JORNAL DA REGIÃO",
@@ -216,10 +218,11 @@
    ],
    "pontos": 9,
    "hora": "10/11 16:45",
-   "foto": "903cdc104974.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x2400"
+   "foto": "cd8a026c74fb.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/10/aumenta-possibilidade-de-chuva-a-partir-desta-quarta-11-em-jundiai/"
   },
   {
    "titulo": "Nova empresa assume coleta de lixo em Jundiaí após decisão judicial - G1",
@@ -237,7 +240,7 @@
    ],
    "pontos": 9,
    "hora": "10/11 14:41",
-   "foto": "641e85c5dfed.jpg",
+   "foto": "da7f3333d111.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1280x720",
@@ -259,7 +262,7 @@
    ],
    "pontos": 9,
    "hora": "10/11 12:08",
-   "foto": "416afb79fe2d.jpg",
+   "foto": "77a6216c60cf.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
@@ -280,11 +283,31 @@
    ],
    "pontos": 9,
    "hora": "10/11 11:11",
-   "foto": "1cddab21f458.jpg",
+   "foto": "d6371092d191.jpg",
    "credito": "Foto: Portal ON",
    "foto_tipo": "materia",
    "foto_tamanho": "1020x667",
    "materia_url": "https://portalon.com.br/jaguariuna/jaguariuna-tera-semana-decisiva-na-liga-metropolitana-de-basquete-com-quatro-confrontos/"
+  },
+  {
+   "titulo": "Jundiaí começa terça-feira (10) com frio e previsão de chuva, mas temperaturas podem subir - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFdSVm1MdlJyeUV6c2xHRFk3c2F6bHByUEQyckVSaEQ5bFBYMzlDMHZ5YWFYYVZwdEVsV2VtOXdrM3loSEdOeGs2S3BGNHl6dzZKTE1TOVl1WGtCMktmWkhodmhOXzBQTUNhRk44S1dZTDJMbFdwaXBwTFR1WlMwNjB0RDc2cUk4Y3hMWXRlRzBOcE9WdDFicG9xYVFsNzFjVUpJ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794311280.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 9,
+   "hora": "10/11 08:48",
+   "foto": "76c93d263556.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
   },
   {
    "titulo": "A carreta de uma empresa de Juara pegou fogo e interditou uma rodovia no Estado de São Paulo - Rádio Tucunaré",
@@ -302,7 +325,7 @@
    ],
    "pontos": 9,
    "hora": "10/11 07:06",
-   "foto": "7d6ddad2fad8.jpg",
+   "foto": "c72f6b53b9e8.jpg",
    "credito": "Foto: Rádio Tucunaré",
    "foto_tipo": "materia",
    "foto_tamanho": "1040x627",
@@ -324,7 +347,7 @@
    ],
    "pontos": 9,
    "hora": "10/11 07:00",
-   "foto": "89b7b2521cd7.jpg",
+   "foto": "5d2cd053175b.jpg",
    "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
@@ -345,7 +368,7 @@
    ],
    "pontos": 9,
    "hora": "09/11 22:43",
-   "foto": "78df8791372d.jpg",
+   "foto": "197fc1a0a87d.jpg",
    "credito": "Foto: JORNAL DA REGIÃO",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x631",
@@ -367,7 +390,7 @@
    ],
    "pontos": 8,
    "hora": "10/11 11:58",
-   "foto": "f69f2bb845bc.jpg",
+   "foto": "574cf9d6e81b.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1400x930",
@@ -389,7 +412,7 @@
    ],
    "pontos": 8,
    "hora": "10/11 10:00",
-   "foto": "bbf68799dea7.jpg",
+   "foto": "f2b1af8a7f4a.jpg",
    "credito": "Foto: Prefeitura de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1067",
@@ -411,7 +434,7 @@
    ],
    "pontos": 8,
    "hora": "10/11 08:00",
-   "foto": "203af5b86e92.jpg",
+   "foto": "29dc7ac2566c.jpg",
    "credito": "Foto: Prefeitura de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1067",
@@ -430,7 +453,7 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "10/11 20:00",
-   "foto": "036da9c674c0.jpg",
+   "foto": "c871d94a4726.jpg",
    "credito": "Foto: ncnews.com.br",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
@@ -451,7 +474,7 @@
    ],
    "pontos": 7,
    "hora": "10/11 19:14",
-   "foto": "5eca39b39549.jpg",
+   "foto": "d2ee3fe38943.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1280x720",
@@ -470,10 +493,11 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "10/11 19:07",
-   "foto": "38894a207b7d.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "foto": "1795296ac063.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/10/ministerio-notifica-uber-por-relatos-de-motoristas-que-recusam-passageiros-por-posicao-politica/"
   },
   {
    "titulo": "Prefeitura de Louveira reforça a importância da vacinação preventiva - Prefeitura de Louveira",
@@ -490,10 +514,10 @@
    ],
    "pontos": 7,
    "hora": "10/11 18:22",
-   "foto": "62dd2edce788.jpg",
+   "foto": "55faf1727bf0.jpg",
    "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1018"
+   "foto_tamanho": "1600x1301"
   },
   {
    "titulo": "Mudança nos horários da coleta em três bairros de Jundiaí começa no dia 16 - TVS+ SBT",
@@ -509,11 +533,7 @@
     "servico"
    ],
    "pontos": 7,
-   "hora": "10/11 18:16",
-   "foto": "fb18299468a1.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "10/11 18:16"
   },
   {
    "titulo": "Casal de aposentados cai em golpe em caixa eletrônico e perde R$ 8 mil - JORNAL DA REGIÃO",
@@ -890,22 +910,6 @@
    "hora": "10/11 09:35"
   },
   {
-   "titulo": "Jundiaí começa terça-feira (10) com frio e previsão de chuva, mas temperaturas podem subir - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFdSVm1MdlJyeUV6c2xHRFk3c2F6bHByUEQyckVSaEQ5bFBYMzlDMHZ5YWFYYVZwdEVsV2VtOXdrM3loSEdOeGs2S3BGNHl6dzZKTE1TOVl1WGtCMktmWkhodmhOXzBQTUNhRk44S1dZTDJMbFdwaXBwTFR1WlMwNjB0RDc2cUk4Y3hMWXRlRzBOcE9WdDFicG9xYVFsNzFjVUpJ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794311280.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 7,
-   "hora": "10/11 08:48"
-  },
-  {
    "titulo": "Itupeva promove ações de combate à violência contra a mulher em vários pontos - G1",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUWFnY1RlZW1wUDNsRTRxajJxRmpLNnlESUlKZC16SmxQemxiT2tpUlZZSW5nSEl3LUdTclM2QjRJY1MySGxiZkh4Mm8wdlc5LUFkVy1STURscWoxYWVQaEs1ZkktN3dCb09MejRna05TWG96Z3FLUy1YY1AwclIwQkFPYl8zUE5CdjJIZUplQzM0c28xZkJveHRubWZWaDBtWUVTLXV2VmN4Y3M2RUh3MnVTbGl6cWgwU2VGZU9rR1hYdjNNcDNvLVVpRDBsSHh4Y0lOOUlvbFp4cHh6Zm9xaWRPbUtTNFJWdWlEeExFNG04X2RpUmhmQU9vSUVmZjc3Snc4RkNB0gGGAkFVX3lxTE5RYWdjVGVlbXBQM2xFNHFqMnFGaks2eURJSUpkLXpKbFB6bGJPa2lSVllJbmdISXctR1NyUzZCNEljUzJIbGJmSHgybzB2VzktQWRXLVJNRGxxajFhZVBoSzVmSS03d0JvT0x6NGdrTlNYb3pncUtTLVhjUDByUjBCQU9iXzNQTkJ2MkhlSmVDMzRzbzFmQm94dG5tZlZoMG1ZRVMtdXZWY3hjczZFSHcydVNsaXpxaDBTZUZlT2tHWFh2M01wM28tVWlEMGxIeHhjSU45SW9sWnhweHpmb3FpZE9tS1M0UlZ1aUR4TEU0bThfZGlSaGZBT29JRWZmNzdKdzhGQ0E?oc=5",
    "fonte": "G1",
@@ -1212,22 +1216,6 @@
    "hora": "09/11 20:16"
   },
   {
-   "titulo": "Suspeito de balear sargento da PM e chefiar tráfico da Bahia 'à distância' é preso no interior de SP - G1",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb194UHV5ckJHVHdNaDhWeTRvRXR2czMwVUJiZGZnLUJEZmt3eTkyOERYYU9MZVV1Z250MUVDeGUxeF9LS2xnbjlFa0RRNTA0MENVTllfS01KdHljbjJTTThSQnZGSDJZR0ZSeTZzYVFkSDRSOVg2SUxsZGZFeEVJNU9JNldTeVZSRnZmNTROQWhXTEgwTWE3azRmVEI1Z25hU0tieUNBcEJWaUxMOFIwdnd30gHAAUFVX3lxTE9RNUtFU25fLS1CcmdDQ1ZTMV96cnFub2ZjWVBVN3k5bEdtQXFuemptMEVFV2U4SnJqMG5RVDE3WUEtZ1g4ZElhUnpKZU9FdDliX0dkUm9TOGVKcW9XZW5FZmhmaDZLUlctdzBHb1k3eWZoVHhOSk42akdjcXdVZGZFaXBZUXZEbGgtQ1JYLTEwSGVvWFZUd2l3SFlhUlB6eXlreFBGZ1NvNWt5QXRNUGRNdXNEcVQxaFhhR3pkVDktdg?oc=5",
-   "fonte": "G1",
-   "quando": 1794265754.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "09/11 20:09"
-  },
-  {
    "titulo": "Previsão do tempo para quarta-feira (11), em SP: instabilidades voltam a aumentar - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakJHSmtMZ0puZGdGYmNabHVRM0ZBWUM1aW1Gcl81RXU5WU5BNi1GbGFkOTk4OFp5QVhNZi1MSXhWdnpMZ2l2anBHMkoyd1JxeWJuUmNHR05FTmYwVGExLUtyT2FOUUpaU0tsa3pRbUFVb0pmTWVQb2ZpRjJoLV9jUGZfLUZzaG1Rbzd0MmU1QUN5b3RKVUVocjBIdUotRnhPYmY2VVF0aWtMNE9UdzRFcXNid3FJYW1lek5SVlY0TW0?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -1243,6 +1231,52 @@
    ],
    "pontos": 6,
    "hora": "10/11 18:03"
+  },
+  {
+   "titulo": "Atletas De Vinhedo Conquistam Medalhas Em Competições De Atletismo - Jornal Terceira Visão",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbWpnUUI2SG5rREZjZXZtRzJzSTlMQU1CVlRPbmpXaXNfVjd6Zlp5NG1xZU4zQ2RPd1dGNnhnbDRXZGpUNU1HVlVZNmcwb0hXTFNmVFBYaU54RTZvLWRtNDBVaFNyMWRwbnk3YXcwbTBWQk16OHh0WmRteUU5M2pTVDl1N1h6Z3NUMDZLNFh1dw?oc=5",
+   "fonte": "Jornal Terceira Visão",
+   "quando": 1794351718.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Jornal Terceira Visão"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "10/11 20:01"
+  },
+  {
+   "titulo": "Chuva volta a SP a partir desta quarta-feira (11) e deve se intensificar na quinta (12), com acumulados significativos previstos para a Baixada Santista - Portogente",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOaXpYdktZLTRxTlhuSm9jWFVTcTNhM2tHWDNCbGRYaHBQMzZaR1NLM2ZZNkZDNmFuWXRYaTB3UDViU1p6ZTVHdm95V3lldnB0MTdKb2s0bHNaUWUxbS1HUDdIbFhUM3hQX2w2Qi1hUUFXWVBjRkZhMUlSX1JocjRMVW1GM09mVVY0MnN4RDdDNE5vekw1bjdlNE10WGdlV0tqc1ZsZFBJUm84V2l5dUpVdU1Zb3BHNWp6RmFfZkVFQkZOTHplMkhYQjFPNEotSjE5SDl3azNDN05jUEpXVVhVVWcyOERmYm44SUtSdzFpRi16d2xvOFBmbjhUVGJiY1pPcHNqTnAwVy05eGo1UnA1VWl2dTRobGs3YkNqam9XUjFVdW1JWXViVVB1Q0g0VDE4ZjNXeQ?oc=5",
+   "fonte": "Portogente",
+   "quando": 1794351681.0,
+   "categoria": "estado",
+   "fontes": [
+    "Portogente"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "10/11 20:01"
+  },
+  {
+   "titulo": "Boate Kiss: STJ aumenta penas de dois empresários condenados pela tragédia que matou 242 pessoas - G1",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaTdEM1NoeXpPSjhEdUhBQzJIZTJOTEFuM2tDSmhJdFUwVlpCOUNHSy1wVzQ1VmVJOTVkajE0UlpnTF9ubkZ3SUR4WXEyamhaLTh5UHppNUZQWFlrNUFyaHBzOHJBT1R6bk9zVzRMOEFWck1ic1U0NUR1UE5FRGRoYTVFYk1WelVDSi1MYnpScnlZSHIzZngyQm12OHdtNnJtMnplV0VPc25mTllsOWUyY2NnVVpsR3MwTVB1V25TcW5Gdk1kZGZIX3h1Q0VGQWZ2OVRXWmRPbVpGOWFmVkHSAewBQVVfeXFMTUlPc2ZMNDJDMkxhNXpNNGh4YjBLSklGNTJQTTY2T3U4QXg1alpnZS1xdlZQU1Fqd2ZXR093ZjZfc3hWVnJJQ2RQRU50UVozeUpoY2VJLUxmbllwbWpOanJ1ZkxPSkFBaXdWTHFqSG1Gd3lvOGZqQko0el9FZ1ctYWNmQS1vZV9pV0MwdHZXbGJmdkNXaWFTU2FPS1VwRGhWbko5QWlGQ0h6ZUpCdFRDTzBLWmdoT3lJRGZWeVNTR085a044bVo3d1JvWUZ4b3NaNS1qTlNCZS1xb0NGQnF3OXdudThwQlNhdmoyU0w?oc=5",
+   "fonte": "G1",
+   "quando": 1794348397.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "10/11 19:06"
   },
   {
    "titulo": "MEC estabelece diretrizes para uso responsável da IA na educação — Ministério da Educação - Governo Federal",
@@ -1335,34 +1369,6 @@
    ],
    "pontos": 5,
    "hora": "10/11 18:00"
-  },
-  {
-   "titulo": "Sobrevivente da bomba atômica em Nagasaki encontrou na aquerela uma forma de se expressar - G1",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmVXZ0pPeGhrMGx2VWN0ZmZEeGp2SG90b2ttZjVzdmpMYWxMZXJ6MTJ6M0Z2cTZScXNzbllmU3hvX1NPVWJGYW43Zmtrbmc0NVROd0pueFh5aWY5V2xkNndmWUhUYWI2Yk5ZRjdrWUhjXzJGUllDaHRUTThnTmV6RTNxZDJpY3VvY0tSdkwtYzlMZmFZYjJsb0QyNU9QUGZKSW9qS1RTZTIwTlFEUTdkOEZYaHVIYWItdVo3M0loTXo2MXJFeHhkWWdOazFsb0lDN2s1NW9ReTBBZkNtZHo4SkVua19LZ9IB9AFBVV95cUxPZEp3R2ZMajlxVTlHOWx2M0hhUG02YjJRek96dWJrYkJIUVhwRjNFTjJERHNGRkQ1UzJUb0M1a0w3LU9yM1MwZV9TQVhRMzdJWnNzNk1POWFFSTlMOHdTMko1NzFjWGliVy1rWDhtaWc4SEJmemZaRVFOVXdGbXctWUs3V2IwSWFCY0JGbUZtSFlReEpydzBIN0NYb0ZQb2k4OE1fam9Ub0ZuNm9kQzRBZXhQU2xzUTA4NkFWRFZscVh1cV9pOGtCNDhYdXd4dDFUd1NPUEtDTGVxd2FhYmdWMzNFQW5lbjFzSVhHeG00TmJQblFG?oc=5",
-   "fonte": "G1",
-   "quando": 1794344028.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "10/11 17:53"
-  },
-  {
-   "titulo": "São Paulo faz treinos ofensivos na Data Fifa - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnZDYWVabzdQRzNDVnYyVWtWV29RbHRPb1BoWElfNktRRlhLNGpJeWhuVWhvek9BZ2ZQMmNGMHZLMGJITkpTTmRvMVJmNmpRS0hoS2lXZVBRZ1BtQkZfV2NTT21aZjk4OVdzUjRUN1AyUmdkaEk3NFFlTFdJTmdfOHVHNlRQR3JvcHN5YTBGY2xXQmMxR3c?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794343935.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "10/11 17:52"
   }
  ]
 }
