@@ -14,7 +14,8 @@ A issue foi aberta pelo radar (`radar.py`) com pistas captadas no Google Notíci
 5. Avise o Alef com UMA mensagem que comece com "URGENTE:", com subtítulo, legenda, fontes com link e o parecer da Edith. Termine com: "Aprova? Me mande a foto (com o crédito) ou responda 'sem foto'."
 6. Com a aprovação, a DÊ gera a arte de urgente (faixa vermelha):
    - `cp -r kit /tmp/kit && KIT=/tmp/kit bash /tmp/kit/setup.sh`
-   - Grave /tmp/kit/spec.json: {"arquivo": "urgente.png", "manchete": "", "sub": "...", "urgente": true, "fonte": "Fonte: ...", e "foto": "caminho" ou "icone": "estrada" | "escudo" | "pin" | "info"}
+   - Foto: `git clone --depth 1 -b fotos https://github.com/contatoalefbraian-blip/diario-itupeva-radar /tmp/fotos`. Se a pauta em `pautas.json` tiver `foto`, use `/tmp/fotos/<foto>` e o `credito` dela (veja as regras de imagem em `redacao/06-de-redes-sociais.md`). A foto enviada pelo Alef tem prioridade.
+   - Grave /tmp/kit/spec.json: {"arquivo": "urgente.png", "manchete": "", "sub": "...", "urgente": true, "fonte": "Fonte: ...", e "foto": "caminho" com "credito": "..." ou "icone": "estrada" | "escudo" | "pin" | "info"}
    - `cd /tmp/kit && KIT=/tmp/kit python3 arte.py spec.json`
    - Olhe a imagem antes de enviar. Entregue a arte e a legenda final ao Alef.
 7. Comente na issue o resumo do que foi feito e feche-a.
@@ -24,5 +25,6 @@ Não faça commits neste repositório: o radar é quem grava aqui.
 ## Arquivos
 - `radar.py` e `.github/workflows/radar.yml`: o radar, roda a cada 15 minutos no GitHub Actions.
 - `pautas.json` e `pautas.md`: lista das notícias das últimas 24h, gerada pelo radar.
+- `fotos.py`: baixa a foto (HD) das pautas mais relevantes ou uma imagem ilustrativa livre; as imagens ficam no ramo `fotos`.
 - `kit/`: gerador de artes (`arte.py`), vídeo narrado (`video.py`, `tts.py`), instalação (`setup.sh`) e logo (`logo.png`).
 - `redacao/`: manual de cada agente da redação.

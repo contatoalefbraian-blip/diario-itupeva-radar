@@ -129,7 +129,19 @@ def centered(d, y, lines, f, fill=WHITE, lh=1.1):
     return y
 
 
-def chrome(im, dark_corner=None, page=None, swipe=False, fonte=None):
+def credito_vertical(im, texto):
+    """Credito da foto: minusculo, leve transparencia, na vertical, colado no canto direito (de baixo para cima)."""
+    fc = F(REG, 17)
+    tmp = ImageDraw.Draw(im)
+    tw = int(tmp.textlength(texto, font=fc)) + 4
+    layer = Image.new("RGBA", (tw, 26), (0, 0, 0, 0))
+    ImageDraw.Draw(layer).text((2, 2), texto, font=fc, fill=(255, 255, 255, 150))
+    rot = layer.rotate(90, expand=True)
+    y = max(int(H * 0.06), int(H * 0.86) - rot.height)
+    im.alpha_composite(rot, (W - rot.width - 10, y))
+
+
+def chrome(im, dark_corner=None, page=None, swipe=False, fonte=None, credito=None):
     if dark_corner is None:
         x0, y0 = int(W * 0.105), int(H * 0.07)
         reg = im.convert("L").crop((x0, y0, x0 + LOGO_W.width, y0 + LOGO_W.height))
@@ -143,6 +155,8 @@ def chrome(im, dark_corner=None, page=None, swipe=False, fonte=None):
     if fonte:
         ff = F(REG, 22)
         d.text(((W - d.textlength(fonte, font=ff)) / 2, int(H * 0.905)), fonte, font=ff, fill=(200, 200, 200))
+    if credito:
+        credito_vertical(im, credito)
     if page:
         fp = F(BOLD, 26); tw = d.textlength(page, font=fp)
         d.rounded_rectangle([W - 75 - tw - 32, int(H * 0.07), W - 75, int(H * 0.07) + 46], 23, fill=(0, 0, 0, 160))
@@ -152,7 +166,7 @@ def chrome(im, dark_corner=None, page=None, swipe=False, fonte=None):
         d.text((W - 75 - d.textlength("Arraste ›", font=fs), int(H * 0.89)), "Arraste ›", font=fs, fill=WHITE)
 
 
-def feed(bg, manchete, sub, out, fonte=None, urgente=False, page=None, swipe=False):
+def feed(bg, manchete, sub, out, fonte=None, urgente=False, page=None, swipe=False, credito=None):
     im = fade(bg)
     d = ImageDraw.Draw(im)
     fm = F(BOLD, 64)
@@ -164,7 +178,7 @@ def feed(bg, manchete, sub, out, fonte=None, urgente=False, page=None, swipe=Fal
     sl = wrap(d, sub.upper(), fs, W - 200)
     assert len(sl) <= 4, ("subtitulo longo", sub)
     centered(d, int(H * 0.71), sl, fs)
-    chrome(im, None, page, swipe, fonte)
+    chrome(im, None, page, swipe, fonte, credito)
     im.convert("RGB").save(out)
 
 
@@ -225,7 +239,8 @@ ICONS = {"pin": icon_pin, "info": icon_info, "estrada": icon_road, "email": icon
 
 
 def gerar(spec, out):
-    """spec: {tipo: feed|card, manchete, sub, fonte?, foto?, icone?, urgente?, pagina?, arraste?, extra?}"""
+    """spec: {tipo: feed|card, manchete, sub, fonte?, foto?, credito?, icone?, urgente?, pagina?, arraste?, extra?}
+    credito: texto do credito da foto, ex. "Foto: Prefeitura de Itupeva" ou "Imagem ilustrativa: Autor / Wikimedia Commons (CC BY-SA 4.0)"."""
     if spec.get("tipo", "feed") == "card":
         return card(spec["manchete"], spec["sub"], out, spec.get("pagina"), spec.get("fonte"),
                     spec.get("urgente", False), spec.get("extra"))
@@ -235,7 +250,7 @@ def gerar(spec, out):
     else:
         bg = brand_bg(ICONS.get(spec.get("icone", "pin")))
     feed(bg, spec["manchete"], spec["sub"], out, spec.get("fonte"), spec.get("urgente", False),
-         spec.get("pagina"), spec.get("arraste", False))
+         spec.get("pagina"), spec.get("arraste", False), spec.get("credito") if spec.get("foto") else None)
 
 
 if __name__ == "__main__":

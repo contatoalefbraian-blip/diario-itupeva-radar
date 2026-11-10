@@ -6,10 +6,13 @@ on:
 permissions:
   contents: write
   issues: write
+concurrency:
+  group: radar
+  cancel-in-progress: false
 jobs:
   radar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - run: python3 radar.py
@@ -17,7 +20,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CLAUDE_FIRE_URL: ${{ secrets.CLAUDE_FIRE_URL }}
           CLAUDE_FIRE_TOKEN: ${{ secrets.CLAUDE_FIRE_TOKEN }}
+      - name: fotos das pautas
+        continue-on-error: true
+        run: |
+          pip install -q pillow googlenewsdecoder
+          git clone -q --depth 1 -b fotos "https://github.com/${GITHUB_REPOSITORY}" fb || mkdir -p fb
+          rm -rf fb/.git
+          python3 fotos.py fb
+          cd fb && git init -q -b fotos && git config user.name "radar" && git config user.email "radar@users.noreply.github.com"
+          git add -A && git commit -qm "fotos" && git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}" fotos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: salvar pautas
         run: |
           git config user.name "radar"; git config user.email "radar@users.noreply.github.com"
-          git add vistos.json pautas.json pautas.md; git commit -m "radar" || true; git push || true
+          git add vistos.json pautas.json pautas.md; git commit -m "radar" || true
+          git pull -q --rebase -X theirs || true; git push || true

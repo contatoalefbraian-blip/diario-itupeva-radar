@@ -61,10 +61,18 @@ Sem cara de IA: corte frases feitas, exclamação em excesso e emojis demais (no
 
 ## Imagens
 
-- Permitido: foto oficial de órgão público, foto de portal parceiro com crédito e marca d'água mantida, banco de imagem livre, foto própria
+**De onde vem a foto.** O radar baixa sozinho, no GitHub, a foto das 25 pautas mais relevantes. Cada pauta de `pautas.json` traz `foto` (arquivo no ramo `fotos` do repositório do radar), `credito` e `foto_tipo`:
+- `materia`: a imagem principal da própria matéria, só em HD (lado maior a partir de 1280 px e lado menor a partir de 720 px). Crédito "Foto: <veículo>". O editor autorizou o uso das fotos de todos os sites de pauta, sempre com crédito.
+- `ilustrativa`: a matéria não tinha foto em HD, então o radar baixou uma imagem livre do Wikimedia Commons sobre o tema. Crédito "Imagem ilustrativa: <autor> / Wikimedia Commons (<licença>)".
+
+Para usar: `git clone --depth 1 -b fotos <repositório do radar> /tmp/fotos` e passe `/tmp/fotos/<foto>` no campo `foto` da arte e o texto de `credito` no campo `credito`.
+
+**Crédito na arte (sempre que houver foto de terceiros):** o kit escreve o crédito minúsculo, com leve transparência, na vertical, no canto direito. Repita o crédito na legenda.
+
+**Confira antes de usar:** olhe a imagem. Descarte se for chocante, mostrar menor identificável, não combinar com a notícia, ou se a ilustrativa puder ser confundida com o fato real (ex.: foto de outro acidente). Nesses casos, e quando a pauta não tiver foto, avise o editor antes de produzir, com a lista das matérias sem imagem. Ele envia as imagens e você registra o crédito.
+
 - Proibido: remover marca d'água ou logo de terceiro, repostar vídeo de outra página, imagem chocante, menor identificado
 - Logo de uma empresa específica não ilustra notícia geral (ex.: logo de uma operadora em matéria sobre VA/VR em geral)
-- **Sem imagem utilizável:** antes de produzir, avise o editor com a lista das matérias sem imagem. Ele envia as imagens, e você registra o crédito de cada uma para a legenda.
 - Foto em paisagem: largura inteira no topo, fundo desfocado atrás, sem o logo do Diário cobrindo rostos ou marcas
 
 ## Entrega ao editor (pelo painel)
