@@ -25,6 +25,6 @@ Não faça commits neste repositório: o radar é quem grava aqui.
 ## Arquivos
 - `radar.py` e `.github/workflows/radar.yml`: o radar, roda a cada 15 minutos no GitHub Actions.
 - `pautas.json` e `pautas.md`: lista das notícias das últimas 24h, gerada pelo radar.
-- `fotos.py`: baixa a foto (1000 px ou mais) das pautas mais relevantes ou uma imagem ilustrativa livre; as imagens ficam no ramo `fotos`.
+- `fotos.py`: baixa a foto (700 px ou mais) das pautas mais relevantes ou uma imagem ilustrativa livre; as imagens ficam no ramo `fotos`.
 - `kit/`: gerador de artes (`arte.py`), vídeo narrado (`video.py`, `tts.py`), instalação (`setup.sh`) e logo (`logo.png`).
 - `redacao/`: manual de cada agente da redação.

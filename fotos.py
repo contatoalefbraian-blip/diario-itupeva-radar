@@ -14,7 +14,7 @@ from PIL import Image
 PASTA = sys.argv[1] if len(sys.argv) > 1 else "fb"
 TOP = 25           # quantas pautas do topo recebem foto
 NOVAS_MAX = 25     # quantas pautas novas processar por rodada (limita o tempo)
-MIN_LONGO, MIN_CURTO, MAX_LARG = 1000, 560, 1600
+MIN_LONGO, MIN_CURTO, MAX_LARG = 700, 360, 1600
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "pt-BR,pt;q=0.9"}
 UA_WIKI = {"User-Agent": "DiarioItupevaRadar/1.0 (https://github.com/contatoalefbraian-blip/diario-itupeva-radar)"}
@@ -119,6 +119,10 @@ def foto_materia(p, nome):
     print("  materia:", real[:120])
     try:
         cands = imagens_da_pagina(real)
+        sem_amp = re.sub(r"/(google/)?amp(?=/)", "", real)
+        if not cands and sem_amp != real:  # versao AMP sem foto: tenta a pagina normal
+            real = sem_amp
+            cands = imagens_da_pagina(real)
         print("  imagens:", len(cands), cands[:2])
     except Exception as e:
         print("  pagina:", str(e)[:120]); return None
@@ -200,7 +204,7 @@ def main():
     usadas = {v.get("url_ilustrativa") for v in indice.values() if v}
     novas, manter = 0, {}
     for p in topo:
-        chave = hashlib.sha1(b"v4" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
+        chave = hashlib.sha1(b"v5" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
         if chave in indice:
             info = indice[chave]
         elif novas < NOVAS_MAX:
