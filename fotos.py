@@ -68,6 +68,7 @@ def url_real(link):
         r = gnewsdecoder(link, interval=1)
         if r.get("status") and r.get("decoded_url"):
             return r["decoded_url"]
+        print("  decoder sem url:", str(r)[:160])
     except Exception as e:
         print("  decoder:", str(e)[:120])
     return None
@@ -101,6 +102,7 @@ def salvar(dados, nome):
     im = Image.open(io.BytesIO(dados))
     im.load()
     if not hd(im):
+        print("  abaixo de HD:", im.size)
         return None
     im = im.convert("RGB")
     if im.width > MAX_LARG:
@@ -113,8 +115,10 @@ def foto_materia(p, nome):
     real = url_real(p["link"])
     if not real:
         return None
+    print("  materia:", real[:120])
     try:
         cands = imagens_da_pagina(real)
+        print("  imagens:", len(cands), cands[:2])
     except Exception as e:
         print("  pagina:", str(e)[:120]); return None
     for u in cands[:6]:
