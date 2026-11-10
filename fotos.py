@@ -27,7 +27,8 @@ TEMAS = [
     (["frio", "frente fria", "geada"], "cold weather fog São Paulo"),
     (["calor", "onda de calor", "seca"], "sun heat summer Brazil"),
     (["previsao do tempo", "clima", "defesa civil"], "storm clouds sky"),
-    (["policia", "preso", "presa", "operacao", "golpe", "crime", "tiroteio", "homicidio"], "Polícia Militar do Estado de São Paulo viatura"),
+    (["golpe", "fraude", "pix", "caixa eletronico"], "ATM cash machine"),
+    (["policia", "preso", "presa", "operacao", "crime", "tiroteio", "homicidio", "delegacia"], "police car lights night"),
     (["bandeirantes"], "Rodovia dos Bandeirantes"),
     (["anhanguera"], "Rodovia Anhanguera"),
     (["rodovia", "transito", "congestionamento", "pedagio", "ipva"], "highway traffic São Paulo"),
@@ -139,6 +140,12 @@ def termos(p):
     return lista or ["Jundiaí"]
 
 
+# ilustrativa nunca mostra autoridade, evento politico ou pintura (evita associar pessoa real ao fato)
+EVITAR = ["governador", "tarcisio", "prefeito", "secretari", "deputad", "vereador", "ministro", "presidente",
+          "cerimonia", "entrega", "evento", "inauguracao", "visita", "reuniao", "painting", "pintura", "oil on canvas",
+          "portrait", "retrato"]
+
+
 def limpa(t):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", t or ""))).strip()
 
@@ -163,6 +170,10 @@ def ilustrativa(p, nome, usadas):
             if not hd(type("S", (), {"size": (ii.get("width", 0), ii.get("height", 0))})()):
                 continue
             if not lic or "fair use" in lic.lower() or "non-free" in lic.lower():
+                continue
+            texto = norm(" ".join(limpa(meta.get(k, {}).get("value")) for k in
+                                  ("ObjectName", "ImageDescription", "Categories", "Artist")) + " " + pg.get("title", ""))
+            if any(e in texto for e in EVITAR):
                 continue
             try:
                 img, _ = get(ii.get("thumburl") or ii["url"], headers=UA_WIKI)
@@ -189,7 +200,7 @@ def main():
     usadas = {v.get("url_ilustrativa") for v in indice.values() if v}
     novas, manter = 0, {}
     for p in topo:
-        chave = hashlib.sha1(b"v2" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
+        chave = hashlib.sha1(b"v3" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
         if chave in indice:
             info = indice[chave]
         elif novas < NOVAS_MAX:
