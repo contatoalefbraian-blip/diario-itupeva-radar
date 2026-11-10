@@ -66,7 +66,7 @@ def url_real(link):
     try:
         from googlenewsdecoder import gnewsdecoder
         r = gnewsdecoder(link, interval=1)
-        if r.get("status") and r.get("decoded_url"):
+        if (r.get("status") or r.get("success")) and r.get("decoded_url"):
             return r["decoded_url"]
         print("  decoder sem url:", str(r)[:160])
     except Exception as e:
