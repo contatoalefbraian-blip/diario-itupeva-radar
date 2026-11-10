@@ -13,7 +13,7 @@ from PIL import Image
 
 PASTA = sys.argv[1] if len(sys.argv) > 1 else "fb"
 TOP = 25           # quantas pautas do topo recebem foto
-NOVAS_MAX = 12     # quantas pautas novas processar por rodada (limita o tempo)
+NOVAS_MAX = 25     # quantas pautas novas processar por rodada (limita o tempo)
 MIN_LONGO, MIN_CURTO, MAX_LARG = 1280, 720, 1600
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "pt-BR,pt;q=0.9"}
@@ -189,7 +189,7 @@ def main():
     usadas = {v.get("url_ilustrativa") for v in indice.values() if v}
     novas, manter = 0, {}
     for p in topo:
-        chave = hashlib.sha1(re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
+        chave = hashlib.sha1(b"v2" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
         if chave in indice:
             info = indice[chave]
         elif novas < NOVAS_MAX:
