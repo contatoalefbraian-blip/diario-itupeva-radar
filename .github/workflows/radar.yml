@@ -1,0 +1,23 @@
+name: radar
+on:
+  schedule:
+    - cron: "*/15 9-23,0-2 * * *"   # a cada 15 min, das 6h00 as 23h45 (horario de Brasilia)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  issues: write
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 radar.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLAUDE_FIRE_URL: ${{ secrets.CLAUDE_FIRE_URL }}
+          CLAUDE_FIRE_TOKEN: ${{ secrets.CLAUDE_FIRE_TOKEN }}
+      - name: salvar pautas
+        run: |
+          git config user.name "radar"; git config user.email "radar@users.noreply.github.com"
+          git add vistos.json pautas.json pautas.md; git commit -m "radar" || true; git push || true
