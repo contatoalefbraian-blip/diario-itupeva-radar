@@ -65,8 +65,8 @@ Sem cara de IA: corte frases feitas, exclamação em excesso e emojis demais (no
 ## Imagens
 
 **De onde vem a foto (desde 10/11/2026).** O radar baixa sozinho, no GitHub, a imagem das 25 pautas mais relevantes. Cada pauta de `pautas.json` traz `foto` (arquivo no ramo `fotos` do repositório do radar), `credito` e `foto_tipo`:
-- `materia`: a imagem principal da própria matéria, só em HD (lado maior a partir de 1280 px e lado menor a partir de 720 px). Crédito "Foto: <veículo>". O editor autorizou o uso das fotos de todos os sites de pauta, sempre com crédito.
-- `ilustrativa`: a matéria não tinha foto em HD, então o radar baixou uma imagem livre do Wikimedia Commons sobre o tema (sem autoridades, eventos políticos ou pinturas). Crédito "Imagem ilustrativa: <autor> / Wikimedia Commons (<licença>)".
+- `materia`: a imagem principal da própria matéria, com no mínimo 1000 px no lado maior (e 560 px no menor). Crédito "Foto: <veículo>". O editor autorizou o uso das fotos de todos os sites de pauta, sempre com crédito.
+- `ilustrativa`: a matéria não tinha foto com esse tamanho, então o radar baixou uma imagem livre do Wikimedia Commons sobre o tema (sem autoridades, eventos políticos ou pinturas). Crédito "Imagem ilustrativa: <autor> / Wikimedia Commons (<licença>)".
 
 Para usar: `git clone --depth 1 -b fotos <repositório do radar> /tmp/fotos` e passe `/tmp/fotos/<foto>` no campo `foto` da arte e o texto de `credito` no campo `credito`. A Dê prepara a arte com a imagem ANTES de pedir aprovação; a foto enviada pelo editor sempre tem prioridade.
 
