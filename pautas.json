@@ -1,5 +1,5 @@
 {
- "gerado": "10/11/2026 19:35",
+ "gerado": "10/11/2026 19:38",
  "pautas": [
   {
    "titulo": "Acidentes matam duas pessoas em rodovias de Jundiaí - G1",
@@ -253,7 +253,11 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "10/11 17:43"
+   "hora": "10/11 17:43",
+   "foto": "ca74aa77ef6f.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
   },
   {
    "titulo": "Aumenta possibilidade de chuva a partir desta quarta (11) em Jundiaí - JORNAL DA REGIÃO",
@@ -269,7 +273,11 @@
     "clima"
    ],
    "pontos": 9,
-   "hora": "10/11 16:45"
+   "hora": "10/11 16:45",
+   "foto": "afa1fa37b638.jpg",
+   "credito": "Imagem ilustrativa: Christopher Hilton / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "Nova empresa assume coleta de lixo em Jundiaí após decisão judicial - G1",
@@ -286,7 +294,11 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "10/11 14:41"
+   "hora": "10/11 14:41",
+   "foto": "7e32ab6c8075.jpg",
+   "credito": "Imagem ilustrativa: Alexandre Carvalho/A2img / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1100"
   },
   {
    "titulo": "Jaguariúna terá semana decisiva na Liga Metropolitana de Basquete com quatro confrontos - Portal ON",
@@ -302,7 +314,11 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "10/11 11:11"
+   "hora": "10/11 11:11",
+   "foto": "75fa971ba575.jpg",
+   "credito": "Imagem ilustrativa: Juhanson / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x2408"
   },
   {
    "titulo": "Cursos gratuitos na área da beleza estão com inscrições abertas - JORNAL DA REGIÃO",
@@ -318,7 +334,11 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "10/11 11:09"
+   "hora": "10/11 11:09",
+   "foto": "c2aa4dc843e3.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
   },
   {
    "titulo": "JJ: Governo do estado abre concursos para a Cetesb e a SP Águas - sampi.net.br",
@@ -334,7 +354,11 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "10/11 10:56"
+   "hora": "10/11 10:56",
+   "foto": "6049c6b5787d.jpg",
+   "credito": "Imagem ilustrativa: USEPA Environmental-Protection-Agency / Wikimedia Commons (Public domain)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1210"
   },
   {
    "titulo": "Coleta de lixo deve ser normalizada nesta semana em Jundiaí - Novo Dia Notícias",
@@ -350,7 +374,11 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "10/11 07:19"
+   "hora": "10/11 07:19",
+   "foto": "23305ced0827.jpg",
+   "credito": "Imagem ilustrativa: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x2068"
   },
   {
    "titulo": "A carreta de uma empresa de Juara pegou fogo e interditou uma rodovia no Estado de São Paulo - Rádio Tucunaré",
@@ -367,7 +395,11 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "10/11 07:06"
+   "hora": "10/11 07:06",
+   "foto": "8b0b5ae85c0c.jpg",
+   "credito": "Imagem ilustrativa: Rodrigo.Argenton / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1744"
   },
   {
    "titulo": "JJ: Nova empresa assume coleta de lixo em Jundiaí - sampi.net.br",
@@ -384,7 +416,11 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "10/11 07:00"
+   "hora": "10/11 07:00",
+   "foto": "eafc4f869ac6.jpg",
+   "credito": "Imagem ilustrativa: Daniel Guimarães / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "Prefeitura na Área: 1.050 vagas de empregos e serviços gratuitos no Santa Gertrudes - Jornal Jundiaí Agora",
@@ -400,7 +436,11 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "10/11 06:30"
+   "hora": "10/11 06:30",
+   "foto": "f3b03eb06c7a.jpg",
+   "credito": "Imagem ilustrativa: Lance Cpl. Glen Santy / Wikimedia Commons (Public domain)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "'Gerente' oferece R$ 20 mil a PMs e é preso por corrupção ativa - sampi.net.br",
@@ -416,7 +456,11 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "10/11 02:50"
+   "hora": "10/11 02:50",
+   "foto": "2d6b8796c6ba.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "Vendedora cai em Golpe do Falso Atendente do \"Cartão de Todos\" - JORNAL DA REGIÃO",
@@ -432,7 +476,11 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "09/11 22:43"
+   "hora": "09/11 22:43",
+   "foto": "8281b519baa3.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "Suspeito de balear sargento da PM e chefiar tráfico da Bahia 'à distância' é preso no interior de SP - G1",
