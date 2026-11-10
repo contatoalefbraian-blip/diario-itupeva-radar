@@ -1,27 +1,6 @@
 {
- "gerado": "10/11/2026 19:55",
+ "gerado": "10/11/2026 19:57",
  "pautas": [
-  {
-   "titulo": "Acidentes matam duas pessoas em rodovias de Jundiaí - G1",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcGVOQTAzSWUzOUlDT0NCMV80cXNTNi1WczRlWWZhTWdkUlFTVE5UMk5PMDhoME9FVjdiMm1uamxESzFLeUZTUEZVcUdSNU1MQlVMVzhpckpqS29GLUxLM3FLTjliSXNDazduRXo0Y1RESTlxTWJhWHVXMUpxMDRNNTZNTkZGM01JY1BiNkhTV3RxSW1fSkFSWXpkbThnYm5OaVg0RU9ULVJxdTFuSFZOZkFWamVISUc0SDUzbzY3alR3ak9KMmF6anNyNEd5MHRZRUJheEhsUjMyYUJGVnNoOHhfT0xHTnU10gHoAUFVX3lxTE5wZU5BMDNJZTM5SUNPQ0IxXzRxc1M2LVZzNGVZZmFNZ2RSUVNUTlQyTk8wOGgwT0VWN2IybW5qbERLMUt5RlNQRlVxR1I1TUxCVUxXOGlySmpLb0YtTEszcUtOOWJJc0NrN25FejRjVERJOXFNYmFYdVcxSnEwNE01Nk1ORkYzTUljUGI2SFNXdHFJbV9KQVJZemRtOGdibk5pWDRFT1QtUnF1MW5IVk5mQVZqZUhJRzRINTNvNjdqVHdqT0oyYXpqc3I0R3kwdFlFQmF4SGxSMzJhQkZWc2g4eF9PTEdOdTU?oc=5",
-   "fonte": "G1",
-   "quando": 1794264973.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 14,
-   "hora": "09/11 19:56",
-   "foto": "557c731ed392.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/acidentes-matam-duas-pessoas-em-rodovias-de-jundiai-15173596.ghtml"
-  },
   {
    "titulo": "Defesa Civil de Vinhedo integra força-tarefa em Santa Bárbara d’Oeste após temporal - Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZXY4bi1vRkRSRUZuM0l4TzZtUlJpd2dVNUczM0IydnJfVmVkcmVpNTFJazVkcW5kUnliNzNrblo0MnZILVVWNUhjYjhrM0dDcFBsdnoyd2tjUnU1LVhjdzNTYUxVZExMeHdTOGVnY0UyMXAxSnJweGdrWEVWVTFITkp3SEE1S20tVWQ0RG5wS0t0cDlVRFhOdktCWmZGT3RoUTQyR0ZKdENwejZ2aTA2ZFRnUzZEZml5aWVIUnkyaw?oc=5",
@@ -524,7 +503,12 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "09/11 20:01"
+   "hora": "09/11 20:01",
+   "foto": "98ef66b797bf.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/defesa-civil-envia-quase-7-mil-garrafas-de-agua-para-familias-em-itapeva-15173611.ghtml"
   },
   {
    "titulo": "Fundo Social abre inscrições para cursos gratuitos na área da beleza - Prefeitura de Jundiaí",
