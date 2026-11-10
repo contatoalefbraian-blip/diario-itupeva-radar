@@ -1,5 +1,5 @@
 {
- "gerado": "10/11/2026 19:41",
+ "gerado": "10/11/2026 19:45",
  "pautas": [
   {
    "titulo": "Acidentes matam duas pessoas em rodovias de Jundiaí - G1",
@@ -16,10 +16,11 @@
    ],
    "pontos": 14,
    "hora": "09/11 19:56",
-   "foto": "5a6c7d930c90.jpg",
-   "credito": "Imagem ilustrativa: Eugenio Hansen, OFS / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "foto": "09b059fa8b20.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/acidentes-matam-duas-pessoas-em-rodovias-de-jundiai-15173596.ghtml"
   },
   {
    "titulo": "Defesa Civil de Vinhedo integra força-tarefa em Santa Bárbara d’Oeste após temporal - Portal VV8",
@@ -36,10 +37,10 @@
    ],
    "pontos": 12,
    "hora": "10/11 16:26",
-   "foto": "cedb40461e06.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto": "a15611f20100.jpg",
+   "credito": "Imagem ilustrativa: Maxime Raynal from France / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "foto_tamanho": "1600x900"
   },
   {
    "titulo": "JJ: Defesa Civil alerta para possibilidade de chuva em Jundiaí - sampi.net.br",
@@ -56,30 +57,10 @@
    ],
    "pontos": 12,
    "hora": "10/11 16:03",
-   "foto": "eb1e792b8048.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC0)",
+   "foto": "8f020107d543.jpg",
+   "credito": "Imagem ilustrativa: Johan Christian Dahl / Wikimedia Commons (Public domain)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
-  },
-  {
-   "titulo": "Defesa Civil alerta para possibilidade de chuva em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVZCWkFBMk5GVkZyOGVEX1pQZTVQS1BEX01qXzFTTVN4WHJOaUZEU29JVGtZSmVnSzRfRTVPWE1WbndqM3NhbzBCSEc1OS0xc0dMRUxnclJmY3p0N3VLS19ueHVPRGdlSnlETmtnWnJhSC1pa3BMcjBMenhybTdlQU1OT0RjTUstak9IT3VhSFZOa1FwcHZKZlFfWEMyTnRnYzBSSm10WTFweEFPeTJyU2tSeG8tdTA1b01MaVI1Z2ZGQVE?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794337431.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 12,
-   "hora": "10/11 16:03",
-   "foto": "ddbdbacbb33b.jpg",
-   "credito": "Imagem ilustrativa: Christopher Hilton / Wikimedia Commons (CC BY-SA 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "foto_tamanho": "1600x1250"
   },
   {
    "titulo": "Defesa Civil alerta para possibilidade de chuva em Jundiaí a partir desta quarta-feira (11) - Prefeitura de Jundiaí",
@@ -96,10 +77,11 @@
    ],
    "pontos": 12,
    "hora": "10/11 15:18",
-   "foto": "b6931e45fe90.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x2400"
+   "foto": "5d3d9c6104b8.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/10/defesa-civil-alerta-para-possibilidade-de-chuva-em-jundiai-a-partir-desta-quarta-feira-11/"
   },
   {
    "titulo": "Presa admite assassinato de pai de Rony - Tribuna de Jundiaí",
@@ -116,10 +98,11 @@
    ],
    "pontos": 12,
    "hora": "10/11 15:12",
-   "foto": "863bf06fb0b7.jpg",
-   "credito": "Imagem ilustrativa: Alexandre Carvalho/A2img / Wikimedia Commons (CC BY 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1100"
+   "foto": "868575ad4d55.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1440x1800",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/presa-admite-assassinato-de-pai-de-rony/"
   },
   {
    "titulo": "Polícia Militar de SP abre 2 mil vagas para soldado; veja como se inscrever - Tribuna de Jundiaí",
@@ -137,10 +120,11 @@
    ],
    "pontos": 11,
    "hora": "10/11 12:08",
-   "foto": "e037d52dd2cd.jpg",
-   "credito": "Imagem ilustrativa: Diogo Moreira / Wikimedia Commons (CC BY 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1100"
+   "foto": "1f5b85cb04cf.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/economia/concursos/concurso-policia-militar-sp-2026/"
   },
   {
    "titulo": "Hospital São Vicente alerta pacientes sobre dificuldades para agendar exames em Jundiaí - Tribuna de Jundiaí",
@@ -155,10 +139,11 @@
    "assuntos": [],
    "pontos": 10,
    "hora": "10/11 15:12",
-   "foto": "aa20eff83842.jpg",
-   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1018"
+   "foto": "4f6c4f0b00f2.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-jundiai-agendamento-exames/"
   },
   {
    "titulo": "Governo de SP lança concurso público para a Cetesb com 107 vagas em 12 regiões do estado - Tribuna de Jundiaí",
@@ -176,10 +161,11 @@
    ],
    "pontos": 10,
    "hora": "10/11 11:58",
-   "foto": "16d72e8d19be.jpg",
-   "credito": "Imagem ilustrativa: Rondal Partridge / Wikimedia Commons (Public domain)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1590"
+   "foto": "4872f3e98a6d.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/economia/empregos/concurso-publico-cetesb-107-vagas-sao-paulo-2026/"
   },
   {
    "titulo": "Homem de 59 anos morre depois de queda em Várzea Paulista - TVS+ SBT",
@@ -194,10 +180,10 @@
    "assuntos": [],
    "pontos": 10,
    "hora": "10/11 09:35",
-   "foto": "71ddfa01f120.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto": "e041a2264219.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "foto_tamanho": "1600x1600"
   },
   {
    "titulo": "Comerciante de Itupeva é preso com 56 botijões antes de iniciar revenda - JORNAL DA REGIÃO",
@@ -214,10 +200,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 18:52",
-   "foto": "7e0fcf771798.jpg",
-   "credito": "Imagem ilustrativa: Lmportella / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto": "1830e2006d01.jpg",
+   "credito": "Imagem ilustrativa: Alexandre Carvalho/A2img / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "foto_tamanho": "1600x1100"
   },
   {
    "titulo": "Casal de aposentados cai em golpe em caixa eletrônico e perde R$ 8 mil - JORNAL DA REGIÃO",
@@ -234,10 +220,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 17:59",
-   "foto": "7b35146ce2af.jpg",
-   "credito": "Imagem ilustrativa: Lmportella / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto": "5dcd31c7c7e4.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "Inscrições encerradas: 1ª Corre Poços terá atletas de 57 cidades - onda poços",
@@ -254,10 +240,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 17:43",
-   "foto": "ca74aa77ef6f.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto": "9931e726f7b8.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "foto_tamanho": "1600x1600"
   },
   {
    "titulo": "Aumenta possibilidade de chuva a partir desta quarta (11) em Jundiaí - JORNAL DA REGIÃO",
@@ -274,10 +260,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 16:45",
-   "foto": "afa1fa37b638.jpg",
-   "credito": "Imagem ilustrativa: Christopher Hilton / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto": "14c836c220f1.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1067"
+   "foto_tamanho": "1600x1600"
   },
   {
    "titulo": "Nova empresa assume coleta de lixo em Jundiaí após decisão judicial - G1",
@@ -295,10 +281,11 @@
    ],
    "pontos": 9,
    "hora": "10/11 14:41",
-   "foto": "7e32ab6c8075.jpg",
-   "credito": "Imagem ilustrativa: Alexandre Carvalho/A2img / Wikimedia Commons (CC BY 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1100"
+   "foto": "469016a2d78e.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/nova-empresa-assume-coleta-de-lixo-em-jundiai-apos-decisao-judicial-15175899.ghtml"
   },
   {
    "titulo": "Jaguariúna terá semana decisiva na Liga Metropolitana de Basquete com quatro confrontos - Portal ON",
@@ -315,10 +302,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 11:11",
-   "foto": "75fa971ba575.jpg",
-   "credito": "Imagem ilustrativa: Juhanson / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto": "6f1ce658969f.jpg",
+   "credito": "Imagem ilustrativa: Agence Rol / Wikimedia Commons (Public domain)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x2408"
+   "foto_tamanho": "1600x1149"
   },
   {
    "titulo": "Cursos gratuitos na área da beleza estão com inscrições abertas - JORNAL DA REGIÃO",
@@ -335,10 +322,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 11:09",
-   "foto": "c2aa4dc843e3.jpg",
-   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto": "ccbcc38343ef.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "foto_tamanho": "1600x1600"
   },
   {
    "titulo": "JJ: Governo do estado abre concursos para a Cetesb e a SP Águas - sampi.net.br",
@@ -355,10 +342,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 10:56",
-   "foto": "6049c6b5787d.jpg",
-   "credito": "Imagem ilustrativa: USEPA Environmental-Protection-Agency / Wikimedia Commons (Public domain)",
+   "foto": "3517b5a8f88b.jpg",
+   "credito": "Imagem ilustrativa: Lance Cpl. Glen Santy / Wikimedia Commons (Public domain)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1210"
+   "foto_tamanho": "1600x1067"
   },
   {
    "titulo": "Coleta de lixo deve ser normalizada nesta semana em Jundiaí - Novo Dia Notícias",
@@ -375,10 +362,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 07:19",
-   "foto": "23305ced0827.jpg",
-   "credito": "Imagem ilustrativa: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto": "81f33e19b2d5.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x2068"
+   "foto_tamanho": "1600x900"
   },
   {
    "titulo": "A carreta de uma empresa de Juara pegou fogo e interditou uma rodovia no Estado de São Paulo - Rádio Tucunaré",
@@ -396,10 +383,10 @@
    ],
    "pontos": 9,
    "hora": "10/11 07:06",
-   "foto": "8b0b5ae85c0c.jpg",
+   "foto": "620611ed64fd.jpg",
    "credito": "Imagem ilustrativa: Rodrigo.Argenton / Wikimedia Commons (CC BY-SA 4.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1744"
+   "foto_tamanho": "1600x1356"
   },
   {
    "titulo": "JJ: Nova empresa assume coleta de lixo em Jundiaí - sampi.net.br",
@@ -417,8 +404,8 @@
    ],
    "pontos": 9,
    "hora": "10/11 07:00",
-   "foto": "eafc4f869ac6.jpg",
-   "credito": "Imagem ilustrativa: Daniel Guimarães / Wikimedia Commons (CC BY 2.0)",
+   "foto": "582bf1d9ff5e.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1067"
   },
@@ -437,10 +424,11 @@
    ],
    "pontos": 9,
    "hora": "10/11 06:30",
-   "foto": "f3b03eb06c7a.jpg",
-   "credito": "Imagem ilustrativa: Lance Cpl. Glen Santy / Wikimedia Commons (Public domain)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1067"
+   "foto": "22d433134a86.jpg",
+   "credito": "Foto: Jornal Jundiaí Agora",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x854",
+   "materia_url": "https://jundiagora.com.br/prefeitura-43/"
   },
   {
    "titulo": "'Gerente' oferece R$ 20 mil a PMs e é preso por corrupção ativa - sampi.net.br",
@@ -457,7 +445,7 @@
    ],
    "pontos": 9,
    "hora": "10/11 02:50",
-   "foto": "2d6b8796c6ba.jpg",
+   "foto": "ee89a72382ab.jpg",
    "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1067"
@@ -477,7 +465,7 @@
    ],
    "pontos": 9,
    "hora": "09/11 22:43",
-   "foto": "8281b519baa3.jpg",
+   "foto": "99794866b84e.jpg",
    "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1067"
@@ -497,7 +485,7 @@
    ],
    "pontos": 9,
    "hora": "09/11 20:09",
-   "foto": "6b29b5863304.jpg",
+   "foto": "c5cf10ac1343.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1439x800",
@@ -517,7 +505,12 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "09/11 20:01"
+   "hora": "09/11 20:01",
+   "foto": "b5fb3638d04c.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/defesa-civil-envia-quase-7-mil-garrafas-de-agua-para-familias-em-itapeva-15173611.ghtml"
   },
   {
    "titulo": "Fundo Social abre inscrições para cursos gratuitos na área da beleza - Prefeitura de Jundiaí",
@@ -617,7 +610,7 @@
   },
   {
    "titulo": "Wet’n Wild inaugura KOBRA, a montanha-russa aquática mais alta do mundo - G1",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc2lScmNpcnp6YlVuVm5wSmxoTEZ1dnMzckJqdzQyQ3VaWURMTTNYbGxjQXZuVWhRMW1XTjFDc0JSNFB1dkx4eXRDTFBKMVpQWWpISnlBQjFXaXdzbkhhdG95UDRuLWQzaTRtS1NJM0lOZnpMSVhSY2pxY1pIWnRyMENFRnNFWWRGZjdpX3Uzc1FlX0dSbXo4RVlCSEt4bHd6NV9mRmxzQnY1UmN3MGRBNVV1eG4wQ0NJd09kOXdwanp3X2xLNFloQU1XYnlnYndDSUZjLUpJMGVVZ2dZbTRCUUptUFNnX0ZybDBBSXNjSFZmYkthbXB6WU5kQS1pS3hYZTNhYlAxaHrSAYgCQVVfeXFMUHNpUnJjaXJ6emJVblZucEpsaExGdXZzM3JCanc0MkN1WllETE0zWGxsY0F2blVoUTFtV04xQ3NCUjRQdXZMeHl0Q0xQSjFaUFlqSEp5QUIxV2l3c25IYXRveVA0bi1kM2k0bUtTSTNJTmZ6TElYUmNqcWNaSFp0cjBDRUZzRVlkRmY3aV91M3NRZV9HUm16OEVZQkhLeGx3ejVfZkZsc0J2NVJjdzBkQTVVdXhuMENDSXdPZDl3cGp6d19sSzRZaEFNV2J5Z2J3Q0lGYy1KSTBlVWdnWW00QlFKbVBTZ19GcmwwQUlzY0hWZmJLYW1wellOZEEtaUt4WGUzYWJQMWh6?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWVB3cW11TEhVb2VRbHFSZTlaTVc4dHlJSEp2SWIyWEYybFQ1eUxNN0pTQmsweUFLVXMtaDJhdndyZFQ0Yk9UeHNRbnNmdHp5TkFUUVlualI0R0l2bHBLUUM2aHpRLVZhUndYRmNJb0Z0WEJscWtXb2pFMk1YWEV2LUdHUi01eXhkVFh3VS1sSU9jbGhOVjdkamdTczl6QXk2dlpLcUlfSUQyLTZBUDZtWUlscnNua3ZHb2JDWmh5cXcxSFhFYXFqTmVNUWEzLXRhR19JeXFqZlo1UURCSm5MVWxNbEVUNFBZdUNCTHh5WDRpU1VPcnBlMldB0gGIAkFVX3lxTFBzaVJyY2lyenpiVW5WbnBKbGhMRnV2czNyQmp3NDJDdVpZRExNM1hsbGNBdm5VaFExbVdOMUNzQlI0UHV2THh5dENMUEoxWlBZakhKeUFCMVdpd3NuSGF0b3lQNG4tZDNpNG1LU0kzSU5mekxJWFJjanFjWkhadHIwQ0VGc0VZZEZmN2lfdTNzUWVfR1JtejhFWUJIS3hsd3o1X2ZGbHNCdjVSY3cwZEE1VXV4bjBDQ0l3T2Q5d3BqendfbEs0WWhBTVdieWdid0NJRmMtSkkwZVVnZ1ltNEJRSm1QU2dfRnJsMEFJc2NIVmZiS2FtcHpZTmRBLWlLeFhlM2FiUDFoeg?oc=5",
    "fonte": "G1",
    "quando": 1794341981.0,
    "categoria": "itupeva",
@@ -1320,6 +1313,20 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZldNUko4cW9jdlR2UjBrYXBBMXoxZnBhclRpUnl6d2Q1d1RhY2FBQ1hMZmtJWTVzZTlZYnNMMU0wZDN5UXRCSE9sMmxVQnZ3MTd3UjhXYUhzWlAwU2UyZWRRVUJuc3VjQUZDenR6cUlFRkYxbjBJSmpFRjdFWnFuQ05pLWNFaE5rS0xUc1ZFSEJYUzc3c0xXeDVqRUNWV1pSbjVJVU5INHBWWllWYXZ4UUNDMEdka1dqc2ViMVJSMlI?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1794304826.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "10/11 07:00"
+  },
+  {
+   "titulo": "Folha da Região: Na contramão do Estado, RMJ mantém casos de covid em queda - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZE42OWt4ZF9McU9MbzNENW56R2NpTVZPUWI4OVpMVE5DZUVnUy1YQTVnZ1FXenQzLTRqbEh2OFZoS1JsWjN2UVVRNWRtYnJDNHBYSFNMUHM1LUYxeUZqLVRMdFFfcjJYTmlrMVZtMWc4azYzVGl3d3FucTJwSmI2N2l5aXJVaWtyU3d1N3ZjX3kyRXFMSlNyUURfeDBHVGdTWDBGbENYd2ZaZ3JSSVpFSXBPVTU1czN3bGpnQU9Lcw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794304825.0,
    "categoria": "itupeva",
    "fontes": [
     "sampi.net.br"
