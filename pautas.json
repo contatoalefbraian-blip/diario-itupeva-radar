@@ -1,6 +1,27 @@
 {
- "gerado": "11/11/2026 19:45",
+ "gerado": "11/11/2026 20:43",
  "pautas": [
+  {
+   "titulo": "Defesa Civil alerta para chuva em Jundiaí até sexta-feira - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeF8xMFJaS1RFSVJEY2hNbzRVbHYzbmtYbHk4OEo2RzBXMGpBQUZHQTY0OGZ3NE5aUDBYSEg3SUYzbkxmdEJNZGpvODVTZXRtOF81dnlrUndpVUlleWhSQ0wtOURuVzdMdWYyZlN0X3JWRGF2azctZmFOY1R0Z2xlUVNGSFJlVWJNeWdSbHZLSF9hd3RaVkdWTjlnMG9qUQ?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794387973.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 14,
+   "hora": "11/11 06:06",
+   "foto": "f1571eae8099.jpg",
+   "credito": "Foto: Portal Novo Dia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1536x1024",
+   "materia_url": "https://jundiainoticias.com.br/2026/11/defesa-civil-alerta-para-chuva-em-jundiai-ate-sexta-feira/"
+  },
   {
    "titulo": "Polícia busca informações sobre acidente que matou entregador em Jarinu - Jornal + Bragança",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmtOcHIxVEtaYk5fQnpjZ0FRMFR3eHpUdkhNUmpCYW8tcVZkRDFBbXpnUi1SVnhxUF9hNVJxQ25YcWtvMWVMd2lzejB4d3pyLTVrUi1PUTQ1X0s4VTd6WUh3RVdqbzUwZGp6aTg2eXhNS0hhLU0wVVZEaDhhOWdNdFZBak9fUTZWMFhYZHF0QmJiSWpkOTBIbTVqeTBWeXo3VTFUeG04YXdPZHI4MVBrWmlpejlRWDlu?oc=5",
@@ -80,48 +101,6 @@
    "materia_url": "https://jr.jor.br/2026/11/11/entregador-morre-apos-acidente-de-moto-em-jarinu/"
   },
   {
-   "titulo": "Defesa Civil alerta para chuva em Jundiaí até sexta-feira - Portal Novo Dia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeF8xMFJaS1RFSVJEY2hNbzRVbHYzbmtYbHk4OEo2RzBXMGpBQUZHQTY0OGZ3NE5aUDBYSEg3SUYzbkxmdEJNZGpvODVTZXRtOF81dnlrUndpVUlleWhSQ0wtOURuVzdMdWYyZlN0X3JWRGF2azctZmFOY1R0Z2xlUVNGSFJlVWJNeWdSbHZLSF9hd3RaVkdWTjlnMG9qUQ?oc=5",
-   "fonte": "Portal Novo Dia",
-   "quando": 1794387973.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal Novo Dia"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 12,
-   "hora": "11/11 06:06",
-   "foto": "f1571eae8099.jpg",
-   "credito": "Foto: Portal Novo Dia",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://jundiainoticias.com.br/2026/11/defesa-civil-alerta-para-chuva-em-jundiai-ate-sexta-feira/"
-  },
-  {
-   "titulo": "Horóscopo de Gêmeos hoje, 11/11: uma passagem de tarefas bem explicada transforma a troca de turno em cooperação e abre espaço para continuidade sem adivinhações - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQklYMUZtLU9lYV9wZW5GcGNreDZSdXB2M2lrdlhqLXJwcHFySGw1OERSTndGV0JtNVQxbHN3QlAtOU9STUdHdnh0WnhaOGY5VXdQN1E1SEI2Y3ZoMTJYRC1NVDJ4MFczTVdHQU5pYWpGWXh1MmlWenU0SUxPWno4aTN5ajhfUU5nb3ZEZURn?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794353400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 12,
-   "hora": "10/11 20:30",
-   "foto": "6fbe439402a7.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/horoscopo/gemeos/horoscopo-de-gemeos-hoje-11-11-2026/"
-  },
-  {
    "titulo": "Nova empresa assume coleta de lixo em Jundiaí e morador pode avisar onde serviço falhou - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUFTTVZpY25zNDhOUUFWOF9GelB6UDFoWVUxZzRmUWdldTFmdldkenhqLTlnMG9sVEFyMHBuSjlTZmVnV3lTOGR4VjN1MWZEQUQ0Q0FyeGxnZ3NSU1BrQ045Z2t0VmM3WmxzV0NCcFhTNDFQX2o4Z2Nwb0FYeERFdTB6ek1vR1ZzZjBzc00wRk91dTBHdDVVRENhOEptMWVSNWQ4a29GLS16RW45TzFCU2xjTExoWE44?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -163,6 +142,69 @@
    "materia_url": "https://portalvv8.com.br/noticia/84938/defesa-civil-de-vinhedo-participa-de-estudo-sobre-acidente-aereo-da-voepass"
   },
   {
+   "titulo": "Dupla é presa suspeita de desviar mais de R$ 1 milhão em matéria prima de fábrica de Itupeva - G1",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpLdmQyX0pBZ3FGZE9oUmxZZHVzLXVsZFZFaGlLQ1RlVTlCcUoyR1FYbEhleHhkOHhlVlMyWGxfVnZYYUp0QkNMandNby1NTnlKU18xNmUtMDZNbmhRSmhjcWRRSkpPN3FjdFE2Rzkza3lzVmRuNThGd28wc2o5YUUwc2ZrQWJCaHd3M2djNGNyZGdVRWM3aHd5VDlsbzJXLUVZYlp4Vm1WdVBTbzJjOFR4SFJfV3BwUmfSAcgBQVVfeXFMUGNDcE01LWsySVRpX3ZKWG52WHRfQ1RHOUNXR2tPbGRnakdKdThZWllvMlMzOHVPdldTd0dINm5vOFVJZER0SGdHNnBGYzk0N05pbjVKYUxvQXVCaWlCM1VtZXNLZGZrU21hN1hZMUZzSDUxQmtOWVozazFPRFBEZUVKdU5aUUJSWXoxeDRVOURibm5sd1ZlSGs4eFhHUG04dzQxRmRxR0psMTkwSjI1YXlXWFREQnZzOThLZ2tjUDBRXzJEY3pfNWs?oc=5",
+   "fonte": "G1",
+   "quando": 1794437941.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 19:59",
+   "foto": "c9b6cf656551.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/11/prisao-dupla-suspeita-desvio-materia-fabrica-itupeva.ghtml"
+  },
+  {
+   "titulo": "Dupla é presa suspeita de desviar matéria prima de fábrica de Itupeva - G1",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQmlaTEc5dVZCc0xTQTBNcW9VX2NCby0zR3g1WWpQWjBCWTlDUnBjT21uMGtlUlliZF9udWxKSTBCY0w5dDd2bUZlRTh0dFI4SENxX0hnVFFVZGlvU0NLMEVfVUttVWFjMjhnT2pqQklxS2JYdmZzSXFJQ0NwMHphTjdCX01xajFSdXdXVkFXY29RZnc1M2RYbDd3TTVHckk1R1JkZzcwOFNwRFZHU1Jib09RUkhMbkNCMGVtaDVqYmNMTEJRWkI2WWRtcEdqMXV6Y3BlNEp1UEVzRHIwaTRycTFxd05NaEQteFNFVV94TkdpQdIBgAJBVV95cUxOQ1hFaFVuZk5ieWhYY3pueGNVVlBkbGxKUnVNd2JRVFBkX2I0TWpzUTFuWG5JRzZtYkRvWE9VRGRWYkR5aFFVRjNZQTVhYVVhdFRob2xtWVpIQXRjU0NTZWVINjdndll4alpuUUUtd2J3dVEyREFNZ3lDLWhuMkN1ODY0MGJIR2tqc24wcVBQc3Y3STVPUXA0dV9YNlRLWUNKSXhyU19UMG1FMlk3MnZ2N2g1MUNHQmxoTmFxWXBlRFlVM1NOUEtZM0gxTFdobDg3VTlGZWZPaTRtQTE0UjVwVGYwSERIOTdvQXFBbkpMMldLLTJYWkpNMmlXZEttVnhr?oc=5",
+   "fonte": "G1",
+   "quando": 1794437688.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 19:54",
+   "foto": "28fe2c69364f.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/dupla-e-presa-suspeita-de-desviar-materia-prima-de-fabrica-de-itupeva-15180194.ghtml"
+  },
+  {
+   "titulo": "Concurso Em Jundiaí Oferece Salário De R$ 15,1 Mil; Inscrições Começam Segunda (16) - rnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXRrc0RuOFZuZ0RjdWRndmlXb25abGlrTWhDSG9IZHNfSDA4dWJpOG9UamZDLXJMSW5NT1FvV0lfQkJSeWFOdE85SlRwWUI5LUowUDRrVkR2c1dMMFVnSG9qMFdzWDdaS003RFVUTlFHSWs4c3NKRVlpaWhCbl9rUA?oc=5",
+   "fonte": "rnews.com.br",
+   "quando": 1794435158.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "rnews.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 19:12",
+   "foto": "0a110dda86d2.jpg",
+   "credito": "Foto: rnews.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://rnews.com.br/concurso-jundiai-salario-15-mil-inscricao-16-novembro/"
+  },
+  {
    "titulo": "JJ: Itupeva terá interdições temporárias em duas vias para serviços - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFFET1V4dkxmNHlEdWhGbjI3RmM3TnoxS0IzZGxrUFlhWW0zMzVDZnF4UUV1MnFhSVd1LWpZYTdxaTgtcGNiNHkxVkhzQnpva3Y4d0RnMHo4ZWkwXzk3N1JtREY4SmdqN3ZtOWh5dlJ6azd1WFRSaEw2ZldvVGVUZkt2ay1ubm5pa1V3cUt5UUFScjhnLTZ5U1IyT1ppRWVWanJPbnRjbU1oaWZVRmVGZVlSVnZQVU11RWR6RWpaNC1CbW8?oc=5",
    "fonte": "sampi.net.br",
@@ -182,6 +224,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3018026/regiao/2026/11/itupeva-tera-interdicoes-temporarias-em-duas-vias-para-servicos-"
+  },
+  {
+   "titulo": "Idosa perde R$ 10 mil após cair em golpe de namoro virtual ao acreditar que se relacionava com Elon Musk - G1",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV9vb29JWEZQdzdjb1dtNkotNE5vN3E2TDdVLXIzRDNtMVI3enZ6UGJKaTJGNmltaDVfd21JcmZYSWZXYUlVa2xOUHFKMXp3Y1k1U05VZFVTSThmVnhTUllJUncyYkJxSFhGejJvTlVoelYyYVhwc2NkbVF3OS00SzFrSEZxdVh5UGR1S3VET1hkdXlNSFZWMmlWS07SAasBQVVfeXFMTjVST1R0NHZ3ZnV3MkIyd1A2aXJIbWRCUE9Da21HWUo1UUJvMXFJT0ROX0ZUcUNsYl9NWjQzNHhTcHlrSTEyZS1JNUxlc0txWHpsaldybTJmU21VMlMyMUdGY2M2empBTHhiRmQtU1NpU1dxcm9mUkR0SlA5R3U1a3BCUXg2Z1cwb1duZ2o2U0tvWUxqZHVpSWIyT1plNFZqZElhSnlkT0ZpTEpR?oc=5",
+   "fonte": "G1",
+   "quando": 1794424864.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 16:21",
+   "foto": "9fbd1bcd12be.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1068",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/11/golpe-falso-elon-musk-sorocaba.ghtml"
   },
   {
    "titulo": "São Paulo continua treinamentos na Data Fifa enquanto aguarda definição de amistoso - Tribuna de Jundiaí",
@@ -226,6 +289,48 @@
    "materia_url": "https://jr.jor.br/2026/11/11/familia-procura-por-bianca-ha-um-ano-policia-fez-todas-as-buscas-possiveis/"
   },
   {
+   "titulo": "Inscrições dos Blocos para Carnaval de 2027 terminam quinta-feira, dia 19 - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFg5Z2ZCVFhyWk5NcHB6UjgyUlNNeEIxZEJhNEtzTU81MVJ6bHhCZzZLYnBVSU9nTlFqWDFLLUw4WEZ5dVZmNXpraG5hLWdMaTZuZVpVZEc2Z2tHV1FnRkZwU01qZllpZHQwLUh4UC1oTFJQcmVZb05DTldRTHVjT3Y4WERsYUNyelNQblVVS3paUjJOTzV2VnV1WEJDZ01yRWhQaA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794419072.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 14:44",
+   "foto": "2502dc78e765.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "799x448",
+   "materia_url": "https://jr.jor.br/2026/11/11/inscricoes-dos-blocos-para-carnaval-de-2027-terminam-quinta-feira-dia-19/"
+  },
+  {
+   "titulo": "CIC Jundiaí oferece 135 vagas de emprego na Ad’oro com salários de até R$ 2,2 mil - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2hEdkI2bXZ2YkpSOVRGbkVuZVgtSkdvUWZsNmlpNG9PUWZHVUs4Wl9kc0RJX3hjeE01RkhRZTlxcE0tOFJIRlplTTd2SzQ4WTZhdDhzTWxHRFRNeTl5SFVKMXF6TDdrTGdqLWtlUGRHaDhkQnFZS3JYdXN2aDhnWGZNdk4?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794418286.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 14:31",
+   "foto": "33ad9a09c268.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/economia/empregos/vagas-emprego-adoro-jundiai/"
+  },
+  {
    "titulo": "A delegada da Polícia Civil de São Paulo Maria Aparecida Rezende Corsato foi afastada preventivamente do cargo por 180 dias após a polícia encontrar quase R$ 2 milhões escondidos dentro de um puff que ela havia deixado na casa da irmã, em Santo An - Instagram",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZYUlROWpnSzVaRlFnXzczNk9WRHZ4aWlSb2QwdGRKQV83aGg1RW1YU1lONkJpRE9fUE4zeWczcDdXclhzb3p4RTZpZzdQOGlxeVE?oc=5",
    "fonte": "Instagram",
@@ -265,6 +370,69 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/treinamento-gratuito-motociclistas-jundiai/"
+  },
+  {
+   "titulo": "JJ: Jundiaí terá evento sobre segurança alimentar no ramo empresarial - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVFWTkVjZVNaTWJBNkFSSDlxdmJ1eWZVSl8wWE9DeDZPbDVoVDhieWg4NWhBOWVGdUktd3QxV2pXTXNqVnBzVFlGSWs4ZzExcWUxN3lHcGJqZjkwclVwcHI0amFDRTRGX25JTk84M2t3RU5wbUhrYVhQcUZ1S0ttTGhZOWgwbG4yeTd3WEE3YjA3QlVYNVVXX3QtdTdtUXJDM0FkZ2hKQUFrckJjemVtS0ZlRzhKTXA2V3JLTldVZXhSWjJaVEE?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794416552.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 14:02",
+   "foto": "cd8d71d38596.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3017981/jundiai/2026/11/jundiai-tera-evento-sobre-seguranca-alimentar-no-ramo-empresarial"
+  },
+  {
+   "titulo": "Jundiaí Terá 1.050 Vagas De Emprego Neste Sábado (14); Veja Onde Participar - RNews",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EQk5FRzItUWd1b2Z1cm9YcDFaaUI2S0NwajZlc3h1OVI1U1BqczBwdWdyZHUzVk5IOFNpTFdraE1IY0xSd3pYQVhVVkRPM053ZkJRR2RVT1ZLMW0tWjdGXzRRdXhFbUVJWFdtTGE3R0NvVUR2WEh5STVwSS03UQ?oc=5",
+   "fonte": "RNews",
+   "quando": 1794415273.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "RNews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 13:41",
+   "foto": "b1a09c38e1ae.jpg",
+   "credito": "Foto: RNews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://rnews.com.br/jundiai-tera-1-050-vagas-de-emprego-neste-sabado-14/"
+  },
+  {
+   "titulo": "MP das Bets é prorrogada pelo Congresso - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW96SDYycHp0VkRYbkxVTzg3aHBFa1NaSVhDRVNZcWpET1VqOHdhRzdLZmVPV0NnZWdROVVCdXNxaUtZaGJVOFFjXzBUekJfRU9oSEsxUmpHbDk1Y1ZqaDNkZmxqVTJVYmYxclpnM2ZBX3RHRm5TQjRxQTRWRVpMbS1nb29FOV9VMEMwcTZjUQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794413914.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 9,
+   "hora": "11/11 13:18",
+   "foto": "7836916c39ac.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1168",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/mp-das-bets-e-prorrogada-pelo-congresso/"
   },
   {
    "titulo": "Reforma tributária: estudo de pesquisador de Jundiaí é aprovado em congresso internacional - Tribuna de Jundiaí",
@@ -309,6 +477,27 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3017925/policia/2026/11/empresario-e-influenciador-destroi-o-proprio-carro-no-centro"
   },
   {
+   "titulo": "JJ: Jundiaí terá seleção com 135 vagas de emprego em frigorífico - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUFmVy05VWtjMHNfeFRZN0cybDBXelFGNGdLSHhLRllxVnRFUkhpZUE0eERzbk9paUFFWDhjbjRackhLVnpFT3ZzdWh2eVVsYWF2YTdkVXc2bTRkV2RwRC0zcFhZYTg5ekxqQVA3WTF2dS16d1ZzUlRNZkZOb2lHRkxvbjd0bjg3aU4yTl9YVDFqb0pQTVJ0dzhNVS13MHB2cFRuUkV6MG83a1Zzek85VnBYWXFjM2pKRE9MMzlhdw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794406687.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 11:18",
+   "foto": "86f334b9fe62.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3017926/jundiai/2026/11/jundiai-tera-selecao-com-135-vagas-de-emprego-em-frigorifico"
+  },
+  {
    "titulo": "Homem é preso após fiscalização encontrar 56 botijões de gás em residência em Itupeva - TVS+ SBT",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHFNS2hGMkU5SHNDUnlZRkQwWTdHTG10X3ZKYlc5eUdjUy1pOWY1WnVZOFVrdDFIdXBFa3BJQUJ3S2NfQmNoTWYzUEItQm56T3JHN1NuU1NvWTFnNHJQbE10UXdqSWJTMmpKa2ZhOXNBRlRMcXlPS1g1RDFuQjZ2aFJvNUVSV00tVG5YeWFhNkxHN2Y5YkRXMlNpeHdDdWdSV0toTWNrc3ZCS3RBQWNQTWZSbw?oc=5",
    "fonte": "TVS+ SBT",
@@ -343,12 +532,7 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "11/11 10:44",
-   "foto": "26367fb28d7e.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/economia/empregos/pat-varzea-paulista-vagas-logistica/"
+   "hora": "11/11 10:44"
   },
   {
    "titulo": "Congresso prorroga por 60 dias a MP que proíbe as bets no Brasil - Tribuna de Jundiaí",
@@ -364,12 +548,7 @@
     "politica"
    ],
    "pontos": 9,
-   "hora": "11/11 10:29",
-   "foto": "e9fbdf00dc8b.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/politica/congresso-prorroga-mp-proibe-bets-brasil-60-dias/"
+   "hora": "11/11 10:29"
   },
   {
    "titulo": "Caminhoneiro é agredido violentamente por ladrões no Km 56 da Bandeirantes - JORNAL DA REGIÃO",
@@ -385,12 +564,23 @@
     "transito"
    ],
    "pontos": 9,
-   "hora": "11/11 10:21",
-   "foto": "96453da07c03.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/11/caminhoneiro-e-agredido-violentamente-por-ladroes-no-km-56-da-bandeirantes/"
+   "hora": "11/11 10:21"
+  },
+  {
+   "titulo": "Procurado é preso no fretado a caminho do trabalho em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3Z5NUdJaFdnX2hRN3hfNVhkYlE4V0J4ZUJZNHMtNkVHaGxNeGV0WG5FbEdNODhQSDU1MzBVZ0NDdWF3YzFUMHVxUlBfNjFRZHR5MTFFTXE3Mko0QnV1aFFKOGpRaXlyWjVHcEhNcl9mcDYxMF96UG1Mck9pX3V1WlVYekJrME1LMUgzYjJlYXJOb1B1cVdoNnh5bXZ2aG5FSVpjSlpOdW4tcDBjVWJ1YjdKaDRxTmxfVXE2bXNNWXpyeWRFenc?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794402792.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 10:13"
   },
   {
    "titulo": "Abertas as inscrições para Rainha e Rei Momo do Carnaval 2027 de Jundiaí - JORNAL DA REGIÃO",
@@ -406,12 +596,55 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "11/11 09:43",
-   "foto": "0b74ec0940a9.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/11/abertas-as-inscricoes-para-rainha-e-rei-momo-do-carnaval-2027-de-jundiai/"
+   "hora": "11/11 09:43"
+  },
+  {
+   "titulo": "Previsão do tempo em Jundiaí hoje: veja como fica o clima nesta quarta-feira - Terra",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMEFrU20wYUI0bWtyelB2ZS1kMUVKdnZwZmRpMDJub3NjcEhpSkxLak5vV0xLdmNyYzZiczl1X2FXVzU5VlVwVmpQdnpSbWZsa2V4NlFONUE4clZ0S25IVnVyanA2RG9xNWZTMWxPRjBDb3pabkhHU3lnQlBTS0MzZVRsY1JBLVJwclJyU3F1VUdwcndHRlM0LXFoZ2ctUU5ZRG42Q01rUDNMY2ZhbmFKd09xSmxCdmFyWmlidnlZcGxwMFNtMFhubTJxTVY4Y2dPaTFYQ1Y5aFpVR3luc2FIamtvYjNwU1piYTRWdk9maTVldjVFR3RmWGtsQTlDbDg1cU93?oc=5",
+   "fonte": "Terra",
+   "quando": 1794400140.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 9,
+   "hora": "11/11 09:29"
+  },
+  {
+   "titulo": "Seletivo da Prefeitura de Jundiaí SP tem 2,4 mil vagas abertas na cidade - JC Concursos",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmtIOTVNT0JVZzZkN0x1Q3NINjhKbUNDZVNDbF9LMUVjU1N3OWZ4dTJjVTZld3pSeUJaUldlSk13bnZuOHVQWFBfT295UGVMQmdVcnF3cUg1SEU1N2tTWnlrNVBVZkZ3dnQzbWlWckxnYkp3VHhLNmwtWGN6VmpabmtGbnVkSmNlVEQ0QlJBcmpfbUF4ODIwQXQ5dmp2SUJEWWtrOGtqVVk3LUlhQTVwWUxONW01dmMwNXJxdkhlSdIBxAFBVV95cUxPdlROZzdrLTBqcGQtOUZLM2xmR1ktWGxFZXAwNFRoeV9icGc1LThHV3UweEdLMDlWWE5tVEdvQnFOMTBuUDVJN0h6cjRwd1hhcF9YWGZZREdaaE4yQTd5RVJXckIzQV9Ockt4ajVkYUgwQ2ZIVDU0c2d5eGtYSjhVeG1ZSFpSdFhJaUhyeTBqMEM2aXZoTHJzX0hPNUJwQ1ZxZGVZUFdQdDFubXZEendqdTBDNHFOcjBqaUIyTTd0N0w5el9t?oc=5",
+   "fonte": "JC Concursos",
+   "quando": 1794399280.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JC Concursos"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 09:14"
+  },
+  {
+   "titulo": "JJ: Procurado é capturado em empresa após deixar a vida do crime - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWpIb2RLMlo1ZHBfNG1OMUZteWlSdllFaldvNDN5RTdCYmFGSDJwanp3bHVtR2dkNTF1QmVvdmpfZWJtWmZiQmxrVVZyVTVVY1pOVXpPemJIc2pqd0JOQ21hSm50bklHOVlia3RqX3g3T2dmN2JtVWZCS0F3WEhxMmdwZ2pRWDRhYURobkRpcHpYeTRGVXRTWFA3MkEwNFFyT0FteE1RRTQzTnFsTHJXR1hiQlBlRUY4VUZRX2REbw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794399020.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 09:10"
   },
   {
    "titulo": "JJ: Treinamento para segurança de motociclistas tem vagas abertas - sampi.net.br",
@@ -427,12 +660,7 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "11/11 08:59",
-   "foto": "f8e0f96ca822.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3017881/jundiai/2026/11/treinamento-para-seguranca-de-motociclistas-tem-vagas-abertas"
+   "hora": "11/11 08:59"
   },
   {
    "titulo": "Chuva volta a Jundiaí nesta quarta-feira (11) e pode afetar a rotina dos moradores - Tribuna de Jundiaí",
@@ -448,12 +676,23 @@
     "clima"
    ],
    "pontos": 9,
-   "hora": "11/11 08:38",
-   "foto": "2135dac7e0ee.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x854",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/chuva-jundiai-alerta-tempestade-11-novembro/"
+   "hora": "11/11 08:38"
+  },
+  {
+   "titulo": "Atenção, Motociclistas! Jundiaí abre vagas para treinamento gratuito de segurança - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmNzTnJRMHBfcDd6WWFvcE5UOThHQ3l5OFF0T05heVF2amtHT2l0YXJxOVhDdEpVSkZVcjdSbnhxRy04SDFac2hkMVhJNmhvRzB2Yl9PY2pacXNIUHVBX0c1M1A4LVQ3YnBxUkhmbEhFXzFtMkI2TkRydjVsWDBHbjkyRVlKcVhUUXV3ak1YODE3cDB5OXl0dEZPTGwwYWw3Szc5SC1oWXBXeEJhX29mUkJyWjhWTFBJN0phVTRjNUw4UXBa?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794394800.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 08:00"
   },
   {
    "titulo": "Cajamar abre inscrições para o Concurso Natal Iluminado - Novo Dia Notícias",
@@ -469,11 +708,23 @@
     "servico"
    ],
    "pontos": 9,
-   "hora": "11/11 06:51",
-   "foto": "7b4058c277c9.jpg",
-   "credito": "Imagem ilustrativa: Ann Rosener / Wikimedia Commons (Public domain)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "844x1024"
+   "hora": "11/11 06:51"
+  },
+  {
+   "titulo": "TJ reforma decisão da Justiça de Jundiaí e condena empresa ligada a Virginia - Jornal Jundiaí Agora",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLc3Bpc3ItU0NzVnBHNVUxcnJOZlZDYVYwb19kQlA1RnRnQ3pCa3ZDYXhfc0ktYW9IaEdENVdIR2RvNktpNkE?oc=5",
+   "fonte": "Jornal Jundiaí Agora",
+   "quando": 1794389400.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Jornal Jundiaí Agora"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 06:30"
   },
   {
    "titulo": "Abordagem em frente de escola termina com um preso em Jundiaí - JORNAL DA REGIÃO",
@@ -489,33 +740,21 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "10/11 22:46",
-   "foto": "b6c394528d80.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x450",
-   "materia_url": "https://jr.jor.br/2026/11/10/abordagem-em-frente-de-escola-termina-com-um-preso-em-jundiai/"
+   "hora": "10/11 22:46"
   },
   {
-   "titulo": "Especialista explica parasita encontrado na água que abastece Itapeva - G1",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmxGdWN1dGRsa3JaMUpLd3dEYUVfV040ZERnYnZwN296WlgzYU5ZSXpWN095MVNpWHpXNURxTm1mbFV0Y3NKcWxvWDZTenBRcnc5MF9qYnBOS1dmdHc5QjZvLUtBSUxrRXJrZFdINWNvQlZlVnptSWJNMW95WjRlYzcxRWJHNlN5RUUteWpjNU9SYVFWdHhSZ3lvWS1ULS1JSTd4djVnekRBbFp5R0d4Y1FNODdhTnpBZ0ljQmg3MmpfU1BNVWJUWDJaVFE1eXJyTm9TbjJvRGZxRWV0ZHJMOFBaMGxpbU9Pdjg1emlaZTlxZ9IBgAJBVV95cUxOS1djT0ZxdzVTS0NBR3BXYkk1V0wxYk8xRzFGa09UNFRMZVY2X3VpWUtOUVQ1WU12aXh4dUgzeG8xRm1rOFM3ajl0RnhXUThxZ2Q1WFdTUjdXbU9UYmhjUzJUamNvSFUtSFhTMVZscmozdXJ6dUdkLXdXNDdqVzJvYjZUWVcxdXhSQTBKdF8zTEFzdFg1REtKMEZ0d3d4c1MtSk9KeUhZRjl6d3ZUM1J5UzFCUDkzZTVQdER1OVJoMHNkUTZieFVoY0o0SzNsZ0dQY1JqcGV2aUVPVGFOamY0aUVMMkp2N3IxNm9DbWdMbEU0U3JsWmRPSFBwNy12UmRi?oc=5",
-   "fonte": "G1",
-   "quando": 1794351653.0,
+   "titulo": "Santos ganha 3 reforços para retorno da Data Fifa - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUJYczUyU3ZpQTJPRVVJU3IybENNNWFZYVhvMExWb1hxcmhjdGI0UWpkbzJqSTVhVWlLRG5FX3ljMWNjRElOYlZHMG1mQnZVU1M0NFlfemFfVnN6RU5DOUlVbncyOTh5VGM3ZVBEYmEtZ1k2dTBLMkptYUtzRVp5RUZZM3F4Z0JvbHdST0VmYW1jbzMxRHp1VW9aWmI?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794435919.0,
    "categoria": "itupeva",
    "fontes": [
-    "G1"
+    "Tribuna de Jundiaí"
    ],
    "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 9,
-   "hora": "10/11 20:00",
-   "foto": "6d686fa2de97.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/especialista-explica-parasita-encontrado-na-agua-que-abastece-itapeva-15176996.ghtml"
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 19:25"
   },
   {
    "titulo": "Comércio de São Paulo e Porto Alegre adota escala 5x2 a partir de dezembro - JORNAL DA REGIÃO",
@@ -532,20 +771,18 @@
    "hora": "11/11 19:24"
   },
   {
-   "titulo": "Concurso Em Jundiaí Oferece Salário De R$ 15,1 Mil; Inscrições Começam Segunda (16) - rnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXRrc0RuOFZuZ0RjdWRndmlXb25abGlrTWhDSG9IZHNfSDA4dWJpOG9UamZDLXJMSW5NT1FvV0lfQkJSeWFOdE85SlRwWUI5LUowUDRrVkR2c1dMMFVnSG9qMFdzWDdaS003RFVUTlFHSWs4c3NKRVlpaWhCbl9rUA?oc=5",
-   "fonte": "rnews.com.br",
-   "quando": 1794435158.0,
-   "categoria": "regiao",
+   "titulo": "São Paulo refaz planejamento após amistoso ser cancelado - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1k5MENWRzBrV1Bkd2FQMk9hTzJnQ2c2Nk1sQ1dsTGJTaUIyVWNNRmJKOW1GNWlNNHRET3JZaWtQekN1R1Iza0VGSXoyV2EtYjdZOXpvLW5UcFZ6ZWhNd1lReUNIYS1nSXYyTXdGMFkza09FWkdaSGwxNXl4U3lkaDRESVBIUk1aS1NFbWdmbzJBSGFyXzVvTzlEVllKc2pfOGhLZ2d3?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794434486.0,
+   "categoria": "itupeva",
    "fontes": [
-    "rnews.com.br"
+    "Tribuna de Jundiaí"
    ],
    "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
+   "assuntos": [],
    "pontos": 7,
-   "hora": "11/11 19:12"
+   "hora": "11/11 19:01"
   },
   {
    "titulo": "Leão 14 se despede da Argentina com missa para 3 milhões de pessoas - JORNAL DA REGIÃO",
@@ -578,6 +815,20 @@
    "hora": "11/11 17:46"
   },
   {
+   "titulo": "Loja Miz fecha as portas no Jundiaí para receber Black Bazar com descontos de até 70% - Portal 6",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNllFR00ybUM0amktUE84ZHNnYldkaGk4WG9iajFHN04tYm5pTEROdjdKRWk5UGJDZjhrZTZTZUF1d01Jd0p6ZDhncWlfRWRiMWN1cEZ1OWYySy1lY2N5Vk9nTnJDWUdac3BBWnBra1M5YU1hN2tlU3kxenJLWjl2V3RMRTRlRUdlSktCcUNqbnh3b2Q4S1BkU3FyOGFjbmxwN0UwbmRNTGNXUGdhUlNsREFHNURuVEdwUHY4?oc=5",
+   "fonte": "Portal 6",
+   "quando": 1794429541.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Portal 6"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 17:39"
+  },
+  {
    "titulo": "Após concluir rede de água, DAE Jundiaí avança com obras de esgoto no Fumachi - DAE Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZhV2Q2ekNGZFp6dXhJYVJoTEdCRGR2V25faERLZ0FvTVNhdmZyblRrSFN2ZFd3Sk9mbnNVU0xmNDc0d3JvYkNZR1YxR20zQnNUNmp6T1A5cmxzOWhBdWRlVnMzVnhQYnpCbVBLZ2E4N3BLRUVNTDBNMW15OHFRUlJXQ3NDU0J2Nl9iYklQa3BwdXNwU1ZQXzR1ZTdMNXpaYmxRQWFSMHBpUGloTTZXdzVVdw?oc=5",
    "fonte": "DAE Jundiaí",
@@ -594,10 +845,38 @@
    "hora": "11/11 17:14"
   },
   {
+   "titulo": "Rede de mercados Oxxo é condenada a indenizar adolescente negro acusado de furto no interior de SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTjBpWUxGWkdGcXZZMW9JRVZkdk1IUWhPWGs3N2xsMGd3SjRpNXRkZV81UDc5aXlfWW1ZSzJaVWFKYU9fN01zWnpDRFM4ZHl1RWJQS3BrWFpaTTh4RENzT18wYnE5b2pWZkl4dnFxdlNsSW05UFoxdTItSkYwRzBNYmthX01SbWNoY2pfVUVuZnNVZHE0aGp0NnZoWWZDaFJkNGZMbGNTWUdPWjFQWWdFWG5mT0puR0tjQTUybU8yN2h4TkZCOThmbEJXWU0tQXFoOEJPUkdlX2hZem54SzVxZUE1eVVRdDNkYkZyV2tNc1jSAf8BQVVfeXFMUElzVnFjWHV0TjBOMEM2dWFNSkZCdV85S3B3eUh4Q1czWUw0LThQcXh4LVh1MGxHalJaYU9BcnJMcjBZMkMzM3dkTEJtOGFsVWJHSE11Rm1zVUFWVTlBOWdsb05Ball0V0JROXpnYXRGRGR5eHhzNTlCRUJVTG1TdGE2WUI2dkktQkxUaDFRRXlEcXJ4dkhITW9Vd2JOWXVJNTQ5N3NRRWdjQWhQMDBJeS1tc2hnOEhZZEJIS25fRXhXZm1xaEZHRGswc2tVYy0wejV2UnFNZURQa1hEbl9mMkx1bEZyT01feEZFamtfVHEzTjgzajdjNW82Ul9qdFJn?oc=5",
+   "fonte": "G1",
+   "quando": 1794427749.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 17:09"
+  },
+  {
    "titulo": "APAE de Jundiaí realiza mais de 1,1 mil avaliações no primeiro ano do Centro Diagnóstico - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmQyU19ZeFZqUGp3R1BsOFNkSHhZeGRCSGNzSmxhR3p6Rmw0aE4xaENDdWlVNlFoT0U5ZE5lMzA1bDNxM3BWNTUtR1hPdkhOaVlJQVBSaXZ5bEtNaVZ2bkxaZ1hRUUtQZmxJTnBBNE5DdTF4ZUxWZ2pZeXNVUEFoZ19OZXNzSjNCcmg4NGFNam42NHhxZER4bWpIdGQxakhMbl92T3VSRE83WDNzQ1Jpanp2eEVYS1RPR2w5LUtLYlI1clBzSm9nbXVCbGJtLVVNcnc?oc=5",
    "fonte": "Tribuna de Jundiaí",
    "quando": 1794427012.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 16:56"
+  },
+  {
+   "titulo": "São Paulo comunica cancelamento de amistoso - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFhpTDFQZW9BUHRTM3NJaE1qWldfM2d1UFVod3BWYzBlN2pETDJLenU4OEp5NEd6dUYzTkd5UUxLWTdSUnVjWkx3OFJ4eG1fVy1pbHJfMjBpSTV3THRHZkZwX3k3V1B6SmZHUmRfTmtBX1BXUVVkQWZxQWVfQ3BCY0dEcUVTNkRWeUNTMmFrMXJiVkhf?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794426992.0,
    "categoria": "itupeva",
    "fontes": [
     "Tribuna de Jundiaí"
@@ -622,20 +901,18 @@
    "hora": "11/11 16:41"
   },
   {
-   "titulo": "Idosa perde R$ 10 mil após cair em golpe de namoro virtual ao acreditar que se relacionava com Elon Musk - G1",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV9vb29JWEZQdzdjb1dtNkotNE5vN3E2TDdVLXIzRDNtMVI3enZ6UGJKaTJGNmltaDVfd21JcmZYSWZXYUlVa2xOUHFKMXp3Y1k1U05VZFVTSThmVnhTUllJUncyYkJxSFhGejJvTlVoelYyYVhwc2NkbVF3OS00SzFrSEZxdVh5UGR1S3VET1hkdXlNSFZWMmlWS07SAasBQVVfeXFMTjVST1R0NHZ3ZnV3MkIyd1A2aXJIbWRCUE9Da21HWUo1UUJvMXFJT0ROX0ZUcUNsYl9NWjQzNHhTcHlrSTEyZS1JNUxlc0txWHpsaldybTJmU21VMlMyMUdGY2M2empBTHhiRmQtU1NpU1dxcm9mUkR0SlA5R3U1a3BCUXg2Z1cwb1duZ2o2U0tvWUxqZHVpSWIyT1plNFZqZElhSnlkT0ZpTEpR?oc=5",
-   "fonte": "G1",
-   "quando": 1794424864.0,
-   "categoria": "regiao",
+   "titulo": "Tarcísio confirma Ricardo Salles como secretário de Justiça de SP - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWm9IakRTTWVyWTlmcWtOTnhYenh3cllhWVhSTUZVSTh4dkR4R1ZfZEx2SkJ2UkdfNmFobUdEM25kV2NhZmlmbXd3eXl4UzJzWkFNUFFzYXpzVUNPb25mSnU3TWVJTkVDS3lrdW1hNkJoNVpteWFaTElLOE42WDZ0bzluTVJlVmhNaWdMendDTjlkUk5pRzVwSnQ3UmlDZWxpdHV2eVNYMGdMbDA?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794425926.0,
+   "categoria": "itupeva",
    "fontes": [
-    "G1"
+    "Tribuna de Jundiaí"
    ],
    "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
+   "assuntos": [],
    "pontos": 7,
-   "hora": "11/11 16:21"
+   "hora": "11/11 16:38"
   },
   {
    "titulo": "Vinhedo barra comissão para investigar vereador Malcon Mazzucatto na Câmara - vtvnews.com.br",
@@ -668,6 +945,20 @@
    "hora": "11/11 16:05"
   },
   {
+   "titulo": "g1 em 1 minuto: Fiscalização revela falhas em delegacias e IMLs para mulheres no interior - G1",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOXJqcVc4Q0tIYkRQWUpPenByYTNiWTE4Q3N3YS1fdGNDdUxjT2RSU1hPWXAtRFdDa3M2bHlxZFphM1RCRmo1VGltSDF6UEZ0a0N5WXZEdlo3UElLRlhsOWlqcFZaSWx0cDZJX0xldEx4TkVmZ1p4TjFITXd3LWh6OEFhNlJvck1hRkQtM2VWVmxoUGtCQ0xoZkRmOE92WFZCRjNHUDdwM2cwbF9QMHFOZXJUSGl0anNSWm5VNFhoOE5MclZOWVJCSHRMd0FFVGZaVGpDcHVWcUNJZm5taDBZY01jYUrSAfMBQVVfeXFMT2haRFpXMjJIeENDVVFEUjdwLTA5ZHBrTzV6dWtuaUg4enNBTnlTenhLRHA3VFBLX21RWTNWT2llaWNqT0c5WFhxcGMteEw0alh3aTVROFhUMmVGWHdtSFo0WHVxYWR0RjJSLTRXRWtOVVBILU0zYjc4ejZyQzAtS1VwTjg5cDA3bDFqRnBDM2trelZMZGNxQ3ZMT0RWbVFxVUFTVzRkamt6aDZnUGVPeGdZQU5XYk1Ma0l2cjh6cC1lQ290SkMwSjlEa2paTWV1NTNHeTJDNTJVSXdtNVozMFd6UjNNQ3Z1OWhRRnVyaXVLa0xj?oc=5",
+   "fonte": "G1",
+   "quando": 1794423907.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 16:05"
+  },
+  {
    "titulo": "Indústria, tecnologia e agroindústria estão entre as prioridades de Jundiaí para o mercado global - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTB2QUZ3dGNaRHdQS0lhSWtoSjJIMWkzSkZVbkZDMHBSdXh5elV2Y1g1a3dIdWszaFkwRXdWeEI5MExBYkxEbXM2Y2FwSkJDVHpyMjFScXhVVlF5QzU0LURnaXp4MEtxTzY2aFh2MVFwc21MTlBtRE1EdmtyZk5BdUlIRmdpdTBub0hEWjZrZGJmYXVZYnIyamoyMmZhU3hUSlJPOXZmaw?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -680,6 +971,20 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "11/11 15:57"
+  },
+  {
+   "titulo": "Bebê é encontrado vivo após ficar enterrado por 24 horas nos EUA - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZVJyU1BvUnlXRVRPNE1TdjZCQzh6MnJ3Yk5zbEtQMXZHeFE2ZG1PWkhOVWxta2ZQdHA1SGh4V2I4MWRLeUR1dmZtalhMZThSRlZ1QXFhNERZVDFkZ2JHclNXSWVlUTQ3a1VqRHF2c2tydjJrclVlSDFrcDZWMU9la1pYdEVFZw?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794421259.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 15:20"
   },
   {
    "titulo": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027 - Tribuna de Jundiaí",
@@ -698,20 +1003,32 @@
    "hora": "11/11 15:08"
   },
   {
-   "titulo": "Inscrições dos Blocos para Carnaval de 2027 terminam quinta-feira, dia 19 - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFg5Z2ZCVFhyWk5NcHB6UjgyUlNNeEIxZEJhNEtzTU81MVJ6bHhCZzZLYnBVSU9nTlFqWDFLLUw4WEZ5dVZmNXpraG5hLWdMaTZuZVpVZEc2Z2tHV1FnRkZwU01qZllpZHQwLUh4UC1oTFJQcmVZb05DTldRTHVjT3Y4WERsYUNyelNQblVVS3paUjJOTzV2VnV1WEJDZ01yRWhQaA?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794419072.0,
-   "categoria": "regiao",
+   "titulo": "JJ: Semana do Super Cata-Treco atenderá outros bairros - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXdKNXVoY1B6aGtyRWlOT3VtYWpGLUtSZjV5YmMtb3JGejlSazNkZWN6eXFhVl9yLXUzRHNYWTg0MWRUQWtwNmdkTi03WDhHNWVTUE5GVVpwWktvVUZRZFBsMGNyVy1EQnZXZzlqU1JrOHRBX2lMcE0xc2NtdnJzZFJmaUtjb3VwOXU2a1ZVN3IydEd0X2dPUmJ5WEdVa3dpR0xPQjhJLVg3dGFwSVA0eQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794420239.0,
+   "categoria": "itupeva",
    "fontes": [
-    "JORNAL DA REGIÃO"
+    "sampi.net.br"
    ],
    "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
+   "assuntos": [],
    "pontos": 7,
-   "hora": "11/11 14:44"
+   "hora": "11/11 15:03"
+  },
+  {
+   "titulo": "Palmeiras perde Murilo por lesão na coxa esquerda - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3JvcG5DLXRPVWthbHNBRjkza1puUlB3cDdkQVhFVWF1MjRVWlJ2Z2F1a3FvOHN0TUpBTnhVZW5Za20tRFlfaURsUzk4NUp5SWVqenV6UU5Wb012NkxSeTh6NDFxZ3FhQXlUWjNVbzZHVkZsQlBxZzFISHpCMFphaEFPMFpHeGR6ZmtFQXprRENVcFZKb2h1REZfeEM?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794419880.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 14:58"
   },
   {
    "titulo": "Sicoob Integrado mobiliza cooperados para formar Conselho de Orientação Estratégica em Itupeva - Tribuna de Jundiaí",
@@ -728,22 +1045,6 @@
    "hora": "11/11 14:33"
   },
   {
-   "titulo": "CIC Jundiaí oferece 135 vagas de emprego na Ad’oro com salários de até R$ 2,2 mil - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2hEdkI2bXZ2YkpSOVRGbkVuZVgtSkdvUWZsNmlpNG9PUWZHVUs4Wl9kc0RJX3hjeE01RkhRZTlxcE0tOFJIRlplTTd2SzQ4WTZhdDhzTWxHRFRNeTl5SFVKMXF6TDdrTGdqLWtlUGRHaDhkQnFZS3JYdXN2aDhnWGZNdk4?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794418286.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 14:31"
-  },
-  {
    "titulo": "JJ: Paineiras Shopping reinaugura praça central após revitalização - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0ZnTWZYT3dZSk51XzhmOFhYd0h5aURQYWtBMGU3WHpqbGxIUmI2SmR1RGZJTkl3NU9oVUNERDM1bmlEc0EzR0pMUlYzWnoxVGlYbk1BMzduTnhRekQteXBRc0FHemJZdTcxbGJ0cVlReXpnNlRLXzBQdDRWc0pfMGFKRWdlUWxLbUVYWHpfR2JWN2lqcm91eWVEdDIzU0pPUlBBVUptaHdQZHM1ZHc3dDBMbm5RT2R5REg2VS1xTjFSQQ?oc=5",
    "fonte": "sampi.net.br",
@@ -756,22 +1057,6 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "11/11 14:12"
-  },
-  {
-   "titulo": "JJ: Jundiaí terá evento sobre segurança alimentar no ramo empresarial - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVFWTkVjZVNaTWJBNkFSSDlxdmJ1eWZVSl8wWE9DeDZPbDVoVDhieWg4NWhBOWVGdUktd3QxV2pXTXNqVnBzVFlGSWs4ZzExcWUxN3lHcGJqZjkwclVwcHI0amFDRTRGX25JTk84M2t3RU5wbUhrYVhQcUZ1S0ttTGhZOWgwbG4yeTd3WEE3YjA3QlVYNVVXX3QtdTdtUXJDM0FkZ2hKQUFrckJjemVtS0ZlRzhKTXA2V3JLTldVZXhSWjJaVEE?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794416552.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "11/11 14:02"
   },
   {
    "titulo": "JJ: Romu apreende drogas e prende suspeito de tráfico na Vila Marlene - sampi.net.br",
@@ -788,6 +1073,48 @@
    "hora": "11/11 13:57"
   },
   {
+   "titulo": "Jovens atletas levam Jundiaí ao pódio em competição regional de atletismo - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXVWWDFIVkkzLU01eU9Zdmc1cjZqZVF6ekQ5cmJDNUU3Q2VuUjFxR2JiN0ZOc2tqdV9raXhhaFBsdXhkSkdNWEZoUjBIVXNiUVBCOG5IenlZSno1Nnp5THF0bWljTDNhZmZDOG9Md2RwTi1jTXRTZ1NjYXVGSlNnSDFFRy12LWNsYVJsY1BlWnlFVTg?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794416128.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 13:55"
+  },
+  {
+   "titulo": "São Paulo x Noroeste corre risco de cancelamento? - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVW9nZENLbG85MHVLTzZXbktXTEVfcGh1TWNzaU0wMGo1WnRLVGhBZXRRNjB5QkZPU01ma09uTnBxQlhPZXZYVEo5YzYzTExHZlFWMnlTa2lDZmQyVEhMVVQyOHVCUlQ0eDV2LTlVVVNJbm5PT2lPeFBtTFR6a1FpX2RMTnhXZ29zVEt1MzFxTGlXaTJjcFJ0T3ptZw?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794415792.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 13:49"
+  },
+  {
+   "titulo": "Motorista quebra o próprio carro após Fiscalização anunciar apreensão em Jundiaí - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdldIUGRXQW9tOENYOTU3eDhVcWlxMzh3eFNEOUQyMWJZRzIxZTVGc1duUlVQMUZaeGRmMFlIWlIxMWhaMGVfSDg0RjgybEZVVFBiOHpJcGtueE1tRnQ4ZWNEbGYwMG1ZLURRMUdpY05YMXFYV3Z5ZGF4Uk9POFhKaU9GZlN5aS1RNmY3MHVWU09yWE5HV1ZpWm11SFJQSk5ZTUtvMUEtTnliZTJZODY4?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794415361.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 13:42"
+  },
+  {
    "titulo": "Árvore Solidária da TV TEM recebe doações de brinquedos até 12 de dezembro - G1",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSEZvUzZZeUsxY0hCc0NMdU9JamZ1OHBCeXJINW0wMnVfZnVzRnN3Umd5Q21iTVBoTjFPeV9jR3VXSmlHcDRuNmlqdWtSQ09Rc3V6ZkduOHRHUHJXRDhSNUlNNVZCRXloZndiR0FmNzNoVzBCeDhYbmdhX0hnR1lhZVlnRzRsMTJmT3BTY1ppRjhWc1lVQU00UlVZeWtidXQ0QzRtYk1IMUV3QjN0RGNQT3NQcUhwdk15V3NveXBaemtTXzMzb3dKb0hFMmZlWnliNmZnWDBFS05FbmlDTXplNGZhNEdiV214dnRhWGdKTmlhZVdoUi1pZtIBhwJBVV95cUxQV3N3SjNSaXo4MnR3U0h5ZE9mX2VMeHRKc1F0U3ZWY21NdWpOT0FEQ19QcUk2N0VyamFoOGRXcVEzTC1pX0wxVzA4OWhzek9ZeFFmT2FNSTJYQkZvclZVc2FOOGxRcXpEVzB0TzdOYlo3NERvQVBLV2FubkRKbFQtS3FYM1ZrbmhVaE9CRXM0ZEpial9ZVjNvMXR0UV9rOHVXaFl6QzF1SlBZUnVUV1BNczRsREsxWlA2M1JkWWVXb00wRUlhWW1IZlVpNGxrM1Fqc0tYVmVROU52Y3ItWUJ5T0lXNFVWMUJVbWgxcGczTHlSNC1wUUx1b2k3V1F4MGFmbGMzT1FTTQ?oc=5",
    "fonte": "G1",
@@ -800,6 +1127,20 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "11/11 13:36"
+  },
+  {
+   "titulo": "Sorocaba vence São José por 3 a 0 e encara Ferroviária na semifinal do Paulista - G1",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY1doQThMM1NtckYyb2ptNUpEUmVHREZ1XzBOUlNtRlE5T0tyLUxBcl9vX1Z5UnQtSm5tY1ZGazk3NHlzZGF1SlhrSWVUQkVKLUc3dTF3eDJRTnZFeE8xbGJzS1FFTVpZQ2ZrLThDRlJFZURfTFdMbHZzT0Q2T0VvdjZCTUxMM1FJOG9QVGJTY1llUzdBV0xhTllZRzJhQkFRaHJzWk1jYnJWcmk3ZFlMNnlORjNsbENyMTIyaW00eGhUbFJVNVhYZ3VOOHVWcmdlc2N5TUd2eFFrOW5LRmxza1RmU2tVVUlocXNYN1pzUWJ5WlVEMEVVc3ZvSk9qVTjSAY4CQVVfeXFMTUNJMzcxS2FLcTBvOFpLT3IzRWtjVWJMYVVCYWNSR1lDdHNJX3UxcmdmeVU4UndZWllSUkE1dFZzbGE2NzJfWUdsQ2pyZGNxNnpadHViSkVucjg5a0FUN0IwSU01X3VoXzRuTEZQNzV5cnJicVhhaTBVYWlmQ2VsaUoyN3VBSnp6THFyNmRyZ2F3UVRBYkxyNVhYX2NaNV9HV0Z4Vl9XQVZUTE1PckoybHhhTVF2d3RUN052SE55eXAxTHRISW9QVlNFQWRaU0drNWZadFRQWk5vcEZiRXl3OHpMeWpWOVQ0RDZRS1FSZmY3THFhc193dldUTFp2OGZzbF8zZE5SSVBNWld1VXhB?oc=5",
+   "fonte": "G1",
+   "quando": 1794414895.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 13:34"
   },
   {
    "titulo": "Feminicídios em Sorocaba: marido é preso e ex-padrasto de jovem é condenado - G1",
@@ -860,20 +1201,18 @@
    "hora": "11/11 13:19"
   },
   {
-   "titulo": "MP das Bets é prorrogada pelo Congresso - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW96SDYycHp0VkRYbkxVTzg3aHBFa1NaSVhDRVNZcWpET1VqOHdhRzdLZmVPV0NnZWdROVVCdXNxaUtZaGJVOFFjXzBUekJfRU9oSEsxUmpHbDk1Y1ZqaDNkZmxqVTJVYmYxclpnM2ZBX3RHRm5TQjRxQTRWRVpMbS1nb29FOV9VMEMwcTZjUQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794413914.0,
-   "categoria": "regiao",
+   "titulo": "JJ: Encontro debate inteligência urbana e valorização de Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1BIbnNpaWREemRSX2dMdEx2MEl5eVd3MDhrTm16MkJGSkNjUnJ3OEhwN2JXMjEzc0FpaElvSXJyUGExT3QtVkFCTVlkdzFCVVdBdHI4MW5GYmdlMW1oSnBKaHdzRDYwdkkzTXAyRjl2ZHZyUzl5YjFwRUNKcVo3b0NnUV91ZXAwYUw2WF9zcHplclR5MDEyNC0yN19ERk9GZ3lVOHFsM09GM1pJQmVkOHpVMUNFOFdRMmNlUUZKcw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794413859.0,
+   "categoria": "itupeva",
    "fontes": [
-    "Tribuna de Jundiaí"
+    "sampi.net.br"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 7,
-   "hora": "11/11 13:18"
+   "hora": "11/11 13:17"
   },
   {
    "titulo": "Suspeito de estupro em Prudente é preso após um mês - Correio do Povo Penedo",
@@ -920,6 +1259,62 @@
    "hora": "11/11 13:02"
   },
   {
+   "titulo": "Conversa na Calçada – Vila Maringá - Cultura Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmZoQVRLODVsX1VDUjdZV3BLS3FBakJKNm5aUE1FbVFLYVVjLUdCNGFqclhnb0tRWTVRQWxtRG1wR0U3SWZvdVBqNjdKNzBzUGlJTDlla09JdWlLUk05WkJqM2YySG9RQkpEU2QxWFdaQVVYTEtvdER3WFk4Mm5TREJ6eEpyUXJUWl84?oc=5",
+   "fonte": "Cultura Jundiaí",
+   "quando": 1794411133.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Cultura Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 12:32"
+  },
+  {
+   "titulo": "Jundiaí prepara pequenos e médios negócios para o mercado internacional - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVRZcG5IOUlHNDlhTmF0eHhGV3NzNmFpOVNlT0ttOURqU25JTWQ0Y2NBRlRsSFBjUlRrQXMtTUlTRUJZRFR0Mkd1ZFNnV1ZFZ3JMQ3NINkp4YUJ1eXMwenhUWVJacmVaVGlJeVY0czhjbmk3aVpHU25UNkg1UmlKN0RpcDcxMC1DTXNtV1Bkbk90Ym8zazJ4a29zY2hiUFp5VFpfeVBIWFhQM3Q4NU91Mm9YWkpqNGZTUXc?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794411000.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 12:30"
+  },
+  {
+   "titulo": "Ventos de até 60 km/h e granizo em Jundiaí (SP): Inmet emite aviso amarelo de tempestade - O Tempo",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZXB6bEtEZUJ4N19nbFdMWkhyampXX0hGTlNCNThhUXlhTmw5SDJVM21XdFkyTi04ZlkyNGZ0bE51Tm9jMDRNSnowMUJaYURzTjllaGJaZ1V3RWI1M1ZuamJHYUViVzB6M1lwR0tZUUhEbHdqTG10MXNrZEVSempuODRyNV9JR2xJajNmU3h1MV9wZkJ3djJoaXpTN1Qxalk2bnhuVXJIRmN3dDRZUUxuMEJXdGlPWE04SUN4djltWkZnZngtcHVFQ2Q2Nmc?oc=5",
+   "fonte": "O Tempo",
+   "quando": 1794409499.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "O Tempo"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 12:04"
+  },
+  {
+   "titulo": "'Sensação de justiça', diz mãe de Carol Pascuin após condenação de ex-padrasto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHNFS0JOTjJ0ZWdnOXZtS1VaRUYwN2hsNE1NTGxuaUxpdjNVSXhfRlhxS1liQVVpbUUzUnh3Z1kzRmxLRW43VkN2a2hFRWNSaFhoSUZ3dUV3MXlnRU54QnBOcHpNYnZ4SVNTd0JnSUtjcHg1LVVFNEwtQV9pTW5aX096TXpTcnRheUZYaUxPM3ctQUVObHdfOXk0djBxRnl3VFBiWFptZjdBcXN0U1RfUWNSdlZtSDE0Vnc2bTZ0UlpmUlI4YkxEZ0VhbEhCNUc1aThHTlRicGfSAecBQVVfeXFMUGsxd3VIaUJhVnVpYkstTWNjYnRhelk1NlA5c1plYkh3cVpfVUEzcW13aUdvYmNOMEctVnZQZU5hYUR1THFJUWVvdFowNzViYjNYbjFaUnRBc2k4M1N2aXNjckEzMnZ3dkJMYktyclZrT2lXQzlpWEt0ckV2NWhrRzZ1N2UyaHMxMEdEaFQ1UG94aXFKY0pocmFON0hPVDVDWlhWZVNSWUhMZFNCek12TGxpMUVucHFsSl9wT2VCc1FlMVRqYU9lOFhQdGc0N1B4VmQ4OHh6LVNlX1pnQVdDVzZpek13a0lN?oc=5",
+   "fonte": "G1",
+   "quando": 1794409308.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 12:01"
+  },
+  {
    "titulo": "Homem com prisão decretada por suspeita de estupro em Prudente é preso depois de um mês foragido - G1",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWjRZZHpuQVp2RXZ2THJIWUdIMzFGdWlfeGVQRW8tYmR2aFllV1lZaFQ5V0pSbjF1Qkpac1dNZXNBa1gtYjkxZEthMEw3aHAweFN0d1Jid0UxTFZyQm9mV3pnSGpRRko4OTVwcGZnWk5kdVVyMl9meFUzWUVQdlR1aVhYcmhiSmVsQTFwLTRjSmdtRjdTTkx1ZW90OTNpT3dGWm50QnA1cjhCb3IyVERFOWJJd2tyVmg3UXM0b0VtY3d5UGhvUXlYLWFCT0ZTeDl5UGpDdTdCOUJYS0lYd1ExQUIwMjloN2NLWjdYMGxBemxpa18zTFhqRVI2ckZHY0pzN3IyTtIBkwJBVV95cUxOYTZsM3BHNEEybTdyd3g3MkxEQ1Z4UllES0RpU0RCeDl1WEhxbEFLTWhoQWg3TDFabHAtSlZKUDExcGlRSFNWT0daN3pGSEVCaWw3OXFaVDYtUC01QzdaZzdtUlpYMXl2b2VrTWF5bGpnT0ZraFZkSmhlSWw5NVlMLXNRc1M3ZS1JMERzMHJXby1BMVo5YjgyMm9LcEEtZEdRVWlvLWZwdUZMby1sQ2hNWExhTDdwdThVekJTZklaLVhuVFNEak05SFBQR0QzTkJRY0RTNkJzLUY5UGotVnZ3bDU2RW12ZW14WTJkb2pBQ2VmWDRlVUx1aFlmNC1KVEhzc1ZiUExPei0ybHl0Qm9lLXNKQQ?oc=5",
    "fonte": "G1",
@@ -934,406 +1329,6 @@
    ],
    "pontos": 7,
    "hora": "11/11 11:52"
-  },
-  {
-   "titulo": "JJ: Jundiaí terá seleção com 135 vagas de emprego em frigorífico - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUFmVy05VWtjMHNfeFRZN0cybDBXelFGNGdLSHhLRllxVnRFUkhpZUE0eERzbk9paUFFWDhjbjRackhLVnpFT3ZzdWh2eVVsYWF2YTdkVXc2bTRkV2RwRC0zcFhZYTg5ekxqQVA3WTF2dS16d1ZzUlRNZkZOb2lHRkxvbjd0bjg3aU4yTl9YVDFqb0pQTVJ0dzhNVS13MHB2cFRuUkV6MG83a1Zzek85VnBYWXFjM2pKRE9MMzlhdw?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794406687.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 11:18"
-  },
-  {
-   "titulo": "Marca de cerveja artesanal pioneira no Brasil vai a leilão após falência - NSC Total",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEJNT2tHLU5Lb0t5MmV5aXNvVU55U3ZVeHBJUHdPSURQVG1NNlktYldnbFFmWEcyaTA0LTVqU1E4U2ZHUkQ2T21XT0FOSTZQWFlULTZEdDhYSjloYjYydHE0Wk44Z3NlTllxeG40VXF1cDZUX2hzQUJRUGV3RDhPcXJRUmJESFZhTUowMEZiaG5HdDlYSWVQMG5VU29fVWxYVU5nXzluSWluMmI2OVh3dHBiLWdQclNnTmNGWUMwX2pNRWc?oc=5",
-   "fonte": "NSC Total",
-   "quando": 1794405988.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "NSC Total"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 11:06"
-  },
-  {
-   "titulo": "Vila Arens recebe mais uma edição do Bazar dos Trabalhos da Vovó - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGVwaDg4cnBERWo5WGJVVEloYmdicmViVWJjYXBOM2UxNHhGTzRFQTJ3NTNoaHZZYUxLRGp4U0NSYU5JOEZZcTl3VTR4NVVTVlNZMExsbTQ2aF90bWtidUVPUXJ2QVBrMWN6dHB1b285RmNHU1E4bTJibExWOTRYNS12eEVCOUpKWDRUWGRmNFZ5ZFBIWklhWDJn?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794404766.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 10:46"
-  },
-  {
-   "titulo": "Fundo Social já recebe brinquedos para a campanha do Natal Solidário em Jundiaí - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUU15MEpYY1VaeEEzenRwV0paV0VUeTRJWWxRSkE0VlBTaDEtOUphaXJmUW4xamVlb2xqNm9XNXBTbE9SbU5xTndaMUMyRE5sVVoyYkR0NzB0RTBWZXQ1R2pheGFPWlNWaG42Z1dtV0ZFS2FTUXZldXR6aUxHSnRNNkJ3WTR5MmxwSHk3ZXhSQmJtdXNiODl1NVd2aHJTLUN0VTg1RjQ4R0xjU19KRUE?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794404214.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 10:36"
-  },
-  {
-   "titulo": "JJ: Empreendedorismo feminino: Jundiaí recebe o projeto Som na Panela - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdm53YWluRFd1NW5SQ3E0YlFGY3pUU0NEX1BsdTJxRWd3c1g4T0dUZjlkNUFfa2doQl9OTmZUeFBHWnI1d1lIWjdLNFR1aExHVXBnRzhjTGJyYUREbXB1X01oNXAtVFhzSmJPQkgtaHY5Vy1Dd1hsMHpfVnM2ZEJlVENqQlNqNmRPMTVqQmh3T1ljWGxYblRfdFl0RkM2UGpzZmVXbnlGdFdxU0VYbkM5MmQ4VldHcl90QUJNNFJWdG12Vi1J?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794403976.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 10:32"
-  },
-  {
-   "titulo": "Preso em Cabreúva, investigado por estupro é transferido para Presidente Venceslau - Portal Bueno",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTEJoZ0tiOVNfVTRTN21hcTZfaW0wZzJ5VFN3aTJRM1F2Vm5ZQjhISlM0QV9Idko4Zm5RZm8wby1HUDBxS1NIci01R0dZMndqUkd0dkVjdTNZbFdlV3hsYXpOZTFjb2hZMWlrQzJ3QUkydm9yZkQ0VmFSdjYzRjd5YVBuWFZBbzlHU1dySkxVZlVLVURwd2FPcVk5WG44Sm5BcTlPWjF2REQ4blppZGJ5MUNwUzhXRjZkTExzOEt1ZUFPUU11VkdDcGkxUWk?oc=5",
-   "fonte": "Portal Bueno",
-   "quando": 1794403604.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal Bueno"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "11/11 10:26"
-  },
-  {
-   "titulo": "Procurado é preso no fretado a caminho do trabalho em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3Z5NUdJaFdnX2hRN3hfNVhkYlE4V0J4ZUJZNHMtNkVHaGxNeGV0WG5FbEdNODhQSDU1MzBVZ0NDdWF3YzFUMHVxUlBfNjFRZHR5MTFFTXE3Mko0QnV1aFFKOGpRaXlyWjVHcEhNcl9mcDYxMF96UG1Mck9pX3V1WlVYekJrME1LMUgzYjJlYXJOb1B1cVdoNnh5bXZ2aG5FSVpjSlpOdW4tcDBjVWJ1YjdKaDRxTmxfVXE2bXNNWXpyeWRFenc?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794402792.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "11/11 10:13"
-  },
-  {
-   "titulo": "Jardim São Camilo reúne moradores e Prefeitura em discussões sobre melhorias para o bairro - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTBadW9VWG1hUEtaejVudE42blA5aDBURjFJUklia1YxQTdaM2trMHFObTBVQThGNVM2bG4zbm9rNk9JWTBnRWM3cXdHTUZDNjBtWWN4NzJxUTZHeVZTcmVVeXhsRVhHdnpsUzBwcERDZnpVclRiOTVWVGt4VTdFUmVpYUFJeHRMUWY5RWt5M2l0Uk9lekRkZlJLLVd5ZnhNWXphZFZn?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794401098.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 09:44"
-  },
-  {
-   "titulo": "JJ: Mãe é suspeita de agredir filha após perder Bolsa Família - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHJhd1drRTEyamk2N3dYX1pDcWE2aDdERVYyUGRLZVpHQ0pwLXpIcHBNVkNudWp3RExCNHFmSGNkT0I0cl9zMzJEc25aSDlNMU1uMUNpVlBzMnBNbHA0a1FNNGJUdjFzd3daVnB3N2JSOVpHUkVzVFRPLVVEN2J6dFZxdG9oSUJPTjFjWlpsZmpvelZZdnpXMGRqYzIxaEZGeENMdGF4Qm5GYXY4S3laRXhxSXlGMlJrWjRZ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794400926.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 09:42"
-  },
-  {
-   "titulo": "Previsão do tempo em Porto Alegre hoje: veja como fica o clima nesta quarta-feira - Terra",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdXFsVGFJaHozZ2w5bmZONkZmQzV4Z1o4ZFE3NXJudkMtVWVZRHJGNVVhU0p3MHp2aFBFTVd0NU1md3U3NC13cW5oUWlsbFhESmt2RDAyNW9feDVyeEpLN25hYUp0eFpfYlJIdWhTWXVCdUI4UWtlQzZ3bS15S29Fcks5NEVMMTVRTFZ0cVRBck1jOEV1RjhYZUdhblpnaDNPemkxR1BuZDNrLWRxclJLUnF1RzlUS0VKdjYtUHN3Wm1QUThDUXdROUMwOUlaTXgxY2xRd3BKdDRVY0N6OHZrRmNuOEc3bzVJaWhiOWFfQl9mdzE2MFFfOXlsQUhtNnpPbHFiZWhZVnRLTlU0WUYw0gGPAkFVX3lxTE91cWxUYUloejNnbDluZk42RmZDNXhnWjhkUTc1cm52Qy1VZVlEckY1VWFTSncwenZoUEVNV3Q1TWZ3dTc0LXdxbmhRaWxsWERKa3ZEMDI1b194NXJ4Sks3bmFhSnR4Wl9iUkh1aFNZdUJ1QjhRa2VDNndtLXlLb0VySzk0RUwxNVFMVnRxVEFyTWM4RXVGOFhlR2FuWmdoM096aTFHUG5kM2stZHFyUktScXVHOVRLRUp2Ni1Qc3dabVBROENRd1E5QzA5SVpNeDFjbFF3cEp0NFVjQ3o4dmtGY244RzdvNUlpaGI5YV9CX2Z3MTYwUV85eWxBSG02ek9scWJlaFlWdEtOVTRZRjA?oc=5",
-   "fonte": "Terra",
-   "quando": 1794400157.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Terra"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 7,
-   "hora": "11/11 09:29"
-  },
-  {
-   "titulo": "Previsão do tempo em Jundiaí hoje: veja como fica o clima nesta quarta-feira - Terra",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMEFrU20wYUI0bWtyelB2ZS1kMUVKdnZwZmRpMDJub3NjcEhpSkxLak5vV0xLdmNyYzZiczl1X2FXVzU5VlVwVmpQdnpSbWZsa2V4NlFONUE4clZ0S25IVnVyanA2RG9xNWZTMWxPRjBDb3pabkhHU3lnQlBTS0MzZVRsY1JBLVJwclJyU3F1VUdwcndHRlM0LXFoZ2ctUU5ZRG42Q01rUDNMY2ZhbmFKd09xSmxCdmFyWmlidnlZcGxwMFNtMFhubTJxTVY4Y2dPaTFYQ1Y5aFpVR3luc2FIamtvYjNwU1piYTRWdk9maTVldjVFR3RmWGtsQTlDbDg1cU93?oc=5",
-   "fonte": "Terra",
-   "quando": 1794400140.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Terra"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 7,
-   "hora": "11/11 09:29"
-  },
-  {
-   "titulo": "Papai Noel chega ao Iguatemi Campinas e reúne mais de 7 mil pessoas - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT1RsNURaa3hONTNhaGdqT0tucnBmbVp3UkRtaEw1RWwyOVowZXdhbVk1WHZLcXoxMkZ2cUxWVmpoR294OFhFUU1jLW9Rd21oZ245QUZBV3ZKRU9PRHExOHpXd2ZHbnVmRDVqdGxaY2g1TWtBQXNueWswVFp6WGRMRm5hNWpRNVN4bGlKaVcyY3dOSVQ1azlsaEY1UmJyUQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794400091.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 09:28"
-  },
-  {
-   "titulo": "Seletivo da Prefeitura de Jundiaí SP tem 2,4 mil vagas abertas na cidade - JC Concursos",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmtIOTVNT0JVZzZkN0x1Q3NINjhKbUNDZVNDbF9LMUVjU1N3OWZ4dTJjVTZld3pSeUJaUldlSk13bnZuOHVQWFBfT295UGVMQmdVcnF3cUg1SEU1N2tTWnlrNVBVZkZ3dnQzbWlWckxnYkp3VHhLNmwtWGN6VmpabmtGbnVkSmNlVEQ0QlJBcmpfbUF4ODIwQXQ5dmp2SUJEWWtrOGtqVVk3LUlhQTVwWUxONW01dmMwNXJxdkhlSdIBxAFBVV95cUxPdlROZzdrLTBqcGQtOUZLM2xmR1ktWGxFZXAwNFRoeV9icGc1LThHV3UweEdLMDlWWE5tVEdvQnFOMTBuUDVJN0h6cjRwd1hhcF9YWGZZREdaaE4yQTd5RVJXckIzQV9Ockt4ajVkYUgwQ2ZIVDU0c2d5eGtYSjhVeG1ZSFpSdFhJaUhyeTBqMEM2aXZoTHJzX0hPNUJwQ1ZxZGVZUFdQdDFubXZEendqdTBDNHFOcjBqaUIyTTd0N0w5el9t?oc=5",
-   "fonte": "JC Concursos",
-   "quando": 1794399280.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JC Concursos"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 09:14"
-  },
-  {
-   "titulo": "Violência sexual contra animais: quem alimenta esse crime? - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ETUNHN3NJR2xMOTZ4QnhKdXpnVndFVTdKanRJdW00ODdZY2F2cnNza1B3eDQzWUVaNGxSTnlqendSSnVUbmtKS19ZWVBlbjNBQTRoYjFac2pEVlREanVLS3RwUmJFMG9OUFdwSUhub3pkUTQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794398731.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 09:05"
-  },
-  {
-   "titulo": "Sampi Campinas: Homem é preso após manter sogra refém em Vinhedo - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0pPdWlkNzgxaTBhSUlHZEY4VzJpdHd4Y1JaYWdRa3Z3TDFwSmFIOTMwRlZTSFk5b0gzV09iWExrMzFTSzJGOERXN2RvcEFqb3JIMFFCMU5wZzBBRzdfeWttdHRsZk45Z2s3eXJ5bXpUR2xCUlgwa3hSbk1QRk9xWmpVb1o5ZmdpWmtXVEU5S1A2SURLUjIxRHVCcFNOajdBMjVjSVhMOFZNTEtPeGN0UnpB?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794398131.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "11/11 08:55"
-  },
-  {
-   "titulo": "Vigilante agride catador de recicláveis com chutes em Birigui, SP - G1",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFl5WjZQSlNISG1zZjBTT3hhM1I2N1N3STBOY3JIM3NIMHFnVTJkb3ZQeURLSlRJb1ZEQmp1dVliQUdocXNXOWxjVGJlcG1fZmxYNy1ycVQwcFlVZ1dKWEViT2V1Q1pOaGxQRHFfWXNOWGxROHBSV0hTS1ZtSUgxWm81cXZfNmg3c1NBS2hDRmwtUGJnUkwyVGVFZWVveHpPY3BjZVZZQ2NLUHVFVXNHMnBaeTg0S2hPVXFPeHZ1M3ZzcHpw0gHTAUFVX3lxTFBhTmliVFVwT1NEcEYxcjZnVjZrX3lxb2pKVmExU25fcjdWVHdTWDBHQUMybjFLN2w2bTdaa2JGWFpVbWtYNkJObDhIaUVEZlN2dU5kRHpRR29kQUEyOGJPZ3c4RFdrU1hPVnA0LWJyeUw0eUhuSkpnMm5LOFVZLXJqdGR4cm5BOWxwT1ZkU0dWSW8zR2ZXOWFMdWR4WkpQM292bGEzVHJrc3VwOGpOZFN5a0FmOWlYQ0lBYm5LUUY0YlJFR3BXWTJMajRTd2hlM3h6bjg?oc=5",
-   "fonte": "G1",
-   "quando": 1794397746.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 08:49"
-  },
-  {
-   "titulo": "Atenção, Motociclistas! Jundiaí abre vagas para treinamento gratuito de segurança - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmNzTnJRMHBfcDd6WWFvcE5UOThHQ3l5OFF0T05heVF2amtHT2l0YXJxOVhDdEpVSkZVcjdSbnhxRy04SDFac2hkMVhJNmhvRzB2Yl9PY2pacXNIUHVBX0c1M1A4LVQ3YnBxUkhmbEhFXzFtMkI2TkRydjVsWDBHbjkyRVlKcVhUUXV3ak1YODE3cDB5OXl0dEZPTGwwYWw3Szc5SC1oWXBXeEJhX29mUkJyWjhWTFBJN0phVTRjNUw4UXBa?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794394800.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 08:00"
-  },
-  {
-   "titulo": "JJ: Sessão foi marcada por tumulto nesta terça - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHBhU2xVTUt6cTFYQTRSU3VsQjdQWnhVbjZ6OUZ1YzFaZ05ITkFreGdZMWZOVmFCM2hRNFU5clVDcFJ2QWFaVkswUUM4YXhrRzZqTW1XdWhza0d5UXljOHpmUGR6ZGZvdFNrUEtDSXRhdWZWeUM1aFkxNV9FOVM0SzNyMGZvSHFmRndZd2k2ck95cEUwdlBBTGRfcm1uamRld05rRm5XSVQ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794394800.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 08:00"
-  },
-  {
-   "titulo": "Jovem de 19 anos morre após colisão frontal entre moto e carro - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcU9iSUxFUnlFVVlKVkN3ZmpybGprLXVqa3BpQWlzUE1KSkViTDA1bDJGLURFaFJrNXFRN2M4T3JGZjhKTE9qZGQta1llMlp5TUhjQ1FiOTktYnkzQjNiWVNDbVM4UkNTbm5LRERla1hDSXliZ3lzUjJyMFN1RTI4RDZFUTNRUnRRdV9PVFltNXNOME9keTZv?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794394358.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 07:52"
-  },
-  {
-   "titulo": "Nem carros nem motos conseguiam passar, então dois elefantes foram chamados para resgatar três pessoas presas durante uma evacuação na Malásia - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaU9qV0tOeFROcVh0ekdNdVhna083SEdnNjBObjZkdzlQQmhHdHN3d2J4VnlPaHk5MVppcVFqTkNWajlYUmwwejFPTWdEZS1sWV9JRk9pQWNCNHNVZllSbms5cEwwRlgxcHRGRFZxbG52UHlZZGZleEFET19zdmJsYUtzNUVkRUQyM0hSR3dlU1FBUG02c2VFWmxMZWR3SkhHdmQxemx2SmZuaGhKdjdCZ2lIQU1LRHdRN0tYUjlId1p3OVlyMnBCSlRXclFDc2Z5QmFZcVRzRDBQMzlJUU04b0NVUkk0U0VXZXdhOWV4dlJ4UVZLWmNYTWZxNTBDVG9WUnBEZ0VlQVNMTENfRUtNcHNVaw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794394140.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "11/11 07:49"
-  },
-  {
-   "titulo": "DESPEDIDAS - 11.11.26 - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uVV80ZUI0UlhfaW5BUGZoMk9oWUd4djFIcHB1MVg4TzFtOVJDMXE4ckZFUmVqdThIX0psWUs4U1hKMklkTWtRUkRTOV84cWRiNF9nTTJ6aXNEdmkzTnc?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794392550.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 07:22"
-  },
-  {
-   "titulo": "Resultados das loterias de terça-feira (10/11): Mega-Sena, Quina, Lotofácil e mais - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWNHNjMweUNjcWVBMkJTRjJwSVlZUVU3UUFRaVhuV1BOT1F2S2Y3YzBpVmpYcEhmalpmTVI2dllEUkgtMGkzOVhRYzRzalFjX0ctODJRVklHMkRpTU0xX0FQdzdhblRtd013OF92ZGgwMk5ISm9tMmdJLWJtaFo0QkdVQlM?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794391586.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 07:06"
-  },
-  {
-   "titulo": "Chuvas devem voltar em todo o estado a partir de hoje - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk8waS1JbklfZ0x0UmR3ZGVpZlVyNjVFRVV3WWE4WUIwU1I4T3dzTXFvcEJ5bWlvQkdTOVV0Y3pUSE1jMmdPME12NlVQOHY0TUpCOEJ4SXpEY0pjblpvYml3Y3dMQl9jb2NVTmJzVGlTVUNhYkd1OHpGRjVFaGlrY2s0dW5wcERYX2licDNLRUxQQWV2ckluSQ?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794391442.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 7,
-   "hora": "11/11 07:04"
-  },
-  {
-   "titulo": "TIC Trens promove ações de saúde em três estações da Linha 7-Rubi - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFhyS2RFOE5IaXFpZGxoX2UycjhLcGFNQVRVY2RhZnJIZjROVzlWQVU4Mmh3XzlqemdValFZY1lvNG1Kd3U2Y2hHbWRBYU80MkFiRF9BMFhmUzAwTS1YdlBlQnlvWXZPdjFMeU9OblRwbVZZSXhxSXY2bEVzRkZ3ZlRLWk5RazBJX1hIMlhfVV9GZW1LWjlMbFk5eVBDS2tCTmZPbmswZmk?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794391085.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 06:58"
-  },
-  {
-   "titulo": "Resultado da Lotofácil 3826: três apostas ganham R$ 408 mil; veja as 15 dezenas sorteadas - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakUzYnZWcG16VXExc0FQN0RMSEZwd3JUX1R4R2QwWHBJSFBkNU1QQ3NTUjRBUkVrY1pfX21YNGx1TTc3Sy1oUklva0tVbTdoYU8xa2ZqcVdBOE01Ql9xZFNidzhPNXI0YnhNOFhNamRIZ3V5YndiTnU4UDRVSHdabQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794390921.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 06:55"
-  },
-  {
-   "titulo": "Show de Talentos dos Servidores Públicos de Jarinu abre inscrições - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVdMX0QzMXV4WFJlWXl0OTRSRElnbVlJWWN5YzZZUnZQWnRsOGdYZTFTSlV2eTZORnU4ZUp0dU4xWkRWdTlkYzZ1MmtXT05NQVVLQTdEbjkyOExBS2RuXzJPbVdqcWpIM1BYS3V5ME53bUFiQTJNd1c0MzV4cHhPOGlieWxEa3loMHVscFluZGFYd1czemFiY1p4MlR2WnFBR3Z6VFpoa2lZUQ?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794390919.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 06:55"
-  },
-  {
-   "titulo": "Prefeitura abre matrículas para a Educação de Jovens e Adultos - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEpmelNFV1BUWnRXcFozdV9DTmlnVGNxZXFCc3d4ZkgxaHZLT05PMUl0bHFIQUdVZWMzbDdfYm1fejYtNC1pZjVrOWMxT2lCb2lVTkZ4SkFELTRVeEw5MjRadlNnM2NnME5PMGptZkFUUXpCWVFCajFhRF9KUnNaM090ZXppaHJMVjRqNGhRd2RaVjVrRy1EVzhnTlY3RU9RUEttNQ?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794390809.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 06:53"
   }
  ]
 }
