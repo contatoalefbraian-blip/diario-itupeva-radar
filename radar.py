@@ -71,8 +71,15 @@ def itens(xml_bytes):
         yield {"titulo": titulo, "link": link, "fonte": fonte, "quando": quando}
 
 
+# assuntos que nunca sao urgentes (evitam issue e execucao a toa)
+NAO_URGENTE = ["horoscopo", "signo", "novela", "receita", "bbb", "loteria", "mega-sena", "previsao do signo",
+               "participa de estudo", "relembra", "anos apos", "aniversario de"]
+
+
 def eh_urgente(titulo):
     t = norm(titulo)
+    if any(x in t for x in NAO_URGENTE):
+        return False
     return any(l in t for l in LOCAIS) and any(u in t for u in URGENTES)
 
 
