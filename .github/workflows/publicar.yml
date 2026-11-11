@@ -20,6 +20,7 @@ jobs:
         run: python3 publicador/publicar.py
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_FB_TOKEN: ${{ secrets.META_FB_TOKEN }}
       - name: registrar
         run: |
           git config user.name "publicador"; git config user.email "publicador@users.noreply.github.com"

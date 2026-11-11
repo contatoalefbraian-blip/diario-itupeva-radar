@@ -1,6 +1,6 @@
 """Publicador do Diario de Itupeva: roda no GitHub Actions a cada 10 minutos.
 Le os posts aprovados pelo Peter em fila/*.json e publica no Instagram (@diariodeitupeva) quando chega o horario.
-O Facebook recebe pelo compartilhamento automatico do Instagram.
+Em seguida publica o mesmo post na pagina do Facebook (META_FB_TOKEN).
 
 Formato de fila/<nome>.json:
   {"horario": "2026-11-11T09:00:00-03:00",
@@ -18,6 +18,8 @@ Nunca imprime o token.
 import datetime as dt, glob, json, os, shutil, sys, time, urllib.parse, urllib.request
 
 TOKEN = os.environ.get("META_TOKEN", "")
+FB_TOKEN = os.environ.get("META_FB_TOKEN", "")
+PAGE = os.environ.get("META_PAGE_ID", "1027608040724712")
 IG = os.environ.get("META_IG_ID", "17841473503076065")
 REPO = os.environ.get("GITHUB_REPOSITORY", "contatoalefbraian-blip/diario-itupeva-radar")
 RAW = f"https://raw.githubusercontent.com/{REPO}/main/"
@@ -25,8 +27,8 @@ API = "https://graph.facebook.com/v21.0/"
 ATRASO_MAX = dt.timedelta(hours=3)
 
 
-def chamar(metodo, caminho, **dados):
-    dados["access_token"] = TOKEN
+def chamar(metodo, caminho, token=None, **dados):
+    dados["access_token"] = token or TOKEN
     corpo = urllib.parse.urlencode(dados).encode()
     if metodo == "GET":
         req = urllib.request.Request(API + caminho + "?" + corpo.decode())
@@ -50,6 +52,27 @@ def esperar(container, limite=300):
             raise RuntimeError(f"container {st}")
         time.sleep(5)
     raise RuntimeError("container nao ficou pronto a tempo")
+
+
+def token_pagina():
+    """Aceita em META_FB_TOKEN a chave da pagina ou a do usuario (dela tira a da pagina)."""
+    return chamar("GET", PAGE, token=FB_TOKEN, fields="access_token").get("access_token") or FB_TOKEN
+
+
+def publicar_facebook(post):
+    """Mesmo post na pagina do Facebook. Feed e carrossel: fotos; reels: video."""
+    tok = token_pagina()
+    midias = [RAW + urllib.parse.quote(m) for m in post["midia"]]
+    tipo = post.get("tipo", "feed")
+    if tipo == "reels":
+        r = chamar("POST", f"{PAGE}/videos", token=tok, file_url=midias[0], description=post["legenda"])
+    elif len(midias) == 1:
+        r = chamar("POST", f"{PAGE}/photos", token=tok, url=midias[0], message=post["legenda"])
+    else:
+        ids = [chamar("POST", f"{PAGE}/photos", token=tok, url=u, published="false")["id"] for u in midias]
+        anexos = {f"attached_media[{i}]": json.dumps({"media_fbid": x}) for i, x in enumerate(ids)}
+        r = chamar("POST", f"{PAGE}/feed", token=tok, message=post["legenda"], **anexos)
+    return r.get("post_id") or r.get("id")
 
 
 def publicar(post):
@@ -106,6 +129,14 @@ def main():
             json.dump(post, open(arq, "w"), ensure_ascii=False, indent=1)
             continue
         post.update({"status": "publicado", "publicado_em": agora.isoformat(), "instagram_id": mid, "link": link})
+        if FB_TOKEN:
+            try:
+                post["facebook_id"] = publicar_facebook(post)
+                print("FACEBOOK:", post["facebook_id"])
+            except Exception as e:
+                falhas += 1
+                post["facebook_erro"] = str(e)
+                print("FALHA FACEBOOK:", nome, e)
         json.dump(post, open(f"publicados/{nome}", "w"), ensure_ascii=False, indent=1)
         os.remove(arq)
         for m in post["midia"]:
