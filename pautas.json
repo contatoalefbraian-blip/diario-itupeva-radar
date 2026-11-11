@@ -1,5 +1,5 @@
 {
- "gerado": "11/11/2026 12:10",
+ "gerado": "11/11/2026 13:04",
  "pautas": [
   {
    "titulo": "Vendedor de carros de Jundiaí e Cajamar é encontrado morto em cemitério - JORNAL DA REGIÃO",
@@ -369,47 +369,6 @@
    "foto_tamanho": "1600x900"
   },
   {
-   "titulo": "Cajamar abre inscrições para o Concurso Natal Iluminado - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnF1NUFNZEZmcWxJWm9Kcy1xNE50UkItbnoxdXlWY3ZFblpQQUgxVG9qcV9IQk1NaHJOWS1nOGJwNUxENm5FNlBNT05KTUhXUlZhdzExS2I2aGRCUGIwRjFXY284bjY1TnRrYTJaRE04SFpkZlR5Nno2X2x5dVBJR3FZcGJQVkJYcUlaLTFJN1ZvWDM3VWNydTZUNA?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794390701.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 9,
-   "hora": "11/11 06:51",
-   "foto": "7b4058c277c9.jpg",
-   "credito": "Imagem ilustrativa: Ann Rosener / Wikimedia Commons (Public domain)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "844x1024"
-  },
-  {
-   "titulo": "Polícia Militar prende criminoso por tráfico de drogas em Jardim São Camilo - Policial Padrão",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS080R0pjT2JNUHE5bVVhOEYzYUtGOU5FWU1ENDB6YlZHbWtaUFZ3TThScFVjOHBia1RGZUVxcnFUc1RFS1VXcnI5Mm9US05tQ1pMYm03VlpKUGFSX2syaXRDZHBfVzFXdVZJeXFTMVpWRWw5V3hEYnVxTkI2RWQ2RFJ3RkE2VUJfd0VXMjM1N3h3bU5Dck5FTHF6ZEp2UFQwS0dxNE1MMkk?oc=5",
-   "fonte": "Policial Padrão",
-   "quando": 1794389020.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Policial Padrão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 9,
-   "hora": "11/11 06:23",
-   "foto": "2ac48ea9ab87.jpg",
-   "credito": "Foto: Policial Padrão",
-   "foto_tipo": "materia",
-   "foto_tamanho": "986x1280",
-   "materia_url": "https://policialpadrao.com.br/trafico-de-drogas-em-jardim-sao-camilo-pm-prende-criminoso-no-bairro-na-sp/"
-  },
-  {
    "titulo": "Abordagem em frente de escola termina com um preso em Jundiaí - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTNYNGNlbHRidGRPNGxsOVQ0bzcycDlMOFZmWnZUNVRMRndkZEVxV0xPNjNvRWdqX1hidEwxc2ktQWlGZlV6Z0owOWIzcnE3M1B3ellDYlZKSXM3WDROdnJCZE12czRiZ0ltSDRUS3E4U00wb1NSeWlHUnlJVWNIbXl4MlE0emxMaU5YdEtBNWx3WjRSQ0E?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -529,7 +488,12 @@
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "11/11 11:52"
+   "hora": "11/11 11:52",
+   "foto": "c74958cbcf97.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/11/homem-com-prisao-decretada-por-suspeita-de-estupro-em-prudente-e-preso-depois-de-um-mes-foragido.ghtml"
   },
   {
    "titulo": "JJ: Jundiaí terá seleção com 135 vagas de emprego em frigorífico - sampi.net.br",
@@ -545,7 +509,12 @@
     "servico"
    ],
    "pontos": 7,
-   "hora": "11/11 11:18"
+   "hora": "11/11 11:18",
+   "foto": "86f334b9fe62.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3017926/jundiai/2026/11/jundiai-tera-selecao-com-135-vagas-de-emprego-em-frigorifico"
   },
   {
    "titulo": "Marca de cerveja artesanal pioneira no Brasil vai a leilão após falência - NSC Total",
@@ -732,6 +701,22 @@
    "hora": "11/11 09:10"
   },
   {
+   "titulo": "JJ: Treinamento para segurança de motociclistas tem vagas abertas - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUlGekZ6MF9tUU10dG9JSkZCWG0xT19mWVBQY2gtUGhlNnB5TGlJcmVVNkI3SXo0YlJRdV9YYkRWTzBmX1BqTjVMTUlGci1jd2ZyQ1FwYzlXc1lYUEhWWGQzbHZTZmxROUJjSXFiZ0RwVW85MVVKa0ROVzRRUTZlSnV4dF9Xem0temJ1SVpkZ0xVNVV3MnhMdlhFallRSTc4cmZnZlI4SjVTd1dTZnQ0cDQydzJ4QXV4U0M2WTlnY0I?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794398386.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "11/11 08:59"
+  },
+  {
    "titulo": "Sampi Campinas: Homem é preso após manter sogra refém em Vinhedo - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0pPdWlkNzgxaTBhSUlHZEY4VzJpdHd4Y1JaYWdRa3Z3TDFwSmFIOTMwRlZTSFk5b0gzV09iWExrMzFTSzJGOERXN2RvcEFqb3JIMFFCMU5wZzBBRzdfeWttdHRsZk45Z2s3eXJ5bXpUR2xCUlgwa3hSbk1QRk9xWmpVb1o5ZmdpWmtXVEU5S1A2SURLUjIxRHVCcFNOajdBMjVjSVhMOFZNTEtPeGN0UnpB?oc=5",
    "fonte": "sampi.net.br",
@@ -806,20 +791,6 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "11/11 07:52"
-  },
-  {
-   "titulo": "Jovem médico termina às 17h o turno de prática no hospital, troca a camisa branca pelo uniforme de mototaxista e começa o turno da noite - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc2hFNmZiRXNydXUyeUF4T2dnOFpVcFJpR1VrT3F3eHlidGhlSFVqTmpBMTFnRjdRVXJlQ21uZE1ZS2NwVnhiTDUzUEpzcXRMVDViUWl4Q0R5QXNwSzNnSmJldWtEVmNBcURMeHhVU2twR0dNdHRaVEg0YXF5M05YWDVtaW9nX1hGdmdqcWlXZEN3Q3Q0cXc0MUlFSFZRcVdOQ2MtNUZKUEVHbGlhQkp1aFNzQjRjbDRSaWxTUUR5LUJsQ2JCdVdxdXdXcXQ1WWhvY2tEd082QTl5em1NUVFPcFZKRl9qY1FUam1OdGg1ZW9jY3Brc2ZIVjRPYWFVVTRTRlFXSW5qak53ZXc?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794393563.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "11/11 07:39"
   },
   {
    "titulo": "Ex-padrasto acusado de matar influencer Carol Pascuin é condenado a 30 anos de prisão - G1",
@@ -1054,6 +1025,22 @@
    "hora": "10/11 19:07"
   },
   {
+   "titulo": "Festival Psica 2026 garante meia-entrada para beneficiários da Tarifa Social de Energia Elétrica - RedePará",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZlhLMXREVm5yeDFtdXctVG5vczV0NWV2LU9sams0RW1oWXV2eFRVLXRXdHZ1M1ktYWt2aXJ4bVl1emROdkpGYmZseVdrVkc5RE1SY0dUWVkyQWp3SDdiTlJfV1lNMDhDc1A3bUh2ZnlULS1pX0JPSEV5U2FkWkNUc0ZNVUFXVl94VjZWVG9mQXJHaS1LY1dlaUoyY2lubGNoMFFKdjFka3VMM3Yxcm9DLU9CYWxGbWN4Zk5TWUVITmhWM1dfRGFkRzhZNi00MnEw?oc=5",
+   "fonte": "RedePará",
+   "quando": 1794345970.0,
+   "categoria": "regiao",
+   "fontes": [
+    "RedePará"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "10/11 18:26"
+  },
+  {
    "titulo": "Prefeitura de Louveira reforça a importância da vacinação preventiva - Prefeitura de Louveira",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFZSX3A3RExUa2o4MGNVa1BIbWQ3RGpEU0F3RkxOd1ZVZmRZWVNYUHkydGJGSlZ1cU9ObDhyRzI4bWk1T1pVT1k1M281eTFhNzZId2ZyVGtwc1ZMR0s1OVZkajIzOUJObTc0Nmt5NDVXVkYyanR5ZFpxRGNOU2NCOWtmSWtZQWVmbXZVTHBYN2hNaDlSOGduUzdpUy1qYXh3cmlFMm50MA?oc=5",
    "fonte": "Prefeitura de Louveira",
@@ -1148,6 +1135,20 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORVZqbVotU3VRZmYwUEpxQ18wZURqR3F5MkxNMDhIU3pLUmVNSHBQYldTbXFsX25hSnRYTk9uaTVZQUE4UWV5WFMxSW83ZzRHdUxZVGxoa2JmU0JHSUg2eE1vVVRzd09kOEVqSVVWV3FTc3J1WGk1d1h3VEdaVDZMQ3I1WkVQbTBpQ1lUektJRklfWXVsaWptTHprN3Vxa0NrMndRYWl6VU5EVkprTU9rcmlCOHVQWHpwbkdhRjNHNHh2VTdabzFONkJYTWtpN2tFX0N2TC1iZmRsMnfSAeoBQVVfeXFMTWdtbU1TSGNEOHJkVXpvRGpRRVlRV3I0bjczcS1KZG8wbmtuNEVvSGZBdjlVWjJkZGJsbHlhUTlfYXFTUkNGZTBLeWQtOG1QMjI1RlJVUTdLSk1xNVpZcmVHdW52aEhyWHNmNXdmMkctanVnSWhuZjR4NC0xY0dqbmxGdTJNamdLcVFscUNkQUQ5T1RvSXVEMWJlY1dxdl9YQ3lGNGw2dGtZRldBRGltR2RYWHhBLV9QZmlqalBXWU5ucjF5aGgzVktpZkpGcDFzanFZVER1SWxUYl9fOHVfeWE4aHdXTW91V3F3?oc=5",
    "fonte": "G1",
    "quando": 1794341947.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "10/11 17:19"
+  },
+  {
+   "titulo": "g1 em 1 minuto: Após ter casa invadida, morador vira 'cavaleiro medieval' em Rio Preto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjNLUjlZQnhFRUVSSkRfTjNlbXAxRUhRcHZ4TEVkZXlIdnZQOHFUVGt3MzE3eWV5QmRYUVRDc3hKekxYaUxQUl9TMXVad292TlhPX0lZbHlwdkZaeHdwV0ZpeGtFSnlKVFlLVlJWUzI0SEdtVjdLb2swQ0xKREZKLWV0N1dGQ0Q3YW1lTDk3UnlERGxLcGpPTEFKd3NVWUMwTVJaWEE5enpfQmpkbGpPYWg3VWhrTnE1VUpIcnNOeHVIQnE5djNyWGdRUmFXMnVNTTdwdWdINWZTYmtP0gHrAUFVX3lxTE43R2hmcFNBRHQ3TmpWRU40SDVjVmdGN1JPbFBzeUFOWnFVVTFiMjdCMktjY0JHdkJZOUxyMWJuWVJMelJPakdaM3hoN0Fubm9BcWE4dWxacENTc3VBa0FQQThWTmtsNTRJRklldktsdVlNa1kzc0hlTG5ISkNQZnk5U1ZXUlgwV096UzVZQnFMeUx0cVJnb1JNUWlXeFN5T09DelprUVRFM1R0MnZNUER5NlExWlNnb1M4aWFqY0x5YmlSSXRNSVZaRDZlbG9fWkplVmpweURkYmhqV1hOZHVEUG42N1BIMzZyYkE?oc=5",
+   "fonte": "G1",
+   "quando": 1794341946.0,
    "categoria": "itupeva",
    "fontes": [
     "G1"
@@ -1253,8 +1254,36 @@
    "hora": "10/11 15:52"
   },
   {
+   "titulo": "Asfalto cede durante passagem de caminhão em rua de Boituva - G1",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJWWEpRUjRIUjRNUElEOE51Q3VfY2xsRGtBVGNhMXVQcHNoT0RLZ2I3dEVQNWtQT3h2eGtTaVQ4ZVhySW5KZXo0Vkh5RWk3UWFIUUx2cTlJemZVSGt4bUFQLTdwVEYtSFE5T1VWNlN0RWJWaWZESEVRRzZnS3VpeGhKaUxhOHdQZllLazJBUWdUckxJQ0paczhJUkJiS3NmZnJRYWxIODc3LVp0N09MQklHS2pUeEpiSlJBa21R0gHMAUFVX3lxTE9NMUZteHRlOEVya1pGM1dobHhfYURTUkphWXJzemh1R1BNRFJkb1NkdFRvQmdQWXlSTVVHNmhrWGtxM0lJeW5tZ2kwZ1Mzd3paeEEzUDdtS1FJMmc0akNlSkhXSm9wUWFqQWJVb1JGR2xXT3FrYkZ2SUtIbDZIYkRBMFAzQjhHZWQzOERDOVNqSXVfWnhxVlF4OHAtMHVNNU1HRWlzTngzRFFnOU5kUlRCLXFndDNfNmg1Ry1BU2wwQldfZ21Oc3h4d2dWRQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794336172.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "10/11 15:42"
+  },
+  {
    "titulo": "Itupeva abre matrículas para Educação de Jovens e Adultos (EJA) - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOem1sVUlhNlg0YlN4N0p5eWJBWUc0ZlNkM3dlSlNlSTFKdUlmOFpIVUxjd0IyRUdua3FNQ0VpOFJvSFNGRDAzdzlSY1k5V0NYVFJwQlVUV0lyVmxmNTNUcU5CcmxCYnZPTzFMX1UydXR2WE9pVENNMV9SeF9mbEZTNGQ3YzdyeUlPNjRDUHB4bGlCZXVDN2pFaW1qYndMNEhCdG9RenhYQ1NNdGVvQURGR0M0b1l3Xy1WaXZZdzgtM2RiSkFa?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794336152.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "10/11 15:42"
+  },
+  {
+   "titulo": "JJ: Itupeva abre matrículas para Educação de Jovens e Adultos (EJA) - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlQ5cXZ6WWxlQ19WTl9od0RnLXQ1WU5PLTJPSWtsbnJMTnFTQkZXUE1kb1gzTjVhYjQwVGZhU3hITDUxcUViUExfS1FrdDFkb0hoNTJoOUd6VWRqTFZ0VjF5V0JXUjMtb2lwVU5vMjlmRG1YZGN4enQ3bVNHSFlXaFgxNUFPOTVDMkcxX3o5VS1XV2tLSkJFVGFhR0NqYklZRjdjWFBvTTMyVlRrVkVjTFctbHpqeHl4OXVwb1Ewcw?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1794336152.0,
    "categoria": "itupeva",
@@ -1311,34 +1340,6 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "10/11 15:17"
-  },
-  {
-   "titulo": "Maria Eugênia e Vila Helena avançam às quartas da Taça Cidade de Sorocaba - G1",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVEdzVkNDLVFZdnF4d3B2UDlob3hBUkVHZjJNMURtbDc0ZzJhcGpwbFJaWTJYdTRxa1dfZ2lXMnA1NVFMczdyQjdQd25RZ201UUhlWUlWbmhvRDNzVVJVeVhfNjN1Y0FXVUNBaC01QndRX3ZnbjNYRUVTaXdfT0pDVUpTS1hKZW5FWWJPRXhGc0ZKUTAxSlUzbEtwa052STVrbnpMQld2NVpnb0lCUnF2YXotQ2tIUW5TcU9oS3pRS0U2ZDZpWXF0ZHZGaGE5VEZHNGRmelduWmFCOXo4eUlVQjFhV1Z2YkpUMVlBbDVLV19JZUp3bzBV0gGGAkFVX3lxTFBNam1uanZvQXNGTTU1S29weW9KQjNDMmNWWGZxQXNoUm5SVlpLYXRIUy1EOGVRQ0g5UDNwQ3MzdElXTHl4Mk1jYVJCV283QnZxRjQ4VFFtZEZzU3V1akpxazdrLVlHMjBsbFQ2cnFPTHZFNVZEaEZZby1oa1A1QlFBa3cyU3E3dm5yWmxhTzMyNEF4SkhGOWw5QUhBYkx1R1hNd1FXbGtRRVBTZjlDOEhIM1VpR0ZPVVo0aFB4SzBKenVRLUNnS0JQam14YkZ2azl3MGFKS0ZHR3pzeGs2NDhjN1VEb3Aza1NIcDJEclQ4QzF6ODVNLVBKY01WLVIyTk1pOElzVGc?oc=5",
-   "fonte": "G1",
-   "quando": 1794332964.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "10/11 14:49"
-  },
-  {
-   "titulo": "Fundo Social de Itatiba promove Bazar Solidário de Natal com preços acessíveis - G1",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZk90ZGxBbGhwS202V25qczY4S2swcmNzQW02X2FaVkRyMlIxRjZSWjhiZmRhWkFzRG94Sjgwb0haR2NsTWdzdlloWVJ2S3JBVjEydWhjU0ZzWm92T19tbzUxN3pBeW0wMXRPMVo1QXRVWmd6YnR5bTdob0VtRTV0WUtFNXhCMVZJUHB0M0pFQUJlOVpCVTdVXzZldlQxdXNhT3Z1ejduSGxvcjNBSVR2ckVmTlFsbHFoRXlBSl9DaVpVeGJFTmJBaFZDZTRrODNVY1U4b1JGS2JTQU9mVzgwdnkwSThOX0dxZFNWWXhKRmNJUWVqX1NPbXlRc2t6QdIBjAJBVV95cUxNTHBTYWRESUVrNmg3bGExN0t0TDRQLXV2N3BDUUU5ZHNLUDFEbWhveTgyR1dhamcxSnFOTjdQZ1ZvRExGLWtkRWRoTXN5dTJKd1VlekdvbU1aV1M1c1ZXanRaS2tmQnR2dkhUUXJSRHRodlRvODM4MnRpQ2R3LUhWbDlCY0owaUpXdU5lNDZvZU5EeWNhc2hHTFdxYUU3SklwOVhwcHAzUEZfSms4M1ppVnlFUlFSanRHeFF5cnpIUjcxZk5NcHlNN1doTlMyX1IyOWVMUTFCbU82eVlXMjE0MktscDBNTXhqOTZJWlhaeTQ1b3NsTVc2bzJfX3RleGg4eFROOGk0NGJlZ213?oc=5",
-   "fonte": "G1",
-   "quando": 1794332862.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "10/11 14:47"
   }
  ]
 }
