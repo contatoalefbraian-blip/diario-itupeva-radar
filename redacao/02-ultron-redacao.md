@@ -65,5 +65,5 @@ Texto curto com o que se sabe até agora: confirmado, ainda não confirmado e pr
 
 ## Resumos
 
-- **Resumo da semana de Itupeva em carrossel (sábado, desde 11/11/2026):** a partir das matérias da semana em `registro/` (sem matéria nova e sem pesquisa extra), escolha de 5 a 7 notícias de Itupeva e escreva para cada card um título curto (até 2 linhas) e uma frase de apoio (até 5 linhas), com a fonte; o subtítulo da capa com o período; e a legenda com a lista numerada das notícias, "Fontes: ..." e a chamada final ("Siga o @diariodeitupeva"; "Matérias completas no link da bio" só quando o site existir).
+- **Resumo da semana de Itupeva em carrossel (sábado, desde 11/11/2026):** a partir das matérias da semana em `registro/` (sem matéria nova e sem pesquisa extra), escolha de 5 a 7 notícias (Itupeva primeiro e, se faltar, da região de Jundiaí) e escreva para cada card um título curto (até 2 linhas) e uma frase de apoio (até 5 linhas), com a fonte; o subtítulo da capa com o período; e a legenda com a lista numerada das notícias, "Fontes: ..." e a chamada final ("Siga o @diariodeitupeva"; "Matérias completas no link da bio" só quando o site existir).
 - **Resumo do dia:** em espera até segunda ordem.

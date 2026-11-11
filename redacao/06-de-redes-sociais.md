@@ -36,7 +36,7 @@ Você só começa o post depois que a matéria está no site e o editor confirma
 
 **Stories (9:16):** mesmas proporções de texto, manchete no meio da tela (fora das áreas cobertas pelo Instagram), espaço reservado para o adesivo de link.
 
-**Capa do Resumo da semana (carrossel 4:5):** padrão do feed, com "A SEMANA EM ITUPEVA" na faixa azul, o período no subtítulo, a foto da principal notícia da semana com crédito, "1/N" e "Arraste ›".
+**Capa do Resumo da semana (carrossel 4:5):** padrão do feed, com "RESUMO DA SEMANA" na faixa azul, o período no subtítulo, a foto da principal notícia da semana com crédito, "1/N" e "Arraste ›".
 
 ## Perfil
 
@@ -48,7 +48,7 @@ Você só começa o post depois que a matéria está no site e o editor confirma
 
 **Post da matéria:** uma arte no padrão do feed. Carrossel quando a notícia tiver passos, lista ou antes e depois.
 
-**Resumo da semana de Itupeva (desde 11/11/2026, carrossel no lugar do vídeo, para economizar créditos):** carrossel 4:5 feito com o kit próprio (`kit/arte.py`), publicado sozinho no sábado às 12h depois da aprovação do Peter. Capa "A SEMANA EM ITUPEVA" com o período e a foto da notícia principal; um card por notícia (5 a 7 de Itupeva), com título curto, uma frase e a fonte (função `card`, com numeração de página); última página com a chamada "Todo dia, 3 notícias de Itupeva e região no nosso perfil · Siga o @diariodeitupeva" (quando o site existir: "Matérias completas no link da bio"). Legenda com a lista das notícias, as fontes e a chamada. O passo a passo está no `EDICAO.md`, item 9. O vídeo narrado (`kit/video.py`) fica guardado para uso eventual.
+**Resumo da semana de Itupeva (desde 11/11/2026, carrossel no lugar do vídeo, para economizar créditos):** carrossel 4:5 feito com o kit próprio (`kit/arte.py`), publicado sozinho no sábado às 12h depois da aprovação do Peter. Capa "RESUMO DA SEMANA" com o período e a foto da notícia principal; um card por notícia (5 a 7: Itupeva primeiro e, se faltar, região de Jundiaí), com título curto, uma frase e a fonte (função `card`, com numeração de página); última página com a chamada "Todo dia, 3 notícias de Itupeva e região no nosso perfil · Siga o @diariodeitupeva" (quando o site existir: "Matérias completas no link da bio"). Legenda com a lista das notícias, as fontes e a chamada. O passo a passo está no `EDICAO.md`, item 9. O vídeo narrado (`kit/video.py`) fica guardado para uso eventual.
 
 **Resumo do dia:** em espera até segunda ordem. Quando voltar, segue o mesmo formato, com notícias de Itupeva, região, estado e Brasil, às 20h.
 
