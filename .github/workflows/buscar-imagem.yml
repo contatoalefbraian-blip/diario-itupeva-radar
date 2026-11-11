@@ -1,0 +1,28 @@
+name: buscar-imagem
+# A rotina grava um pedido em pedidos/<id>.json; aqui baixamos as candidatas para o ramo "imagens".
+on:
+  push:
+    paths: ["pedidos/**"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: buscar-imagem
+  cancel-in-progress: false
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          pip install -q pillow
+          git clone -q --depth 1 -b imagens "https://github.com/${GITHUB_REPOSITORY}" imgs || mkdir -p imgs
+          rm -rf imgs/.git
+          python3 publicador/buscar_imagem.py imgs
+          cd imgs
+          ls -d */ 2>/dev/null | sort | head -n -30 | xargs -r rm -rf   # guarda so os 30 pedidos mais recentes
+          git init -q -b imagens && git config user.name "radar" && git config user.email "radar@users.noreply.github.com"
+          git add -A && git commit -qm "imagens" && git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}" imagens
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
