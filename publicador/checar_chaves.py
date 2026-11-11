@@ -21,6 +21,15 @@ for nome in ("META_TOKEN", "META_FB_TOKEN"):
     if not tok:
         problemas.append(f"{nome}: ausente"); continue
     d = debug(tok)
+    if not d.get("is_valid") and nome == "META_TOKEN":
+        # chave de usuario do sistema nao se auto-depura: confere se ainda le a conta do Instagram
+        try:
+            with urllib.request.urlopen("https://graph.facebook.com/v21.0/17841473503076065?fields=username&access_token="
+                                        + urllib.parse.quote(tok), timeout=30) as r:
+                print(f"{nome}: valida (conta {json.loads(r.read()).get('username')}), usuario do sistema, nao vence")
+            continue
+        except Exception as e:
+            problemas.append(f"{nome}: invalida ({e})"); continue
     if not d.get("is_valid"):
         problemas.append(f"{nome}: invalida ({d.get('erro') or d.get('error', {}).get('message')})"); continue
     for campo, rotulo in (("expires_at", "vence"), ("data_access_expires_at", "acesso aos dados expira")):
