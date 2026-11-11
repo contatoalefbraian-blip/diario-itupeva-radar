@@ -1,6 +1,27 @@
 {
- "gerado": "11/11/2026 00:25",
+ "gerado": "11/11/2026 06:52",
  "pautas": [
+  {
+   "titulo": "Defesa Civil alerta para chuva em Jundiaí até sexta-feira - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeF8xMFJaS1RFSVJEY2hNbzRVbHYzbmtYbHk4OEo2RzBXMGpBQUZHQTY0OGZ3NE5aUDBYSEg3SUYzbkxmdEJNZGpvODVTZXRtOF81dnlrUndpVUlleWhSQ0wtOURuVzdMdWYyZlN0X3JWRGF2azctZmFOY1R0Z2xlUVNGSFJlVWJNeWdSbHZLSF9hd3RaVkdWTjlnMG9qUQ?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794387973.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 12,
+   "hora": "11/11 06:06",
+   "foto": "f1571eae8099.jpg",
+   "credito": "Foto: Portal Novo Dia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1536x1024",
+   "materia_url": "https://jundiainoticias.com.br/2026/11/defesa-civil-alerta-para-chuva-em-jundiai-ate-sexta-feira/"
+  },
   {
    "titulo": "Horóscopo de Gêmeos hoje, 11/11: uma passagem de tarefas bem explicada transforma a troca de turno em cooperação e abre espaço para continuidade sem adivinhações - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQklYMUZtLU9lYV9wZW5GcGNreDZSdXB2M2lrdlhqLXJwcHFySGw1OERSTndGV0JtNVQxbHN3QlAtOU9STUdHdnh0WnhaOGY5VXdQN1E1SEI2Y3ZoMTJYRC1NVDJ4MFczTVdHQU5pYWpGWXh1MmlWenU0SUxPWno4aTN5ajhfUU5nb3ZEZURn?oc=5",
@@ -181,6 +202,27 @@
    "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Polícia Militar prende criminoso por tráfico de drogas em Jardim São Camilo - Policial Padrão",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS080R0pjT2JNUHE5bVVhOEYzYUtGOU5FWU1ENDB6YlZHbWtaUFZ3TThScFVjOHBia1RGZUVxcnFUc1RFS1VXcnI5Mm9US05tQ1pMYm03VlpKUGFSX2syaXRDZHBfVzFXdVZJeXFTMVpWRWw5V3hEYnVxTkI2RWQ2RFJ3RkE2VUJfd0VXMjM1N3h3bU5Dck5FTHF6ZEp2UFQwS0dxNE1MMkk?oc=5",
+   "fonte": "Policial Padrão",
+   "quando": 1794389020.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Policial Padrão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 06:23",
+   "foto": "2ac48ea9ab87.jpg",
+   "credito": "Foto: Policial Padrão",
+   "foto_tipo": "materia",
+   "foto_tamanho": "986x1280",
+   "materia_url": "https://policialpadrao.com.br/trafico-de-drogas-em-jardim-sao-camilo-pm-prende-criminoso-no-bairro-na-sp/"
   },
   {
    "titulo": "Abordagem em frente de escola termina com um preso em Jundiaí - JORNAL DA REGIÃO",
@@ -492,12 +534,21 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "10/11 22:23",
-   "foto": "083f14bcad93.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/10/campeonato-paulista-comeca-dia-10-de-janeiro/"
+   "hora": "10/11 22:23"
+  },
+  {
+   "titulo": "Veja quanto cada candidato recebeu para a Campanha Eleitoral - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0htTXJOTDUzLXpXWTNNSk1wbU9ldmJrdVE1a1pubXJyWFFhYlgyLWtnLXdnQTlpMjByalNuY3hmbmJrUWlFV1pVT3JVZ3h3Wmt0RWlhMGhGWjQ0VXFPU1JBT1RsU3pfREF2SzBtbzBXZDZRb0p6NkxHWlhlVnZLODZ5Y0I1U1FnUVdQYUF5cS0tRFFO?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794359113.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "10/11 22:05"
   },
   {
    "titulo": "Cidade de SP cria “violentômetro” para ajudar mulheres a identificar sinais de abuso - ncnews.com.br",
@@ -511,12 +562,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "10/11 20:00",
-   "foto": "c871d94a4726.jpg",
-   "credito": "Foto: ncnews.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://ncnews.com.br/2026/11/10/cidade-itupeva-violentometro-identificar/"
+   "hora": "10/11 20:00"
   },
   {
    "titulo": "Homem é preso em clínica de Piedade suspeito de espancar e matar esposa em Sorocaba - G1",
@@ -597,18 +643,18 @@
    "hora": "10/11 18:16"
   },
   {
-   "titulo": "Wet’n Wild inaugura KOBRA, a montanha-russa aquática mais alta do mundo - G1",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc2lScmNpcnp6YlVuVm5wSmxoTEZ1dnMzckJqdzQyQ3VaWURMTTNYbGxjQXZuVWhRMW1XTjFDc0JSNFB1dkx4eXRDTFBKMVpQWWpISnlBQjFXaXdzbkhhdG95UDRuLWQzaTRtS1NJM0lOZnpMSVhSY2pxY1pIWnRyMENFRnNFWWRGZjdpX3Uzc1FlX0dSbXo4RVlCSEt4bHd6NV9mRmxzQnY1UmN3MGRBNVV1eG4wQ0NJd09kOXdwanp3X2xLNFloQU1XYnlnYndDSUZjLUpJMGVVZ2dZbTRCUUptUFNnX0ZybDBBSXNjSFZmYkthbXB6WU5kQS1pS3hYZTNhYlAxaHrSAYgCQVVfeXFMUHNpUnJjaXJ6emJVblZucEpsaExGdXZzM3JCanc0MkN1WllETE0zWGxsY0F2blVoUTFtV04xQ3NCUjRQdXZMeHl0Q0xQSjFaUFlqSEp5QUIxV2l3c25IYXRveVA0bi1kM2k0bUtTSTNJTmZ6TElYUmNqcWNaSFp0cjBDRUZzRVlkRmY3aV91M3NRZV9HUm16OEVZQkhLeGx3ejVfZkZsc0J2NVJjdzBkQTVVdXhuMENDSXdPZDl3cGp6d19sSzRZaEFNV2J5Z2J3Q0lGYy1KSTBlVWdnWW00QlFKbVBTZ19GcmwwQUlzY0hWZmJLYW1wellOZEEtaUt4WGUzYWJQMWh6?oc=5",
-   "fonte": "G1",
-   "quando": 1794341981.0,
+   "titulo": "Wet’n Wild inaugura KOBRA, a montanha-russa aquática mais alta do mundo - Grupo Jota Sidney",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2U4Zkhyb2dFa2JYQkZiNmFPU0N6ZklWSnRoa1F5VjlaV0FYZkNVOS03WG5KWGtnazdSOUhRX3pMNmFuNjFsWEhiZ1AxQklkN2N6ZzQtU0N6STdtVjJobDE0b0RoX0VVTnozbnBYdEQyUnd1eUFZSm9OVXIwRlJlc3NyMEp5WXhSX2w4bU9EbG9iM2VScHRES0Fxb1puV3lydWwyZU9zOG5zVkkwZHdCREh4czVxT1pQWllsVkJVMWxCT1FmTDNXdHZWODZ4UXBjUU9zRWJYMEM0djV4bTE1NTVfQ0LSAeoBQVVfeXFMTjg2WVZodnVWdWJJS3F5OTlROGx5V2ZDbHdGSy1lZWxUMnhwWXYxZjlMZjhpRVptNEpqTlpYQktwb0U1QUVLWXJZd21jTXlFeTFObXpGdlJ5U0JsYkJJRmFmemNtQ0VZbDJLbC1sMTRvU2MtNjJHaF85YXd6SjVhc245YXVCeFJsVUQ0SnNqdUFsRlBYS3pDV1dTXzU2S0NZbmlKTFhWWUZIa0lYUHFNNUVQd2paU0J1OVRWVHl5Um51RUZRUUpZZm5UcE05ejlMblFTbUZHLXhQVTBzeVgySFVPSnFyYW04bDZR?oc=5",
+   "fonte": "Grupo Jota Sidney",
+   "quando": 1794343377.0,
    "categoria": "itupeva",
    "fontes": [
-    "G1"
+    "Grupo Jota Sidney"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "10/11 17:19"
+   "hora": "10/11 17:42"
   },
   {
    "titulo": "Prefeitura de Vinhedo participa do congresso AMPPESP FOMENTA 2026 - Portal VV8",
@@ -750,6 +796,22 @@
    "hora": "10/11 15:42"
   },
   {
+   "titulo": "JJ: PAT abre vagas de logística e vagas para pessoas com deficiência - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0FSUU90dVcxc3FrVXY3MUlzVlExcG5rLTBQMTBOdGpIUThsdVc0MW9YZFl4OENUbGtfekl4bndZZjBiV1lxdER3MVVxeTViRFRRTjQwYkdXZWhSeHFfOGlmOTFYWFh2OG1rVGpxQVVQYmZmUWtpbkNwV3NET1Q3SFRSdUVMU2FqUnRLazJ5WUFtNnFHZlZ6dTU4VmF1bDIzVFZOb1BnR0MtSWw4M2xfVHpBdXZ1M1F0NHFKZU5Yd1VWcXM?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794336149.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "10/11 15:42"
+  },
+  {
    "titulo": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027 - Prefeitura de Várzea Paulista",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLVlMa0g0aXdyTVptOTV1RlFzODZ5NklyZzZfOHBlSURoQnhwWEtkZE1WOHRWODU0eG9kb3lfWjBwMm9FMHQxWVJTRjlhdHY2UGN6ckNGeTd6Y05xckNQYlJhVFJZY1I4NjlwSjVuejB5bkNiVWpoU0FKNDdJUl9iN3VCVnJGT2swVlFlaWV6OFU5U25jczJ6YUIzRGpCMVhWakhsWHUyU3JZNlp4Y0dJRXdiWXlfNlBjaW5MUXNOVkFHT0hoTllrUmNweFc2T01YclVmbjVVT2Ztd2JjV0o0OGpaM1F0OUx2dzV4Vw?oc=5",
    "fonte": "Prefeitura de Várzea Paulista",
@@ -826,22 +888,6 @@
    ],
    "pontos": 7,
    "hora": "10/11 12:01"
-  },
-  {
-   "titulo": "JJ: Governo do estado abre concursos para a Cetesb e a SP Águas - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0ZHb2hfc0hoVmZ0ZlhIZkZDWFhTelhRWEgybWFETlplTUxDei1ONlZwY0FURm1UZEZuY0NZZ1N6NFhFNlB1cDk0MWlFaE5Fa2dIejhiS0FjNkFhSEN2bWFVSm5IMnFZV3FGTlB3SzdoWTRJUnJqTjIwTTY2d1N0c2VTRktaVkpscldxeDRuSU9kME9SUmdVRV83VDlGREs3aHR5ZzNkYlk2TzB5bm1wRWRYUWFnMkVNR2NzRDZn?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794318973.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "10/11 10:56"
   },
   {
    "titulo": "João Gomes é atração do Wet'n Wild no dia 29 - JORNAL DA REGIÃO",
@@ -1042,27 +1088,113 @@
    "hora": "10/11 07:00"
   },
   {
-   "titulo": "Prefeitura na Área: 1.050 vagas de empregos e serviços gratuitos no Santa Gertrudes - Jornal Jundiaí Agora",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMVVWdGMzYTVkcm54amtMOGlEMURjXzBXaHQ2eDZzNFhrU204ZXhPbHo2OTVPX1JJbFBENk9STmxlOTlZRVFfRTIwalhROWZKMUE?oc=5",
-   "fonte": "Jornal Jundiaí Agora",
-   "quando": 1794303000.0,
+   "titulo": "JJ: Tratamento com oxigênio em casa atende 252 pacientes em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1Z2N2I0U2wyN2tORFdtYTlVbDlwR2FLTHhTZ3kyT2hQQ280dmRZRFlUTjNjYnFFSHBONHV6YzJGX016MUJWalhOTld2eG9DS0gxZzNJMlRnVWQxczJmNW13WlNBSjQ2aGZBTWtKa1licVdOYUpqTGFFRy1SUEdyaV9yYThuRTVNemx1Nm5nVlFTNHY2NWc1ZU85MDJTLTBKb1hYekk2RGk2eEo2Tmx2WmVLNklQYl9YUVViY2wwUUJJSWc?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794389444.0,
    "categoria": "regiao",
    "fontes": [
-    "Jornal Jundiaí Agora"
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "11/11 06:30"
+  },
+  {
+   "titulo": "Chuva se espalha pelo Brasil com risco de temporais - SBT News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGFOSElTcGt2X3pkYXlfY25FTUpYSGxYX1A5d2JyZmpESTkzbGdReGNzRUg1XzZnTHkzUThhaFhscXZBbmRMRmNGaG9GeU81MXpreFhmRjNRa2lKZV9DVEdzTmt5WEMxS0Vjekp5U3piVUl6V1BUV1lsX3hKbXFJczl2ZEtZendhUmFlQk5kSGZrT2pHdVRqcw?oc=5",
+   "fonte": "SBT News",
+   "quando": 1794389239.0,
+   "categoria": "estado",
+   "fontes": [
+    "SBT News"
    ],
    "urgente": false,
    "assuntos": [
-    "servico"
+    "clima"
    ],
-   "pontos": 7,
-   "hora": "10/11 06:30"
+   "pontos": 5,
+   "hora": "11/11 06:27"
   },
   {
-   "titulo": "Chuvas fortes levam Defesa Civil a emitir 29 alertas no estado de São Paulo - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1ZnWkdhS0FEVjhZVjhiMEVqRG41ZTM0V2lROE9uYVVza05mOFNwUS0wTkd5R2xqMi0tSDFUdTczem40SFhHNGUtOS1LUmx2WUdkdUFBNl9xczk4aWF6U01zNEd2M0Z2bFhGV2VNQkNQWF9FTDZITE5MT0tpTlVZdzJ1RmRmaWV2bWJOcnF1THUzanh5bDBpTldoUGNTaWxnX1ZibERYb1luT1lzelQyTURpN2ZpdlphYk5pTkhn?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794299133.0,
+   "titulo": "Papai Noel recebe crianças no Maxi Shopping Jundiaí - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVEzNmpMTlJBRnlWYjRzQzNNaUxfSGlKR2hsRTBIM2ZPVkV3eXpDVEtQN2YwbFlsYjBjX1ZKamtIdnFNcEl0djJTcldNd3I2ZU9FMVdPWHlLaXZhTmdlbWNwaVg4MmpRXzhBcHZkYmhyeGNiLWs4NTNSNmhva2t4cXlLRC1oZ0ZWOHphSmRYN1ZRQmdvSHc?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794388155.0,
    "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "11/11 06:09"
+  },
+  {
+   "titulo": "GT acompanha futuros projetos no Jardim São Camilo - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFp4ekZkNWFsSU94MW83MU51OHoyeFhnSHFXVFBpc3lVM3RCQUVfTmtYNmVzRXcwRGU3T2VuRjV5M20yMWVfakZjVklsOWZraFl3ZUNtdTV4MTducUNtM3cweE1DTWd5TE1jVGJUTGVhQjM1QUgwaktVc3JoM0xQam55ZGtoUFZUWGhMRjh0TEh6dEFh?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794387803.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "11/11 06:03"
+  },
+  {
+   "titulo": "Mostra de Dança do PEAMA lota o Polytheama - jundiainoticias.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUpKNU56TFlickl0dGZ1ZnU0N3FYeDBlS0hPWTJ5a0NIcFF3dzZNQmZCMGRseTdfc0lOWHFteHcxZkVBYm1TWjRVa3F3bkNYN0dGbGdMbU9PYnRIYjlJT0tJSzh3S0lXb1RMX3FqS21BdFFzLTRsdlAzb0ZBSG85bHVlWncwdzFMU1E?oc=5",
+   "fonte": "jundiainoticias.com.br",
+   "quando": 1794387328.0,
+   "categoria": "regiao",
+   "fontes": [
+    "jundiainoticias.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "11/11 05:55"
+  },
+  {
+   "titulo": "Fundo Social oferece cursos gratuitos de barbeiro e penteados - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTVfZ3FwMTV3dmhoenNSWFo2dEc3OVlmUTNMNHZjRGNuRFU5WGhBa3lKakZOaWhGeWhPR2xvb3FSMEtBWWpKR0FNRm5iVm5DU3ltV2RHdVVNOTBxVnZoaHVxTHI2SDJLVURnZFQtVFduZ3FtRm5lSDhkMUhwbW5rbWVrTlFGYVFfaWExSExKeWRlandWenZsTjRJVnpZeTh3c3Jn?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794386744.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "11/11 05:45"
+  },
+  {
+   "titulo": "São Paulo deve ter chuva isolada à tarde e temperatura máxima de 25°C nesta quarta (11) - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdjI5LUlKR0xnQllYcV9tWHA1ZzJpSGxKUm5pdU9UVVBtQkZ1cHM2b1lCOHh5UWppRHpncGV2RTVfS2NsMmRRdDE5dWJUWHM4QS1zaGk5ZGo0WWhsRHNTSXhCbzJuVEZQaXpvWHI3cUNZTkRqa3dGR1RFSzBQUWdZSnFkVHZHd3RlcDg3bzRiSHlvcW1QQ3F0MHNsRWJTdkZxS2g1SzUtdjVlQlFaN1VLeFN0OHZKaXpDNnBROTJsYWZrRmFVOGVOMkg4T2trQlpncmdLNw?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1794384000.0,
+   "categoria": "estado",
+   "fontes": [
+    "Folha de S.Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "11/11 05:00"
+  },
+  {
+   "titulo": "Governo de SP envia ajuda humanitária a famílias atingidas pelas chuvas em Cruzeiro - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdEYyX21EUk5FME9MQnEtU2NOeHA5Q21hWHI4czBoaHptTC0tV19GeHVDNzkwaWR0N2ctMEoxRFdsQW1YWmFMT0podEVpZ2lOZERod0UyVTREckJsaF9fS1BNMlAxSFpISXZEQVZWaFFfeFRwMExIYU9pamZQT1I0c19iTzlpdzcycWphQi1aMVJqQXRlQUl1QlV6YTVQeHdXb0J6WGRPRG5sTllKUVlfemw0aGRFOU1mbENITHZKSUZCWDVtZ2JQQQ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794378874.0,
+   "categoria": "estado",
    "fontes": [
     "agenciasp.sp.gov.br"
    ],
@@ -1070,88 +1202,24 @@
    "assuntos": [
     "clima"
    ],
-   "pontos": 7,
-   "hora": "10/11 05:25"
+   "pontos": 5,
+   "hora": "11/11 03:34"
   },
   {
-   "titulo": "Conselho Municipal dos Direitos da Pessoa Idosa abre inscrições para eleição de representantes - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcUZJUUZjX3d3OXdtUjEzbkRVVlp5WkdJS3lVOEJWbEgzWTlJaTRFSnNxQkltaGRFb2t2MlZhdlZSVDBqeE5hbzFvT0FtX0czMWIxcldSXzdoaHNWSGFvMGlKWnFPTHJrcDU3VnBab1NlLWhOQ0t3VzQ3MDY3OG9qZ1N3MlVrQnFqdnNldkM2WlNNaC0wYjVPT1lnVG1BYkUwN1ZLRHJ4dFk5ZEpZeTAxSnowWHkyYW9GZTM5a19CemlmQjMybXFabDlHVUFfdw?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794290485.0,
-   "categoria": "regiao",
+   "titulo": "Governo de SP realiza vacinação no Santuário de Aparecida durante o feriado nacional - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0tDNlZtei1pVFpJd05ja1hmT0pSX0k4VncxSkQ0Wmg0MDhnSlV5VUc4bGl0SlBPdUU3ekZkMWVTRWV4UDVDU0NQeFhlWWF1WF9SMUJVYVR1a0dpSkdZb2wzQXpocVkyb1pyR1ZKM0k5REEwVnFha2dVRy1Hd0J6WlQwNkZRakxyRDlzT3dSOHBzSHZYanpPNjVHaER3WDRpQTFVdW90Zkp5TlVDN3BvMXMxZHd5VzhWX0FzVUtn?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794369424.0,
+   "categoria": "estado",
    "fontes": [
-    "Portal VV8"
+    "agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [
     "servico"
    ],
-   "pontos": 7,
-   "hora": "10/11 03:01"
-  },
-  {
-   "titulo": "Câmara de Vinhedo reserva 5% das vagas no esporte a vítimas de violência doméstica - www.correiodamanha.com.br",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa21hVjRYNmhWZksyM0tjbWZoMGJ6UWMwSFJ5RVVRaWRpNnpZQVdxZlZxenhUVF9XSzNKSzdneFpTSkVKWFNFejBnb2xtWlJibXVMVWhxeEFuVDU0aE04TmdKRlBIRkRMdmtIQXlpaVc5WTJtUDFzSFJmeXRndkR2X1h5eWZRREo4eW5NMTJYckt0dlJMN24wclZWcEQzTklVZ2Qzbk1XNV9BUHFLQ2JZRnpOWmw3cjZRVVZjeWx2NFg5VnBxalJOSFhBdWFRZ3AxOG9nc19vdElSeC1PcExVMGtHNW84T041am10WEhsbHYxRF85T1V4MXJVYTl4YjQzbU1Yb3dIVDhEbXFMcTdr?oc=5",
-   "fonte": "www.correiodamanha.com.br",
-   "quando": 1794290400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "www.correiodamanha.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "10/11 03:00"
-  },
-  {
-   "titulo": "Câmara de Vinhedo rejeita processo contra vereador Malcon - www.correiodamanha.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRV9icDczN08wU1VocGlBOTB2cTNrM2F6d0lEZF9naWVXeThMWEd6ME52SmIxb3RoMXlCcG94VU4zUS1GcHpUaTJsejdzeENVdXdjYjNpOEZoWDV2Z0V5RE03V3BNTUJYLWJ3cUdyYnZLN05WMUJpdHYyUTRvYnVZMnVsVzBkZTFUOEtzQ2QwWnJaVUdqeDRXRngxb05senhnRC1JV1RucWowZzFIN1JMS0ZySHF0THBBRkZCRXgteWdNNDBKOEx1WHdoU2g4aFRGU0o4R1RZbkFjdmlhUC1tS2hNb3BUZjNyMThsdnlhTQ?oc=5",
-   "fonte": "www.correiodamanha.com.br",
-   "quando": 1794290400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "www.correiodamanha.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura"
-   ],
-   "pontos": 7,
-   "hora": "10/11 03:00"
-  },
-  {
-   "titulo": "'Gerente' oferece R$ 20 mil a PMs e é preso por corrupção ativa - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbnhOOXltQ3hLa1V4ZnFPVHJHT3pkbE1yeDdubWpCQjZEak9KSUk1WDYzY09ocldOaWhpUHVIWVNQcXQ2OTdWOXZEaEpGQWtaNVF3dUM4T3lKcTExX0QzenhHc2UwaWc0ME9PcHB6aER5akc3NWEtUzRzd3R3THhZT0c4aW4xUDZ5NVhQall0Ulo4QnRZYVAwaUtXNUM4VmN1Z3lDMkVjWDJNcFJCVEhLbzZMUlFLQUdGOXhieWw5VQ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794289828.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "10/11 02:50"
-  },
-  {
-   "titulo": "Vinhedo recebe premiações no Projeto Gota d’Água 2026 - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWp2bHdtVDNLLVh5S3gzY1g5VzJqbThtRlBzcllZZkFmc0xpbU5zUmFDZ3hkZlVhZ2F4SW1sU0VhaGw3WG5SLWFGMHFzdlFLdjdOSWxQMG9lbXk3c1YtRzdOLWJWcjhUTTAxak9uTHdiTFhKZllabnl1SGh2T3dVbUZ1dFlHdGVzd0Z3Slg5YldUNUZmZXU4?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794289402.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal VV8"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "10/11 02:43"
+   "pontos": 5,
+   "hora": "11/11 00:57"
   },
   {
    "titulo": "Chuva volta a atingir regiões de São Paulo nesta quarta-feira - Grupo Rio Claro, São Paulo",
@@ -1216,38 +1284,6 @@
    "hora": "10/11 21:47"
   },
   {
-   "titulo": "STF obriga Prefeitura de SP a abrir contratos da Fórmula 1 - O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEhMSUFhVHZRZFRHNjZIbE1HblNpaGw4cTVvaWpudEFrRFZSXzlTUVZSTXV6MDJqN0gxN1hqVzNEbm1Ja1ZnRXJmbXZrcHdDZFRicEhXVExWQllKYzBRUFZ1Q0V3UXRhUUZOTGU4cEVZcVlfcW80Vy1GNl9NVmh6bjZFN3Y0emZSSU11YmpHalF5VVJHclJISkhWUHZiUdIBowFBVV95cUxNaGllejQ4R1FheXdHdVNUamhuVkZxV1M4YjZJSTZCM3pkSFZKQVZCUi1GSGZveVlXb1NYemNUdDc2VUM1VjlqYVJRUDlQNlpyZG1UUm1KVFZDbHV6TUFZbGdTUW5nV3dUZXVOSjhxMGJOaGZRSDlLQXkwQXZnUjJHMUIzTFQ1aWg2aW5yVGNGMU9CNm95SGlWaGhpTmVfU2hlWVVZ?oc=5",
-   "fonte": "O Cafezinho",
-   "quando": 1794357480.0,
-   "categoria": "estado",
-   "fontes": [
-    "O Cafezinho"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "10/11 21:38"
-  },
-  {
-   "titulo": "Marcos Damásio solicita apoio do Governo do Estado para recuperação de Santa Bárbara após temporal - SB Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcEthWHlZWGdoalpOM0NnNm1BMURQbVpkNDFMVVpieHl1NWx5eFdmdHp2aEdqek9iQ2JEQzJ5X0RNejFwSEZhdmo3VklYa0NTWnZpWFdFdTFEclFJRzZhQk90bVBLR3MxOUY4Y3BOLUZFMVRITmI2NWxrWEdBWi1IOEN0MWhFVEYtT1lDQ3FDUlM1bFJFcEpiLTNVM090MnhYazdKY243RVJZdnBvYWtJdnBYcmc0R0N5Z3U3U0U3YzlGdS04ZTRwTllNM1J3d2xFendaQTRn?oc=5",
-   "fonte": "SB Notícias",
-   "quando": 1794355200.0,
-   "categoria": "estado",
-   "fontes": [
-    "SB Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "10/11 21:00"
-  },
-  {
    "titulo": "Vice-prefeito de SP pede investigação sobre contratos de R$ 21 milhões da Virada Esportiva da própria Prefeitura - G1",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTnBmS2hpVWpxNzYybXFXcGJwcVB1dnFmcmQ2enpNTmVMV0xIaXhUQy1GcWlhUFNCbEU5aENtcUpYQ1lYUHZjNDNvaFBUUUF5OExPU1dFUEtqVXpwUDZmOWNia0NZdDBTU2ZtaTUxNnNiTGtWWmVrV1BGQWVady1NUnVfQ0FrMFlCaWVpTGhqT3N5LWZaNmo1Q3BfX2lTSVByeW1TNF80MVgyZDVRVXZWUkhRVU5mTGR2a0JGRmVwRDNNYW0tU3hRb3BGTU9WUV9vU1ZlcHB0U3VYLVBtMC1qOWRhMjAzTDJXSVVRR0dTSmJ2Wlk0T011UzktZk9zTTTSAY4CQVVfeXFMTnpUYThrczdaRkQ2SEQ2alNpbmZtZUs3MW9IelNmdHFlOHdJMERHVExfOVk2RWNqNTVVN2hBcVRqelUxdWt3NjZzSUFkOWh6TmtWalFVcnh4LUVGdUstN05IVUN0czAzTk0yRzVLUHR4cHEwUVV0WmNNOTVDZ0FyUDNjZXdvbTR4UUZ1cGhUak5yelRqYTNKbDJZVy02bFBVbnRCUXU1OFBDVjRNQ3hGNWZiZHVXN3FBSkRMck56UzhTdFktdWxqdV9QN0JwTnQ3X1VqaHRGeV9RZlctVkkyUU9LVC1INmhSSUMtcDhUWFI0dUlnYzJwTk14Tlhaa1MxcnFPT2RlcWhSa2c1Qkd3?oc=5",
    "fonte": "G1",
@@ -1280,20 +1316,6 @@
    "hora": "10/11 20:48"
   },
   {
-   "titulo": "Horóscopo de Virgem hoje, 11/11: uma pergunta sobre o significado de uma palavra abre uma descoberta e transforma a curiosidade em participação mais segura - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUg5SzNjNXR5UDItalVwRGZ0WEZwQ0lHbDBhUWlVNWUwN2VYdS1iM2Z5QWtTSkVsNjVkUVZ3NXduOEJiZ2wyZV84OVduVU16TDhjdThnR2tjbEtxbm9IOFdwWE1rTlY1OGt5RHgyUWd6WkRYNmYxWGFHZkV5ZF9mMUpBY081VUxneE5oR0xB?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794353400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "10/11 20:30"
-  },
-  {
    "titulo": "Horóscopo de Aquário hoje, 11/11: duas amigas escolhem programas diferentes e descobrem que a parceria continua forte quando há espaço para interesses próprios - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2JzYUZteUJUZ2FwTUJRVlRDNjFvTHM1X3g3QmJvX0JiTWMwTDJoRUhxVTVHX2FEV0hlUDJiNXUzb1FYRW5ybjRjem9oa2ZPOTJfazBIY0ZrV1ZPWHBOVGdQVTVvVzVVRDFSbXNzVGdoZG4yeHVBdnJhM0hiWW04ZTZPR1BMbEl5OE1yUTh1ZnA?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -1308,50 +1330,22 @@
    "hora": "10/11 20:30"
   },
   {
+   "titulo": "Horóscopo de Capricórnio hoje, 11/11: fotografias antigas aproximam gerações quando a vontade de compartilhar memórias respeita a privacidade de cada pessoa - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTW10R3hEY0RpaFQzZkU2RjNTQ0ttTHFkcVJWLUdSVkE3WDcwWkVQSVFHY1k3WUpVQXVNRDV1MERLd29IelVjNlVZWXo3N1N0Z2s4cGFDQ2EwVnQ5Qnc5NmZ4Z2hiRzF0S2RyMkNjZ3duZkNKQnlJR294M0xKZUo1SHptbWdjUHdPUWVna2dvT3VuQWlCVmhPVkJ5WQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794353400.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "10/11 20:30"
+  },
+  {
    "titulo": "Horóscopo de Escorpião hoje, 11/11: dividir o espaço de apresentação com quem fez o trabalho revela uma liderança capaz de reconhecer talentos de maneira concreta - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjEtd0xTY0F2VnBKb3pRclNwOWI4LTZWNC1iT3pwal9FMXJDOEd6ejBKWjliZkNGLTc4dzN1REJESUpPeS1QNlJHcTdRNGpMV1pFUTdKUVVSV19TV3pHQWp6MmR4WGZpcDdJOUVqR1cxWUhRY3VENHFRZFEzajRXaGhQX1dyWnNNTEpoTzZOQkNaNkFDdWc?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794353400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "10/11 20:30"
-  },
-  {
-   "titulo": "Horóscopo de Touro hoje, 11/11: uma conversa à mesa abre espaço para ouvir o projeto de alguém da família sem transformar carinho em excesso de conselhos - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2JpMUg4UTNoZkktS0wyLXAtVXBScGtlejVvTjRzSDdFU0J0dEZhTDNUMzQwcl9hYmtxbW1xQjNmVGxKNTlBWmpSNVFSeHFYc213ZnFWZ2phLUVvVUdUN1BHT1VTcWdwR1hua2o5YlFackVxLTQxeGVlMkFXNGJQOGptd0hiLXdqTWpn?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794353400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "10/11 20:30"
-  },
-  {
-   "titulo": "Horóscopo de Câncer hoje, 11/11: uma canção entoada sem ensaio transforma a vontade de participar em prazer compartilhado, sem exigir perfeição de ninguém - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnRoQXhIMTc0MFV1NXN2d0F3VmEtT29jSUtjUW1CYWoxQlBsbHNaZ0NYWFVnTnhHMWcxTkR3SFk0LVZ5cjZoalBjZG93aFhEc19WVjg1ckY4VmZIVzlEajFLYmJqbmEtbUNGRENHQlVKa2NlUHVISllIaG9fVHNrRGNXcjhLeTV0R211X3ZR?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794353400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "10/11 20:30"
-  },
-  {
-   "titulo": "Horóscopo de Leão hoje, 11/11: uma preferência finalmente dita em voz alta transforma a escolha de um passeio em oportunidade de participar sem impor a própria vontade - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0dFbERpMTBFVlhlblFjWU5zTU5XbzROdW1SdjUtZE9WY21tcV9pRTZ1dW5FWHEwM01rXzRESGxDU2x1MnRTbkxMVF9rZHQzemp4VXZmcm8yVi1QTllkaHhqUzZBaXhZUFdpZzZTUzVMQW9WWHlScG9oaXlSa3hWRF9QYmx2RENp?oc=5",
    "fonte": "Tribuna de Jundiaí",
    "quando": 1794353400.0,
    "categoria": "regiao",
