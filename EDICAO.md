@@ -56,8 +56,16 @@ Olhe a arte pronta e a legenda final e aplique **o checklist completo** do `reda
 - Commit **só** de `fila/` e `registro/`: `git add fila registro && git commit -m "edicao HHh" && git pull --rebase -q && git push -q`.
 - Se o push para o `main` for recusado, envie para um branch `claude/edicao-AAAA-MM-DD-HHh` (`git push origin HEAD:claude/edicao-AAAA-MM-DD-HHh`). O GitHub copia a fila para o `main` sozinho. Não abra pull request.
 
-## 9. Sábado: Resumo da semana (rodada das 10h)
-Vídeo narrado 9:16 com 5 a 7 notícias de Itupeva da semana (tiradas de `registro/historico.md` e `registro/materias/`), no formato do manual da Dê, gerado com `kit/video.py` (setup com `bash /tmp/kit/setup.sh voz`). Edith e Peter revisam como num post. Aprovado: `fila/AAAA-MM-DD-12h.mp4` e o .json com `"tipo": "reels"` e horário 12h. A música o Instagram não coloca pela API: o vídeo sai só com a narração.
+## 9. Sábado: Resumo da semana em carrossel (rodada das 10h, post das 12h)
+Desde 11/11/2026 o Resumo da semana é um **carrossel 4:5 feito com o kit** (o vídeo narrado foi aposentado para economizar créditos; `kit/video.py` fica guardado). Não há post comum das 12h no sábado.
+1. **Ultron** (você): a partir de `registro/historico.md` e `registro/materias/` dos últimos 7 dias, sem pesquisa nova, escolha de 5 a 7 notícias de **Itupeva** (as de maior interesse; sem repetir assunto) e escreva para cada uma um título curto (até 2 linhas na faixa) e uma frase de apoio (até 5 linhas), com a fonte. Escreva também o subtítulo da capa com o período ("DE DD A DD/MM: O QUE DE MAIS IMPORTANTE ACONTECEU NA CIDADE") e a legenda: chamada, lista numerada das notícias, "Fontes: ..." e a chamada final.
+2. **Edith e Peter** revisam o texto juntos (passo 3).
+3. **Dê** (subagente leve) gera com `kit/arte.py`, numa lista JSON:
+   - capa: `{"arquivo": "c1.png", "manchete": "A semana em Itupeva", "sub": "<período>", "foto": "<foto da principal notícia>", "credito": "<crédito>", "pagina": "1/N", "arraste": true}` (foto da notícia principal da semana: reaproveite a da edição, buscando em `publicados/` ou pedindo de novo pelo passo 5; sem foto, use ícone "pin");
+   - um card por notícia: `{"tipo": "card", "arquivo": "cK.png", "manchete": "<título>", "sub": "<frase>", "fonte": "Fonte: <veículo>", "pagina": "K/N"}`;
+   - última página: `{"tipo": "card", "arquivo": "cN.png", "manchete": "Fique por dentro", "sub": "Todo dia, 3 notícias de Itupeva e região no nosso perfil", "extra": "Siga o @diariodeitupeva", "pagina": "N/N"}`. Quando o site existir: "Matérias completas no link da bio. Siga o @diariodeitupeva".
+4. **Peter** confere todas as páginas e a legenda (passo 6).
+5. **Fila:** converta cada página para JPEG em `fila/AAAA-MM-DD-12h-1.jpg` ... `-N.jpg` e grave `fila/AAAA-MM-DD-12h.json` com `"tipo": "carrossel"`, `"midia"` na ordem das páginas e horário 12h. O publicador posta no Instagram e no Facebook, e o Story leva a capa. Registre e faça commit como no passo 8.
 
 ## Regras fixas
 Nunca remover marca d'água ou logo de terceiros; nunca repostar vídeo de outra página; imagem de terceiros só com crédito; suspeito é "suspeito"; nada de nome de vítima sem confirmação oficial; nada de menor identificado; urgentes sempre com o Alef (roteiro do `CLAUDE.md`).

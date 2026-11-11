@@ -32,3 +32,23 @@ print("== Facebook (META_FB_TOKEN)", "tamanho", len(fb))
 print("pagina:", get(fb, PAGE, fields="name,id"))
 print("quem sou:", get(fb, "me", fields="id,name"))
 print("validade:", validade(fb))
+
+# Teste do carrossel: cria os containers e NAO publica (containers expiram sozinhos em 24h).
+import time
+RAW = "https://raw.githubusercontent.com/contatoalefbraian-blip/diario-itupeva-radar/main/teste/"
+def post(tok, path, **p):
+    p["access_token"] = tok
+    req = urllib.request.Request("https://graph.facebook.com/v21.0/" + path, data=urllib.parse.urlencode(p).encode(), method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        return {"ERRO": json.loads(e.read() or b"{}").get("error", {}).get("message")}
+filhos = [post(ig, f"{IG}/media", image_url=RAW + f"c{i}.jpg", is_carousel_item="true").get("id") for i in (1, 2, 7)]
+print("filhos:", filhos)
+time.sleep(10)
+car = post(ig, f"{IG}/media", media_type="CAROUSEL", children=",".join(f for f in filhos if f), caption="teste (nao publicado)")
+print("carrossel:", car)
+if car.get("id"):
+    time.sleep(10)
+    print("status:", get(ig, car["id"], fields="status_code"))
