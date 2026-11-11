@@ -1,0 +1,16 @@
+name: checar-chaves
+# Toda segunda as 8h (Brasilia). Se falhar, o GitHub manda e-mail: e hora de renovar a chave da Meta.
+on:
+  schedule:
+    - cron: "0 11 * * 1"
+  workflow_dispatch: {}
+jobs:
+  checar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 publicador/checar_chaves.py
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_FB_TOKEN: ${{ secrets.META_FB_TOKEN }}
