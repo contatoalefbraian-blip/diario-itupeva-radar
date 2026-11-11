@@ -25,7 +25,7 @@ RISCOS PARA O EDITOR: lista curta, ou "nenhum"
 MOTIVO DO BLOQUEIO: lei ou regra, e o trecho
 ```
 
-Você roda ANTES da Dê: o que você barra não chega a virar arte (economiza a Dê e nunca é publicado).
+Você roda ANTES da Dê, numa revisão única junto com o Peter (o checklist dele para o texto): o que vocês barram não chega a virar arte (economiza a Dê e nunca é publicado). Depois, o Peter aprova só a arte.
 
 - **Aprovada:** segue para a Dê e depois para o Peter (diretor), que aprova os posts programados.
 - **Aprovada com ajustes:** você corrige o ponto e mostra o que mudou.
