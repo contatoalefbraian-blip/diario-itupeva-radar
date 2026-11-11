@@ -1,5 +1,5 @@
 {
- "gerado": "11/11/2026 13:04",
+ "gerado": "11/11/2026 14:10",
  "pautas": [
   {
    "titulo": "Vendedor de carros de Jundiaí e Cajamar é encontrado morto em cemitério - JORNAL DA REGIÃO",
@@ -286,27 +286,6 @@
    "materia_url": "https://www.tvsmais.com.br/homem-e-preso-apos-fiscalizacao-encontrar-56-botijoes-de-gas-em-residencia-em-itupeva/"
   },
   {
-   "titulo": "Caminhoneiro é agredido violentamente por ladrões no Km 56 da Bandeirantes - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkpuQUl1aVNCaW4zZVBSSDVITXJ0MjJKR2F5NHpNcnBTcUpQaWlLY2wzWmtuMENiNWpBeUdLbWdNRmxNeHMxMWJva1dpUkVPMlEwWmRKS09TQ3dkQnhRX0l4N3FXbFJTNmhObEVCTEJYVDlnTGxhUmk4WFYycXR5SWUzQW9OU1ZKUzU1QW5fUTQwSEwwUUZqbnBqeW90Z0FRNHBrbzFvMA?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794403285.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 9,
-   "hora": "11/11 10:21",
-   "foto": "96453da07c03.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/11/caminhoneiro-e-agredido-violentamente-por-ladroes-no-km-56-da-bandeirantes/"
-  },
-  {
    "titulo": "Abertas as inscrições para Rainha e Rei Momo do Carnaval 2027 de Jundiaí - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0RncFJxamZ6Qm5sMlYza3dCeno5T0ZNS1Q4ZHB3ODBEb3lSck56S0psOXZ3dC1mWEt2a1FZZndCLU9uZUFqMVVGaUZWSGJldWM0QmhXUDREUFBSS3JLNHR0Z1M4a3VrTWkwbXBmcEkyWXFkZklua3h5RkJXNllaWEdpU3Jlb0tXSWpkLXBwMER4Yk9sUHFZYU1GNEswck1RTkowNQ?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -388,6 +367,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "800x450",
    "materia_url": "https://jr.jor.br/2026/11/10/abordagem-em-frente-de-escola-termina-com-um-preso-em-jundiai/"
+  },
+  {
+   "titulo": "Homem é preso em clínica de Piedade suspeito de espancar e matar esposa em Sorocaba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc3dZdnFhZUJkRVpXQ2I3MlRYX09tOFh2bklEejJZNE9nVDMxbElQWlB2WHU0T1RtZlJnMkdGMWlaWGVybEk1cXUyY2N6MzhENDJiNmpyVktOX0Fqa2Fuc3JfMGNGakV6VDhTTmNQbS1sQ3R0LVhEclVpcTREWm5nYVpYdkExZExNUXduNjNCaUVlRVpCaUZXcjRpRU10UUttenhGMFhhcGRJYnEtZ09oWVprQTl6SkpVcGZCeDRIcTBMT3J5dUdJRmxaRkVlc2dnNnRjQmR0YVZTSDFxMmdQUTRaQdIB8gFBVV95cUxPUTNsWnN4alFSTEU1cS1sVGY0LWhES21KdTRybzl1U2N2SXZNSURhSFJmVUlUcmdqdXJqUXRlMXppWEpqS1VzeDZCeng1OVFyV2tSUTU4VkJINHA5SnBkTXpGT3lEV3lpMzVubk4yd0dFTkJQcVRyVXZBNGdmaG9iT3dmdnN1NzAyczkzU01vVjlqRlMySlZTOWMzS1JuTHRqRFdqM1FsR005dklWRExUeWlhcVduNlJyeDB3RmpNV3FlbXhINTRfMm1QWkw4MjVHN01zczNiaE1PbmJfWkRQYUkzaG4tWUd2eHJ2Mll3VWM2UQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794348872.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "10/11 19:14",
+   "foto": "d2ee3fe38943.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/10/homem-e-preso-em-clinica-de-piedade-suspeito-de-espancar-e-matar-esposa-em-sorocaba.ghtml"
   },
   {
    "titulo": "Comerciante de Itupeva é preso com 56 botijões antes de iniciar revenda - JORNAL DA REGIÃO",
@@ -475,6 +475,62 @@
    "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/nova-empresa-assume-coleta-de-lixo-em-jundiai-apos-decisao-judicial-15175899.ghtml"
   },
   {
+   "titulo": "MP das Bets é prorrogada pelo Congresso - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW96SDYycHp0VkRYbkxVTzg3aHBFa1NaSVhDRVNZcWpET1VqOHdhRzdLZmVPV0NnZWdROVVCdXNxaUtZaGJVOFFjXzBUekJfRU9oSEsxUmpHbDk1Y1ZqaDNkZmxqVTJVYmYxclpnM2ZBX3RHRm5TQjRxQTRWRVpMbS1nb29FOV9VMEMwcTZjUQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794413914.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "11/11 13:18",
+   "foto": "7836916c39ac.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1168",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/mp-das-bets-e-prorrogada-pelo-congresso/"
+  },
+  {
+   "titulo": "Reforma tributária: estudo de pesquisador de Jundiaí é aprovado em congresso internacional - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmtTNTNWTFd5b1p0aGk4NDI2czlQRzRWRlRiOVcxRVJZSE14eklad0hyQnpmUVh3Tjc4djJLaWx6U1dyZWxsUURIX2ZCazdVdEM4WWJDX0RUb05zcHRuRG9VMDNBbU1ZRnpEclA4dDJHTTNVMzZEdHBoTzRSVGE0QzZZNllyZjkweWJBZ3pxVThwMVpySXJ0OVdHNnZRYjU2U1BQLV9lZGMwdmppV2hYTQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794413669.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "11/11 13:14",
+   "foto": "2826ce281353.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/pesquisador-jundiai-reforma-tributaria-congresso-internacional/"
+  },
+  {
+   "titulo": "'Sensação de justiça', diz mãe de Carol Pascuin após condenação de ex-padrasto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHNFS0JOTjJ0ZWdnOXZtS1VaRUYwN2hsNE1NTGxuaUxpdjNVSXhfRlhxS1liQVVpbUUzUnh3Z1kzRmxLRW43VkN2a2hFRWNSaFhoSUZ3dUV3MXlnRU54QnBOcHpNYnZ4SVNTd0JnSUtjcHg1LVVFNEwtQV9pTW5aX096TXpTcnRheUZYaUxPM3ctQUVObHdfOXk0djBxRnl3VFBiWFptZjdBcXN0U1RfUWNSdlZtSDE0Vnc2bTZ0UlpmUlI4YkxEZ0VhbEhCNUc1aThHTlRicGfSAecBQVVfeXFMUGsxd3VIaUJhVnVpYkstTWNjYnRhelk1NlA5c1plYkh3cVpfVUEzcW13aUdvYmNOMEctVnZQZU5hYUR1THFJUWVvdFowNzViYjNYbjFaUnRBc2k4M1N2aXNjckEzMnZ3dkJMYktyclZrT2lXQzlpWEt0ckV2NWhrRzZ1N2UyaHMxMEdEaFQ1UG94aXFKY0pocmFON0hPVDVDWlhWZVNSWUhMZFNCek12TGxpMUVucHFsSl9wT2VCc1FlMVRqYU9lOFhQdGc0N1B4VmQ4OHh6LVNlX1pnQVdDVzZpek13a0lN?oc=5",
+   "fonte": "G1",
+   "quando": 1794409308.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 12:01"
+  },
+  {
    "titulo": "Homem com prisão decretada por suspeita de estupro em Prudente é preso depois de um mês foragido - G1",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWjRZZHpuQVp2RXZ2THJIWUdIMzFGdWlfeGVQRW8tYmR2aFllV1lZaFQ5V0pSbjF1Qkpac1dNZXNBa1gtYjkxZEthMEw3aHAweFN0d1Jid0UxTFZyQm9mV3pnSGpRRko4OTVwcGZnWk5kdVVyMl9meFUzWUVQdlR1aVhYcmhiSmVsQTFwLTRjSmdtRjdTTkx1ZW90OTNpT3dGWm50QnA1cjhCb3IyVERFOWJJd2tyVmg3UXM0b0VtY3d5UGhvUXlYLWFCT0ZTeDl5UGpDdTdCOUJYS0lYd1ExQUIwMjloN2NLWjdYMGxBemxpa18zTFhqRVI2ckZHY0pzN3IyTtIBkwJBVV95cUxOYTZsM3BHNEEybTdyd3g3MkxEQ1Z4UllES0RpU0RCeDl1WEhxbEFLTWhoQWg3TDFabHAtSlZKUDExcGlRSFNWT0daN3pGSEVCaWw3OXFaVDYtUC01QzdaZzdtUlpYMXl2b2VrTWF5bGpnT0ZraFZkSmhlSWw5NVlMLXNRc1M3ZS1JMERzMHJXby1BMVo5YjgyMm9LcEEtZEdRVWlvLWZwdUZMby1sQ2hNWExhTDdwdThVekJTZklaLVhuVFNEak05SFBQR0QzTkJRY0RTNkJzLUY5UGotVnZ3bDU2RW12ZW14WTJkb2pBQ2VmWDRlVUx1aFlmNC1KVEhzc1ZiUExPei0ybHl0Qm9lLXNKQQ?oc=5",
    "fonte": "G1",
@@ -488,12 +544,40 @@
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "11/11 11:52",
-   "foto": "c74958cbcf97.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/11/homem-com-prisao-decretada-por-suspeita-de-estupro-em-prudente-e-preso-depois-de-um-mes-foragido.ghtml"
+   "hora": "11/11 11:52"
+  },
+  {
+   "titulo": "JJ: Empresário e influenciador destrói o próprio carro no Centro - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0dBUngxZ0RCaDR6N0NmWG55bFVJZE5Ba0NVM0VuRTJlU3NWWXdQQ0ZqR0FDWjQ5QnZRVTdDZXF5N3hXTkJBdHJtenE1cjZKV3RqYWlMVC1hRDNkRzVIeUpIWURKV3NwdVZIbGxOVnZacUpOZU1kUFUxNk0tMU5weDhuOGJLeFNDbVl3WU1JQkpEczctLTFTSHl3cmZ5TFJfUTRqUll2bXRuR3VmRG13QU10bjJCZUdUcEdfcDJGRQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794407071.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "11/11 11:24"
+  },
+  {
+   "titulo": "Homem acusado de matar frentista após suposta briga de trânsito no Rio se entrega à polícia - Extra online",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHh4U05fV3VscmhRRDNfT3p5a0wyM3BwNXJsSW94S3dNUTc1OEpvazV2ZVFELXdpOGdqN1JrXzAteko2N3ctNnNMZk9jTlNGV2dCYTNYd3lZa2tXQldmOU1vT0ZUYUVKZmQ1U0p5UWkxV3NMY09VeVZoV1BXNFZqV0wxM3hwRENYVFdsb3VZaHlzcEpFMnpNcVNCMDJWR0xRMzdvdEFxblNvRnA5Szg2bmZRcFVrM0ZZOF9zdXdPRm5pOFJ0ZVVrWTFoaGttbm8yeEUyX3pwZEPSAecBQVVfeXFMUGNpUjQxM3V2VndSOFdSbGZKaUlEYU9qV3pnbk16SlRRVkVsMFN3R3RjSzVULVN0UjFSR21ncUhucnREcnRfNmRqX0JWX2VrY29GRjlrMk9SWUEzVXFIR0hYQ2txT2VpWVlxTEV4bjZ3a0k0NWdsWGk1bFVFYVZIZVkyQ2ozUVBpWWxqODQteHdoa3ZOTXd5TzhYZ2pkR19hckZiZkYtT2lTbm55TlZFTEpqNnhmOFU3bUZUZHhKVXd1bTJnUFBpbUpDU0N5YlZWdXNrUGs1eUZaenJnS1JyaXJLbUJOellR?oc=5",
+   "fonte": "Extra online",
+   "quando": 1794406803.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Extra online"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito",
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "11/11 11:20"
   },
   {
    "titulo": "JJ: Jundiaí terá seleção com 135 vagas de emprego em frigorífico - sampi.net.br",
@@ -509,12 +593,7 @@
     "servico"
    ],
    "pontos": 7,
-   "hora": "11/11 11:18",
-   "foto": "86f334b9fe62.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3017926/jundiai/2026/11/jundiai-tera-selecao-com-135-vagas-de-emprego-em-frigorifico"
+   "hora": "11/11 11:18"
   },
   {
    "titulo": "Marca de cerveja artesanal pioneira no Brasil vai a leilão após falência - NSC Total",
@@ -607,6 +686,22 @@
    "hora": "11/11 10:26"
   },
   {
+   "titulo": "Caminhoneiro é agredido violentamente por ladrões no Km 56 da Bandeirantes - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkpuQUl1aVNCaW4zZVBSSDVITXJ0MjJKR2F5NHpNcnBTcUpQaWlLY2wzWmtuMENiNWpBeUdLbWdNRmxNeHMxMWJva1dpUkVPMlEwWmRKS09TQ3dkQnhRX0l4N3FXbFJTNmhObEVCTEJYVDlnTGxhUmk4WFYycXR5SWUzQW9OU1ZKUzU1QW5fUTQwSEwwUUZqbnBqeW90Z0FRNHBrbzFvMA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794403285.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "11/11 10:21"
+  },
+  {
    "titulo": "JJ: Procurado é preso no fretado a caminho do trabalho em Jundiaí - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObUxBRlJWTTJxUG1SdjhtYy1NcjFJWThpSG5PblBrNXhsVmhaWWNoVVFncXVyQUFHRV9ER2J4R3c0RVpSOF8xYVg3YkFVNmFkOFlqTHdqY3hXcjlEcTVZY2dxUThNYnpmRHEzZ1p3aTJ4TlYwZW0tZ3M4d3FUdHdnMEJMSF9xdTVDWUFpNERvcXlzS3JoeGhnTEF1eXFzOWw3TUtXNE5jakJucnJIdnBPR3l6WWJBYUFKeWVPVzJHZHo?oc=5",
    "fonte": "sampi.net.br",
@@ -621,6 +716,20 @@
    ],
    "pontos": 7,
    "hora": "11/11 10:13"
+  },
+  {
+   "titulo": "Jardim São Camilo reúne moradores e Prefeitura em discussões sobre melhorias para o bairro - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTBadW9VWG1hUEtaejVudE42blA5aDBURjFJUklia1YxQTdaM2trMHFObTBVQThGNVM2bG4zbm9rNk9JWTBnRWM3cXdHTUZDNjBtWWN4NzJxUTZHeVZTcmVVeXhsRVhHdnpsUzBwcERDZnpVclRiOTVWVGt4VTdFUmVpYUFJeHRMUWY5RWt5M2l0Uk9lekRkZlJLLVd5ZnhNWXphZFZn?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794401098.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 09:44"
   },
   {
    "titulo": "Previsão do tempo em Porto Alegre hoje: veja como fica o clima nesta quarta-feira - Terra",
@@ -699,22 +808,6 @@
    ],
    "pontos": 7,
    "hora": "11/11 09:10"
-  },
-  {
-   "titulo": "JJ: Treinamento para segurança de motociclistas tem vagas abertas - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUlGekZ6MF9tUU10dG9JSkZCWG0xT19mWVBQY2gtUGhlNnB5TGlJcmVVNkI3SXo0YlJRdV9YYkRWTzBmX1BqTjVMTUlGci1jd2ZyQ1FwYzlXc1lYUEhWWGQzbHZTZmxROUJjSXFiZ0RwVW85MVVKa0ROVzRRUTZlSnV4dF9Xem0temJ1SVpkZ0xVNVV3MnhMdlhFallRSTc4cmZnZlI4SjVTd1dTZnQ0cDQydzJ4QXV4U0M2WTlnY0I?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794398386.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 08:59"
   },
   {
    "titulo": "Sampi Campinas: Homem é preso após manter sogra refém em Vinhedo - sampi.net.br",
@@ -995,22 +1088,6 @@
    "hora": "10/11 20:00"
   },
   {
-   "titulo": "Homem é preso em clínica de Piedade suspeito de espancar e matar esposa em Sorocaba - G1",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc3dZdnFhZUJkRVpXQ2I3MlRYX09tOFh2bklEejJZNE9nVDMxbElQWlB2WHU0T1RtZlJnMkdGMWlaWGVybEk1cXUyY2N6MzhENDJiNmpyVktOX0Fqa2Fuc3JfMGNGakV6VDhTTmNQbS1sQ3R0LVhEclVpcTREWm5nYVpYdkExZExNUXduNjNCaUVlRVpCaUZXcjRpRU10UUttenhGMFhhcGRJYnEtZ09oWVprQTl6SkpVcGZCeDRIcTBMT3J5dUdJRmxaRkVlc2dnNnRjQmR0YVZTSDFxMmdQUTRaQdIB8gFBVV95cUxPUTNsWnN4alFSTEU1cS1sVGY0LWhES21KdTRybzl1U2N2SXZNSURhSFJmVUlUcmdqdXJqUXRlMXppWEpqS1VzeDZCeng1OVFyV2tSUTU4VkJINHA5SnBkTXpGT3lEV3lpMzVubk4yd0dFTkJQcVRyVXZBNGdmaG9iT3dmdnN1NzAyczkzU01vVjlqRlMySlZTOWMzS1JuTHRqRFdqM1FsR005dklWRExUeWlhcVduNlJyeDB3RmpNV3FlbXhINTRfMm1QWkw4MjVHN01zczNiaE1PbmJfWkRQYUkzaG4tWUd2eHJ2Mll3VWM2UQ?oc=5",
-   "fonte": "G1",
-   "quando": 1794348872.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "10/11 19:14"
-  },
-  {
    "titulo": "Ministério notifica Uber por relatos de motoristas que recusam passageiros por posição política - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXRfQkV4N2d6TGNPTE5SQW9zX3g4N0FnOWdTbHQ4WkFLb3B5NFdiZEVwT2RPZVVzOS1wU0p5OVlnWmgxcXhwWkZLb0gxNjhoTThkcjg1bXdONXVXbVR3Ti15NjVLVG9ra0ZyaWRKSUxjTmN3MTIyd0YtdFIxRFIzVFQ0ZXVONzM1T2E3SnE1SGh2aHczTENsMWRzZkRvZDI1dk55NzdvNjNxN0t1QURDSXlkaV94R0dTV0xoTVJlbFZtdGs?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -1087,20 +1164,6 @@
    "hora": "10/11 18:02"
   },
   {
-   "titulo": "Sobrevivente da bomba atômica em Nagasaki encontrou na aquerela uma forma de se expressar - G1",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmVXZ0pPeGhrMGx2VWN0ZmZEeGp2SG90b2ttZjVzdmpMYWxMZXJ6MTJ6M0Z2cTZScXNzbllmU3hvX1NPVWJGYW43Zmtrbmc0NVROd0pueFh5aWY5V2xkNndmWUhUYWI2Yk5ZRjdrWUhjXzJGUllDaHRUTThnTmV6RTNxZDJpY3VvY0tSdkwtYzlMZmFZYjJsb0QyNU9QUGZKSW9qS1RTZTIwTlFEUTdkOEZYaHVIYWItdVo3M0loTXo2MXJFeHhkWWdOazFsb0lDN2s1NW9ReTBBZkNtZHo4SkVua19LZ9IB9AFBVV95cUxPZEp3R2ZMajlxVTlHOWx2M0hhUG02YjJRek96dWJrYkJIUVhwRjNFTjJERHNGRkQ1UzJUb0M1a0w3LU9yM1MwZV9TQVhRMzdJWnNzNk1POWFFSTlMOHdTMko1NzFjWGliVy1rWDhtaWc4SEJmemZaRVFOVXdGbXctWUs3V2IwSWFCY0JGbUZtSFlReEpydzBIN0NYb0ZQb2k4OE1fam9Ub0ZuNm9kQzRBZXhQU2xzUTA4NkFWRFZscVh1cV9pOGtCNDhYdXd4dDFUd1NPUEtDTGVxd2FhYmdWMzNFQW5lbjFzSVhHeG00TmJQblFG?oc=5",
-   "fonte": "G1",
-   "quando": 1794344028.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "10/11 17:53"
-  },
-  {
    "titulo": "Wet’n Wild inaugura KOBRA, a montanha-russa aquática mais alta do mundo - Grupo Jota Sidney",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2U4Zkhyb2dFa2JYQkZiNmFPU0N6ZklWSnRoa1F5VjlaV0FYZkNVOS03WG5KWGtnazdSOUhRX3pMNmFuNjFsWEhiZ1AxQklkN2N6ZzQtU0N6STdtVjJobDE0b0RoX0VVTnozbnBYdEQyUnd1eUFZSm9OVXIwRlJlc3NyMEp5WXhSX2w4bU9EbG9iM2VScHRES0Fxb1puV3lydWwyZU9zOG5zVkkwZHdCREh4czVxT1pQWllsVkJVMWxCT1FmTDNXdHZWODZ4UXBjUU9zRWJYMEM0djV4bTE1NTVfQ0LSAeoBQVVfeXFMTjg2WVZodnVWdWJJS3F5OTlROGx5V2ZDbHdGSy1lZWxUMnhwWXYxZjlMZjhpRVptNEpqTlpYQktwb0U1QUVLWXJZd21jTXlFeTFObXpGdlJ5U0JsYkJJRmFmemNtQ0VZbDJLbC1sMTRvU2MtNjJHaF85YXd6SjVhc245YXVCeFJsVUQ0SnNqdUFsRlBYS3pDV1dTXzU2S0NZbmlKTFhWWUZIa0lYUHFNNUVQd2paU0J1OVRWVHl5Um51RUZRUUpZZm5UcE05ejlMblFTbUZHLXhQVTBzeVgySFVPSnFyYW04bDZR?oc=5",
    "fonte": "Grupo Jota Sidney",
@@ -1145,20 +1208,6 @@
    "hora": "10/11 17:19"
   },
   {
-   "titulo": "g1 em 1 minuto: Após ter casa invadida, morador vira 'cavaleiro medieval' em Rio Preto - G1",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjNLUjlZQnhFRUVSSkRfTjNlbXAxRUhRcHZ4TEVkZXlIdnZQOHFUVGt3MzE3eWV5QmRYUVRDc3hKekxYaUxQUl9TMXVad292TlhPX0lZbHlwdkZaeHdwV0ZpeGtFSnlKVFlLVlJWUzI0SEdtVjdLb2swQ0xKREZKLWV0N1dGQ0Q3YW1lTDk3UnlERGxLcGpPTEFKd3NVWUMwTVJaWEE5enpfQmpkbGpPYWg3VWhrTnE1VUpIcnNOeHVIQnE5djNyWGdRUmFXMnVNTTdwdWdINWZTYmtP0gHrAUFVX3lxTE43R2hmcFNBRHQ3TmpWRU40SDVjVmdGN1JPbFBzeUFOWnFVVTFiMjdCMktjY0JHdkJZOUxyMWJuWVJMelJPakdaM3hoN0Fubm9BcWE4dWxacENTc3VBa0FQQThWTmtsNTRJRklldktsdVlNa1kzc0hlTG5ISkNQZnk5U1ZXUlgwV096UzVZQnFMeUx0cVJnb1JNUWlXeFN5T09DelprUVRFM1R0MnZNUER5NlExWlNnb1M4aWFqY0x5YmlSSXRNSVZaRDZlbG9fWkplVmpweURkYmhqV1hOZHVEUG42N1BIMzZyYkE?oc=5",
-   "fonte": "G1",
-   "quando": 1794341946.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "10/11 17:19"
-  },
-  {
    "titulo": "João Gomes abre temporada de verão no Wet’n Wild em Itupeva - vtvnews.com.br",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2WFFrMWtaVGR1aDhmUEhIV2lCZzdaMXF6cnlsNG5BMS1kXy1qVlNjMkJtVWxSSVNzaExiajZyWFlKYjE2dDI1UU1EeFdRNWhXeGFDemdTb0JMNWxnbGdzTVFYR0JBS2lBb1NvY3N2MzFFWlRZWXBWSGhCSnNIZw?oc=5",
    "fonte": "vtvnews.com.br",
@@ -1171,6 +1220,20 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "10/11 17:00"
+  },
+  {
+   "titulo": "Após 172 dias internada no HU de Jundiaí, bebê Irys precisa de ajuda para tratamento; família faz rifa - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3hTNXBGVVFRTG5rNHZlUlRHQ0NNUWE4cTFqZ0dhOEFCQldZSndITTFnMzVJMkxvZ090ZjdoUHFCREkya1dfNTZKNGtER003N0xZV2J4Mk00UkpYd3FIcVNwTnR2ZUxHQWQxMjRad09nN3J5a2JPNEVRU0RiTGVzMnBpcFN5bG1DWTFzcXlOUndfeFJmbmpaNWFEd3Mwd3ludnhPZmxIMG16U0RGRnMtZXRYenZJWVl4cnJLb0hWNWpFem1PZWZ0Q3ktZ2k?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794340337.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "10/11 16:52"
   },
   {
    "titulo": "Instituto Federal de Jundiaí abre vagas para curso técnico gratuitas em Administração; veja como se inscrever - Tribuna de Jundiaí",
@@ -1254,20 +1317,6 @@
    "hora": "10/11 15:52"
   },
   {
-   "titulo": "Asfalto cede durante passagem de caminhão em rua de Boituva - G1",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJWWEpRUjRIUjRNUElEOE51Q3VfY2xsRGtBVGNhMXVQcHNoT0RLZ2I3dEVQNWtQT3h2eGtTaVQ4ZVhySW5KZXo0Vkh5RWk3UWFIUUx2cTlJemZVSGt4bUFQLTdwVEYtSFE5T1VWNlN0RWJWaWZESEVRRzZnS3VpeGhKaUxhOHdQZllLazJBUWdUckxJQ0paczhJUkJiS3NmZnJRYWxIODc3LVp0N09MQklHS2pUeEpiSlJBa21R0gHMAUFVX3lxTE9NMUZteHRlOEVya1pGM1dobHhfYURTUkphWXJzemh1R1BNRFJkb1NkdFRvQmdQWXlSTVVHNmhrWGtxM0lJeW5tZ2kwZ1Mzd3paeEEzUDdtS1FJMmc0akNlSkhXSm9wUWFqQWJVb1JGR2xXT3FrYkZ2SUtIbDZIYkRBMFAzQjhHZWQzOERDOVNqSXVfWnhxVlF4OHAtMHVNNU1HRWlzTngzRFFnOU5kUlRCLXFndDNfNmg1Ry1BU2wwQldfZ21Oc3h4d2dWRQ?oc=5",
-   "fonte": "G1",
-   "quando": 1794336172.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "10/11 15:42"
-  },
-  {
    "titulo": "Itupeva abre matrículas para Educação de Jovens e Adultos (EJA) - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOem1sVUlhNlg0YlN4N0p5eWJBWUc0ZlNkM3dlSlNlSTFKdUlmOFpIVUxjd0IyRUdua3FNQ0VpOFJvSFNGRDAzdzlSY1k5V0NYVFJwQlVUV0lyVmxmNTNUcU5CcmxCYnZPTzFMX1UydXR2WE9pVENNMV9SeF9mbEZTNGQ3YzdyeUlPNjRDUHB4bGlCZXVDN2pFaW1qYndMNEhCdG9RenhYQ1NNdGVvQURGR0M0b1l3Xy1WaXZZdzgtM2RiSkFa?oc=5",
    "fonte": "sampi.net.br",
@@ -1294,52 +1343,6 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "10/11 15:42"
-  },
-  {
-   "titulo": "JJ: PAT abre vagas de logística e vagas para pessoas com deficiência - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0FSUU90dVcxc3FrVXY3MUlzVlExcG5rLTBQMTBOdGpIUThsdVc0MW9YZFl4OENUbGtfekl4bndZZjBiV1lxdER3MVVxeTViRFRRTjQwYkdXZWhSeHFfOGlmOTFYWFh2OG1rVGpxQVVQYmZmUWtpbkNwV3NET1Q3SFRSdUVMU2FqUnRLazJ5WUFtNnFHZlZ6dTU4VmF1bDIzVFZOb1BnR0MtSWw4M2xfVHpBdXZ1M1F0NHFKZU5Yd1VWcXM?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794336149.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "10/11 15:42"
-  },
-  {
-   "titulo": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027 - Prefeitura de Várzea Paulista",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLVlMa0g0aXdyTVptOTV1RlFzODZ5NklyZzZfOHBlSURoQnhwWEtkZE1WOHRWODU0eG9kb3lfWjBwMm9FMHQxWVJTRjlhdHY2UGN6ckNGeTd6Y05xckNQYlJhVFJZY1I4NjlwSjVuejB5bkNiVWpoU0FKNDdJUl9iN3VCVnJGT2swVlFlaWV6OFU5U25jczJ6YUIzRGpCMVhWakhsWHUyU3JZNlp4Y0dJRXdiWXlfNlBjaW5MUXNOVkFHT0hoTllrUmNweFc2T01YclVmbjVVT2Ztd2JjV0o0OGpaM1F0OUx2dzV4Vw?oc=5",
-   "fonte": "Prefeitura de Várzea Paulista",
-   "quando": 1794335942.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Várzea Paulista"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "10/11 15:39"
-  },
-  {
-   "titulo": "Programa de proteção a mulheres cria 'violentômetro' para medir urgência de pedidos de ajuda em Itupeva - G1",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNzVSZnhSS0NoZURoMEtFSlVBcG5CWWZLYnhDa2xDSFltQy1Ick1VakNiSHFGcUtsMElYbDUxcE9oUS1XU2xDN0hjaW1FbEprTUFOSGtEbTBORENNM0dXa3JCTUR4UmlPLUNGMWJjSDdiV3B0UC1pclE1bi02dks4TzloYm4zazU1czZSbkR4aWNGU3UwMFczOVhiTGhxQml2R1dSaXQzbmVSeGRrT1NqZXpNY3ZtR3l2X2xkRWJGN09senkwX0htelZwLVZfNmNveUZ3RGxZcDBGWGp3RFNra2Q1WE82dmRqQ3d4eXJrbk56QXZGLVEyT3dSSdIBigJBVV95cUxQYVFsa25fLVFYSVhYOVZHVTBoMzhxLTZkUnBvdDBJSTNqbzhqLWN4RnByaXF2Yi1lOFBaUEFMMXd5TWRZLU83MWVrdUFTVVlEY3pWNHZVZjVEVUFjRkg2cHNkU05PbVlpRlo1MnpmQ2thR0Q2RjBnNFh4Z2gzN2lGaVg5WTBaSmdndWZQSFEzajZ2SmxXWVhrYXgwOG5OdGk1Sy1sVERwaHBRVzQzd3dIaFM1cnBTRmc4VXVHQS1hY1JuTHJrSWRTRzBkcTBrTnIwRHlzZ3FJdE9GSUFCXy1xZUpCVzFIZ05HbklPX1lHdm5OYjNrT0VqMzFhYVBxbGU4UV9Bbl8wdkdLQQ?oc=5",
-   "fonte": "G1",
-   "quando": 1794334627.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "10/11 15:17"
   }
  ]
 }
