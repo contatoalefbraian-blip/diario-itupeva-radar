@@ -41,7 +41,7 @@ Passe ao subagente a pauta, a manchete, o subtítulo, a fonte e a foto do radar;
 - Gere com `cd /tmp/kit && KIT=/tmp/kit python3 arte.py spec.json` (spec com arquivo, manchete, sub, fonte, foto + credito ou icone). Olhe a arte pronta.
 
 ## 6. Peter (aprovação da arte)
-Olhe a arte pronta e aplique os itens de imagem e marca do `redacao/08-peter-diretor.md`: imagem adequada (nada chocante, nenhum menor, nenhum inocente ligado ao fato, rosto de vítima desfocado), corte que não esconde o essencial, crédito na arte e na legenda, ilustrativa marcada, marca d'água de terceiros mantida, manchete e subtítulo iguais aos aprovados no passo 3. O texto já foi aprovado no passo 3: não revise de novo.
+Olhe a arte pronta e a legenda final e aplique **o checklist completo** do `redacao/08-peter-diretor.md` sobre tudo o que vai ao ar: manchete, subtítulo e fonte escritos na arte, legenda, imagem (nada chocante, nenhum menor, nenhum inocente ligado ao fato, rosto de vítima desfocado), corte que não esconde o essencial, crédito na arte e na legenda, ilustrativa marcada, marca d'água de terceiros mantida, ortografia e padrão visual. Você é a última camada: confira tudo o que aparece na arte e na legenda.
 - **APROVADO / APROVADO COM AJUSTE:** siga para o passo 7.
 - **BARRADO:** não vai para a fila. Mande ao Alef uma mensagem curta: "Peter barrou o post das HHh: <pauta>. Motivo: <regra e trecho>. No lugar: <outra pauta | horário vazio>." Se houver tempo, rode o plano B uma vez (passos 3 a 6).
 
