@@ -68,6 +68,8 @@ Sem cara de IA: corte frases feitas, exclamação em excesso e emojis demais (no
 - `materia`: a imagem principal da própria matéria, com no mínimo 700 px no lado maior (e 360 px no menor). Crédito "Foto: <veículo>". O editor autorizou o uso das fotos de todos os sites de pauta, sempre com crédito.
 - `ilustrativa`: a matéria não tinha foto com esse tamanho, então o radar baixou uma imagem livre do Wikimedia Commons sobre o tema (sem autoridades, eventos políticos ou pinturas). Crédito "Imagem ilustrativa: <autor> / Wikimedia Commons (<licença>)".
 
+**Sem foto da matéria, busque a imagem do assunto** (desde 10/11/2026): ícone só em último caso. Peça pelo arquivo `pedidos/<id>.json` com termos específicos (o lugar, a fachada, o órgão, a obra, o objeto da notícia, ex.: "Boate Kiss fachada"); o GitHub traz até 6 candidatas livres (Wikimedia Commons, incluindo o acervo da Agência Brasil) no ramo `imagens`, com crédito e licença. Passo a passo no `EDICAO.md`, passo 5.
+
 Para usar: `git clone --depth 1 -b fotos <repositório do radar> /tmp/fotos` e passe `/tmp/fotos/<foto>` no campo `foto` da arte e o texto de `credito` no campo `credito`. A Dê prepara a arte com a imagem ANTES de pedir aprovação; a foto enviada pelo editor sempre tem prioridade.
 
 **Crédito na arte (sempre que houver foto de terceiros):** o kit escreve o crédito minúsculo, com leve transparência, na vertical, no canto direito. Repita o crédito na legenda.

@@ -25,7 +25,12 @@ Checklist do manual. **Bloqueada** (risco de processo, inocente exposto, imagem 
 
 ## 5. Dê (arte)
 - `cp -r kit /tmp/kit && KIT=/tmp/kit bash /tmp/kit/setup.sh` e `git clone -q --depth 1 -b fotos <este repositório> /tmp/fotos`.
-- Foto da pauta: `/tmp/fotos/<foto>` com o `credito`. Olhe a imagem: descarte se for chocante, mostrar menor, trazer pessoa sem relação com o fato, ou se o corte esconder o essencial. Sem foto boa: arte com ícone.
+- **Ordem de preferência da imagem** (ícone só em último caso; arte com ícone é fraca):
+  1. Foto da pauta no radar (`foto_tipo: materia`): `/tmp/fotos/<foto>` com o `credito`.
+  2. **Imagem do assunto, buscada por você:** se não houver foto da matéria, ou se a do radar for ilustrativa genérica, peça uma imagem específica do que a notícia trata (o lugar, a fachada, o órgão, a obra, a rodovia, o objeto). Grave `pedidos/AAAA-MM-DD-HHh.json` com `{"id": "AAAA-MM-DD-HHh", "termos": ["<assunto exato>", "<assunto + cidade>", "<em inglês, se fizer sentido>"], "evitar": ["vitima", "corpo"]}`, faça commit e push só desse arquivo (se o `main` recusar, use um branch `claude/pedido-AAAA-MM-DD-HHh`). O GitHub baixa até 6 candidatas de fontes livres (Wikimedia Commons, que inclui fotos da Agência Brasil) em 1 a 2 minutos. Busque o resultado com `git clone -q --depth 1 -b imagens <este repositório> /tmp/imgs` (repita a cada 30 s, até 5 min) e veja `/tmp/imgs/AAAA-MM-DD-HHh/candidatas.json`. Olhe as candidatas e escolha a que mostra o assunto, usando o `credito` dela.
+  3. Ilustrativa do radar (`foto_tipo: ilustrativa`), se combinar com a notícia.
+  4. Só então a arte com ícone.
+- Olhe a imagem escolhida: descarte se for chocante, mostrar menor, trazer pessoa sem relação com o fato, rosto de vítima em destaque, ou se o corte esconder o essencial.
 - Gere com `cd /tmp/kit && KIT=/tmp/kit python3 arte.py spec.json` (spec com arquivo, manchete, sub, fonte, foto + credito ou icone). Olhe a arte pronta.
 
 ## 6. Peter (última camada)
