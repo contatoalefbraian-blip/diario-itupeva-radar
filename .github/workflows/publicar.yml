@@ -14,6 +14,12 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+      - name: preparar stories (versao 9:16 dos posts que vao sair agora)
+        run: |
+          pip install -q pillow
+          python3 publicador/preparar_stories.py
+          git config user.name "publicador"; git config user.email "publicador@users.noreply.github.com"
+          git add fila && git commit -qm "stories" && { for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done; sleep 20; } || true
       - name: publicar posts aprovados que chegaram no horario
         id: pub
         continue-on-error: true

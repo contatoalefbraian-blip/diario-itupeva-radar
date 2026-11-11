@@ -42,7 +42,7 @@ Aplique o checklist do `redacao/08-peter-diretor.md` sobre o pacote pronto: arte
 - Converta a arte para JPEG: `python3 -c "from PIL import Image; Image.open('/tmp/kit/ARTE.png').convert('RGB').save('fila/AAAA-MM-DD-HHh.jpg', quality=92)"`.
 - Grave `fila/AAAA-MM-DD-HHh.json`:
   `{"horario": "AAAA-MM-DDTHH:00:00-03:00", "tipo": "feed", "midia": ["fila/AAAA-MM-DD-HHh.jpg"], "legenda": "<legenda final>", "pauta": "<pauta em uma frase>", "aprovado_por": "Peter"}`
-- O publicador do GitHub posta no Instagram no horário (o Facebook recebe pelo compartilhamento automático). Não avise o Alef de posts aprovados.
+- O publicador do GitHub posta no Instagram e no Facebook no horário e, logo em seguida, republica a mesma arte nos Stories dos dois (versão 9:16 gerada sozinha; desliga com o arquivo `SEM_STORIES`). Não avise o Alef de posts aprovados.
 
 ## 8. Registro e commit
 - Acrescente a linha da edição em `registro/historico.md` (data, horário, pauta, fonte, crédito da imagem, status: "na fila, aprovado pelo Peter" ou "barrado pelo Peter: motivo") e salve a matéria em `registro/materias/AAAA-MM-DD-HHh-slug.md`.

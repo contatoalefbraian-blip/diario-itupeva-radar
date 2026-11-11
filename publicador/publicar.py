@@ -75,6 +75,27 @@ def publicar_facebook(post):
     return r.get("post_id") or r.get("id")
 
 
+def publicar_story(arq_story):
+    """Story no Instagram e na pagina do Facebook. Falha no story nao bloqueia nada."""
+    url = RAW + urllib.parse.quote(arq_story)
+    res = {}
+    try:
+        c = chamar("POST", f"{IG}/media", media_type="STORIES", image_url=url)["id"]
+        esperar(c)
+        res["instagram_story_id"] = chamar("POST", f"{IG}/media_publish", creation_id=c)["id"]
+    except Exception as e:
+        res["instagram_story_erro"] = str(e)
+    if FB_TOKEN:
+        try:
+            tok = token_pagina()
+            foto = chamar("POST", f"{PAGE}/photos", token=tok, url=url, published="false")["id"]
+            r = chamar("POST", f"{PAGE}/photo_stories", token=tok, photo_id=foto)
+            res["facebook_story_id"] = r.get("post_id") or r.get("id")
+        except Exception as e:
+            res["facebook_story_erro"] = str(e)
+    return res
+
+
 def publicar(post):
     midias = [RAW + urllib.parse.quote(m) for m in post["midia"]]
     tipo = post.get("tipo", "feed")
@@ -120,6 +141,16 @@ def main():
                 if os.path.exists(m):
                     os.remove(m)
             print("atrasado:", arq); continue
+        if post.get("tipo") == "so_story":  # story avulso de um post que ja esta no feed
+            post.update(publicar_story(post["midia"][0]))
+            post["status"] = "story publicado"
+            print("STORY AVULSO:", {k: v for k, v in post.items() if "story" in k})
+            json.dump(post, open(f"publicados/{nome}", "w"), ensure_ascii=False, indent=1)
+            os.remove(arq)
+            for m in post["midia"]:
+                if os.path.exists(m):
+                    os.remove(m)
+            continue
         try:
             mid, link = publicar(post)
         except Exception as e:
@@ -137,8 +168,14 @@ def main():
                 falhas += 1
                 post["facebook_erro"] = str(e)
                 print("FALHA FACEBOOK:", nome, e)
+        story = arq[:-5] + "-story.jpg"
+        if os.path.exists(story) and not os.path.exists("SEM_STORIES"):
+            post.update(publicar_story(story))
+            print("STORY:", {k: v for k, v in post.items() if "story" in k})
         json.dump(post, open(f"publicados/{nome}", "w"), ensure_ascii=False, indent=1)
         os.remove(arq)
+        if os.path.exists(story):
+            os.remove(story)
         for m in post["midia"]:
             if os.path.exists(m):
                 os.remove(m)
