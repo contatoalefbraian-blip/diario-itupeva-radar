@@ -1,0 +1,30 @@
+name: receber-fila
+# Se a rotina do Claude nao puder gravar direto no main, ela envia a edicao para um branch claude/...
+# Este workflow copia so fila/ e registro/ desse branch para o main e apaga o branch.
+on:
+  push:
+    branches: ["claude/**"]
+permissions:
+  contents: write
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+jobs:
+  receber:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: copiar fila e registro para o main
+        run: |
+          B="${GITHUB_REF#refs/heads/}"
+          git fetch -q origin "$B"
+          git checkout "origin/$B" -- fila registro 2>/dev/null || true
+          git config user.name "publicador"; git config user.email "publicador@users.noreply.github.com"
+          git add -A fila registro
+          git commit -qm "fila recebida de $B" || echo "nada novo"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+          git push -q origin --delete "$B" || true

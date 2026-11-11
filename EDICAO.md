@@ -42,6 +42,7 @@ Aplique o checklist do `redacao/08-peter-diretor.md` sobre o pacote pronto: arte
 ## 8. Registro e commit
 - Acrescente a linha da edição em `registro/historico.md` (data, horário, pauta, fonte, crédito da imagem, status: "na fila, aprovado pelo Peter" ou "barrado pelo Peter: motivo") e salve a matéria em `registro/materias/AAAA-MM-DD-HHh-slug.md`.
 - Commit **só** de `fila/` e `registro/`: `git add fila registro && git commit -m "edicao HHh" && git pull --rebase -q && git push -q`.
+- Se o push para o `main` for recusado, envie para um branch `claude/edicao-AAAA-MM-DD-HHh` (`git push origin HEAD:claude/edicao-AAAA-MM-DD-HHh`). O GitHub copia a fila para o `main` sozinho. Não abra pull request.
 
 ## 9. Sábado: Resumo da semana (rodada das 10h)
 Vídeo narrado 9:16 com 5 a 7 notícias de Itupeva da semana (tiradas de `registro/historico.md` e `registro/materias/`), no formato do manual da Dê, gerado com `kit/video.py` (setup com `bash /tmp/kit/setup.sh voz`). Edith e Peter revisam como num post. Aprovado: `fila/AAAA-MM-DD-12h.mp4` e o .json com `"tipo": "reels"` e horário 12h. A música o Instagram não coloca pela API: o vídeo sai só com a narração.
