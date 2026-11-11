@@ -16,7 +16,7 @@ Confira rapidamente os posts das últimas 24h em `registro/historico.md` (fato m
 
 ## Economia de créditos (desde 11/11/2026)
 - Tarefas mecânicas vão para um **subagente com modelo leve**: use a ferramenta Agent com `model: "sonnet"` nos passos 2 (Friday) e 5 (Dê), passando só o necessário (o horário e o foco; ou os textos aprovados e a pauta). Se a ferramenta Agent não estiver disponível, faça você mesmo.
-- Você (modelo da rotina) faz só o que pede qualidade: o texto do Ultron, a revisão jurídica da Edith com o Peter (passo 3) e a aprovação final da arte pelo Peter (passo 6).
+- O que pede qualidade roda com o **modelo forte**: o texto do Ultron com a revisão da Edith e do Peter (passo 3) e a aprovação final da arte pelo Peter (passo 6). Se a rotina já estiver no modelo forte (Opus), faça você mesmo; se estiver em Sonnet ou Haiku, rode o passo 3 e o passo 6 cada um num subagente com `model: "opus"`, passando só o briefing (passo 3) ou o caminho da arte e a legenda final (passo 6).
 - Teto de buscas: Friday até 4 buscas ou páginas abertas; Dê até 1 pedido de imagem. Pauta fraca não se força: use o plano B ou deixe o horário vazio.
 
 ## 2. Friday (pauta) · subagente leve
