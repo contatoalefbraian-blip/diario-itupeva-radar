@@ -9,3 +9,4 @@ jobs:
       - run: python3 publicador/meta_teste.py
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_FB_TOKEN: ${{ secrets.META_FB_TOKEN }}
