@@ -135,7 +135,15 @@ def main(xml_teste=None):
         lista.append(p)
     lista = [p for p in lista if p["categoria"] != "brasil" or p["assuntos"] or len(p["fontes"]) > 1]
     lista.sort(key=lambda p: (-p["pontos"], -p["quando"]))
-    lista = lista[:80]
+    # cota por categoria: Itupeva nao pode empurrar estado e Brasil para fora da lista
+    COTA = {"itupeva": 35, "regiao": 25, "estado": 15, "brasil": 15}
+    usados = {c: 0 for c in COTA}
+    escolhidos = []
+    for p in lista:
+        if usados[p["categoria"]] < COTA[p["categoria"]]:
+            usados[p["categoria"]] += 1
+            escolhidos.append(p)
+    lista = escolhidos
     json.dump({"gerado": time.strftime("%d/%m/%Y %H:%M", time.gmtime(agora - 3 * 3600)), "pautas": lista},
               open("pautas.json", "w"), ensure_ascii=False, indent=1)
     with open("pautas.md", "w") as f:
