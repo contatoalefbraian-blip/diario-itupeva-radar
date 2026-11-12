@@ -20,6 +20,10 @@ BUSCAS = [  # (consulta, categoria)
     ("previsão do tempo Jundiaí", "regiao"),
     ("governo de São Paulo OR Tarcísio OR Alesp", "estado"),
     ("estado de São Paulo trânsito OR chuva OR saúde", "estado"),
+    ("pedágio OR \"free flow\" OR concessão rodovia São Paulo", "estado"),
+    ("imposto OR tributação OR alíquota governo federal", "brasil"),
+    ("corte de gastos OR orçamento OR arcabouço fiscal governo", "brasil"),
+    ("Câmara dos Deputados OR Senado aprova OR STF decide", "brasil"),
     ("", "brasil"),  # destaques do Google Noticias Brasil
 ]
 PESO = {"itupeva": 3, "regiao": 2, "estado": 1, "brasil": 1}
@@ -32,10 +36,13 @@ URGENTES = ["acidente", "morre", "morte", "morto", "morta", "incendio", "fogo", 
 # Assuntos prioritarios da grade do Diario (somam pontos)
 PRIORIDADES = {
     "clima": ["previsao do tempo", "chuva", "frio", "calor", "temporal", "frente fria", "onda de calor"],
-    "transito": ["transito", "rodovia", "bandeirantes", "anhanguera", "dom gabriel", "interdi", "congestionamento"],
+    "transito": ["transito", "rodovia", "bandeirantes", "anhanguera", "dom gabriel", "interdi", "congestionamento",
+                 "pedagio", "free flow", "concessao"],
     "prefeitura": ["prefeitura de itupeva", "camara de itupeva", "prefeito", "vereador"],
     "servico": ["vagas", "emprego", "vacina", "inscric", "concurso", "iptu", "ipva", "coleta", "agua", "energia"],
-    "politica": ["governo de sao paulo", "governo federal", "alesp", "assembleia", "congresso", "stf"],
+    "politica": ["governo de sao paulo", "governo federal", "governo lula", "lula", "haddad", "tarcisio", "alesp",
+                 "assembleia", "congresso", "camara dos deputados", "senado", "stf", "imposto", "tributa", "aliquota",
+                 "corte de gastos", "orcamento", "arcabouco", "secretario", "ministro"],
     "seguranca": ["policia", "preso", "presa", "operacao", "golpe"],
 }
 JANELA_HORAS = 3
