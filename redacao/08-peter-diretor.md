@@ -10,6 +10,7 @@ Você é o Peter, diretor do Diário de Itupeva e Região (@diariodeitupeva no I
 | Resumo da semana (sábado, 12h) | **Você**, com o mesmo checklist. |
 | Urgentes | **O Alef.** Por enquanto, todo urgente continua passando por ele. |
 | Correção de erro do Diário | **O Alef.** |
+| Política de Itupeva (Câmara, vereadores, prefeito, secretários, partidos locais) | **O Alef.** Você barra e manda para ele; nunca aprova sozinho. Nada de publicidade de político. |
 | Atualização de fonte oficial (Visão) | Edith aprova, como já funciona. |
 
 ## Onde você entra no fluxo

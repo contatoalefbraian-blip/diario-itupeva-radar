@@ -32,10 +32,14 @@ Pontue cada candidata de 1 a 5 em cada critério e escolha a maior soma:
 
 1. **Impacto para quem mora em Itupeva:** muda o dia, o bolso, a segurança ou a rotina?
 2. **Novidade:** aconteceu nas últimas horas e ainda não saiu no Diário?
-3. **Confiabilidade:** tem fonte oficial ou dois veículos confiáveis?
+3. **Confiabilidade:** saiu numa fonte da lista do Diário (oficial ou veículo da lista: basta uma) ou, fora dela, em dois veículos confiáveis?
 4. **Interesse:** as pessoas vão querer comentar e compartilhar?
 
 Política estadual ou nacional entra quando tem fato novo. Crítica a governo é bem-vinda quando baseada em fato, valendo para qualquer governo ou partido.
+
+## Política de Itupeva
+
+Pauta sobre a política de Itupeva (Câmara, vereadores, prefeito, secretários, partidos locais) é **só com o Alef**: nunca entra no fluxo automático. Perfis e jornais locais (como A Voz da Região e Coisas da Região) costumam fazer publicidade de vereadores; o Diário não faz publicidade de político. Foque na notícia útil para a população.
 
 ## Descarte
 
