@@ -1,5 +1,5 @@
 {
- "gerado": "12/11/2026 16:22",
+ "gerado": "12/11/2026 16:39",
  "desde": "12/11/2026 10:35",
  "pautas": [
   {
@@ -360,6 +360,25 @@
    "foto_tamanho": "1600x1067"
   },
   {
+   "titulo": "'Trombadinha' é detido após roubo de corrente em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWNQcWlGZ1ZlbXZfQkN0a3Z4bkdBYndQUXJ0dTBWN29ET2FfNEZvMDZLb1BJMF9seHNaeUFOUjJIY05RS1lSRlJLSzgtMUZkeTVacW1FbTRCcHRDY2VQdWZ4dk4tNFU0RWZHX3VwZ0JWdm5XQnBwZEdQdmF5b2piSmRiXzdRUFZtX0JiUnlDNk9oV000NThtUlFKempoN29BTU5Kdmk5S2RBV256b19CeTllSXBZSVU?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794494308.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "12/11 11:38",
+   "foto": "82444d331ee6.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018201/policia/2026/11/trombadinha-e-detido-apos-roubo-de-corrente-em-jundiai"
+  },
+  {
    "titulo": "Homem é preso com mais de 400 kg de maconha em rodovia no interior de SP - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUFPNHFHaXA2Tk5sUkNEM3hnTkx0ZnNoRE55a2J0bl9NTWFKaVMwYm5qZTZoUFhfYTB0OUZQNms0QVlpY01ESHFVWUhkZVA0V3BIX1MwV3ZqNXN3ZzJ1Ynl1b1Qzd1Fha1pMMTRtTHlmMXdoOVpCMzMtbFp4anlTRllHbmt1UFdTc0laXzRta0s0MUNJdHZPb3FXSDlSeWNQWFpuSG1FSGZSMDdmbFhoSGZldUUwU0kyOXZCTExRUmI?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -422,6 +441,46 @@
    "materia_url": "https://jr.jor.br/2026/11/12/jundiai-promove-vacinacao-na-clinica-da-familia-ponte-sao-joao/"
   },
   {
+   "titulo": "Chuva na Grande SP inunda ruas e deixa veículos ilhados em meio a enchentes - G1",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWd2X05SUl96MnkzVkl0RHIycUkyRFZhRFI4ZnlhYUNwRDJpeDItbTAxZ3VjN2ZQT0lLNWxVc3AyNUp1Sm5uaU5RZmc3TUxQU1ZCZ1lwUlVZYUprdFpSWXBlazBxNzBRZFhJdUxnbTNhWUZBY0FmdXBCLUFOMFBYb3JIVE01bFdnX1FnRkhvMlo0LVhBNlAzMFU1Q29PeWp3c3lSMVJFclJma2xCMFFfRUNCOVdkVU5KbDlxUFd3eEtyZ9IB0AFBVV95cUxQdjhSdF9YMUQyMEtIajFaTlZQc1ludjBUVWdUZ0gxVHFmMGYybFNqRGxYTERRR1lDY3VIUE5sQXlUVVVmRVhmN1BQMElaQ0cycHc3S3EzWGxKS0d5Mlh3T2VDYzRWdWtZV0tRLTE0c3pUbERyUzBEemdlSFlwQ2FGRHFoWS1JaE5qV0RWOERqMTJTZExYdU9BdXA5bm5xVFR1X0RrTGhQTTNQVzZJNnNkRkdRZTVoZTFfVWxOSVEzM21acHVMVEd4empZRkxGUmNH?oc=5",
+   "fonte": "G1",
+   "quando": 1794511938.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "12/11 16:32",
+   "foto": "7dc8bdbf5569.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1043",
+   "materia_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/12/chuva-sp-inunda-ruas-e-deixa-veiculos-ilhados-em-meio-a-enchentes.ghtml"
+  },
+  {
+   "titulo": "São Paulo treina situações de jogo na Data Fifa - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2JGakRhbTVOMW5LODZaTmVxNWI2dzA3ZE1xeFp1Wk9tNV9vWE1Ma3FtTWdSNTRtWlYxbDh5dU83ZnI3RW1wazNEWWx6VGNtUU5vT0Nab3FQa3pKaWc0eTA5U3pYUEszWjFMcHkzNXE4d1JoUGdET1R6bDFnWm0xc2kwSDkzWmxJTU5yY2VVbmpIRWlsYm1wVWhB?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794511619.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 16:26",
+   "foto": "7da6db0d9a01.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x2000",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-treina-situacoes-de-jogo-na-data-fifa/"
+  },
+  {
    "titulo": "Festa da Uva 2027: Jundiaí se prepara para receber turistas do Brasil e do exterior - ABC da Comunicação",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDl2VTVLMGh6Wk1vZFNzLWI1bFdRVHduQ1pzVGFieE1WYlF2NGw4Y2hrRDNhMG9qeVd5ZUFBNkJiaTJfSXJ5VmNWY1Nya3ZZdG1BZXV1RWIzSHR6MjlFaDFSekZCczVLQ1pFY3NGYklRQU5PYUlGODNnRVdwNUxVeXNJbjhFbGhSTjZOWldybnZLN1NMUXNFR2wwOXFweWxPck5iV0hwUnU4eC1YUlNGdm55Ni13S3g0Wk5R?oc=5",
    "fonte": "ABC da Comunicação",
@@ -440,6 +499,24 @@
    "foto_tamanho": "1600x1195"
   },
   {
+   "titulo": "Flávia Noronha é cotada para assumir reportagem de Vinhedo no novo telejornal da VV8 TV - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHVUa1FlTkVZU3FCaV9nSWxqQ1A1MzE3TEJWbWxvZ2NXUm82d3RGXzM5bWxZRDJ1RlpPQ0JaX3Bic0UwMnJOSmNWQjVMdGlwRHR4Z0ttMDc0QjJvMFNHcVRFX0F1dWVIVmtZVmhEM3ZsYmVDMFpWY3BMTGhFaGxRWkRzeEhVMkotV1dQUUU1V2ZndzB5NzRvMFoxeTY3QjNXd1pWWWh3NzlVckZjSXp0cFdpSE94ekNVWWkyaFlyNkRhajFW?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794511029.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 16:17",
+   "foto": "fd8c667b2183.jpg",
+   "credito": "Imagem ilustrativa: enioprado / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x896"
+  },
+  {
    "titulo": "Canal de umidade mantém SP sob ameaça de chuvas intensas e de temporais; confira - Meteored Brasil",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlZUb3h6eW5ENGtQcjRTX2JrZXliZEc0d1cyUTMtWFpVczgxaVJVdmVjeVF0Ml92Y0o0MWpveTJXMS1VN0F1T1VrZVFMMWFFM245X0hKMGZVVnFjVUhJQTlBcWZWQnBjNnRqNTJjMjdxOWhlYXFmc2w1aE8yNTVmYkwybTZEOFBYWWZKek1yaGMxeWF4YWo0T1dzYXpHbDBHdjZKUzhmV2FJa05PNlJmSmhFbV9BaW1kN2ZLQ0hGZ2J6UURJVTh6cjBR?oc=5",
    "fonte": "Meteored Brasil",
@@ -453,12 +530,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "12/11 16:09",
-   "foto": "cc4b0be894e0.jpg",
-   "credito": "Foto: Meteored Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x731",
-   "materia_url": "https://www.meteored.com.br/noticias/previsao/canal-de-umidade-mantem-sp-sob-ameaca-de-chuvas-intensas-e-de-temporais-confira.html"
+   "hora": "12/11 16:09"
   },
   {
    "titulo": "Metrô terá operação 24 horas e reforço na circulação de trens no segundo fim de semana de Enem - agenciasp.sp.gov.br",
@@ -474,12 +546,7 @@
     "seguranca"
    ],
    "pontos": 5,
-   "hora": "12/11 15:55",
-   "foto": "e201a956cb34.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://www.agenciasp.sp.gov.br/transporte-e-transito/metro-tera-operacao-24-horas-segundo-dia-do-enem/"
+   "hora": "12/11 15:55"
   },
   {
    "titulo": "São Paulo tem nome retirado do transfer ban - Tribuna de Jundiaí",
@@ -493,32 +560,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "12/11 15:54",
-   "foto": "d80b8b04e8ad.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-tem-nome-retirado-do-transfer-ban/"
-  },
-  {
-   "titulo": "Dino nega pedido de empresários e autoriza jornada de 42 horas na escala 5x2 - Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFpxVVJ2aU9DZ0EweHo2Tmg3SmQtT205dmNBaFp5R2dFRW1SU01VZmF0ZVBTV1FwVVQ3RWItVmVaUHlUOGRHSFdGRDV5NWU0cTdRa0swei0tMWtiRnRuSm5ubW9MZDdRUS1kNzMydlF0SGlvdjRqLVpwVzlnblBhdENaak5vVWlaUllueG1SdVVPQ2N0TVNZM3AxaFJ2ejBhVHlNck1hTF9BMzd6OHlvTWtxSnpaT3pMWEFvRkQtLUFpeWZsTzZ1RE1LcGQxeURGamxQSmZqdjFfWUYz0gHiAUFVX3lxTE85MU14R2N4OHhWbzF0eFE1MkRxSGRwV0lUZEthRDc5RFhUUFhvTm1QMlhLU1dVekFvb1VuZUh0WTA1RTNRRTFDMjd3dUhTdllncDR6eExmX2cyb2FOQnIxR2FzcjZGbVZ4eWZyQTFFa1RRZFhNa1FmYS1kZFRYZ1RxNER1SG5GbHFnSnMzZ1VhUEtKWjZCWm42Q1BTWHVfdWJXY3NLaEhhMGVoTHZRTmlOWUVrOWJLX19nU1g2ZVhRZGxGS2ZDWmZQd01Kd09qVU4wOUdmSVBDa0ZFeXRHUnlHSnc?oc=5",
-   "fonte": "Correio Braziliense",
-   "quando": 1794508920.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Correio Braziliense"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "12/11 15:42",
-   "foto": "c33e1b319152.jpg",
-   "credito": "Imagem ilustrativa: Ian S / Wikimedia Commons (CC BY-SA 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1024x681"
+   "hora": "12/11 15:54"
   },
   {
    "titulo": "Governo de São Paulo libera transporte no domingo de Enem - Portal ABC do ABC",
@@ -811,36 +853,6 @@
    "hora": "12/11 14:00"
   },
   {
-   "titulo": "Na 'sexta-feira 13', museu abre para visitação noturna em Rio Preto - G1",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODNxVmtpS0pWY2VxR2twdHFsckhlX19VTXdJM1BiMlVIcEloeXhfeGZlSUllNUdvcGtUZUNpLVh1Y0E2eTFlQU91ZVUxU1BJTlJPaGJvTmw5Y2dTcE9VLU92dWI4dHhXbG9pSllzMnE5c1lPVko1S3c3Y09kUEdsRWhSSkw1MGk1M2FCXy1tMF9pclEtZGluSjhOZmE5aXhvc1c1WHlab012OGRFX19YUU0wenV3cWFSWkVsczkyQnNwUDlT0gHTAUFVX3lxTE1YWnFUMjY2NzNkWjM4eEhhRS1MaFlfQ29xN0xlNmVrR3lpazdMUjU5dFhTVHVnR1AyVHVDODIxa21qeVdhOXV5elVCR2pRZVJhMmNtekdUUVE2WGZUb2xpaUpLR05menBrS1laMEJWT21jQzNsN1ZnVW9VZEE5by0zYkYxU081elQxSGJraUQ1eEhIMC1Qb1pvZUJ1U1RHcUd0QTdLMXViU1RqU21pMDhnYlEyWndYMXFfekdzbGxYRlZSR1NHZjFVMkJzaldIWmRjcWc?oc=5",
-   "fonte": "G1",
-   "quando": 1794502725.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "12/11 13:58"
-  },
-  {
-   "titulo": "Dia do prefeito Ricardo Nunes - Prefeitura de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmNDc2VRMGdtWjczRjdtSTlhRXBfRDVKZG13ZWJ1R1pFNlRaQl9meWlkQUNiVFhUdDFZc2Zwb1dPbmtxLTlRaEZ6TW1WZ2xXVkN6bHlIbTFrQmhrR19EaDdXSHRZX3htaXRRSHFXRXRlQlpESTJpOElQNE9oX3NfNHJ6QnBUdnNVUmVrS0prQmpCb2I0SVJR?oc=5",
-   "fonte": "Prefeitura de São Paulo",
-   "quando": 1794501984.0,
-   "categoria": "estado",
-   "fontes": [
-    "Prefeitura de São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura"
-   ],
-   "pontos": 5,
-   "hora": "12/11 13:46"
-  },
-  {
    "titulo": "Júlia Zanatta apresenta 28 emendas à MP do Imposto Seletivo para poupar setores de Santa Catarina - Jornal Opinião",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3ZDRzVVMEEtOXMxSTJUX1laNDMwdzBLVWR3ZXlKa2h2VHFqZlFKMXhWcnNONzlYbjhmaUdHWmNnZTBKQ3lCOFFySXYxRzI3b1dHRGtnSU1CUXVXQkF3NXRuSkx3NXk2dnF6bjgtSGF5dThYZWNOa1N6Z1dSX2JTbFhIRVVDeGVXS2hveHBlejdjV1l4T25fUi0xblQ5S2VITWEwUXNVajAxM3YxUUMyVW4wdjQ0R2plZzF4WDlWZUdRZw?oc=5",
    "fonte": "Jornal Opinião",
@@ -913,20 +925,6 @@
    "hora": "12/11 13:28"
   },
   {
-   "titulo": "Estudantes da rede municipal produzem jornal com propostas para cidade sustentável - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkM1a0tTMnI5dm5kMHVuZjJsdFowNDRlUG93Q1hNeE1UT1E0eGp1SkJoelpmT20ydWVRTU5uNHRJRGZmOWk1ZUNsYTJxMTZiLW9FRjhvZnEtaUJXdF91NXZiS3ZCWlIySVlCRFRMWGhVZ0NUVjMzUU9GNVptR3pXN1RDb1RnWjNRcmRhc0ZsM2JOY01wdVFXNm5LbW9sNVZ5cTFPai1iVXBTRW5tZlpjdlRxandzenpKd0VKNGdR?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794500133.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal VV8"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "12/11 13:15"
-  },
-  {
    "titulo": "Senado aprova renegociação de dívidas rurais de até R$ 100 bilhões - Brasil no Centro",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3oyVkIwQXVoeFc2ZHpObGd3bFBrTnNwN3VWNTNLQ3ZSN2ZBWGFld2gyRVFZUnRYbnZDZW4yQlRkSmVXbTJHY2xHMnpSMjZWYnNSODBqNzNGZ0NOeVZ3cEpOTUx4MXgzdG9ERlQyWmdheDZKMDJoYTUtUVFWVVVjeEFHRDhSaXFlYjZqMUZUT3hZYXBCcVZ5Ull4V0c?oc=5",
    "fonte": "Brasil no Centro",
@@ -989,6 +987,22 @@
    ],
    "pontos": 5,
    "hora": "12/11 11:25"
+  },
+  {
+   "titulo": "Lula pede que “Exército” cobre desculpas da imprensa pelo caso triplex - Poder360",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2pOSDhUdVUtTjJtLVJ2ektQUGRvZXNZaE05NE1ZTXlISHJ3dkpMZnV3emFzdVJ0cVNMZnBqM0V5U25PNkZYMFdxQTZWbFQ1SmtOVUlKYmtEREVXMlpmbWhfU3ljWktaUEtyTW5DaWxxeHhBMjJaLW5RSU9zb1hpX0ZxVTEzN19ZMHNGUmhLTTFUdW1aWWkzX3ltZjk4alFQQm9nWlBKYUpqUDN3MFFoSA?oc=5",
+   "fonte": "Poder360",
+   "quando": 1794493383.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Poder360"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 11:23"
   },
   {
    "titulo": "Previsão do tempo: tendência de chuva para dez dias no Brasil - MetSul Meteorologia",
