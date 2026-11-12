@@ -14,6 +14,8 @@ BUSCAS = [  # (consulta, categoria)
     ("Itupeva prefeitura OR câmara OR saúde OR escola", "itupeva"),
     ("Itupeva falta de água OR sem energia OR alagamento", "itupeva"),
     ("Jundiaí", "regiao"),
+    ("site:olharitupeva.com.br", "itupeva"),
+    ("site:avozjundiai.com", "regiao"),
     ("Louveira OR Cabreúva OR Jarinu OR Vinhedo OR \"Várzea Paulista\"", "regiao"),
     ("Defesa Civil Jundiaí OR Itupeva", "regiao"),
     ("Bandeirantes Jundiaí OR Anhanguera Jundiaí OR \"Dom Gabriel\"", "regiao"),

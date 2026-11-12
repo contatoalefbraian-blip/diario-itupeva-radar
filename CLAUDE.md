@@ -30,7 +30,7 @@ Pauta sobre a política de Itupeva (Câmara, vereadores, prefeito, secretários 
 
 ## Arquivos
 - `radar.py` e `.github/workflows/radar.yml`: o radar, roda a cada 15 minutos no GitHub Actions.
-- `pautas.json` e `pautas.md`: lista das notícias das últimas 24h, gerada pelo radar.
+- `pautas.json` e `pautas.md`: lista das notícias publicadas desde a edição anterior (campo `desde`), gerada pelo radar.
 - `fotos.py`: baixa a foto (700 px ou mais) das pautas mais relevantes ou uma imagem ilustrativa livre; as imagens ficam no ramo `fotos`.
 - `publicador/publicar.py` e `.github/workflows/publicar.yml`: publicam no Instagram os posts da fila no horário (a cada 10 min, das 7h às 21h). Arquivo `PAUSA` na raiz suspende tudo.
 - `EDICAO.md`: roteiro das edições programadas (Friday, Ultron, Edith, Dê, Peter).
