@@ -1,5 +1,5 @@
 {
- "gerado": "11/11/2026 20:43",
+ "gerado": "11/11/2026 21:39",
  "pautas": [
   {
    "titulo": "Defesa Civil alerta para chuva em Jundiaí até sexta-feira - Portal Novo Dia",
@@ -123,23 +123,25 @@
    "materia_url": "https://jr.jor.br/2026/11/11/nova-empresa-assume-coleta-de-lixo-em-jundiai-e-morador-pode-avisar-onde-servico-falhou/"
   },
   {
-   "titulo": "Defesa Civil de Vinhedo participa de estudo sobre acidente aéreo da Voepass - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVBNX0ZUV2JRNmVjbFNaaFFnbkpZQlFKYWNNRDltVUtKWEhTSG1hMjNHY1BBWEVka0twcTRZcVF2Q1hPbG9jNGhfd1FvUUpJdWVISDhtOWo0ZXNUaTI5ak1udnE4TGZxZjBEakxxUXJkUWt0a2hzdXo2SG9aTkxnWHlDMnhvX2F3YjJxYzhZdzlmZUxRNDBVTHNfYkZGWTgyaU1ZQXlFTG9oUHlNdVdzUWNOS3c?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794416506.0,
-   "categoria": "regiao",
+   "titulo": "JJ: Ladrão ferido é abandonado pelo amigo e preso pela DIG em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkxTUTJDajg1aGk3RVJVOFpkOG9ZR0ROR3ppOW5LLVp6eVZ6UzRJdFdkbGRmMHdfM3ZBcE5aQjhqZE9hOFU0V3dwMVBhekw1Y25RcllTbXNybXo0YVRDa04xWE1YOWdJR0xGWXcxbjBJdEZ3a2NkZWNRRFNyVTUtOFV6MVpsOHBIcmEtM0YtRXdRanczYkZPY0dxNXZxN0FaOWZwODRXNll5N0JzMUQxUUhtYVIzcXZ6ZF9VdTB4UjB0bGg4RFE?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794442303.0,
+   "categoria": "itupeva",
    "fontes": [
-    "Portal VV8"
+    "sampi.net.br"
    ],
-   "urgente": true,
-   "assuntos": [],
-   "pontos": 10,
-   "hora": "11/11 14:01",
-   "foto": "62ff9903823b.jpg",
-   "credito": "Foto: Portal VV8",
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "11/11 21:11",
+   "foto": "0f14dbb6221d.jpg",
+   "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
-   "foto_tamanho": "800x450",
-   "materia_url": "https://portalvv8.com.br/noticia/84938/defesa-civil-de-vinhedo-participa-de-estudo-sobre-acidente-aereo-da-voepass"
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018103/policia/2026/11/ladrao-ferido-e-abandonado-pelo-amigo-e-preso-pela-dig-em-jundiai"
   },
   {
    "titulo": "Dupla é presa suspeita de desviar mais de R$ 1 milhão em matéria prima de fábrica de Itupeva - G1",
@@ -266,6 +268,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x2000",
    "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-continua-treinamentos-na-data-fifa-enquanto-aguarda-definicao-de-amistoso/"
+  },
+  {
+   "titulo": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027 - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXVRUFpNZTVrUE4zbm9vcDJXZHlYaGZxQktFdll3anhVc2FEa3lObEk4WmFyMTEwcFRGQnpzWmo4QktVbkthLWJOYnNYMWdic2UxNjZVem9iR3pZNVRjdlNSSTNjUDZkZVhxamFGS2xNeXduRm5WUVhTUk5PYUFfX3pZRGR5eTg3bnhHMFROS0kyNHM0LW1B?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794420498.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "11/11 15:08",
+   "foto": "dfd768b21393.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1400x934",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/varzea-paulista/inscricoes-eja-varzea-paulista-2027/"
   },
   {
    "titulo": "Família procura por Bianca há um ano. Polícia fez todas as buscas possíveis - JORNAL DA REGIÃO",
@@ -454,27 +477,6 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/pesquisador-jundiai-reforma-tributaria-congresso-internacional/"
-  },
-  {
-   "titulo": "JJ: Empresário e influenciador destrói o próprio carro no Centro - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0dBUngxZ0RCaDR6N0NmWG55bFVJZE5Ba0NVM0VuRTJlU3NWWXdQQ0ZqR0FDWjQ5QnZRVTdDZXF5N3hXTkJBdHJtenE1cjZKV3RqYWlMVC1hRDNkRzVIeUpIWURKV3NwdVZIbGxOVnZacUpOZU1kUFUxNk0tMU5weDhuOGJLeFNDbVl3WU1JQkpEczctLTFTSHl3cmZ5TFJfUTRqUll2bXRuR3VmRG13QU10bjJCZUdUcEdfcDJGRQ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794407071.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 9,
-   "hora": "11/11 11:24",
-   "foto": "fc7af4077393.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3017925/policia/2026/11/empresario-e-influenciador-destroi-o-proprio-carro-no-centro"
   },
   {
    "titulo": "JJ: Jundiaí terá seleção com 135 vagas de emprego em frigorífico - sampi.net.br",
@@ -987,22 +989,6 @@
    "hora": "11/11 15:20"
   },
   {
-   "titulo": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027 - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXVRUFpNZTVrUE4zbm9vcDJXZHlYaGZxQktFdll3anhVc2FEa3lObEk4WmFyMTEwcFRGQnpzWmo4QktVbkthLWJOYnNYMWdic2UxNjZVem9iR3pZNVRjdlNSSTNjUDZkZVhxamFGS2xNeXduRm5WUVhTUk5PYUFfX3pZRGR5eTg3bnhHMFROS0kyNHM0LW1B?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794420498.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "11/11 15:08"
-  },
-  {
    "titulo": "JJ: Semana do Super Cata-Treco atenderá outros bairros - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXdKNXVoY1B6aGtyRWlOT3VtYWpGLUtSZjV5YmMtb3JGejlSazNkZWN6eXFhVl9yLXUzRHNYWTg0MWRUQWtwNmdkTi03WDhHNWVTUE5GVVpwWktvVUZRZFBsMGNyVy1EQnZXZzlqU1JrOHRBX2lMcE0xc2NtdnJzZFJmaUtjb3VwOXU2a1ZVN3IydEd0X2dPUmJ5WEdVa3dpR0xPQjhJLVg3dGFwSVA0eQ?oc=5",
    "fonte": "sampi.net.br",
@@ -1129,18 +1115,18 @@
    "hora": "11/11 13:36"
   },
   {
-   "titulo": "Sorocaba vence São José por 3 a 0 e encara Ferroviária na semifinal do Paulista - G1",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY1doQThMM1NtckYyb2ptNUpEUmVHREZ1XzBOUlNtRlE5T0tyLUxBcl9vX1Z5UnQtSm5tY1ZGazk3NHlzZGF1SlhrSWVUQkVKLUc3dTF3eDJRTnZFeE8xbGJzS1FFTVpZQ2ZrLThDRlJFZURfTFdMbHZzT0Q2T0VvdjZCTUxMM1FJOG9QVGJTY1llUzdBV0xhTllZRzJhQkFRaHJzWk1jYnJWcmk3ZFlMNnlORjNsbENyMTIyaW00eGhUbFJVNVhYZ3VOOHVWcmdlc2N5TUd2eFFrOW5LRmxza1RmU2tVVUlocXNYN1pzUWJ5WlVEMEVVc3ZvSk9qVTjSAY4CQVVfeXFMTUNJMzcxS2FLcTBvOFpLT3IzRWtjVWJMYVVCYWNSR1lDdHNJX3UxcmdmeVU4UndZWllSUkE1dFZzbGE2NzJfWUdsQ2pyZGNxNnpadHViSkVucjg5a0FUN0IwSU01X3VoXzRuTEZQNzV5cnJicVhhaTBVYWlmQ2VsaUoyN3VBSnp6THFyNmRyZ2F3UVRBYkxyNVhYX2NaNV9HV0Z4Vl9XQVZUTE1PckoybHhhTVF2d3RUN052SE55eXAxTHRISW9QVlNFQWRaU0drNWZadFRQWk5vcEZiRXl3OHpMeWpWOVQ0RDZRS1FSZmY3THFhc193dldUTFp2OGZzbF8zZE5SSVBNWld1VXhB?oc=5",
-   "fonte": "G1",
-   "quando": 1794414895.0,
+   "titulo": "Sincomercio Jundiaí orienta lojistas sobre estratégias de vendas - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTm9qQjA5d09ZRy1aRzk1a0VBcFlRNUJHOXNHallyd0lxSmNIM1VpRWJOellYOW9VSWVkR3Z5T2h2YWhLVTZPbXNOVEtvNDM4NkxYT25SWW1rQ0FDUElEN183SDVBMjJoUzdpQUxVLS1wSkpYazktYWdGX0NZaExWS3M2bDR5eVo4dGcxS1ZSTEl4b29Vakp6bW95V1BaYld2YjBzQXFXN0x5VG1JcHVkRURDeGZLTVJ6SlVuX0Y4TnZhdTFHbUpyU3Z3?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794414946.0,
    "categoria": "itupeva",
    "fontes": [
-    "G1"
+    "sampi.net.br"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "11/11 13:34"
+   "hora": "11/11 13:35"
   },
   {
    "titulo": "Feminicídios em Sorocaba: marido é preso e ex-padrasto de jovem é condenado - G1",
@@ -1159,10 +1145,10 @@
    "hora": "11/11 13:33"
   },
   {
-   "titulo": "Vídeo: Zagueira Lauren, de Votorantim, é convocada para amistosos contra o Japão | Vídeos TEM Notícias 1ª Edição - G1",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQTlqWURIbmJ5ckhmcW5rYUxMdDYwMTlhUzF1ZE9Wazg3bFNrZ011RUFJc3ZFMTZwejVYMTBITDlNemtoQ0hGa3V6TjJoVEJPNERIRnBuUHNsYklVZnA2T0dpQ2U1dHBpeVRTWEtHSGlUZkZtQ2hNc0cyR3prWFNtZ0JLWmpNbUw3cUwtVTBHWVBCNWRqWHAtMm1ELU1oTUdLUlJRV1ozcVN0QVVoZXBnTGVNVUNITEVhTkdnRTY5VFhJRG1zRTVMclVhOUdIWmhTcWIxd1l2YkFPeHRSeDdfXzBOcTFYQTMwZkY0d05xNlM1WklO?oc=5",
+   "titulo": "Vídeo: Júri condena homem a 28 anos e 4 meses por feminicídio em Itapetininga | Vídeos TEM Notícias 1ª Edição - G1",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSU90anJ3LWFpOEpHbl8yZnpBekhCMlBHSklTa2JNQzAtdXpQLVpLcldsekZmc1k1dUtLbTFWQnVpbkctamRWVGEtQjdDU2RnejRyMXlXdHctaUc1WFpmTkw2b05QSFRpak5GODA2ZVNFN3M2SEJlWHhLV1ZpYUE2VkRHbktvZnlQOVB0WjB3UEJlMWZnU01kY0s5LUJEcUNqWFU0ZFdETGNJX3h0QVVFYWpQWElJLVJuV1UxUnd1MDFOdmFTUWlydU9RMWNuTEZ3MXBOeWI5Q0ZYTW1Yd21rdXZvR2ZFb2JkSjY3bW55b0tabTQ?oc=5",
    "fonte": "G1",
-   "quando": 1794414792.0,
+   "quando": 1794414601.0,
    "categoria": "itupeva",
    "fontes": [
     "G1"
@@ -1170,7 +1156,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "11/11 13:33"
+   "hora": "11/11 13:30"
   },
   {
    "titulo": "Itupeva realiza campanha de conscientização sobre violência contra a mulher - G1",
@@ -1329,6 +1315,20 @@
    ],
    "pontos": 7,
    "hora": "11/11 11:52"
+  },
+  {
+   "titulo": "Câmara de Jundiaí aprova criação do Selo 'Pet Friendly' para o comércio local - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczRjOU1BX3h0Z0ttdGlMb1RPWGpaNFV1QVhNbDg1Q0F3bFo5aG5pSGlldElIckhMT2xXVG9xWldlX2l3YlVYRjF0ZzdRdVJxVWwzMFZEWmQ4OHhTYm1yY0pZUnIwNW5CZDlFMTVNME9wOS1TY3VUX0VPV3pHSkhfYmdFZVg5Y2tqakpmMFplZHFwN2lB?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794406877.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "11/11 11:21"
   }
  ]
 }
