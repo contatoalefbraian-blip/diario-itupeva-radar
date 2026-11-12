@@ -1,5 +1,5 @@
 {
- "gerado": "12/11/2026 16:11",
+ "gerado": "12/11/2026 16:14",
  "pautas": [
   {
    "titulo": "Homem morre durante limpeza de chaminé em Itupeva - JORNAL DA REGIÃO",
@@ -101,27 +101,6 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/policia/desvio-materia-prima-itupeva/"
-  },
-  {
-   "titulo": "Suspeito de estuprar a filha durante seis anos é preso em Mairinque - G1",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHNnSkZFNmcza183Y3B5SFNWbllGeWh6SzN2NlItSnFBUU5LZGJrM3dnejhLYnVGVTEzRFBqZDdHamRVODBBXzhuNkRRaWdRM2ZHSjZYYzM0X2JTY0N3RkI4WDR1RHJwWmVYQjVjdXFWVGJBbHdaQmM1cExJUTJrQXRLSWdPWVprdEZwYzB6TzlBcmtvRlJCam5sQU9mVTNic1pBTGJGM1ltdEVLU2VlR2stOVZMaE1xLWVlQk1FMDE4VGcwZGJBYUhJZTY3QzhkU2tab2tPLWjSAecBQVVfeXFMTTk5ZEI2OVNsYUtRVTlIT01pdmVGQ2ZnSFRkVVQ5WmtyYllHZnVRS1hfaXZfOV9VTU9QQUFLcVZya1ZqekVvMkZCWXF3U3ZQODJETkpqNlNjUE9IR3FSQnBfVmltc2F6aUFRQnEzNlo5SThJdXBydS11TE5OdkpnNUVtZXBHR3N3bERxc2ZrMUxBVzc3V2NZVFo5X3FOS1h1T0ZMRkcwYWRhcUk4SXVBUF9pSS14LUlnR0gzZFpJSmpHYnBnaVJCdnQ4dnEwTGQ5dktMTWpVY1g3bUFfa2pwZk9nZEo1dENJ?oc=5",
-   "fonte": "G1",
-   "quando": 1794499038.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 9,
-   "hora": "12/11 12:57",
-   "foto": "d325ae080348.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1270x700",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/12/suspeito-de-estuprar-a-propria-filha-durante-seis-anos-e-preso-em-mairinque.ghtml"
   },
   {
    "titulo": "Magalog abre 150 vagas de emprego para moradores de Jundiaí e região - Tribuna de Jundiaí",
@@ -534,7 +513,12 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "11/11 19:54"
+   "hora": "11/11 19:54",
+   "foto": "28fe2c69364f.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/dupla-e-presa-suspeita-de-desviar-materia-prima-de-fabrica-de-itupeva-15180194.ghtml"
   },
   {
    "titulo": "Homem é preso suspeito de matar esposa de 41 anos em Sorocaba - G1",
@@ -587,6 +571,22 @@
   {
    "titulo": "JJ: Itupeva terá interdições temporárias em duas vias para serviços - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFFET1V4dkxmNHlEdWhGbjI3RmM3TnoxS0IzZGxrUFlhWW0zMzVDZnF4UUV1MnFhSVd1LWpZYTdxaTgtcGNiNHkxVkhzQnpva3Y4d0RnMHo4ZWkwXzk3N1JtREY4SmdqN3ZtOWh5dlJ6azd1WFRSaEw2ZldvVGVUZkt2ay1ubm5pa1V3cUt5UUFScjhnLTZ5U1IyT1ppRWVWanJPbnRjbU1oaWZVRmVGZVlSVnZQVU11RWR6RWpaNC1CbW8?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794427063.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 9,
+   "hora": "11/11 16:57"
+  },
+  {
+   "titulo": "Itupeva terá interdições temporárias em duas vias para serviços - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOEFtRXJ0NVhVdkpMbnhhYm5MZVYzRHI4Y2VMbktXMGZvTWxKWUMtWnUyZGNrQ1dKT1hVeU9ldHllNHVid1lNZEJSUUEwUjV5NUQ0d0NFU2oxa2Q1OWg1RU80NUFtMGpkaE1RTjRLQTJrVlZBbUpVblVMVWhoYlRiMGhEajNBODhFUXpOSkM4eWdlYnlNeFpxcVpsMHhiY2VsOE1QSEU1LXNkeUJ4U09uVy1wbU01Q0dRNDBqWS1oaHdmWUhqYjBYVQ?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1794427063.0,
    "categoria": "itupeva",
@@ -658,6 +658,22 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "12/11 15:14"
+  },
+  {
+   "titulo": "Temporal com queda de granizo atinge Piraju - G1",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTZMRm9JaWsxUWhoX2FCYlpSVEVKOGllbTZma0pFeUVTT1MzTGwtazJ0dFJ2bEV5VjVYYm5BQzRXb0xwemFBTy1LSWc5RURURTMzemszblBDdFR3UXJRMERGdU1EaW1sLVlkSXVramFJVFFRM0kwSWd2X3VBNmdEa1c3ekpxeTJaQnM3R2RjZGx4UXRORC1YeDBZUURxeXBoUFVCSndLanHSAbcBQVVfeXFMUHhDTWdzY1Q5RGJfaVBHTGk2Wm13bGdlTzVKU1lJSnE5eVpZQUI0WWRWSWhFZk1tcDEzYU82NWRZTkRoeHEyRkdHaHNtckdnenJSeTF1T1N4NEN5d05tZllJM1J5TnRvLWwzRXp4Qy1lZHVCZ2RPOG15ZTByZjZOU29fU0tmQ1JTMnQ4eE1scEVIaUthZEVDeTZ6Y051RnZOQ1dwQW40Zm85Vy1KQUsyUDNpeFFKWmtV?oc=5",
+   "fonte": "G1",
+   "quando": 1794506575.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "12/11 15:02"
   },
   {
    "titulo": "Endrick ganha novos interessados em sua contratação - Tribuna de Jundiaí",
@@ -755,6 +771,22 @@
    "hora": "12/11 13:28"
   },
   {
+   "titulo": "Suspeito de estuprar a filha durante seis anos é preso em Mairinque - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHNnSkZFNmcza183Y3B5SFNWbllGeWh6SzN2NlItSnFBUU5LZGJrM3dnejhLYnVGVTEzRFBqZDdHamRVODBBXzhuNkRRaWdRM2ZHSjZYYzM0X2JTY0N3RkI4WDR1RHJwWmVYQjVjdXFWVGJBbHdaQmM1cExJUTJrQXRLSWdPWVprdEZwYzB6TzlBcmtvRlJCam5sQU9mVTNic1pBTGJGM1ltdEVLU2VlR2stOVZMaE1xLWVlQk1FMDE4VGcwZGJBYUhJZTY3QzhkU2tab2tPLWjSAecBQVVfeXFMTTk5ZEI2OVNsYUtRVTlIT01pdmVGQ2ZnSFRkVVQ5WmtyYllHZnVRS1hfaXZfOV9VTU9QQUFLcVZya1ZqekVvMkZCWXF3U3ZQODJETkpqNlNjUE9IR3FSQnBfVmltc2F6aUFRQnEzNlo5SThJdXBydS11TE5OdkpnNUVtZXBHR3N3bERxc2ZrMUxBVzc3V2NZVFo5X3FOS1h1T0ZMRkcwYWRhcUk4SXVBUF9pSS14LUlnR0gzZFpJSmpHYnBnaVJCdnQ4dnEwTGQ5dktMTWpVY1g3bUFfa2pwZk9nZEo1dENJ?oc=5",
+   "fonte": "G1",
+   "quando": 1794499038.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "12/11 12:57"
+  },
+  {
    "titulo": "Governo de São Paulo divulga calendário para pagamento do IPVA 2027 - Portal Opinião Publica",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3JUU082THNjNVYyTmZ1WFJobXpSMGIwc21ucHdZanJhZGljRXZpWk1IUmNXYlZacThDU19MNWtUbTg5LUlvYkYybGRRVVBRMGZkUVo4NE5jenQ4Yi0zVzVSM2YzLXdhNlNUekFnTWU2MUpiLUVpczZ1QS1FRlUtTkU0b2xEQXpWS01rYmp0d3ZLMHJlc3ZVeERxdFJ2TW9rQWt0QjdIY2RNS2FTVFFUN25fSDE4T28zSU9NVHpzWUpYa3kx?oc=5",
    "fonte": "Portal Opinião Publica",
@@ -837,34 +869,6 @@
    "hora": "12/11 12:00"
   },
   {
-   "titulo": "'Trombadinha' é detido após roubo de corrente em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2Q3YWc3NV9zRE9WSkstTWhaaURrXzhUajRNVHB0eTZfLTZFMFlkS1JkZVFTY3lmdVh6eUhydUJvdlhEM2kzRE1XQTNtRjZpSnQ0d20tVmZId0ZxR2o3cU0ySjVHQ2ptMjVxTGZvdERWMEFoSXNhRk1MZnk3ZC1mT0N0M2tYWjZ3c2hCVWdTNHdZcXlUeDdoTGUwWWVvZ0pwWTJCUVJXb0hYSkRJU09NSVVRX2w3QXlTUVZBdA?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794494308.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 11:38"
-  },
-  {
-   "titulo": "Cia Jovem de Dança: Coreografias inéditas na Sala Glória Rocha - Jornal Jundiaí Agora",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MSG1iQjJLRklaeUpLMTIzdlNueFdOMVRrWkJmaVV6bmZ3V3BqcEZ6RjVQTmhZNTNhMGp4dF9hdGEtM0daNDE3c0RKR2ZCM3M?oc=5",
-   "fonte": "Jornal Jundiaí Agora",
-   "quando": 1794493860.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Jornal Jundiaí Agora"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 11:31"
-  },
-  {
    "titulo": "Homem é preso com mais de 400 kg de maconha em rodovia no interior de SP - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUFPNHFHaXA2Tk5sUkNEM3hnTkx0ZnNoRE55a2J0bl9NTWFKaVMwYm5qZTZoUFhfYTB0OUZQNms0QVlpY01ESHFVWUhkZVA0V3BIX1MwV3ZqNXN3ZzJ1Ynl1b1Qzd1Fha1pMMTRtTHlmMXdoOVpCMzMtbFp4anlTRllHbmt1UFdTc0laXzRta0s0MUNJdHZPb3FXSDlSeWNQWFpuSG1FSGZSMDdmbFhoSGZldUUwU0kyOXZCTExRUmI?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -880,104 +884,6 @@
    ],
    "pontos": 7,
    "hora": "12/11 11:17"
-  },
-  {
-   "titulo": "JJ: Cidades da região receberão o trem iluminado de Natal - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnR2bE1CLVM1NnZBQ05JQ3BzaTJKT1Ftdk1NMWNEd1NYNTBkNFlEdWpacGZwQm9hZnE4R2RVQjdodHZiR2dscnpCX0xid2MzREY1bnVMQW44U0h5S0NZOUhqRjhrWk1NeUw3d2ExNElKZlh2V2FfMC1BRzAxZjc0RmdSbFNQM3FjZ2xtV0ZoUk5FeDNHLVJDZ0EwUk1rcXBNLVU5cGdIbHZkQ1JkcGZ1bm1iT3U?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794491875.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 10:57"
-  },
-  {
-   "titulo": "JJ: Time Jundiaí conquista 18 medalhas em Santos - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXF2QkNFYnZBSFlHcXJNTENLZUp4ZEE2QllqdGZmamdYSXVyUmotWXB0STc3Um10Rm9XUWUxcG56ZUo2eXRQSk5Xd0pVNzhFS09fWDVKMXpneUk0eHhRRm9JRzZRVDhfR2haQU55MEVWcV9RX25SNHhnWWtYTDNTWFdjYjd1Nmtrb1BmUVFxNF9LLTRyeHl3Qy1fSU9ZaHhBRzVKZDBQdkJZQQ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794491708.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 10:55"
-  },
-  {
-   "titulo": "Prefeitura cobra contrapartidas durante visita técnica às obras do Trem Intercidades - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnBGZXNaREJ3WlFxXzlzemFBdXdQdWE4YjgtNUI0ak96VFczSS1CY0hENEdGRjhvVHdfUER6bmZfSHFCWFhFc09JRU80SEtzeUNNMVVXZjU3Vm5UclJjakFveEZVSGVWUWl3bGZtMHlydWpnSEdfVFFNaDNpazZsWHRLNUpMZHc4SU5oYjNzZlZWelNPZzltenVGQjRCZ3VWZGE1MkUtcGkxRjJNM0lobVZNbHQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794491375.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 10:49"
-  },
-  {
-   "titulo": "Jundiaí se prepara para receber turistas do Brasil e do exterior - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGh1bFFVV0JSUjhGNE1PMWVZTEtEVFlaMWFYMTZMV3NpYm5DMXNOQjFFWDZEcURTYThSX3ZjQm1SV0NKNktDeHg5b19EMU5oVDM5MngzMFpyeThiUW5KN2dwZ1FxMTZaS2tncHg5SUZwVVJ6LXNuY3ppS2I2RnVTNTBtNW9LbUpha0o2bk91TksyZjlyWlZLTG00THRvaTF2YnhCdHF3Ti1DYjhzeWNTUmZIOFREUDIyUlo1eGtraEhNREJ5LXFDU3VB?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794490645.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 10:37"
-  },
-  {
-   "titulo": "Leitora reclama de fios soltos na Vila Joana - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EUDFoeUN1OHpzY0tkbXVNcEhwZmdVTE52VDNsN2dtelQzTGhMZTE5MzNJQWE0WW5zb3NENzdUdUNZYUtCZnNwS2JSdkV2X2FUY211ZURNcTQ2SjVoN3RxRWRPb011T2xwb1MzdkZNdDl4dVR0T1JaclRUZmh0aUk?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794490459.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 10:34"
-  },
-  {
-   "titulo": "JJ: Instalação de decoração de Natal exige atenção à segurança - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzY1ZkU2TXFjc2diVEdRTEJXYlcwWDc2SlVGT1dyamREdjNEazZaLXA4MFRxeVBEcjBJN3JtbUN2NF8tbzFTcU1VeWQ3ZGczX29HSVJNT3RfMDhRdi15Sy1MTTR1UHJ0R0xZcGsxa05zTUpUNy1OMlBXUzVqNHlPbEZpQV9GTG5sWXcwOGphUG9NZWs5TjB0ekFqcXB6R0NjUHpzUHJNN040bEFFMk9hTVpqcWJ1OTRnb0tEXw?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794488524.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 10:02"
-  },
-  {
-   "titulo": "JJ: Câmara aprova selo para saúde da mulher - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHJsbTNJWllncDV0WnlPM0p1LTVWQjU5QXZFcnk1Z3FtU21iMW8xVVBXZVViTHpLUGx6aEFwUFIzcl9QWnRPYW8yYnpPdjhHMkVndzE3RjVyRTJUbU9tTE0xNUlldGhtSHkyMnU0cGdlbzlnb3pRbTE3TG9wWFdOZmJxM3ZKSkpROXBUem1UVnNXZjZLc1pWQ3lSdWdPWUNVUW0tVQ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794486600.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 09:30"
   },
   {
    "titulo": "Jundiaí registra chuva de 20 milímetros e queda rápida de granizo nesta manhã - G1",
@@ -1012,76 +918,6 @@
    "hora": "12/11 08:37"
   },
   {
-   "titulo": "JJ: Idoso morre ao tentar limpar a chaminé; a suspeita é de queda - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXpvRk02LTFRNm1wVEpuOW5mekNTSks3WFc0SnUwQk1nelgtUF9YTXVldzFmVnREYzF5anJNcFljQWhkTmFpTEU1Nms2MnEwdnN3SkNFc25mV1hSQ0pzdmRINTFQd3E1RDQ1bjhTMGMtZXBqbU1ORGt5SGpRYTh2NTg3dURaalJyWG5LTHdvLVl3ZzBJd2lHQ3hPU3FBX1l5aHRqaGJFbWNOaWRzNzVoNzl5NGhqSmFNeXlUSnc2NA?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794483174.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 08:32"
-  },
-  {
-   "titulo": "Filme que estreou em apenas 32 cinemas, custou US$ 11 milhões e conquistou 6 Oscars: Guerra nas Estrelas completa 50 anos - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb1RtbUR2NHNVLU9CR3R0NzhXTHdOTzRpNi1HTU9VdVN6SHp5V2lIZXl1cEFYSUN5Q09UUWwwN1BZOFNJZktMVHRkVFZKYkx5Q2tZRUlUWm0wcUF6REtRcmF5U0Y0VVRWTTlIdXhwVlBMSEo1UmFNeGhKd3dCNUxlTjl2NUxWaW1Jcm9jb1RSb0VrYkRNazJWRjRpMGpOYzdUd3ZsNXhHckZJaERhMkVmdHBPS0ZJTFVNcTZ6SXZ5cUstd0lEeW9EZFJtU25JTE93djh6bG8zYzUtZGlBMHpQaXk1UTNhM2UtVjkwWUNnakk4VlVyRGNSSFdB?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794482268.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 08:17"
-  },
-  {
-   "titulo": "Resultados das loterias de quarta-feira (11/11): Lotofácil, Quina, +Milionária e mais - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXI2dzJRLUFLcWtlakdrZ05JdG5ZbDk5M05HTmZnSTJEdTBzR2lQWi1nT3lXMkhWaGtBWWEtWmgteUZkaWpIS2NHMkF6ZnFZRUhtcDJZVGxYZk91R3d4Tm5zekFKVllRbHNGb2NDUEpSMnI2V1hJMk4xdVRZREI4X0JhQkg?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794481886.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 08:11"
-  },
-  {
-   "titulo": "Resultado da +Milionária 406: prêmio acumula para R$ 115 milhões; veja dezenas e trevos - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDBFUGF1Vl84YVo1RW0tZWhaQTJhOWtNaUdaNmhENXhibUJyVEwyRjJlN0E2WE45elBlOGNDcDN2cTJ4OUE2c0NLUHRHaERnMkpkUjdBYVUzM3U3TGxNWWowZl9aQkphSlpCNXNJX3JFZ0wzLXNjUmZYVUNlclJsUmc4WTFoZlk?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794481415.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 08:03"
-  },
-  {
-   "titulo": "Idosa é amarrada e agredida violentamente em condomínio de Louveira - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUnJJYUFHZmlsQWNDb254cE54S1hjUEUycEU5VWhrVXNVMkczYUNQeWsxa0FOd09DX2VSNWxFdE9PNVo3RTNNVzlDNVFWS3ZzR0pheDd2ODNVbF9zVEx6TEN3YlJVaVgzRWlDb3FUN0NqcTMyeUY0bjQ1U1NDZ2lCU3NjVC00RUhMZDljbTlDcVVBQWtGTjNlS0R5U3Jrdw?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794481346.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 08:02"
-  },
-  {
    "titulo": "Clínica da Família Ponte São João terá vacinação para todas as idades neste sábado (14) - Prefeitura de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcS0xSzRvOEdBLWRYbDJkc0htMmNUeWJJR05UVGF0eFRGUk1YdnR5Wm5kY3Y4blpDU291YmZwWmh3eUc4dVVzQU1sa25yUjJWTVdWOG95Uy1HMFFRNXZhTHlBdEIyRldTRmt3STc5VVVhSHpuY1R6MENwbzBTT2dMNEhTRFR2Y2NYQ2JFX0s2alduUmY2SmtCQTBwMXI4Rm9JWk01NGNVUTB5Z09GOUtqc0FRM01Cc2xXbmJWRnhoX3UzTXFjY1JHeFpzUXY?oc=5",
    "fonte": "Prefeitura de Jundiaí",
@@ -1096,34 +932,6 @@
    ],
    "pontos": 7,
    "hora": "12/11 08:00"
-  },
-  {
-   "titulo": "JJ: Jundiaí cobra avanços na aplicação da lei antirracista - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlhRMGt5S3dNRGQwT1NtMVg3UkUzOTN6WERsYkpORUhaWkZ6Wk4yMzkxQldfVy1sU1ZnRVgzdzdZNk1BMmdWWHk3Rl9SbDIzMHNuSWVNM01TQlU1N245QzdwYlFETmRfR2lySU91YWxHclFqb1cyZ3c3MXVmcV9uV19paFlEcFVwYlVQc3RkV0NrLW5iNHMxTDNoZXk4bjJhb2pLb2lBUjZVVUFhTXZoS0tDRERpUTNPWXc?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794481200.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 08:00"
-  },
-  {
-   "titulo": "Aposentado atira cinco vezes contra vizinho após confusão com criança de 10 anos - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEllNy1DZDR0b3IzZ2c5dmd4ME1CeDhsOWFiQjA5dlJCWl9iX0pEMXJYTllBTFhVQ3JOdmpVOFZTdHlOV1lLVVpYZ2lOWWdJcnM4em9ZYTNDRTY0bWtibzRTNEhrNHkxekowRjhzdzlVZjhOal9nUnAzVmp0eGl5bXdiYTdHUjhoSjh3aEhGa1FvOHhGWjA2UWFCMWN4MUt4dDRDWmFoeGtxeDNlVk9N?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794480681.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 07:51"
   },
   {
    "titulo": "Como pacote fiscal do governo altera a tributação das empresas no país - VEJA",
@@ -1143,34 +951,6 @@
    "hora": "12/11 07:49"
   },
   {
-   "titulo": "Resultado da Lotomania 2998: prêmio acumula para R$ 5,7 milhões; veja os 20 números - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjNNVVE3dXcydUFfUWxac3MxUW1KSGRGaFdJeThuaElybl9lNmlnMWxPdk94V29fQUhFY0JyU1BUODdiWmxLa3U5UTZrZnhHQ25zcW5oZ2FEbmxIVHRUdVA3UlotbVJseHRDakNFLTJUZFhva0lvWXBQQ1NwMnhqRg?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794480482.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 07:48"
-  },
-  {
-   "titulo": "Resultado da Quina 7165: ninguém acerta as cinco dezenas e prêmio vai a R$ 10 milhões - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LaHJmSk5UY2RuaGptVVVRVzFlZEJwdnR2NU16cWNpd3VXVFZ0RWR3ZlBmalVEWnJWRHRZcTJLZGdfdFE3TVBieGxCMlk5N0ItMzBZcHpHZzVJY0szaDd2dFhfM2tpSnZZUlIzc1Ytdnk3M001eW5TVlU1aw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794480249.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 07:44"
-  },
-  {
    "titulo": "Feirão de Jundiaí oferece 1.050 empregos com salário de até R$ 4 mil neste sábado - bra1.com.br",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXpOQ2hDVE9ibk5IQ1R1YnBpUTVHcFh2dEwwd0t5bjRmeFN6R2t3VFIydUVEY0l2bEJ3XzhtRnVQWWRZSmc3UGd2eWtBNmZ1cDNUVXNwSVBfRTItZUdNMnY2VFZKOVdvRFlpS1hTVEJqTG4xQ3RacnBTb0kyWERCQ0hZTVpxVWRqeVNFVXhFY2JweWU5LS1tMkFBYkdISXp0RHlCNjdnN041VmdMT2ZyTVhrYUdOejdzWF9EWllR?oc=5",
    "fonte": "bra1.com.br",
@@ -1185,48 +965,6 @@
    ],
    "pontos": 7,
    "hora": "12/11 07:37"
-  },
-  {
-   "titulo": "DESPEDIDAS - 12.11.26 - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpenNDeFFJUU84dFBybnYzNkxkcEJtU1pwTFJXUnJJbGVpZ1BvM1IzTm5BQ2wzb1pOMDFFYjczQ1plT0JGWTdCLWFtTS1UWUdHVXNrUjZyNFBLNXd2X2c?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794478912.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 07:21"
-  },
-  {
-   "titulo": "Jundiaí recebe Prêmio Luiza Matida por prevenção à sífilis - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGFVd2pvQzZnbjNSSzc2eVpwZUNLcy1XczNvQW5Ycl9TM0dxS2Q2VktsSEJFbzhMSUdSYm96YnN1Y3ZHUDFDdU4tUkRPMHBXem1Oc09obkNJMFBSV28wNDRvTkxfMEpXQnBOc1dUcFBncUlGRTBVVWMxWUZqUS1fR041cjBQZHUzOUlnUVRmTFBQWVVhS0JHZ2FoS0RLY1U?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794478176.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 07:09"
-  },
-  {
-   "titulo": "Prefeitura intensifica melhorias no Centro de Jundiaí - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWJXel9SdjY2QWUxdkNncGNhMzFwVUdNYzIxb0owbGtpZzhrTjNlZTRNN2pqSUFSUWUzekV2akdzUXF2YkNuQTN6NWJ6WTlVOUZsU0NpVVBxSk9IVjZXTnR0SVFpUXlQeGtyUGpyaEFOYWowajVDMWJvOV9YWGowUWtXYmZtMGF5N2lucFRDVzQxMU1GYmN3Nw?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794477986.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Novo Dia Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 07:06"
   },
   {
    "titulo": "Jundiaí abre vagas para treinamento gratuito de segurança para motociclistas - Portal Novo Dia",
@@ -1245,102 +983,564 @@
    "hora": "12/11 07:04"
   },
   {
-   "titulo": "Centro Diagnóstico da Apae Jundiaí completa um ano - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZzZvalVGTzQ4X3pMT3QyRjJJbmtYWnRTYjEtcFBwN3dfT09zZ0ZqNEFLdl9RbEkta2hfakw0T0NrRDdFNnEwREJSYVplRGFGUG9YejhUZ3VaNHpKLW1rVjVDODRtUHZ4ZGFtT2Nqb2Etczlsa2tKbXNBQkh6NlR4ckVZRFI1R1JOTWZVR0tCcl85ZmRW?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794477810.0,
-   "categoria": "itupeva",
+   "titulo": "Previsão do tempo em Jundiaí hoje: veja como fica o clima nesta quinta-feira - Terra",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcUxzLUVqLWlLZkhsNmZ6cWhpUTkybGpKa1ZLNFFUNmxFS1QyV0ktd3NoeFFibnBvZm1zelctZC1PUjdHdmlYbXYyQnVhcFVFLVpoNXV5SmljQW5UcWtXYkhQdFhNck1rbjFWVXhVWjJWS0R1VzV2SkwwOVR3OHVfUm5CbTlINGVpTTZNM3BuTmotV3dwLThjVnd1WFJTSXVEMlJpWjdiZm80cERMa0NQa2F0OU5FQUNUUFdNRl94Uk5Ma29ILVZQaGNCVjZ2M19Gb0Eyem9tZWlfTnl1Q0s1SVYtNG93amFhTjJsY3FfWFhIMzdGbmlxYVlZdHB3THNmcF9V?oc=5",
+   "fonte": "Terra",
+   "quando": 1794471420.0,
+   "categoria": "regiao",
    "fontes": [
-    "Novo Dia Notícias"
+    "Terra"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "clima"
+   ],
    "pontos": 7,
-   "hora": "12/11 07:03"
+   "hora": "12/11 05:17"
   },
   {
-   "titulo": "Itupeva não receberá mais resíduos sólidos em Aterro Municipal - Novo Dia Notícias",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXFnUmx0QUJZWk9hTlA0QVB5YmFiLUZDNXIxbVl4WDloc3M0bFZLd0lwS2Y1SmY3a2IySEp5Q3FLWEJVUzR0TkVweTlkeDAybVdaRmVhaUVsRmxQMTRlc1V3Nk14SC12VU1sLXY0d2NfN2lNYzVBT0J4VTg1N2t5Nm5mWUoyekE2MjhIT3BGVE5sa3JELVY0dXFWc0JJekotMmNlUg?oc=5",
-   "fonte": "Novo Dia Notícias",
-   "quando": 1794477707.0,
-   "categoria": "itupeva",
+   "titulo": "Câmara aprova perda de herança para quem tentar interditar idosos de forma fraudulenta - Portal da Câmara dos Deputados",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzk2ZlEyOWpFbjFmZkVBVlItU19MdFVabFBMNkVZa0I5X2NfcnZOSFc3VXJrd296MG1sWGNWZjRJUkh3bnphWE1tYU5teU1IY0VBbE5Jd1Z1WVNTYkp4NFB1RHdHRW05M3dzTmlEY3Nka2xLb01oRUl5WXJTNmFVZVR6bUVJY1MySEg4d2NVZTFiSHdyZGxqS0hxdjFNcVlIV09vck5ubVdSWVZicVVicFliVlBXMVpyemJBbWRURlVJS1JxdkZScg?oc=5",
+   "fonte": "Portal da Câmara dos Deputados",
+   "quando": 1794435840.0,
+   "categoria": "brasil",
    "fontes": [
-    "Novo Dia Notícias"
+    "Portal da Câmara dos Deputados"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "transito",
+    "politica"
+   ],
    "pontos": 7,
-   "hora": "12/11 07:01"
+   "hora": "11/11 19:24"
   },
   {
-   "titulo": "Jundiaí abre seleção para até 16 blocos de rua no Carnaval 2027 - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTJ5bTBRRE81SG1zenRvUmF6V0RoN0d6SXRxUDczTFYzMlo0Znp2QktvWVZ6Vk5qWWtnMmhLVU1FNjdWWEIyX01NWUFPUl9WcWZGWUJoYjhFelBBVmhEYjNja1l4cjc0cC1id3BaUmxTVGF4UmhwRmx5VGh6ZG5mNERlajJWem12bmQ2d0FPcVktcllZS3hYQ2hKaThmUGJVUnpVdE93S3MwYzBoOXFRNEtwTVBVeEJHOEIyR2dWNXJaMFZRN2ZNQg?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794477603.0,
-   "categoria": "itupeva",
+   "titulo": "Após concluir rede de água, DAE Jundiaí avança com obras de esgoto no Fumachi - DAE Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZhV2Q2ekNGZFp6dXhJYVJoTEdCRGR2V25faERLZ0FvTVNhdmZyblRrSFN2ZFd3Sk9mbnNVU0xmNDc0d3JvYkNZR1YxR20zQnNUNmp6T1A5cmxzOWhBdWRlVnMzVnhQYnpCbVBLZ2E4N3BLRUVNTDBNMW15OHFRUlJXQ3NDU0J2Nl9iYklQa3BwdXNwU1ZQXzR1ZTdMNXpaYmxRQWFSMHBpUGloTTZXdzVVdw?oc=5",
+   "fonte": "DAE Jundiaí",
+   "quando": 1794428040.0,
+   "categoria": "regiao",
    "fontes": [
-    "sampi.net.br"
+    "DAE Jundiaí"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "servico"
+   ],
    "pontos": 7,
-   "hora": "12/11 07:00"
+   "hora": "11/11 17:14"
   },
   {
-   "titulo": "Funcionários do CadÚnico de Votorantim entram em greve por atraso no pagamento - Portal Sorocaba.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMC1VTXlva2FMWUktdlFSeVVGc0o4a2R0Zy1Rel8wdTNzY3hrSXAtMVQwWkRyQllOVWtTcXQ1MUhfX3R3blhBaEZvNDBoUzZiczZPUkd0WHhWQUp1ajBBajRHbG1qZlhpRkdiMjFQVElzaGRTbnBiSEVJNVp5VWNXQjFBS0VYcVhxaGRtUWt3bGRzYTh5SmtUV3B3YlBvSjJlQmZwcHkwcFFkRzV3RjBlUGVlMFU4SkU?oc=5",
-   "fonte": "Portal Sorocaba.com",
-   "quando": 1794474000.0,
-   "categoria": "itupeva",
+   "titulo": "Cabo Gilberto aguarda decisão do STF para visitar Bolsonaro e admite disputar presidência da Câmara Federal - ParaibaOnline",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUtCSXdiYThaMUQ1SERreTZFMDBrS3k1aVYtbUZydU9PRncxRjVLcGxadmhabE93ZnAweWhuME5KaUd0ZmNsRld4NWJPWktSQmtwUTNoQ09VaUZQZjF4WEdZMjNaWDRXRUpCWDZRTENNUUdWQ3RlZ0Z5eE5UVjZlR0NTVXRTVU11Sk9UcXc5WmxuNHhkNHFMaUdBamZPeHJrYmJOdThwMmpRRTRGNzVkQ0pmR2doZ2g5Q2c0ZHhid3dEMDZISVFJTk9pRXhxc3EtNHJxVS1DaUp3a3VBSktudS1WTHR3dEJoTjNGcC1n?oc=5",
+   "fonte": "ParaibaOnline",
+   "quando": 1794426665.0,
+   "categoria": "brasil",
    "fontes": [
-    "Portal Sorocaba.com"
+    "ParaibaOnline"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "servico",
+    "politica"
+   ],
    "pontos": 7,
-   "hora": "12/11 06:00"
+   "hora": "11/11 16:51"
   },
   {
-   "titulo": "Obras do Cacau Park avançam e montanha-russa já está pronta em Itu - Portal Sorocaba.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWFIZ2VTc1FrQWhPZFhZc1Z6dDhyRlVWbHNQYlQ2d2RPUG9XQUxwVnREdjNvb3ZvTHlEUHdwZmV5dWxSbmlzdU1fbFlndVppOC0ycFhQT2F3ZjBfbEwzaVdadVRSRFB5bWpGZmh3OE1CR1dNcngxb25jQkFBdENaV29IUm1SejJybjNsYmUtckIyZG93UjdVdV9nQkxUbkE1b1h4SWhPVQ?oc=5",
-   "fonte": "Portal Sorocaba.com",
-   "quando": 1794473940.0,
-   "categoria": "itupeva",
+   "titulo": "Vinhedo barra comissão para investigar vereador Malcon Mazzucatto na Câmara - vtvnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2VmeElFcmxKYnY4R21pbEFkcjdiejFsMGxBNVV5NU5DZ3ZEOXBzMUluZktaUktYZ0VaZm1aSEVoSkh1VTgzSEJWX1I5QmdFeC1XaFQ1MlFZNUhpTGFnNnZzYlVubmVBZUMzaDhTMlBRaDgtZmZ1eUNLNkF1NmsxVWgzckxxdW04UmhBbjNRa1NXZw?oc=5",
+   "fonte": "vtvnews.com.br",
+   "quando": 1794424500.0,
+   "categoria": "regiao",
    "fontes": [
-    "Portal Sorocaba.com"
+    "vtvnews.com.br"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "prefeitura"
+   ],
    "pontos": 7,
-   "hora": "12/11 05:59"
+   "hora": "11/11 16:15"
   },
   {
-   "titulo": "Bebê de 8 meses acorda após semanas desacordado em hospital de Sorocaba - Portal Sorocaba.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnNlWjlCVDRpSXAybHRKOElSM3Vrdy1GWVF5ajc4X0FudjltV3Y0RTBrMFp0UW82M1k1Z1I4dU1OUWNhbnZ6c0NVajJSSWtNZEZtUWhTREdVSXZxS2FkN19ia21YX2xmRzZzMlJiRXZ3UVFueThuQTFQX0g2NHJ1a3VVb2k3aW9zSTVjRkh2WHYzXzNRdF9Dc2RwTGFPblUxMWRsNkRlczdxTnJIM1E?oc=5",
-   "fonte": "Portal Sorocaba.com",
-   "quando": 1794473820.0,
-   "categoria": "itupeva",
+   "titulo": "Reforma tributária: governo vai propor que primeiro pagamento da CBS seja feito em fevereiro, diz secretário da Receita Federal - Fenafisco",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYmdmaWV1NllRamhuaGM5TmpUblN4d3FUZUhwT2Q5cUNudGJwT0hlTTRZMlR1Q1FVMGRYYlF3RDFQVGVnVWl2aW0zWEZnSVh6eHNJaVpDcm5LNGwtVndtOE5FTkhBQTYxWTJ1cUlyUUFKV1RPMXJ4cUFRY1pvN1NZb3lmUUpPNXpWV0x0WnlMWmkyWGlwb25PcTB1WGFrRF9pVHBob29IMzRvWC1yRjdlLU1ZSS1vRWtVTW9kOThkZUJBU3hxLXFMYUNVSk4yaWJubVNTMVF2NzcxMXNwNVJxM3FqVVlCUE5IWlctVEw3VlBLODNtakJVOHV30gH6AUFVX3lxTFBiZ2ZpZXU2WVFqaG5oYzlOalRuU3h3cVRlSHBPZDlxQ250YnBPSGVNNFkyVHVDUVUwZFhiUXdEMVBUZWdVaXZpbTNYRmdJWHp4c0lpWkNybks0bC1Wd204TkVOSEFBNjFZMnVxSXJRQUpXVE8xcnhxQVFjWm83U1lveWZRSk81elZXTHRaeUxaaTJYaXBvbk9xMHVYYWtEX2lUcGhvb0gzNG9YLXJGN2UtTVlJLW9Fa1VNb2Q5OGRlQkFTeHEtcUxhQ1VKTjJpYm5tU1MxUXY3NzExc3A1UnEzcWpVWUJQTkhaVy1UTDdWUEs4M21qQlU4dXc?oc=5",
+   "fonte": "Fenafisco",
+   "quando": 1794490843.0,
+   "categoria": "brasil",
    "fontes": [
-    "Portal Sorocaba.com"
+    "Fenafisco",
+    "Portal do Triângulo"
    ],
    "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 05:57"
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 6,
+   "hora": "12/11 10:40"
   },
   {
-   "titulo": "Ex-padrasto é condenado a 30 anos por assassinato de influencer em Sorocaba - Portal Sorocaba.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXZETF9MQUdHbFZJN29SNWg3YWlBRGtncHdubVVKRFBuZjFpZWR2RGYtUzdiUFFmT3BFWUFqeWJDYnZfV3pZd0FlUVVteVRQU3dTQ2M2WDNqUGRRS0hsdDJ2WGhsLTZYbS1Oa01wb1prZElwUTVxX2lYUEs4V1EtcTFWaXVYT3JvSGJZNXZ6c3N0SHI3Mm12ejZ5cFZQN3hNLTN1OEdxMDdVME9WbmJlNl9qbw?oc=5",
-   "fonte": "Portal Sorocaba.com",
-   "quando": 1794473700.0,
-   "categoria": "itupeva",
+   "titulo": "Detran-SP capacita gestores municipais para fortalecer fiscalização preventiva no trânsito - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbzZ4YlBoaENyUXVZRkJFSEpxeWZRa3JIVlI3MW1VemEwTDhvT04zZTVDbG02aUVSbk9QbUh0eXRiV1JMNlo2OUtQMzlNVi1odjJiRTQtLTZwd21QbVRodUl0b1A4SHJvVnhNczBlNlNtSDZhakRKWjJaZTk3UDZBc2l1ZE51Y1NIaml0Wkp6bEpXOExvWTBVTWVkT1dUajVTMGYzMGc3b1QxQlo0a1ZNTlhJWEFYNnYzSHB5VjVHWTVvdlFyT1BUYVRLYk05R0VaLWdUMDNfMzQ3Q2puUmc?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794486540.0,
+   "categoria": "estado",
    "fontes": [
-    "Portal Sorocaba.com"
+    "Fato Paulista",
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 6,
+   "hora": "12/11 09:29"
+  },
+  {
+   "titulo": "Metrô terá operação 24 horas e reforço na circulação de trens no segundo fim de semana de Enem - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVNjUUUtSHpLNVRvVGk1MlpfdUpVVFgya2UtVWpCT1FQZ3p5TmdJdDNTaVJ1RlNIcmU3aWRLQ1ZzSUVPaXVwenRfVy11WWdiWGVpZURmTWZSTWNTenVDVm16b0ZQTDNIaGhHV2ZhZGZBQUhyR3J5V0pQaFJBbW1ZdUZqY2ZReC1fNF9oN055aE9Kd3ppNnd1TDZad2t1X0hwc1A0eWZn?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794509725.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:55"
+  },
+  {
+   "titulo": "Governo de São Paulo libera transporte no domingo de Enem - Portal ABC do ABC",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVpkVVRvRDhCTUkzcHZMemN3QlcyRkd3SURweFQxaV96eGpvRWotT2dNWEQ2Q0pGbEFrd3pYcnlMTE9XWjNMSERUUy1HOFZmWFhHNlhhbjZHSm9mbEYzNTdVczJ3Nnk5R3dPMWg3alZaT3M4a2M4OGJTTXhUYnMzaw?oc=5",
+   "fonte": "Portal ABC do ABC",
+   "quando": 1794508487.0,
+   "categoria": "estado",
+   "fontes": [
+    "Portal ABC do ABC"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:34"
+  },
+  {
+   "titulo": "Polícia de SP apreende mais de meia tonelada de maconha e encontra 5,5 mil pés e mudas da droga no interior - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmZzZE93MWx0X2xWRV9hcnJjT3ktX05YR0Q0U0hZTGhiallJSHVial85ZlAwVWdPQ01CeE9GMFZiSFM3Y2J2dUFZMmh6Z0hkOFpsRjVDaV9URUQxR01vaDc1SHJMWjg2d3hMSVNMVjEtRnoxOHlNaS1iT1QyQXlMM0JjMGxMZEZYQW00ZVNKRDUtSjVhQzJsVFRhSjdxcm5wczNTNGFVeU5CRkQ5cGx5YlEtYzFuMmQyU2RQc3NlbEVEWGNFNVpGbWpMSEhHeUdGSl9KMHVDTG1pVXF6em9DNjRLeURpVzg0SE9wdmln?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794508426.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:33"
+  },
+  {
+   "titulo": "Veja o que Lula disse sobre contas públicas antes de proposta de ajuste fiscal de R$ 60 bilhões - G1",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTM4RGRSOUMyeGhFbEcxTF9iZnhNa2NNRXU4T2s0RjVENGV5OFQ4STkxNHhmeVZfcGFpTWpGRWxaYUlSdkpJRXpMWjV4TTlMa2tHSHhvRUlmUVl1dUdubjNjaVlrWHhiYk5LVWN6dzFXSkozMjZFV0thaVNVSVFtRExpSnVMUdIBlAFBVV95cUxNUnB0UnBYbzBDWVhKTE90SWxucUt4dWRvWm9aYWdyZFZtSENWYTRSQzlES3AwY3NGMFNMSFJHSm9WYmRQcW1ETHhNYUpOQkFzYUpVdkR3aE1iVkNtcTBkcUFncndtanlncjZ6c2dmM1BrTy1pNXYxTFRSWWJoNmtCNlRVd3NDR1ctSTdjakdiaDF3cXA0?oc=5",
+   "fonte": "G1",
+   "quando": 1794508377.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:32"
+  },
+  {
+   "titulo": "SP reforça vacinação contra a Covid-19 e detalha grupos elegíveis - Jornal Diário do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzZKQWp0OWJHQm0zM2xwU01PUWVkX2lqRWZzVnZlaFpvSDlvTUI4MzdSbjFWajI0NGlDbThoZkVZMmJaSmFWSWgtVXBNME5hcnduVXpnODFIcFBwMjRDY2FCbVMxVEI2Rno1Q0k2NTJxUkVmTTdCUXVfMkoybjBzQUJ6T05GTGVIWC1jTDhtZXc4dUU1QVZGWFVpRXVVYllCUUdReW5xZFdCdw?oc=5",
+   "fonte": "Jornal Diário do Povo",
+   "quando": 1794507360.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Diário do Povo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:16"
+  },
+  {
+   "titulo": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de SP - SB Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXFUbEFNejBiWVRid1kzX3QxRkRCU1dyMWQwMVIwVS1zM1RVY2FucXQ3dTJiNHNSeWZHdDI5ZXdRWDFXMlNvdktRWm52Vk5ncEMxVmdpNWJvT19sVDlKRk5SSzZrbFJDUXJ2Ny1EWXI1aXhnNUMyM19COUZhWUhiNlJsSFhOR2dOZnhZMHl3NWFyR25XeEhmV3hySGJ5bmNoWDVzX3ZzQkFubXRZU0ZNMkRyc2VsYlh2d0RpUEVqaHdOcGc?oc=5",
+   "fonte": "SB Notícias",
+   "quando": 1794507300.0,
+   "categoria": "estado",
+   "fontes": [
+    "SB Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:15"
+  },
+  {
+   "titulo": "Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGg2ZG9fckxpM3JSVG1iRkdpa2hHT3Z6ODFmeDNIZGFZbUZKX0V2bDBrWEdoRVhjQUkwRW5tX3BEcUdWRWpOUWpUUEFvLU9jVlVIX2k0TGtPWVZsUlh4cXRfUUpqNGZiVVN6cmF0TW9tOHlYSWl2bUhEbnZPQnhONnRPVmIwajhlNldOLVZ1dzQ3a2M1ZFM4SnNVYmhRZmpZRWxxSVdKdlB5cnZZeE45OUkySTE2R1A5b0lpVk9oXzZPVERCNkJR?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794507221.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:13"
+  },
+  {
+   "titulo": "Celina promete recorrer contra limite de 60 km/h imposto ao Eixão - Diário do Poder",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaFNCQzV6Zk1ucVhZbXVfOXVVZVdTMVFKQ0h3T3BpaDZJM3BIaU9Wb2JScUc2czdHWnM5V09MTE1wczZzM21YY0JlSWFXOFVpX2F1VlJsd05TYlFORmxmMkJzOUVWZHRqUllCM3F1UHdLQWtrT2ktX1M0TlF4RGVabWVuYmdmODRrVTQ3OGZ1Szc2RFNmMXM4dUtzQnhBTHZXbjJ1bTUtV09WdFBZVmZ1RVpJaEpXeHhQSU5KN3B5YUdlakZoXzY0U2dDeWtWck1Fel9YZFd2b2FkTVJUQ2syYURzONIB6AFBVV95cUxQX1hEaWdTOGlFWU40WG9rQjE2Yk0yVWE1eEFOZlV4cHFTcDV3ck9CYmJ1cjMxeWowNFh4T0JLT3hiTjA0WVFmRTdVZnhVOEttNVE1Q2pPa0NGNHJwVDBCMkNmQW9jYzdyZUNYSWxxTDRxUlFXdDN3ZlJzNmZISktlTlNJRjZsZVRqMjlMbnNsVzZwRnk5aklIMUdqblZDWlpiMC1vNjFraWNVbGpKb1ZWaUhaTllJMmNnS25IRWhjclAzRjlTNk50Q0ptQzAxbXVyNS01MjZvSm00UzhnS0NzN1NtenBTQnZV?oc=5",
+   "fonte": "Diário do Poder",
+   "quando": 1794507120.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário do Poder"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:12"
+  },
+  {
+   "titulo": "6ª Copa Louveira de Futsal define campeão nesta sexta-feira (13) - Prefeitura de Louveira",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOC05MTg2dnJrVGpaRGlYWjBTNHFQWjYwQlRiNkRpdTBodjkxRWdVU195cnNvSnBiUEMxT1hMckdZMWlXZWs3dm8yY1l6UWJKQ1U0YS1HNlI1bUF4eWVfMEdMc2dOQ0pCcVFzY0oxN0xZNDBBM0NpbUJYbXpIWE1JRURrRVViN1lFUVExa1c5bXQ4XzRtZmlLTzZ1MFNQQQ?oc=5",
+   "fonte": "Prefeitura de Louveira",
+   "quando": 1794506946.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Louveira"
    ],
    "urgente": false,
    "assuntos": [],
-   "pontos": 7,
-   "hora": "12/11 05:55"
+   "pontos": 5,
+   "hora": "12/11 15:09"
+  },
+  {
+   "titulo": "Concessão Litoral Sul e novos investimentos em infraestrutura pautam agenda da ANTT em São Paulo - www.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcHNkNFFOTldoWHlSYWIwRk5ZeWpkTWlFY3BobnN0S09CcnhsaTRCR3hPNGRFbkFtUkhlaDRpTjIzU3JQdFZJUF9EZWJzWlNRSThyWnB1REFUN241NmRBRTZBQWhYQzB5a2tPQWdWM2QyRm45TUpydUlnTHR4aGxRNGZ3T0hwRlJXTE5GM2VRSkwyTldzaDVmLUphZzJPTmptMzhka1pxTlIzaTJadGhJQkhPOXBCb05aY0sxaVA5aWR2U2xjaldHbHdibTd6OGN3OGcyNHdLSldCZTFIMnZtVFlrVEVJNUl6dEFENFNn?oc=5",
+   "fonte": "www.gov.br",
+   "quando": 1794506940.0,
+   "categoria": "estado",
+   "fontes": [
+    "www.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:09"
+  },
+  {
+   "titulo": "\"Duplicação da BR-163 entre Sinop e Guarantã vai salvar vidas\", afirma Diego Guimarães após leilão na B3, em São Paulo - Assembleia Legislativa do Estado de Mato Grosso",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWmNNMGtrX0l2ekF4czU1QmhWU213MDZkNlM2YTFsZTE0TlhjQVJPSUpPWTVfdU5RTHE1LVdiQWNEcEg2ekUwVUl5Tng4THZkLTFUMkxUem1ySXZ4UDBkNzQ2SUZOU3p5RGpEWmh5QlNoaXk2WXJhSWI5T3JPU2puTUM3ekgwNXBzMFZna0hjQTZaZ1B3SHc2N1c4Z0JPSjR2ZnJNTzZ1LWU4Y0JqZXV2UThYdjlnNDdYZ0FnWVhsak1OM3E4XzI1UzJDOWtBay0xTTlxUkMwTmxfVC1jN2cxcEpGMA?oc=5",
+   "fonte": "Assembleia Legislativa do Estado de Mato Grosso",
+   "quando": 1794506940.0,
+   "categoria": "estado",
+   "fontes": [
+    "Assembleia Legislativa do Estado de Mato Grosso"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:09"
+  },
+  {
+   "titulo": "Sem disputa, Conasa repactua concessão da BR-163 e terá de investir R$ 10,6 bi na rodovia - Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmY5bGV4YWlHUGxuZy1FOU5xMS1Ba3pzT05KVm14Nk1xdzdHWXVoS3E3WEFQeVJ3OWhReldlT00tWGE3Q1VvbTBJaEpxUlNySDNsbWloWlNJQlRELUcxQmtzUmZwNE9ULUlDa1JLelR0UmplcDAyNmtaZWk5TEZyOWVNUHZOTVNBT1NYMWpaYkUyN2RuYmVJaTY5WnFFbGZYejhzaWZ5VnFUTXdrTTN2dTFFUW9HYU5pM00tdGZmU3pEVnNDbVMzZVZDVmNsT0hrajY2ZGVVajFpY2Vu0gHrAUFVX3lxTE03Qkp6NzBOOGZSNEJJU09VU0ZETUlDeWozS00taG4xaDFiaTlCaXlSY2tPcUVITE1sRVQ5SUhtOGFfdmUybF81bl84b1IyNDEwcFltcHVzVjFrMURqUGJfT2xqdXVOWGwxUFlEUGxONm1WQjJ2NEpkdFlJelZJTjdSQkxQTGs0cVdtRjRoUThraVQ3Y0k0V09aeVhVUzRaX3BTT0NWakZIeXhtQ3AzTzBQTmExdWNwNGVhaVhPRWpmUy1PZV9kYTVUZ3cxZDMyUDZlU3d6UkY1WUlYQnJyZS02S0ZaWlg4U3gzSlE?oc=5",
+   "fonte": "Valor Econômico",
+   "quando": 1794506566.0,
+   "categoria": "estado",
+   "fontes": [
+    "Valor Econômico"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:02"
+  },
+  {
+   "titulo": "Homem atira em vizinho após briga por causa de criança que deu pedrada em sua casa no interior de SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS01Fcm5nUVVVT0oxVjkza09aQ1R3Q2xzQlVHc0tMMktWajl6Z1hFOGo3SXVhaXNpdlctb1FzX2xVOEFpeVlPaGx0N3YtUGRVVzFGUmJzRHl1cHZUQ201UjVQeHJ2QnFQZVBRNk5QSkl3MHJiU3h1aVJpVjZEamtjTGljZlY1am9FTjFPcWdFbzNGRE1KUVJDVkpJUXRISmFpcHdJM05JT3VpQ1VCQy12amVPQkU4LVpLczVoYm5CdUlQNXNrdElQTEJ1cTJBMmZSTHR3SFdFaTcxTWl6R25pMm85el8wUnR0SVNiSkpFN29DSkF4Q3NPYkZn0gGIAkFVX3lxTE1od29pckc3TFl5cFFWWU1oYUxYa1RoWGZHLVI0aW5MX3BMRmFEWE1SazVuTFhSNHgzM3g3aS0xVGNRMEMxQThxeVlDUHU1Ml94cmQxT1ZrQjdOV01JS2I3cjc2VGxMbURVbnA3UFNEN1VkWUNYb2hNRnNSdjdZN0hjVUd1ZUtGUkV5Z3ZsVThwdktlZnZVVU1JWXVsX0xVZVJoODdVNXRTaW53X19QQW93WkVZdFNLeVRUZk43OGdOTnJjSVpnb293OTNWYTJmUW5SMlZjRVkxc2l5R0FpY3NiaG1IZWpjTlB6YzU1LUJWNGRFYTJEOVVJcXExRHJvd1c1czZHTEMwLQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794506469.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 15:01"
+  },
+  {
+   "titulo": "O ministro Flávio Dino, do STF, anunciou que pretende decidir até sexta-feira (13) sobre ajustes na implementação da nova jornada de trabalho, mantendo a primeira etapa prevista para 16 de dezembro. Para o advogado trabalhista Platon Neto, professor da - Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40U0ktcmtSWXk1cFFYTWl1VlcxenNvTl9LUE41b1YzYkJtcGlFMllwcFFwamc2cEFTQXA1OTlUODZvWW5oWFV0dTlfUUYzZ29LRFE?oc=5",
+   "fonte": "Instagram",
+   "quando": 1794506436.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Instagram"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 15:00"
+  },
+  {
+   "titulo": "Espaço Multiuso Parque dos Ipês, no Retiro, é entregue revitalizado com novos espaços de lazer, convivência e segurança - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOd1V3Wkt6UWk1VWo4QWgwR3VHdnR4YjhpOEdFWTVRT2VJRThvNTNUc1NabGh3cnNvU09KU1ZaNjBVWUwyakFCZ0ZEUGptbGMteDVraHlJWjFRUW5HLWh5ODBZTDZjVVBKS1cxUGxzZ1ZCalBsc3Z5aHc0M1JtZVc4bkVnNUdoeG9Da2I1aEEtVTlvOUZZZnZtT2tiSHBIckF1VjVrVGFOZEZqaDdmc1BXRnoxVlhtZk5MM1ZHWHo3XzZzNWdGQlc2Qk1XNnFjcWRva1U2YlpxbUxXS1hVY2pjTU5jdDJYanc1OGlZRjYxMk4tZldPZHVIb1lDZmNMV2FQRFR0aE9wLWIxb01ZcVE?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794506400.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 15:00"
+  },
+  {
+   "titulo": "Vinhedo inaugura Centro de Excelência em Atletismo com pista de padrão internacional - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm5YNkw4ZjdjYlk3VzNPTkc3Tnhyc2hudlRTaGhUbktaelRoU1lTSFFkUG1XRDhtV1VDMm51d2dOS2Z2Z3VUU1gyZFpjQWpjYjZ6Z3ExSFVaWWRRY0xEQ2ZvTWMxUnhLWFctc0REc0lxeFpoYUFnY1pHQ0RBS3VNZm1fSlgyeDV2Q2tsRV8zVVZlcHh3WnNJTWtXa25USWhFV25ad1FfRkJQQnpYaWtJeF9IVFlueXRqSGtwUHdnWVQ?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794504471.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 14:27"
+  },
+  {
+   "titulo": "Gasolina cai 14 centavos em SC após isenção de impostos, mas preço estaciona; veja cidades mais caras - NSC Total",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFpFLTBtdzdvWThNUzd5VE9kWkZmMFBVazgxMm91RTdIRF83V3hjeTMyLW51eUlGSlktbXlhQjZvdS1xbFVIUTdUT0JsNHFDN2g4Qlo3aEZhbW12RDNIQ3JncS0yUmZKVUg2SVZaUVJOcDhmbTdyeVk5cEVDenZGelg2RkczN0xsM2tPd1o4MXRjSjBBeE85VFdIclE3UTVfZUJFRHd3SE0xcXh6LVY2bTR6V1BBMkotMnc2VnAzSjA1NVBoSFJqYnZxbk5wNFU4bnc?oc=5",
+   "fonte": "NSC Total",
+   "quando": 1794503724.0,
+   "categoria": "brasil",
+   "fontes": [
+    "NSC Total"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 14:15"
+  },
+  {
+   "titulo": "Animais silvestres mantidos em cativeiro por casal são apreendidos em Sorocaba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQems4ZlVrZTlXZWpNa0JkMjNZQl95U1ZJaXh0M2VCSDdmeFl0MmkycWJFN2dPclJrd1VTbUIwaGtPa0pTdEV0dHBWMUJTUWZUa2NqaklCQ3B4dnF6OGFjUG9xUFVTMDlSVzZMZkt4dVREYXlqbEJhWEstSHRXRGVFLTUzQ0RMeFprM1dDSEVFYzNZN1RjdkthWUtEakZNQ1ZkZV9UcDdLTVpENXo4RTlkd25DRW1OSk5EVGxOMGY4bkpiWEdQbkR4VWVoMXpvOF95dmJ5UGk3eGw0Mk5XNzVyemRjT1ZmTlBOTHZlNE52VWVtZi1nMXlacURLRWM3QdIBjAJBVV95cUxPV3RlWGgxYzRMeldfMlhlV3FkaTZNbGJoTS1wdm9iYkV6alRLZEYtc05fSGxHMFd5ME1Xbi1PUFNJZmFZVWZfTzR2TEswV3J6WjdqRGVIdlVPVDBacm1lZUdLc1duWGNCY0QxakxjREJCUVRES0g2QmhCQUdoY1dDWWNIY0pnWnVGMEVxYTBOUm5QMEUzdFBJSHFzVmJIczJkclVGNzA5bFFyVEpaWnRna3lnRXoyZWhqN2RQcXlGRUo5MFdYSzJvc21qX0FUdGVhcGt5SjdYVVp6alR0THRFVnM3bWd3a1JJSnZCVk5vZFc2Wi10SXY2ZkE0VVpCRFFsMmU2RkN5b2RQSU9k?oc=5",
+   "fonte": "G1",
+   "quando": 1794503275.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 14:07"
+  },
+  {
+   "titulo": "Tarcísio define novos nomes para secretarias; veja quem fará parte do governo - vtvnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmx1bHc2bXM3bnh6OEtoenBMbFI1SVVMT0JBa2trVGhrWjlvS2xkaV84clZGTTdpQzRXY2xiMmhvWkFtdWtWX2tuQVRac19WekxjSFlpWUFlUWdCQ09HWEN2RmZ6ZTdBbHJCd01hREwyYzNVVXktQklpeFpQNVpjMXV0QQ?oc=5",
+   "fonte": "vtvnews.com.br",
+   "quando": 1794502800.0,
+   "categoria": "estado",
+   "fontes": [
+    "vtvnews.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 14:00"
+  },
+  {
+   "titulo": "Júlia Zanatta apresenta 28 emendas à MP do Imposto Seletivo para poupar setores de Santa Catarina - Jornal Opinião",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3ZDRzVVMEEtOXMxSTJUX1laNDMwdzBLVWR3ZXlKa2h2VHFqZlFKMXhWcnNONzlYbjhmaUdHWmNnZTBKQ3lCOFFySXYxRzI3b1dHRGtnSU1CUXVXQkF3NXRuSkx3NXk2dnF6bjgtSGF5dThYZWNOa1N6Z1dSX2JTbFhIRVVDeGVXS2hveHBlejdjV1l4T25fUi0xblQ5S2VITWEwUXNVajAxM3YxUUMyVW4wdjQ0R2plZzF4WDlWZUdRZw?oc=5",
+   "fonte": "Jornal Opinião",
+   "quando": 1794501983.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Opinião"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 13:46"
+  },
+  {
+   "titulo": "Vinhedo inclui dez locações na plataforma São Paulo State Film Commission - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOV9pVGZJcWEzdmhtTXByMFU0Qm1JcnVTdDlROG9tTWxsalFyWDN0V1hTVGJidDBteXo2YVFBMGUzNWJZcGJONVFpWl9pblItYzhTWlV3MXRUNmo2b09SVUhpYWlEa0tyOElpMG53Q2NDZ0JRLWNqdHhVMF93ai1qakFldy1kUDVSVDVTXzM1MGVrdVlMcjhWOHM4bXR0c3J4Qk9CM09mSS1ZMWtDY1RucUV3?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794501927.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 13:45"
+  },
+  {
+   "titulo": "Memorial do Imigrante recebe o 1º Salão de Artes Marginais - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHpZMkFfaFFOTV9pemdMelh0Zm82WGY2TmVwVWZ2bUVuNG1oUFB3eGxWYTVFdGV0WkcxYVVBVUplYzNlcG9FMHFCa2o3SFN6UVNDQzNlZkhSc2QzLXVwUnhXNlZQX0NQX09sQVdCaERjeGR3OENLY3pEbjRMeEVCcno1MHU2RTd0NGxmb3Q5T0lLR3VYak11eFNoVGF4dw?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794501878.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 13:44"
+  },
+  {
+   "titulo": "Vinhedo inaugura Centro de Excelência em Atletismo neste sábado - Jornal de Vinhedo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlBQMkNJUUpsbFVGdWZRYnRreEwybzdoZ1NxUUdseE96VWM0OUxvUGZlaTlFR0VTZVlrQnZQcmphOXBtVTF5ZTlfaFhLd2ZvTjZoVzY5bXVUX3pYSy10M0E2MWJLX2RKTGxHNmd2ZHpJN082eXZhQmNKYk9DWXQ5eHJIOWowaGVMSGRjQlZWQ2ZuN01pTXZidjVJRQ?oc=5",
+   "fonte": "Jornal de Vinhedo",
+   "quando": 1794501720.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Jornal de Vinhedo"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 13:42"
+  },
+  {
+   "titulo": "Manutenção na barragem Porto Góes deixa trecho do Rio Tietê quase seco em Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeUZtM0VLUjExeDNHMWlXbmRRcVpOS203eGE4eERWMFpqYWUwTE9uaFFLaktzbkVhZ2V2RVZFR09JdWEwSExBZFFlWEdoVzBGMC1lUVBnUjVCSWdlS0dOVXNYazBZTEd1MGFkNi0wSmFzQVNiNzc4dWZrckE4MXQzLVNtSkcyNzZKbnZJY0tBOGx3aDhuN0F3MmtZZWx2NDVHWGNHOW1YbFo1UTd6aGJVVnZZeHI2NDRQblltaHNJMXRpZmJkZ3dVM2MyUGU5bV8zc3RuMTFzWVAyZEtiaTBtX3ZsMm9tbG54dEF1Q1hwY2oyV1RfSHJYelgzM2JRLU3SAY4CQVVfeXFMUGM4ZHpfVzVUMkl3NXdKYzlualpEM1NfaHJKVm10RlVscFk3UkZmbDljSEx3SGVEb203ZV80UEprbUZ4SWNRMjBUc0VfanlUYk85Ny0wLXlSMTE0ZW11aGVZc1dTYTI2TGQzaHlVWV9JWGRwWVhYaUZGcTlueTlwSEh1U21vc0Nsb3RpR3Rqa09nYkQtRjNBOGE4dGVrdEJuWUIzQmNnMTRMTzkzdXFYdUZzQkNuTnFYZ2RuUnItRlFnZGFMd1IxbjNrM2xhYzhLNnRDZ18wbXVwRzIyZ29hc3F6M01zb1pBTE1PcGlKbW9ZdmFuRHFEbHFXZTZ5dE9oV09vVVBJQzJ0Y2FhVS1R?oc=5",
+   "fonte": "G1",
+   "quando": 1794501115.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 13:31"
+  },
+  {
+   "titulo": "TIC Trens inicia limpeza do terreno das estações Louveira e Valinhos - Metrô CPTM",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlhLQzhiYkkxZHhaS2tKYUF2WWVsbDlQUWkzc0tkcFFab1FZaTQ2a2ZnM2FmYWY0cUxxM2EtVXdQQnVObXk1NWFmVG4xUEpycmhFSHl1WkxUYkZxdnFZazJmNU1PQ3A3dkdybDlUQzRiQXJYaWlGYXpnWVFsb1ZsYzVxS2FmMm8taXNjanlJMWtFNW5sOVBnRzBoa3BpTGc?oc=5",
+   "fonte": "Metrô CPTM",
+   "quando": 1794500924.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Metrô CPTM"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 13:28"
+  },
+  {
+   "titulo": "Senado aprova renegociação de dívidas rurais de até R$ 100 bilhões - Brasil no Centro",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3oyVkIwQXVoeFc2ZHpObGd3bFBrTnNwN3VWNTNLQ3ZSN2ZBWGFld2gyRVFZUnRYbnZDZW4yQlRkSmVXbTJHY2xHMnpSMjZWYnNSODBqNzNGZ0NOeVZ3cEpOTUx4MXgzdG9ERlQyWmdheDZKMDJoYTUtUVFWVVVjeEFHRDhSaXFlYjZqMUZUT3hZYXBCcVZ5Ull4V0c?oc=5",
+   "fonte": "Brasil no Centro",
+   "quando": 1794498720.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Brasil no Centro"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 12:52"
+  },
+  {
+   "titulo": "Novo imposto sobre cigarros gera divergência entre governo e indústria - Gazeta do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTRDcF8tNE9vUTVKX0tMWXJDS0VRMm9tbVgxaDVYQl9UMzhVZnh5Ui1PWEF3T3RFeWNwMXhXTlc3b281bVBMWk1MVmZEUy1DXzBnYWFCU0FhR21fR3hwQjhZQjFKZ0w5OTRIcmRYa3hWZGhkQzRzekRWTDV5eG1NU1pva1pjVzhtVkN6LXk4d2VRVXZRYklYVkxER05HMGJRMm9IRzQ4YUlyN3F3?oc=5",
+   "fonte": "Gazeta do Paraná",
+   "quando": 1794496800.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Gazeta do Paraná"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 12:20"
+  },
+  {
+   "titulo": "STF rejeita por unanimidade tentativa de Eduardo Bolsonaro de derrubar mandado de prisão - www.correiodamanha.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdnVLQ1V2YWh2RjJYcGJVZ3VyMW42UTZKSlowS3g3YXFOLWdlTWpTYUg0TXFTUFJQTnpKQjJOeVRtdTFwSnFFZ0NsSk1JdGFoeGg5MktiNzNvc0tSM0hZOG9sQzZONmdYdmZnTnUxeFVZWEpYVjdWVy1OYTl1R2xlc096Rm1YN1RQZHVBQ3V2RDNXZzFBYzFmWWh1YVJpRm5LaUxSVlRFTzdKeXNPV2dEcnZWQV9uc1ZlZW54SXItN2h1VFJ6X3NLS0xyRDZtdF9DZ2w5NjBDQUxpNG9LNm85Nk5yUW4tMnRtaGhBa1UyVXdYVWl4UkVxVk90R1E?oc=5",
+   "fonte": "www.correiodamanha.com.br",
+   "quando": 1794495720.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.correiodamanha.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 12:02"
+  },
+  {
+   "titulo": "Governo estuda aumentar imposto sobre elétricos importados para até 65% - Folha do Estado",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTVaR2pXZnZzb2pILVJnbld6T2FHcGllUFJ4SmRpQVJWWS1TbGlZRkhCWWE4LWhJT0pfbEJ3QnZJQjg4bHI0MTFTb2dwbWI5NzVYZEJpRktCQWdzVFd3LU5NWGhSWE5ISWdTMFVxMEoxYzkxVkRMMVBhdFU2ZHBuS3diWUVKRElNa1ptTmd5S21zb0ptd0dFYjh5UzBlVHdhcUh5b3NyOWw0UEZ2LUJWbUtqdnZjcTRHclow?oc=5",
+   "fonte": "Folha do Estado",
+   "quando": 1794493500.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Folha do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 11:25"
   }
  ]
 }
