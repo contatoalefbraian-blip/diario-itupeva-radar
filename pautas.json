@@ -1,5 +1,5 @@
 {
- "gerado": "12/11/2026 20:14",
+ "gerado": "12/11/2026 20:59",
  "desde": "12/11/2026 16:35",
  "pautas": [
   {
@@ -43,6 +43,26 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/12/procura-homem-desaparecido-varzea-paulista.ghtml"
   },
   {
+   "titulo": "Dupla é presa acusada de desviar carga e dar prejuízo de mais de um milhão - Olhar Itupeva",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHNCbThnQ3VPb2tROElGVlR0d2x1cWJUdURQXzZpV1hOcUxLdjFQaWsyLXZOVGJPd2lfWE1Ma2Y5eG5sM1Y4aHBNRnhWT1pISUR6X1NYR2dmRTFGeUZSbGhGRHUxVEJ4SXRwdlI3Tk5yd2tsZGVOY2J5MHcyZGhzNlk5MWx1RW1KaTY0ZDFmYzVLN3dFQVhOWUJOSVBMR3dkUXlnNFVGYl9uWU1RZHM5SnctZ0ZubWJHTzhMY0F3?oc=5",
+   "fonte": "Olhar Itupeva",
+   "quando": 1794524764.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Olhar Itupeva"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "12/11 20:06",
+   "foto": "f4d8ec0ac3f7.jpg",
+   "credito": "Imagem ilustrativa: U.S. Army Garrison Fort George G. Meade / Wikimedia Commons (CC BY 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1067"
+  },
+  {
    "titulo": "Chuva forte provoca alagamentos e interrompe trens na Grande São Paulo - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWxIM3N0N3E2YUg5T2prM2JDSEZFVlJyRXBHSXByd2ZsRDB1TDlEN0x0Rm1ySWlFTndZd3pKVkdSSEVsQndFa1pqaEtKVWFrYVhXeEE2blRoZ3pxUUFjUFdzRUJEMUpSZ0R6OVdqZVFLdVgtR3VlT3JEY21rSDdyS3hLTkFVUEJiT0hGT0lDbGpVdFlfZzJpM0VEVmpuV21GX3c?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -83,6 +103,47 @@
    "foto_tipo": "materia",
    "foto_tamanho": "800x445",
    "materia_url": "https://jr.jor.br/2026/11/12/homem-e-preso-por-furtar-extensao-de-obra-em-itupeva/"
+  },
+  {
+   "titulo": "Moto é furtada no Jardim Novo Horizonte - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmRjRqMWhhWDRvaGRoemJkUHo1aDdYYUZmT2dpMXMxaFk1c3hYOTR6ZFdYaDFYWFVxZUZuTFVkVHhlZkZnQUE2Q2NxYUYxXzN1OEdBQkRsZmJsSlFnUlVGZzNqcTRDV2tDX3NGZnYzQ1R5MU1WVmdBVQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794526191.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "12/11 20:29",
+   "foto": "05a28c8b4399.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://jr.jor.br/2026/11/12/moto-e-furtada-no-jardim-novo-horizonte/"
+  },
+  {
+   "titulo": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara - G1",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVlremN5SWpPNWhGSGIzQTJTdDZvMEdtaWpPVnBpUjc2cG9Na3MtYlhSQmFrQXdydE9Fdk1wZnFjNXZxTGQ3c21NTlBPak9tenJkck10VVo2THQ3MFV5cmljVndBb0F5YWVCVXNvMEJwQngtRC1NSy1JXy1kcmdGSEN3U1RyZUxFaGlSWVBfU21iRzllYlVIUHRnWTkya2JDU1NfWXNTRmZYMlFoejRacXJrZVYyRkUwcllVb2gzY3RSWHR5LVlsXy1oNW9iZUlLUzdsRDZNa9IB5gFBVV95cUxQUE5sSThRQjlXdVMyZndmalFVZkNRT0oyWFFlanRBekZ2Xy0zZHBoY25QU0tRSzFZWEt2cTVEU2JWcEx5eHVmTG5qYTBlN2d2amVwa20xY0JXNkVDMHZZUlRFU2pVbmxkQllDU2pGelk0d3VQZlhXbkgzdV9CeHJJSlV3RjZmTEFZZUZmbG5IdGZhN3RQNllqMzJka0gzYnl3X3pDR3k3cEtwSTM3OVlJRGdaSEFMczZ3TVpZXzVubUw0UmxzWmZndm5NMVAtT0JsU2RaOFlvWFRMOEZkZGNhS3JHaVhYZw?oc=5",
+   "fonte": "G1",
+   "quando": 1794524862.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico",
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "12/11 20:07",
+   "foto": "92bd5271d00e.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1280",
+   "materia_url": "https://g1.globo.com/saude/noticia/2026/11/12/senado-aprova-inclusao-de-vacina-contra-herpes-zoster-no-sus-projeto-segue-para-a-camara.ghtml"
   },
   {
    "titulo": "Chuva forte no estado leva Defesa Civil de São Paulo a emitir alertas por celular - Fato Paulista",
@@ -169,6 +230,27 @@
    "foto_tamanho": "800x539"
   },
   {
+   "titulo": "JJ: Jundiaí registra queda de árvore após chuva durante a madrugada - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0NXX1dDQVBZZzY5NTlCZ1l2UVBMNVNqV2pVTVU3SEU1bGNIaUpicnBITVJyVWd4aDhyNHoxc3BCVXBXRjNfV1ZIWU0tQmpRNkQxZTBmZW5FcUswdHc1NEpZczZQSzl4aGcyckZNTzVDLTNiN1NqaTF5bEJ3b2NQdWFDeVF0Q3BFdk9pUExZZlZ2b09zdldnTTYtQWFiQ3BsWWM1ay01dEFROXhzMkotX1hzZTNzeURzUHJBeW55bDZ1cVE?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794514331.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "12/11 17:12",
+   "foto": "d7dcbc5887d3.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018294/jundiai/2026/11/jundiai-registra-queda-de-arvore-apos-chuva-durante-a-madrugada"
+  },
+  {
    "titulo": "Jundiaí registra queda de árvore após chuva durante a madrugada - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQzQyT0RvV2ptcTF2SkVUeG83YWtINERJenZhMy1TelVocFB1VnlkbTE1QVM1VUdsaWl1MGFZVUdiNFdfVVBDYmVGMjFsVWtzV19rdnNST0VIaFJkbUhZN2ZVUHlkcTdNN0lqS0Z3dU85SFZQMVJxRncxQXBIamVBbTVyLV84N3pZVFZPLUFJV2dEcThBeGdKWTdaa2x0bnpYeTAtYlVTSlptNk9sVVV4X3ZJdUFncnlfYlpaVEVHQnk0WjRZX0g1Qg?oc=5",
    "fonte": "sampi.net.br",
@@ -232,10 +314,49 @@
    "foto_tamanho": "1600x900"
   },
   {
+   "titulo": "EDUCAÇÃO | Imagens feitas com celulares durante a aplicação do Provão Paulista neste mês - que seleciona alunos da rede estadual para estudar na Universidade de São Paulo (USP) e em outras instituições públicas - foram postadas pelo próprios candi - Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ibDZGQ2xpU3RjUU5zTmU5dExuaHVTZjdUcmk2LTJKQ09adzdsTmM5bWdDR1lfbGFMa3BISHhyWGtZcGQ5eS0wRkxZOUhvaGFWR3c?oc=5",
+   "fonte": "Instagram",
+   "quando": 1794527145.0,
+   "categoria": "estado",
+   "fontes": [
+    "Instagram"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 20:45",
+   "foto": "f3ab8b2d1393.jpg",
+   "credito": "Imagem ilustrativa: Sakibnb / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Horóscopo de Aquário hoje, 13/11: uma carta que não será enviada abre espaço para entender sentimentos sem transformar cada pensamento em mensagem - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdmU5cXRqbU9pcXBlNGZBUE91Qjc2Y3puWmRIMzFTX05UU2tnVVExeUZqdkxCMnN6a25JdF95VmNrOG90SF91UU4yQzF3Ri1SQjVwTzFYNU9MM2RRZFhMSkI5UDRqQ0NYVnBSMnJfQVJ5UWhpdjE1M1lLdFdFRnBSeWhIWW1EMGRFNENvbUprNjg?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794526200.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 20:30",
+   "foto": "d857126261b1.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/horoscopo/aquario/horoscopo-de-aquario-hoje-13-11-2026/"
+  },
+  {
    "titulo": "Senado aprova urgência do ajuste fiscal de até R$ 60 bi - Painel Político",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmdKeGZjWi0zempBWEkwZ0JXdE1VZlZqQ2hyNW5EV3BWU2IyTmpEVkx5cHpwSmhwVVBseWFaeFNXbzVDaGdscXUzNlAyNXBQeTBrRXJTemR4V2MzX29NQ0ZjWnFKLUpFcUlRRGtJOElKNlp0UjRSdEdrQlVGdDctZ2ZaMzJkVDRh?oc=5",
    "fonte": "Painel Político",
-   "quando": 1794525111.0,
+   "quando": 1794525185.0,
    "categoria": "brasil",
    "fontes": [
     "Painel Político"
@@ -245,12 +366,31 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "12/11 20:11",
+   "hora": "12/11 20:13",
    "foto": "46eddb5b5046.jpg",
    "credito": "Foto: Painel Político",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x795",
    "materia_url": "https://painelpolitico.com/senado-aprova-urgencia-do-ajuste-fiscal-de-ate-r-60-bi"
+  },
+  {
+   "titulo": "Profissionais trocam carteira assinada por autônomos em Jundiaí - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0xyWFp3N1RyemR4VkdaQzk2V2wyQXRsT2tqVEt5VGtfREI2Qk1DTkRtV3RpeTRGMHVMNV9XX05LS2ptSzZwREZ2SHlBTHlYNE5wSE5pejl3S0xscjdZN3p4QTdDNmhyU3Q4NG5TSW5XdkRadFgzZFBrejBfQmhTR0xsYnVhT1JiR2xPSHZfY2dtUExCaHRxRjdyZDFqTTE0OXBXZXp4ZlhGVGRNVWF6QlQxc2l0bVM5YUxzbTh5b2lLQnBTWHVKYkhGUnZIZXpmMUZuSHBZU3Mycnk2MnJzOVNVeU1DZFdqSWfSAfgBQVVfeXFMUFZLNFJGRnpqaTVtT1ZGbmRHMEh4SF9MdExjVm1XUXZubUFBc05VaVdCTG5qbWxYY296RS1oakNCWE1lZjNxR1RuOEh0czZSckVXcXdFcXBzX25zUk9ScW5lQnlRZWtSQl8wUGwtaVp3UHh4UWRQcTVhNks3S2ZsSU5WTlRldkpNODN3eWloMTN5dlNlNUZ6RG1WYjRWUmpjcUVmMXFPbGZ6SDQ1M0laMkZ3clUxczh4VGJEM2h6RU9DVVAwaEdxZGpZUmEzVXFhYU5WaUxLeVlnZmloZDczdzJDZjVWbTh3NHdHWnVHbnVhMWNxYTdiTlo?oc=5",
+   "fonte": "G1",
+   "quando": 1794524745.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 20:05",
+   "foto": "a4a50b63353c.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/profissionais-trocam-carteira-assinada-por-autonomos-em-jundiai-15183714.ghtml"
   },
   {
    "titulo": "Mpox em SP: 300 casos, sintomas, transmissão e vacina - ncnews.com.br",
@@ -385,12 +525,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "12/11 19:04",
-   "foto": "7fba981ddb8f.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1198",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/corinthians-promove-churrasco-para-elenco-em-meio-a-crise/"
+   "hora": "12/11 19:04"
   },
   {
    "titulo": "Mogi das Cruzes (SP): Chuva forte causa alagamentos e queda de árvores; saiba os impactos - Diário do Estado",
@@ -406,12 +541,23 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "12/11 19:02",
-   "foto": "95cc6a42eeeb.jpg",
-   "credito": "Foto: Diário do Estado",
-   "foto_tipo": "materia",
-   "foto_tamanho": "984x738",
-   "materia_url": "https://diariodoestadogo.com.br/mogi-das-cruzes-sp-chuva-forte-causa-alagamentos-e-queda-de-arvores-saiba-os-impactos/"
+   "hora": "12/11 19:02"
+  },
+  {
+   "titulo": "Orçamento de 2027 depende de novas regras fiscais, enquanto Congresso aprova R$ 966,4 milhões em créditos e define limites para emendas - Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcjBpWWR6VzZyemN2WTZWZGNITnpwMUhoSGJ1bTR5SG5SbEI2aENNemFsZVVDTkdvdmU0LWRnVzNVMjJLZmU1ZG5wOFV0NlVmSF9xcktpeElXdi04N0NSeHhRQnJ5LWlJNlRhNVhvR1dJczdGYXI2UXB5WlRmSG9UZU5pX25mMUg4ZlZvZnhSdTVMUkw1ckRmZlAzcnFicXBocjczNlJaMG16eXR0cGtjXzBDZGhzUm5oN1FfeTg2TzY3MnhqandkaFpRUXJGenp1eUtzbmJidl85ejlTOXd1cjZlbjdJaXhEa0ZRR3Y4SjFVbjkwXzVUNmxoZkEtRW1MSjhrbQ?oc=5",
+   "fonte": "Jornal Grande Bahia",
+   "quando": 1794520816.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Grande Bahia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "12/11 19:00"
   },
   {
    "titulo": "Conasa vence leilão da BR-163 e nova concessão prevê R$ 12,5 bilhões em investimentos no Mato Grosso e Pará - Olhar Direto",
@@ -427,12 +573,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "12/11 18:59",
-   "foto": "1e836c504e92.jpg",
-   "credito": "Foto: Portal MT",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://portalmt.com.br/conasa-vence-leilao-da-br-163-e-nova-concessao-preve-r-125-bilhoes-em-investimentos-no-mato-grosso-e-para/"
+   "hora": "12/11 18:59"
   },
   {
    "titulo": "Com Ricardo Salles, Tarcísio anuncia 5 secretários que atuaram no governo Bolsonaro - ICL Notícias",
@@ -448,12 +589,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "12/11 18:44",
-   "foto": "e6d02a44c20b.jpg",
-   "credito": "Foto: ICL Notícias",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1080x805",
-   "materia_url": "https://iclnoticias.com.br/5-dos-6-secretarios-anunciados-por-tarcisio/"
+   "hora": "12/11 18:44"
   },
   {
    "titulo": "Há 50 anos, avenida de Bauru explodiu numa sexta-feira 13, logo após visita de presidente - G1",
@@ -467,12 +603,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "12/11 18:42",
-   "foto": "6fe8901b7dec.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "405x720",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/ha-50-anos-avenida-de-bauru-explodiu-numa-sexta-feira-13-logo-apos-visita-de-presidente-15181588.ghtml"
+   "hora": "12/11 18:42"
   },
   {
    "titulo": "Senado aprova urgência por 40 a 38 e acelera votação do ajuste fiscal de Lula - ncnews.com.br",
@@ -488,12 +619,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "12/11 18:38",
-   "foto": "00969b2fdc9c.jpg",
-   "credito": "Foto: ncnews.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://ncnews.com.br/2026/11/12/senado-aprova-urgencia-ajuste-fiscal/"
+   "hora": "12/11 18:38"
   },
   {
    "titulo": "STF autoriza jornada de trabalho de 42 horas semanais na transição para escala 5×2 - Movimento Econômico",
@@ -509,12 +635,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "12/11 18:34",
-   "foto": "114c3cdb295d.jpg",
-   "credito": "Foto: Movimento Econômico",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x1280",
-   "materia_url": "https://movimentoeconomico.com.br/trabalho/2026/11/12/stf-autoriza-jornada-de-trabalho-de-42-horas-semanais-na-transicao-para-escala-5x2/"
+   "hora": "12/11 18:34"
   },
   {
    "titulo": "Senado inicia votação do 'plano Moretti' de ajuste fiscal, apesar de protesto da oposição - Folha de S.Paulo",
@@ -643,22 +764,6 @@
    "hora": "12/11 18:10"
   },
   {
-   "titulo": "Pacote do governo aumenta impostos e não ataca aumento de gastos, diz Fiesp - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeF90d2Z4Y2xVbENLSGlWRmNMV3BNYnN4eHJPLWhKeTk1OUt3S2ZlVkQ4Qkp0em9PXzE4ekZNbGN4THVwS2hHbWRnYW1VZEtpY05QS3NhLVNicjk4d25wVlBLbjRmOGt1bVpseXpwcFhJU0ZCZUFnSmk4UGMtY1YxYXZhTXBFYS1PWGU3VFpRRWVQMGs0UVdnMXFab0hLeGt2Rl92V2hMTUs2OGVlQzgwVlhwQWNMZzktY1RPYk4zaFdPZUVudmFBMWxFMkVLZw?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1794517774.0,
-   "categoria": "estado",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "12/11 18:09"
-  },
-  {
    "titulo": "Fiemg cobra corte de gastos e critica ajuste fiscal do governo - Agora Litoral",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUVBQVgwRW5OdXhvSXZIWWJfMl9ta1pVVncxRVdkbUN1R1JCSTFCcTdpaXp5ZTRTX05PUjBIWmJfcmdvQ2tQVXg0cTFDSkh4UV96MVB6ZkJRclYwREJNZWNOa0x5TTAxVmxRMVpmb2c0NGZ1LWZJcXhOYWVpcGlHOXh0SlJEZV9Cd2pYdHExR04ta2FOR3UyeXlVUFRITF9NWS1XNA?oc=5",
    "fonte": "Agora Litoral",
@@ -701,6 +806,20 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "12/11 17:39"
+  },
+  {
+   "titulo": "Fazenda de associação medicinal era usada para tráfico de maconha em Itatinga, SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0p3OWItZXFJNkFlN1lBa25rdjNJMHQ1N2dGSVhidFBDbTdzcEhEem9VS0pUd3RPZnZ0bHRwV0VmTUp0RDQxVklkZmFUaVFmbGZyZmZmLTlKaU9fNWdpOTdTNGFTUWRQdGlIUVl0THprYVJiaUdReHR3UWEyU0txQWU5X2ktS0ZJVEtzRGdoQ3hiWGh3T2dDUm9mN21OelpLczdyUDBFUzJMdkRkRWR1aF9xRjVzajQ3eURrTEIyUkplZHNYblZ1UDRXd1lIcGpWMDkwYmp2TnlmUdIB6AFBVV95cUxOV201Q0lDbjNWUDV2UXpsRXkwWmpzeEllZUluTzY2SFJVTGhVckdVWk93MDZNbU05Wk9NZF9KOXBlNzBOcVdOc2piNHotTXh1ZEwyMlU4TkhJY0NRM1NkT3c2eUU0YmpzUVhrNnNuU2FqdGtTbTRmUndEXzZSVXoxdFFvNmYyOGhhY1NxVmVxbGF4QTNrZFRIZUIxV05ZUHR5REF3Ym84VmdOQ3JFU3FHTjNTQ1FFUHFyOHFsLTd4bDZud2ItVUt0QWxaVUNJVTBONjdzbExrbEtrQ0ZKZnJtaVNZYnp3WmhJ?oc=5",
+   "fonte": "G1",
+   "quando": 1794515908.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "12/11 17:38"
   },
   {
    "titulo": "Fundo Social de Solidariedade prepara 10 kits maternidade para participantes do Grupo Gestar - Portal VV8",
@@ -789,22 +908,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "12/11 17:02"
-  },
-  {
-   "titulo": "AO VIVO: Chuva causa estragos na Grande SP e complica volta para casa nesta quinta; acompanhe - G1",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3Vpc3ViN0dqOFVGWld2aWZGSWFuTHYtZUVpSEpLWEpOMTFlaDBzb0hhb3VaUDNrU1FOdFlTLVd0aHpWRXpNUHhnQjMwWExtUHF3aHJMZ0ROUjRjTDdFNFBZWmVteVpoQjJPcHVPOG9wTmJfeFp2bElhY05ldzVrZy1YeV9RRElPbzVDS05vLXBEZXc?oc=5",
-   "fonte": "G1",
-   "quando": 1794512802.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "12/11 16:46"
   },
   {
    "titulo": "Vinhedo (SP) inaugura Centro de Excelência em Atletismo - PSD - Partido Social Democrático",
