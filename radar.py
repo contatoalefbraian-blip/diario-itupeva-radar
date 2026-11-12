@@ -102,9 +102,22 @@ def chave_titulo(t):
     return norm(t)[:120]
 
 
+EDICOES = [(7, 35), (10, 35), (16, 35)]  # horario (Brasilia) em que a Friday le a lista
+
+
+def inicio_janela(agora):
+    """Inicio da janela de pautas: a edicao anterior a que vai ler a lista agora.
+    A lista so muda de janela 40 min depois de cada edicao comecar, para a Friday ler a lista completa."""
+    ref = agora - 3 * 3600 - 40 * 60          # relogio de Brasilia, com 40 min de folga
+    dia = int(ref // 86400) * 86400
+    marcos = [dia - 86400 + h * 3600 + m * 60 for h, m in EDICOES] + [dia + h * 3600 + m * 60 for h, m in EDICOES]
+    return max(t for t in marcos if t <= ref) + 3 * 3600   # volta para UTC
+
+
 def main(xml_teste=None):
     vistos = json.load(open(ESTADO)) if os.path.exists(ESTADO) else {}
     agora = time.time()
+    janela = 0 if xml_teste else inicio_janela(agora)
     feeds = [(xml_teste, "itupeva")] if xml_teste else []
     if not xml_teste:
         for q, cat in BUSCAS:
@@ -115,7 +128,7 @@ def main(xml_teste=None):
     pautas = {}
     for xb, cat in feeds:
         for i in itens(xb):
-            if agora - i["quando"] > 24 * 3600:
+            if i["quando"] < janela and not (eh_urgente(i["titulo"]) and agora - i["quando"] <= JANELA_HORAS * 3600):
                 continue
             k = chave_titulo(i["titulo"])
             if cat != "itupeva" and "itupeva" in norm(i["titulo"]):
@@ -144,10 +157,12 @@ def main(xml_teste=None):
             usados[p["categoria"]] += 1
             escolhidos.append(p)
     lista = escolhidos
-    json.dump({"gerado": time.strftime("%d/%m/%Y %H:%M", time.gmtime(agora - 3 * 3600)), "pautas": lista},
+    json.dump({"gerado": time.strftime("%d/%m/%Y %H:%M", time.gmtime(agora - 3 * 3600)),
+               "desde": time.strftime("%d/%m/%Y %H:%M", time.gmtime(janela - 3 * 3600)) if janela else "",
+               "pautas": lista},
               open("pautas.json", "w"), ensure_ascii=False, indent=1)
     with open("pautas.md", "w") as f:
-        f.write("# Pautas do radar (ultimas 24h, mais relevantes primeiro)\n\n")
+        f.write("# Pautas do radar desde a edicao anterior, mais relevantes primeiro\n\n")
         for p in lista:
             f.write(f"- {'URGENTE ' if p['urgente'] else ''}[{p['categoria']}] ({p['pontos']} pts"
                     f"{', ' + ', '.join(p['assuntos']) if p['assuntos'] else ''}) {p['titulo']} "

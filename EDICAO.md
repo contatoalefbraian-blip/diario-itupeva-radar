@@ -20,7 +20,7 @@ Confira rapidamente os posts das últimas 24h em `registro/historico.md` (fato m
 - Teto de buscas: Friday até 4 buscas ou páginas abertas; Dê até 1 pedido de imagem. Pauta fraca não se força: use o plano B ou deixe o horário vazio.
 
 ## 2. Friday (pauta) · subagente leve
-Peça ao subagente: ler `pautas.json` (lista do radar) e `registro/historico.md` (últimos 3 dias), escolher pelo foco do horário, preferindo as mais pontuadas (em empate, a que tem `foto`), confirmar os fatos abrindo a fonte e devolver **só o briefing**: pauta em uma frase, fatos confirmados com fonte e link, o que não está confirmado, outro lado, `foto`/`credito`/`foto_tipo` do radar e o plano B (2ª melhor, uma linha). Nunca inventar pauta.
+Peça ao subagente: ler `pautas.json` (lista do radar, só com as notícias publicadas desde a edição anterior; o campo `desde` mostra o início) e `registro/historico.md` (últimos 3 dias), escolher pelo foco do horário, preferindo as mais pontuadas (em empate, a que tem `foto`), confirmar os fatos abrindo a fonte e devolver **só o briefing**: pauta em uma frase, fatos confirmados com fonte e link, o que não está confirmado, outro lado, `foto`/`credito`/`foto_tipo` do radar e o plano B (2ª melhor, uma linha). Nunca inventar pauta.
 
 ## 3. Ultron + Edith e Peter (texto, numa passada só)
 Com o briefing, escreva do zero, sem copiar nem parafrasear de perto: (a) manchete da arte, até 2 linhas; (b) subtítulo, até 4 linhas; (c) legenda no padrão da Dê (sem "link da bio" enquanto o site não existir: use a linha "Fontes: ..."), com o crédito da imagem e hashtags; (d) matéria completa de até 300 palavras, assinada "Redação Diário de Itupeva".
