@@ -1,7 +1,69 @@
 {
- "gerado": "13/11/2026 09:56",
+ "gerado": "13/11/2026 11:10",
  "desde": "13/11/2026 07:35",
  "pautas": [
+  {
+   "titulo": "Motiva Autoban realiza mais uma megaoperação com interdição total da Rodovia dos Bandeirantes entre Jundiaí e São Paulo - Motiva Rodovias",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkRoOTg3VDVvMGhEdENqXzBiZVZjUVVVTFZOM2VBQktYREVjNDFYS1M2Z1o4Y1FPd3VjTm9jdDU1aUN1NUJJbC11N25aZ18wR0NQME1kMXF5dHhGcVhjWGJZQThQT2hPLXlwTW5JU0FacE5OdnRLUDZUa0ZFUTFJNkNJUF9lTEdWcXJuWnhkbEdoS2p2cjVwRjhHZzdsQ0ZFSGlsenRJSFphaUJsRHdxRHNUNHVHQ1BtZjVMeUFtZnFNc2pW?oc=5",
+   "fonte": "Motiva Rodovias",
+   "quando": 1794578762.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Motiva Rodovias"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "transito",
+    "seguranca"
+   ],
+   "pontos": 14,
+   "hora": "13/11 11:06",
+   "foto": "4c29f14bc0a9.jpg",
+   "credito": "Foto: Motiva Rodovias",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x840",
+   "materia_url": "https://rodovias.motiva.com.br/autoban/noticias/2026/novembro/motiva-autoban-realiza-mais-uma-megaoperacao-com-interdicao-tota"
+  },
+  {
+   "titulo": "JJ: Autoban interditará a Bandeirantes entre Jundiaí e São Paulo - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS08yNHdrZ3E2QXZSN3lLeXRoNzAyRXBMVUN1dzl5UVBqakRpTjVqVjE4M3A1N3VoNGhWQTNLelV2LW5PemdrMkt5V3dBY0JmMzNGd1N2N0E2TXpueF82VFVmcjQxRmNtSklGUHZ4TGthQ1Azc2hiMVljVXU5czBOVGFMRGZmcEJpdFRYWV95aGpoWnZrU283QTNxbjVDaWo3MDF6bDRleDBfblJWWFV3dmxtYURjTUZnMTIwVkdBNA?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794578305.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 12,
+   "hora": "13/11 10:58",
+   "foto": "5dcede3b034d.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018436/jundiai/2026/11/autoban-interditara-a-bandeirantes-entre-jundiai-e-sao-paulo"
+  },
+  {
+   "titulo": "Hospital São Vicente alerta sobre prejuízos de cadastro desatualizado em Jundiaí - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM1ZwS0xoX1c5U05ObVdPNi1WbEo3cFlFbjE3VzVseG5yWmhFTGpoREh1aG1GTnhYNk9XSXZ1aDRnZGg0STZtWGZyMk5ER0JmN0VxMFMzdUhGa19wZlZ4Z3hQUEEwMjlEQXZpNi1wQVNBTXc4MU9MNVloMVRVUFptZmlFVjVFRVhXOWF6TzBtakZSMmZWY3ROb3pPLXRqZzFBLWFXT1VsdEcyQXBUalNNaFRDaURMWVBuTmRlWlY4R1J4Y3RwUTdJUzdXcS1nUFpTTnhDSDhuQnlVV2JzemFZcnZmQl9aSHB2RjBsd0Q1WEluZC1rejlVUjNNTdIBigJBVV95cUxPa2RBZXlHM1J6ejAxZk1wUDAtZ3ZIeVRZbnBybzhaRmE4UUQtU2pLc3lvdld4OVlhNG5vd0lNcVhmTGs4OEQ4ZU51QjZSbE5IYzk2dmJpXzN6WXZEcmlCZVotRWtST19NbXgzZ0c4cHpEZlRpRENraWZ5VVlJNlh2cmdLV081eUFDNTI4NW1Nb3pUUEZGbkljTWNxcXdSWFZTWEQyZkRENXN1eGRuN3pFbXp6d0RFcnhLcTJLaFdDU0JNRWlFTk5VUVJEY0VYVFYxamFkVVVkMVdiRnNaZ3JhT19QMXFjWS04MGJYbElPLWdIaWVSU3F6V3NtRndLSmxOWW1fd3hta3RDUQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794571831.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 10,
+   "hora": "13/11 09:10",
+   "foto": "61515da2024a.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://g1.globo.com/sp/itapetininga-regiao/videos-bom-dia-cidade/video/hospital-sao-vicente-alerta-sobre-prejuizos-de-cadastro-desatualizado-em-jundiai-15184535.ghtml"
+  },
   {
    "titulo": "INMET emite alerta amarelo para tempestade em Jundiaí nesta sexta-feira (13) - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenBjbTgzc3BOMlJ5QUdNTU81NkhXZDctYWRLVUUtZEtuZGdNVWk1QkVzT19jbnFqd3djWjNfZVVhdTZLcEgzamVYQmdMcWhOX25FUUdCQmE5MlY2Q21TeExwdS1aSXNmbTNYNkszb202MXBvZjdiZWJJLWFLclRlWW14TDdlMW1iNGpjMWlBYw?oc=5",
@@ -20,6 +82,88 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-13-novembro/"
+  },
+  {
+   "titulo": "Polícia Militar prende gerente do tráfico de drogas em Jundiaí - Policial Padrão",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDlld2IyM1FWT1lST0lkbFhDLUpybTBUQUY5MFMzenlNaUFva2NuZklQZ1Nub1BkeE9aeFdBaUliZ3o2d3NLaDl4akxsNDNWMVR4dWNDM1lVT2NUWjQxc21NLXIyaFpLWkhjcDdrWENuRWxLaHRQaV9FYWNVSnV2MEZyRVdScGZWSnY2c21fcXFvRjV3SDJpVHRyQmdWZnlqSjN0cGlwb0k?oc=5",
+   "fonte": "Policial Padrão",
+   "quando": 1794576168.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Policial Padrão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "13/11 10:22",
+   "foto": "73103bc99cc7.jpg",
+   "credito": "Foto: Policial Padrão",
+   "foto_tipo": "materia",
+   "foto_tamanho": "900x1600",
+   "materia_url": "https://policialpadrao.com.br/gerente-do-trafico-de-drogas-em-jundiai-pm-prende-criminoso-no-bairro-saoo/"
+  },
+  {
+   "titulo": "Jundiaí Terá Vacinação E Mais De 40 Serviços Gratuitos Neste Sábado, 14 - RNews",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SckRGV2IxaXpGc1RsVzdDVnZscFl1djVVcVlIbTdreVktU0J0ajJkdWczSTFwbnF4RUtjS1hwMk1vUlJVVlRJOG53ZEZkTDVFal93M2tIQU5SOU9ZdV9BTWZONnliZ01MZl9HSzVOWmZIVWxidmI2akJSVWRHQQ?oc=5",
+   "fonte": "RNews",
+   "quando": 1794578453.0,
+   "categoria": "regiao",
+   "fontes": [
+    "RNews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "13/11 11:00",
+   "foto": "455b3c61480e.jpg",
+   "credito": "Foto: RNews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://rnews.com.br/jundiai-vacinacao-e-40-servicos-gratuitos-sabado-14/"
+  },
+  {
+   "titulo": "JJ: Suspeito com regressão de medida cautelar é preso pela PM - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdmOVZONnd4eXQ2OE5hUmlWc19ETGNKZnV5cTkxMEs4clpUcHZOdGhBQTJLY1g5bHZ6SktPT3VFTlFDZHRPcm5jV0FhUEdoN1R1YzlaaXNqZjB2Q0JHLWZSMzZXai1uc1Y2NDFkcThwYUhZcm85ZUQydTlGSDkzWmVfUHh2T0Y4cnRPVENaV25ia0o0VG9RSC1ESVo4RDFIMTlEVGRnOWFNQTk3VUwtM3hfeTAyRGR5ai1z?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794576627.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "13/11 10:30",
+   "foto": "289dd78ac353.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018432/policia/2026/11/suspeito-com-regressao-de-medida-cautelar-e-preso-pela-pm"
+  },
+  {
+   "titulo": "Região Metropolitana de Jundiaí cria estratégia conjunta para fortalecer os negócios e o empreendedorismo - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOHpMdmtRRkctcVhpRGRpWUViSEFhWWVLaU5zaFl0cU5EM09pTlNzb3FfYmEyNnFDTlNobDBZRFpXU3ZvWU1FdTM4ZDJLUG9hZkd0TDFCWmY4NEdGS0FJazFvcVVvNHZieVpqRGhBOXBPX0JZM0djQkg0RWlfTmN3bndUR0ctc0RoNlhoQWdaWEFtQmZiWTBuV3otdDFqcGI0WW03eDhFWnVDQ0V0dGVPdDNjQnRNaVNQRVRDZFFXbWkxRjE1d1RCZFpkcFZlcW9qTjVTRnI5ZDNJUTQyWW14bEQweUV1TEk?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794574800.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "13/11 10:00",
+   "foto": "4f0793e24d45.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/13/regiao-metropolitana-de-jundiai-cria-estrategia-conjunta-para-fortalecer-os-negocios-e-o-empreendedorismo/"
   },
   {
    "titulo": "Governo de São Paulo lança concurso público para a Cetesb com 107 vagas; veja como se inscrever - O Diário de Mogi",
@@ -149,6 +293,169 @@
    "materia_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/chuvas-deixam-26-desalojados-e-um-ferido-no-estado-de-sp-na-capital-quatro-casas-sao-interditadas-apos-erosao.ghtml"
   },
   {
+   "titulo": "Postes: Câmara aprova mudanças e devolve decisão ao Senado - TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWd6QWVHUVFaaktLdTJYVWszQ3JNUmgxbWJuYlVmeVhrOW5UcTNGdmEyWWp4YkxRNktocFhEZHJPcnEtOXp4ZGdfV3FUNzBoc0h5eUFTNGdNVWdEVWtCNEI1Rzl6YzZuMWNzbk1vdG0wSEhaRUVQR0NiRnVMRUZEelJ4LXlYX0JqZGp6TE9R?oc=5",
+   "fonte": "TeleSíntese",
+   "quando": 1794578520.0,
+   "categoria": "brasil",
+   "fontes": [
+    "TeleSíntese"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 11:02",
+   "foto": "67df7350654f.jpg",
+   "credito": "Foto: TeleSíntese",
+   "foto_tipo": "materia",
+   "foto_tamanho": "936x600",
+   "materia_url": "https://telesintese.com.br/postes-camara-aprova-mudancas-e-devolve-decisao-ao-senado/"
+  },
+  {
+   "titulo": "‘Aumento de imposto na veia’: CNI e Fiesp criticam texto do ajuste fiscal - Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXNtclBaZE5kUXFZai15cEhINVc5TmZrV245VmZ2OFQ2SGtTa3hOVG1YUXJ5VjdPT0FxalBIVGRrckxDLXowNEdncWJnQW11aTJpcTVPVkFXdlY0aEVoUDg1LWQ0ZTV1dTlpczFXQzVBQlcxQUpTajdiZ0JINGdDYW42RE8wSTJfeGxQRWRyZlhqRlY1YzM4WkRUdjlYNHhoRlcyQ2k3dHJKUQ?oc=5",
+   "fonte": "Money Times",
+   "quando": 1794578100.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Money Times"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 10:55",
+   "foto": "45993f9df67b.jpg",
+   "credito": "Foto: Money Times",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x680",
+   "materia_url": "https://www.moneytimes.com.br/cni-e-fiesp-criticam-texto-do-ajuste-fiscal-aumento-de-imposto-na-veia-mlem/"
+  },
+  {
+   "titulo": "Precisa de atendimento? Jundiaí reúne mais de 40 serviços em um só lugar neste sábado (14) - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGRHSDRjWEFqejlyMmhzbUFsOXIyWU1wWVhtQV9SUmZadHM2U05TQVByYzVuV3RGZTNGSFJXLWI3YnFYMzJuMFRyTGlnNEJtaUZTS1RhTEl0M1RPa285MWxqcF9LTk0xaVdOUl94T3BTTUduWG9WVV9xV2IxZTVhcmdhN2RoVGFWOUdFQk5kVHJLM3Z1MlNPU1ln?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794577796.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 10:49",
+   "foto": "d8b3f4ecc4d8.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/prefeitura-na-area-jundiai-servicos-gratuitos/"
+  },
+  {
+   "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos - Portal São Bento Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmM2a2hMekgzNHNRSzVvOXg3bXpkanQxV01aWll4T0hkbXBaZzhzNTZhRzZLODZOcVAtdm16WWV3eHMzZW9aX3VuZHFwZ1VvQnNYS0thUUZFRDdZZWFqOXhUb0J6UEZ1RDlMQmxEaE9zMG02YlNQOExnWHFveDZtaVB6bmdNZS1HTURUV0JZZ3Jvc1dKYVhNWjlFUkRxa0h5eFFCMngzYzhDc1lDTFpRaXBfUmtTemttcUc0?oc=5",
+   "fonte": "Portal São Bento Notícias",
+   "quando": 1794577680.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal São Bento Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 10:48",
+   "foto": "7b6868102b39.jpg",
+   "credito": "Foto: Portal São Bento Notícias",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x800",
+   "materia_url": "https://www.portalsaobentonoticias.com.br/noticia/stf-encerra-processo-sobre-perdas-inflacionarias-em-planos-economicos"
+  },
+  {
+   "titulo": "Pneu importado vai ficar mais caro? Governo aumenta imposto de 16% para 30% - Quatro Rodas",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTdXSzF1aEM1UTlmQS1hM3E4OHJ6WTM1cHJSX2FtS1ZLRVBFRWMtejBRaFlsMUg4Sy1TTEIzVW9hTXg1V0tRaHNQQm5iUy1FeFlJdHdoRk5NVEo4THBBVHFBSklpWDllV2c0SjRXd25RRTNSLUdDeHNrWFJqSTlQcVBqZWl0Nnd0bzJET0lSdFM1d2JnbXc?oc=5",
+   "fonte": "Quatro Rodas",
+   "quando": 1794577200.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Quatro Rodas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 10:40",
+   "foto": "26c8859e020c.jpg",
+   "credito": "Foto: Quatro Rodas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://quatrorodas.abril.com.br/noticias/imposto-importacao-pneu-sobe-30-por-cento-brasil/"
+  },
+  {
+   "titulo": "E.M. Cláudio Gomes realiza 1ª Feira de Empreendedorismo em parceria com o Sebrae - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEpObDdDdndrSERtNFYtRDFTa1V6emtJZHVqNVdSTHA3Ni1DR1pqcGZ1OG1EdEFWUzY4UlNwS0hodkpUeXZIMnYxUjBEVVZ2Q2hObXhmbVNFZTlEcWE4SWNSM3RQcVFHc25OWU9OeDdXSk5UQzZCUlVNZEdReENEQW1BdDFISTA4Zk1qc1lNa1ZZYUswSWFxa01DWWRia1k1ME8wNVZXSzFQUnJQb1dNUzhlc2NxaW03anc?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794577087.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 10:38",
+   "foto": "ccba2fb481c7.jpg",
+   "credito": "Foto: Portal VV8",
+   "foto_tipo": "materia",
+   "foto_tamanho": "600x800",
+   "materia_url": "https://portalvv8.com.br/noticia/85373/e-m-claudio-gomes-realiza-1o-feira-de-empreendedorismo-em-parceria-com-o-sebrae"
+  },
+  {
+   "titulo": "Lideranças evangélicas defendem diálogo com governo Lula - Repórter Ceará",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXRVVGVGV3pHTjZ5YmtUaXVMTlRQYWJScFhRV1kwdjdBX2JfQTA0d2FXbGZwYnd4eC1EZDhrdmgwaXpneXUxRUdwYkMxLTFJd1ZWQU9ad2tFYkZ0cG9WaG5jeHpFNi0xR3hBV3BlWHV4dWVpSHhvWmZwczhoRjRHYk5yZkR0X0d1MzRUcVZGYWNWWlFxbDc1X0JoLUNLd9IBngFBVV95cUxPTXRVVGVGV3pHTjZ5YmtUaXVMTlRQYWJScFhRV1kwdjdBX2JfQTA0d2FXbGZwYnd4eC1EZDhrdmgwaXpneXUxRUdwYkMxLTFJd1ZWQU9ad2tFYkZ0cG9WaG5jeHpFNi0xR3hBV3BlWHV4dWVpSHhvWmZwczhoRjRHYk5yZkR0X0d1MzRUcVZGYWNWWlFxbDc1X0JoLUNLdw?oc=5",
+   "fonte": "Repórter Ceará",
+   "quando": 1794577000.0,
+   "categoria": "estado",
+   "fontes": [
+    "Repórter Ceará"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 10:36",
+   "foto": "e244dd5fa290.jpg",
+   "credito": "Foto: Repórter Ceará",
+   "foto_tipo": "materia",
+   "foto_tamanho": "900x600",
+   "materia_url": "https://reporterceara.com.br/2026/11/13/liderancas-evangelicas-defendem-dialogo-com-governo-lula/"
+  },
+  {
+   "titulo": "Rodovias de SP têm 415 passagens para animais silvestres; Rodoanel Norte terá novas estruturas - GuarulhosWeb",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVpra29pV1I1YTVHenViUmxfbEIxcVduUXBuU0Y1RnZuQ3lXa0N4WXZFWjQ4UlEtb2xiQnJmTFp2RkZqV0dNSExZbjRwbVpKTHJjS2Rzc2M5eE5YVDJrX051VkZjRUJCTTEzZm90LUU0MDdOSkRKQUJyZzMwVlNLZ196Q2ROZEVBcHNZQldwV2ZqenladHNYcXB4SkwzMmMyQUFlSHhfakxkTGJiYk9iWTNSaFhWa3VnUkZPS0R2cw?oc=5",
+   "fonte": "GuarulhosWeb",
+   "quando": 1794574977.0,
+   "categoria": "estado",
+   "fontes": [
+    "GuarulhosWeb"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "13/11 10:02",
+   "foto": "a4665a771002.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x873"
+  },
+  {
    "titulo": "GP de São Paulo bate novo recorde de impacto econômico e geração de empregos - Racing Online",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVVZM1RsTTY3THNYdVVjVUNsaXBsUExYWkpmWDl1SUMxVEZ4ZnBWbjlwR3pKcFJBVnRYNVM0dEE5aEtqMm94V2dSY1FrcTVqakRKalBXSGY4cDQtcVJmLTZ2cXQ1MDM5TXJnUndGMDVIN3VSMkcyYTlqc0MzdW5pSEtMNkFZNjNMVVdaNy1BcEhMMGVNdThTeklybnYtM05mbGF3eGFIZ1pZMjN1TFlqSkFmTHFidw?oc=5",
    "fonte": "Racing Online",
@@ -170,26 +477,6 @@
    "materia_url": "https://racingonline.com.br/formula-1/gp-de-sao-paulo-bate-novo-recorde-de-impacto-economico-e-geracao-de-empregos/"
   },
   {
-   "titulo": "Moretti defende debate sobre tributação de LCI e LCA no Congresso - Mix Vale",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVNRQ0NpODZ6clpEeW5uRk16ZDZRTjhDb2J4Z0ZmbndYUE0yLWc2VXhEZHdOMWlfV0E4bEVrYUpySTVPOEUxWFQ3b1RRRVZiQk9qQW1ZX1lwdXV0ZC1BUy04WUp6NmlMZUZkTEV6N3ZiY0ZzOENJODRrbEt5dW1iWVQyTUtPMnVlcFo2X1lVRTlraXo4TFNscWNXbVFsWndDR0Ytb2E5SQ?oc=5",
-   "fonte": "Mix Vale",
-   "quando": 1794573975.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Mix Vale"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 09:46",
-   "foto": "3ebb3796989a.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
-  },
-  {
    "titulo": "Instabilidade nos serviços da Microsoft pode afetar e-mails da Prefeitura de Vinhedo - Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWM1dU01RnVYcGdNbExTczdOOWZITjBZRUROOFNka2Q0elJ0YUZlMmp3bktXcTJfajg5WkhRaXhqVnNUNHpBSEtLa0xNM1I0aE5Pa0Q1RFh2Q2ZtYUFXR0hLR0g1cWxGQVVTUGpubWJrNk9oUklxUVpkRjhiTEM5RG1rYWYxU1lzZnVMa0tRNkIwUEtDbWUwZk9RaldxT0hKVTk5U0xiaFdSR1lwYjFHTWJ3bDZEMHlPczBBcGF4RGE?oc=5",
    "fonte": "Portal VV8",
@@ -208,13 +495,13 @@
    "foto_tamanho": "1600x896"
   },
   {
-   "titulo": "Polícia Civil de São Paulo faz operação contra suspeitos de aliciar crianças e adolescentes pela internet - www.agenciasp.sp.gov.br",
+   "titulo": "Polícia Civil de São Paulo faz operação contra suspeitos de aliciar crianças e adolescentes pela internet - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNWVxbWN0enpMcWxYQlVyTWZ0b1kzSEZVODhJbEQtWlZsMjdGdjFhSzJ2MDFON2xoS0JqTjF6NTYyU1dKSmdIOXRCaEhGd2RmYWFEZVVyYnp5TkRuTVRNczFFeHRyWDdvanpEcElJekZJX2NaaktSS0sxMzVhdUVOYlotQnkwZ3JEb1daWE91eFB2UDVQZUh6X2pKNGZ4TnhmcjNUSlBjYlJlblIzWXlaOEFZMWxmSlhrOTgxTnBNaF9pVHY3djFhbXl1LVdtNDRmMEFkZkdCYjZXaDZnd05xR0gwRjd0TFNGSWtvZg?oc=5",
-   "fonte": "www.agenciasp.sp.gov.br",
+   "fonte": "agenciasp.sp.gov.br",
    "quando": 1794573113.0,
    "categoria": "estado",
    "fontes": [
-    "www.agenciasp.sp.gov.br"
+    "agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [
@@ -240,31 +527,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 09:31",
-   "foto": "8eda9d43f481.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/13/thiago-desapareceu-ao-sair-de-casa-para-comprar-cigarros/"
-  },
-  {
-   "titulo": "JJ: Davi Alcolumbre pede respeito às divergências - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkNWSF9TZkpaS3NUQVRFQVR2UzZGZXpubnVTWXdSSXcweVZLcVRlRkQwWXZ6REYzNnBiZXMxNmJXZTVxeWN3TjU4c2gyc1A1VVJFX0RfZGhsenZDaFJrRk95eWI0Mmk1dHQySHdQeU84eTlFWUdkbHJuQWhWVURzMFJwZ2Z1d1FCcVNHNVVPUHJYLWEwT0tSVnp0TElIcTA4dVp0ZnJjSTJSNDd1?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794573000.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 09:30",
-   "foto": "dd59df8de357.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3018330/politica/2026/11/davi-alcolumbre-pede-respeito-as-divergencias"
+   "hora": "13/11 09:31"
   },
   {
    "titulo": "Douglas Ruas escolhe delegado de São Gonçalo para comandar Segurança Pública do Rio; veja nomes cotados para PM e Polícia Civil - O GLOBO",
@@ -280,12 +543,7 @@
     "seguranca"
    ],
    "pontos": 5,
-   "hora": "13/11 09:25",
-   "foto": "dd393e610e03.jpg",
-   "credito": "Foto: O GLOBO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1013",
-   "materia_url": "https://oglobo.globo.com/rio/noticia/2026/11/13/douglas-ruas-escolhe-delegado-de-sao-goncalo-para-comandar-seguranca-publica-do-rio-veja-nomes-cotados-para-pm-e-policia-civil.ghtml"
+   "hora": "13/11 09:25"
   },
   {
    "titulo": "Corinthians tenta contornar crise com melhora no ambiente - Tribuna de Jundiaí",
@@ -299,12 +557,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 09:20",
-   "foto": "a002b8e91cf1.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1198",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/corinthians-tenta-contornar-crise-com-melhora-no-ambiente/"
+   "hora": "13/11 09:20"
   },
   {
    "titulo": "Senado aprova ajuste fiscal de R$ 60 bi e muda piso da saúde - band.com.br",
@@ -320,12 +573,21 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 09:18",
-   "foto": "3ecd7c3dee3e.jpg",
-   "credito": "Foto: band.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://www.band.com.br/nacional/brasil/senado-aprova-ajuste-fiscal-de-r-60-bi-e-muda-piso-da-saude-202611130918"
+   "hora": "13/11 09:18"
+  },
+  {
+   "titulo": "Prefeitura de Jundiaí fará mutirão Tapa-Buracos neste sábado - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHRQNVVRYzQxbE9xRFhTRW1TT2ZhMm14NFh5cnF5MU9hUkYtUU8ybEZPdTZlNnpZbHpWU0thaXl2ZjB3eFo4eHVWWlB5a1VxOFZEU3RyMlAxSGxULTRsa3FrSm9pNUhMTXR5dl8tTTVJVzJGanMwMWVyMTZFMUNFbVZFVENuRmpYZ1VEZ3JWQVphQnJ1RnRlTDBTRXJWd3dKZDJlb0RzNl9Tb2RWRjN4aWs2SkFmS05DMlhidEk5YWZGU2c?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794571944.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 09:12"
   },
   {
    "titulo": "Alerta para chuva: acumulados podem passar de 200 mm em dois estados na próxima semana; veja quais - Canal Rural",
@@ -341,12 +603,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "13/11 09:05",
-   "foto": "4d3a0f99bfe6.jpg",
-   "credito": "Foto: Canal Rural",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://www.canalrural.com.br/previsao-do-tempo/alerta-para-chuva-acumulados-podem-passar-de-200-mm-em-dois-estados-na-proxima-semana-veja-quais/"
+   "hora": "13/11 09:05"
   },
   {
    "titulo": "Grupo que organiza manifestação em defesa do Zoo de Sorocaba defende investimentos e melhorias - G1",
@@ -360,12 +617,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 09:03",
-   "foto": "e9717535936a.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1074",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/grupo-que-organiza-manifestacao-em-defesa-do-zoo-de-sorocaba-defende-investimentos-e-melhorias.ghtml"
+   "hora": "13/11 09:03"
   },
   {
    "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
@@ -379,12 +631,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 09:00",
-   "foto": "69b8ea650ebd.jpg",
-   "credito": "Foto: TVTEC Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x702",
-   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/13/caravana-de-natal-da-coca-cola-tera-novo-trajeto-em-jundiai-veja-o-percurso/"
+   "hora": "13/11 09:00"
   },
   {
    "titulo": "Free flow em SP: prazo para pagar pedágio atrasado sem multa termina em 16 de novembro - Quatro Rodas",
@@ -400,12 +647,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "13/11 09:00",
-   "foto": "c1936a0fd23d.jpg",
-   "credito": "Foto: Quatro Rodas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://quatrorodas.abril.com.br/auto-servico/free-flow-sp-prazo-pagar-pedagio-atrasado-sem-multa-termina-16-novembro/"
+   "hora": "13/11 09:00"
   },
   {
    "titulo": "Senado aprova texto-base de projeto de ajuste fiscal com impacto estimado de até R$ 60 bilhões - Região Noroeste",
@@ -421,12 +663,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 08:52",
-   "foto": "fe7ca4f73339.jpg",
-   "credito": "Foto: Região Noroeste",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1170x700",
-   "materia_url": "https://regiaonoroeste.com/senado-aprova-texto-base-de-projeto-de-ajuste-fiscal-com-impacto-estimado-de-ate-r-60-bilhoes/"
+   "hora": "13/11 08:52"
   },
   {
    "titulo": "JJ: Festival Baobá chega para celebrar a cultura e ancestralidade - sampi.net.br",
@@ -440,12 +677,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 08:45",
-   "foto": "b3fdfaa3d9e7.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3018278/cultura/2026/11/festival-baoba-chega-para-celebrar-a-cultura-e-ancestralidade"
+   "hora": "13/11 08:45"
   },
   {
    "titulo": "PM de SP realiza operação contra o tráfico de drogas com apoio de cães farejadores do Canil em Paraisópolis - agenciasp.sp.gov.br",
@@ -461,12 +693,7 @@
     "seguranca"
    ],
    "pontos": 5,
-   "hora": "13/11 08:44",
-   "foto": "9a90a172c57e.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://www.agenciasp.sp.gov.br/seguranca-publica/pm-realiza-operacao-contra-o-trafico-de-drogas-com-apoio-de-caes-farejadores-do-canil-em-paraisopolis/"
+   "hora": "13/11 08:44"
   },
   {
    "titulo": "Senado aprova pacote do governo que eleva tributação e tira até R$ 10,5 bi em subsídio do diesel da meta fiscal - Blog do BG",
@@ -482,12 +709,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 08:43",
-   "foto": "612aff00337a.jpg",
-   "credito": "Foto: Blog do BG",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1170x700",
-   "materia_url": "https://www.blogdobg.com.br/senado-aprova-pacote-do-governo-que-eleva-tributacao-e-tira-ate-r-105-bi-em-subsidio-do-diesel-da-meta-fiscal/"
+   "hora": "13/11 08:43"
   },
   {
    "titulo": "Ministro do STF define regras para implementação da escala 5x2 e repousos semanais - Portal VV8",
@@ -503,12 +725,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 08:41",
-   "foto": "d5f9dbecdb16.jpg",
-   "credito": "Foto: Portal VV8",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1000x666",
-   "materia_url": "https://portalvv8.com.br/noticia/85345/ministro-do-stf-define-regras-para-implementacao-da-escala-5x2-e-repousos-semanais"
+   "hora": "13/11 08:41"
   },
   {
    "titulo": "JJ: Concertos Astra leva o 'Carmina Burana' ao Polytheama - sampi.net.br",
@@ -681,22 +898,6 @@
    "hora": "13/11 08:00"
   },
   {
-   "titulo": "Defesa Civil registra 10 ocorrências de chuva em SP - Jornal Diário do Povo",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0V5Sk02RWppRFNpaUYwTEJRQWZ3cWR4Vm9KSFZEVUptX2pOWkU2R1RKZmN3a0FEVDdPWncyNmxIV3ZsblphdndYRkhtWTdYUkZPeG9nT1VIX3JkVEFSamluc0lBcDMxbnp5cW1kSGp5UlNCQXQ2MHdpNDFVdGlFbGQ3TEgzRkhHN3c2MzRhZk92LXJiSFhN?oc=5",
-   "fonte": "Jornal Diário do Povo",
-   "quando": 1794567600.0,
-   "categoria": "estado",
-   "fontes": [
-    "Jornal Diário do Povo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "13/11 08:00"
-  },
-  {
    "titulo": "SindiTabaco alerta para impacto de aumento de impostos sobre cigarros - GAZ",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWdBWC04WlNHa0VjS1NLTzhScHpRbGlPUGM0ZVRwSGhLekpiZVRfeG0wUnhUMUR0V0N2a0ZQSmJHUzNNeHJ4R09LRlYwRUlzeW1qanJWYk4wVkhmMzdPdzdKZUhxcXBPenJLRjRmXzRZdUZpU2lKLURIZTVzWnFHUEJVRlJPUkt1UHBZTkNhVGt1Yl9Ta1gzRg?oc=5",
    "fonte": "GAZ",
@@ -729,22 +930,6 @@
    "hora": "13/11 07:58"
   },
   {
-   "titulo": "PF cumpre mandado em operação sobre suposto desvio de emendas ligadas ao filme 'Dark Horse' - G1",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWGN5MnNyZ1hTNVpPSlU0ak9TTnBWM2NMRXFMM1VoVWdKWktvUTNFUm05b1lRakhxbVktUzNfbGx4WlY5ejB4NGhCeG9wTng3OFoxNUhQeUhKVnhWc1FtNlhRNHk2ZHJiZGRaQ1V4dFp1Mmx3M19QdlZrOFp5QlN5LV9yV1gwX3hWTmsyNGhzTVNKT3dQM0M2M1pTS19ib0tlWU1MbnlUM09ZWUY2bVk4TXlkanVlNWRZZG0zRm5UTVVvWmNXaDk0WjY3UHZHSzlmbmZZN19KcnBiV3o3TU91aE5NZDRXd9IB9AFBVV95cUxNcnlQSlZDTDQ4MGEyaDZVckZsdFJkNVV6YnBnVy00WFlVTzUxU185UEhWVUdLYW1RTExEX3M0V0d4RFJpU3JuRUZlWnJ1dHJCMDBKd3FDUEFydVZHVFlrUVlpUGFJNEVwSkNKQ0d2YU9HS2JXRU15OFV4U2podlNneHFKRnVZb2x5VkhvUXVmRlFRZjhvd3BtOUdHNXByQnh5aG50VmROQWRZMUVSUzZfMGRLVWZSZlp0VmJRbEdEV1JLT1o4MWtoSjVMbjBGVGxhQnh4QzV4UGR5VlJmM2RJYms2V2RSMGtkQmE5UmY4WkhyT1hM?oc=5",
-   "fonte": "G1",
-   "quando": 1794567414.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "13/11 07:56"
-  },
-  {
    "titulo": "Defesa Civil registra 10 ocorrências relacionadas às chuvas em São Paulo nas últimas 24 horas - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUnR4UDdoZ29sd082WEN3VXI1VEpVODVrMWhDeHJ2TG5TY01yZDF4U3lRY3J4NlFJZVpRUng4c0ZmdzJRVXFFWmV0ZlJ6UU9kckJnbTB6UVRPQ0x5MXd2Z2tfdmdxY3dGVkluc0N5dXNMR0x3djAwUl9VNzVZMHdCb2Z0STYyLWhWVzMycld0bVdkOTRteWpRZzZZUkJnTkwtOHpaNVkzZVAtSnJCQ01FMVZzRU9XSTA4NkxFcklYd21yUTN6OVVpdlZvQjhQZklXTHFQZFdn?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -759,20 +944,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 07:55"
-  },
-  {
-   "titulo": "Dilmar Dal Bosco destaca importância da duplicação da BR-163 para ligar Cuiabá a Guarantã do Norte/MT - Power Mix",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVUgtUkZTTXhSeHdUaEFfLWRMMF9JNVh5aGplUjlmTWxON3FsVFMxZ05tTnJ2Ny1MellTNWd2MUJZS2pyT2J5Y3NiTFN5TXBUYXFCZzNkTnRlMkk5VW1lSFVPcDZRR19kSDdCRDZ1UktGcTA2TkxQUjB4UVMyLW5vLWlFZ2hQdkpzV2FOX2VsWFVfMlRaYVR6ZG51ZTZPWkVZQWszRkNBUEpxUHBWdGdCTWZCbm9feGl2SGJqaWFuUzZxcURkMUFGSUZORzk2Y01Sak02UmhWR1MtQTA?oc=5",
-   "fonte": "Power Mix",
-   "quando": 1794573000.0,
-   "categoria": "estado",
-   "fontes": [
-    "Power Mix"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 09:30"
   }
  ]
 }
