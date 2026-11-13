@@ -1,5 +1,5 @@
 {
- "gerado": "13/11/2026 19:27",
+ "gerado": "13/11/2026 20:15",
  "desde": "13/11/2026 16:35",
  "pautas": [
   {
@@ -22,6 +22,28 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
    "materia_url": "https://jr.jor.br/2026/11/13/motiva-autoban-alerta-para-interdicao-total-da-bandeirantes-entre-jundiai-e-sao-paulo/"
+  },
+  {
+   "titulo": "Motoboy é preso no Pedágio da Bandeirantes com 47 embalagens de emagrecedores - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWJsYkhCLXVzSGRMYWowaF9HbXpHSFVBZG82blJpeEtiU2xqSnFUUTZ1QzZRekVCa09Ra1Q4QWo1TE0za2dfMUQ4ZkUxcFJQTU8wd2ZtOVlSS1FYanBMbElONHFLVjFFaG53TjBPWFFjZ1lCQ0NZaEZKaExSdEgtc0lRdllBdjdkeEYtUkJibm0yZHVNbENlSXBydjhoQnUyZktrd1g1UkRKTU0?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794610678.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito",
+    "seguranca"
+   ],
+   "pontos": 11,
+   "hora": "13/11 19:57",
+   "foto": "c5f8f6b8f84d.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/13/motoboy-e-preso-no-pedagio-da-bandeirantes-com-47-embalagens-de-emagrecedores/"
   },
   {
    "titulo": "CIEE oferece vagas de estágio e jovem aprendiz em Jundiaí com bolsas de até R$ 2,2 mil - Tribuna de Jundiaí",
@@ -130,25 +152,164 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3018550/jundiai/2026/11/mutirao-de-emprego-reune-mais-de-285-candidatos-em-jundiai"
   },
   {
-   "titulo": "Chuva fica mais ocasional neste sábado em São Paulo - Jornal Diário do Povo",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUJfX3dUSVlxc3lVMVZXVFI3Z1RhNkd3ZHB4TlBHVjRZdmlURWJIVEJIOUpISm1RUnFIaS1PRUM4TmZOT3h3NUVRaHpkblpwa3Q5aElFM1lUNEpnMFFXcG5xVTQwSFl1bmhTMkdxN1o2SjNLa0R0cHk3QkJQdlFOLWdyVU1LN2VVX1FBWlFxNlBhMjF5VmRN?oc=5",
-   "fonte": "Jornal Diário do Povo",
-   "quando": 1794608100.0,
+   "titulo": "Homem com dois mandados de prisão em aberto é capturado pela PM - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVhQTkNQNXNYX0tzZlNoaWxNaDZ4YXVITUxhb2E1d09kTVVYRUlrQm5KN1FaUDE3SlNIMDVBak1jRjRrTExwczhtVXRaRFRkdXdjVk9MQXNIVTZjQ1VWR01nQ0gwUXBDeE1DTVpEbjhoOHRld3htbVpKNU03R0hrMGtvQUZmZnREYjRCTEFHY2Y5MnpXeWNCMA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794611540.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 20:12",
+   "foto": "d711a4356200.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/13/homem-com-dois-mandados-de-prisao-em-aberto-e-capturado-pela-pm/"
+  },
+  {
+   "titulo": "Câmara dos Deputados contesta decisão de Flávio Dino no STF e pede manutenção de regras aprovadas para o fim da escala 6×1 - Ceará Agora",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWxJZERxYjU5Tkczd0tfNlUxYXBGbUk1S3pNSU1McnV1SVNnUFFnOUZ5M0ZzbzFKTmMzV1owVzB1eUNGeGZhSVYwNVJfSk53WEZ1UVoxNm5Ucko5RHJxMTZlOTQ3YVZPV3NOcHBkck1ibUxmWi11OHRJYWhfa2RvNnVCZElsSHA4VFFaNlNDNTNwaktna0NwRzZYN3Y1OUlPQ0QwYVJYQWt3T3g5Z3RQU0NjSDJEdDZUV1A0Qjg4Y3Nsa2Y1X2g0RXpvWS1qVHZRdWdWczViYzNQQkhqTXRObzZKZw?oc=5",
+   "fonte": "Ceará Agora",
+   "quando": 1794611446.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Ceará Agora"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 20:10",
+   "foto": "269204eb645f.jpg",
+   "credito": "Foto: Ceará Agora",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1442x860",
+   "materia_url": "https://cearaagora.com.br/camara-dos-deputados-contesta-decisao-de-flavio-dino-no-stf-e-pede-manutencao-de-regras-aprovadas-para-o-fim-da-escala-6x1/"
+  },
+  {
+   "titulo": "Montadoras podem ter desconto em imposto com reciclagem - Agora Litoral",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzdfN0ExMTVidDVjazlYbzZJSld5MmFJbHhnRERMSUpmcmluQXNYMXA3dHphOWVJNHUyeFM0cjVlSWpBY3F1a3JFN1UzWDkxUlVDMUllWDFSS1NxdjBnVURNa0NfYkxsTHJsX3JSOC1nVTJOUGhHWlFwenFMSGRRODI4Y0xJX0RTTUF6ZnlKNkdQdVZOeURHaDJqZw?oc=5",
+   "fonte": "Agora Litoral",
+   "quando": 1794611431.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agora Litoral"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 20:10",
+   "foto": "82271f98cda5.jpg",
+   "credito": "Foto: Agora Litoral",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://agoralitoral.com.br/2026/11/13/montadoras-podem-ter-desconto-em-imposto-com-reciclagem/"
+  },
+  {
+   "titulo": "PM cumpre mandado de Justiça e prende homem procurado da Justiça em Cabreúva - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUgtSUt2NktmVHo2SnpFWGJ6UFItZzBNMXdHVDl5blRGRXlyN21EcGJmUnlOeVozcnFkdm9Vdml2aGo4a1ZibnpOaVBodndNUUVEb1FCTlhhVGZ5WGJOVmFRcXhfOVh2eHJXZG5wVXZ1SWJHbWVYWVlETmhwekpnUEZ2c3ZqWUdOeUQ2NkQxM014b2VqZGYwZ095NjNtRUdTX2JmemlaRUd0UQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794611264.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 20:07",
+   "foto": "0d66f00cbcb8.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/13/pm-cumpre-mandado-de-justica-e-prende-homem-procurado-da-justica-em-cabreuva/"
+  },
+  {
+   "titulo": "Previsão do tempo neste sábado: São Paulo terá calor, trovoadas e chuva em parte do estado - VEJA",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUFsX2xRNWppQ3RqcXBmbjZzY3FjTS1LZWxtdGhEcDZWVHN6eFc0MmgwTU9NdnFFZ1FzLXBKX1lVTFdNcllaOF9BM0JVMUFsZFpad2dGS0ZNSHljRjA1WGkyMndGX1ZWUGczbnRGMWtqdWtORURFQmRXZ2JfUGpGcVZrQ1RxT2dtSVQ4LTFuVEVCNkczTGk1QXkyMXo5dk4xRV9kWDlZamtya05feWNmbERFU3JQMHNxaDRvVG5DY1hTWmplYktJ?oc=5",
+   "fonte": "VEJA",
+   "quando": 1794610800.0,
    "categoria": "estado",
    "fontes": [
-    "Jornal Diário do Povo"
+    "VEJA"
    ],
    "urgente": false,
    "assuntos": [
     "clima"
    ],
    "pontos": 5,
-   "hora": "13/11 19:15",
-   "foto": "957f15bc56b7.jpg",
-   "credito": "Foto: Jornal Diário do Povo",
+   "hora": "13/11 20:00",
+   "foto": "cc3aa6bf5567.jpg",
+   "credito": "Foto: VEJA",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
-   "materia_url": "https://diario.dopovo.com.br/2026/11/13/chuva-fica-mais-ocasional-neste-sabado-em-sao-paulo/"
+   "materia_url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-sabado-sao-paulo-tera-calor-trovoadas-e-chuva-em-parte-do-estado/"
+  },
+  {
+   "titulo": "JJ: Feriado de 15 de novembro terá atrações culturais - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTdtYXlRZkoyWWxHUXRwSmJiX2dBcEowZUhRT2pGNnZfWWtrY2JwYV8wckdJbWcxbURrdTNjRTBhQnFDVkRINFdrd1pSdmg4MmVDeG52ZHphcE4taTFwQmxYVTZ0dHVzT1RUMXZVbEhJdE41LWFPcHBqMVR0eXl2Tkt1VXBqUWJlSWZFQU1KZVFmVWZHMC1PS2hGYUJmdS1nRmwtUi1rVnRSLXU2Nk8tMFZn?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794610549.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 19:55",
+   "foto": "063ddad41a73.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018614/cultura/2026/11/feriado-de-15-de-novembro-tera-atracoes-culturais-"
+  },
+  {
+   "titulo": "Veja quem são os feridos em explosão de fábrica de produtos químicos em Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEZNR0Q1eE0wM1pVRDVDakdRczA4RXdMMnJsQTF1MWdlTjYxdGFFUEU1NWRfczZBcklKNXZrWnhXcjUyVnMtelB6Rzdkc0V1amJrUDFLQlVsbzNkdTFtZDdMU2kzZkF6YUJCM2dURjFuQUk4NXdiOW1PVGlvSnBfNXNhd2RPZXFrSUxCNWVBTktkVzR3RVhaMWUwcE7SAasBQVVfeXFMTXhKYVcwMldpT253ckt6OE41Q3p6dXo5QndwWjlLa3ZmbzJIOWJmQWtoNjJKcWxNQUZSMjRIeEhnV3pZaUpaNlg3MEdTa0tRNU1HcGYyRzRHcEtoY2UwNlVUM2Z1TGN1Q3NnTS1Fc1Q5Ylo4NnpHU1NpSVZ2NEJzaVVYRU93VnRadXgyVVZnYVAyZzg4NWRuQUdPOVZ5TVE3d3NYQ2c0RHl3a2tj?oc=5",
+   "fonte": "G1",
+   "quando": 1794609151.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 19:32",
+   "foto": "35320bebfd95.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x886",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/feridos-explosao-fabrica-salto.ghtml"
+  },
+  {
+   "titulo": "Federasul questiona medidas tributárias do governo federal e impactos na economia gaúcha - Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXZhR0RPMFo4a1kxLWF3b2prc0FkUVNHbFlCQU1pVXNteUFHbE9MbVZYUEktTktZbFNHcWNBRWQ4MUtralJzOHRWd0JGZ0ZDeURkSmEwQkY1VGRPSm4tZ3dkY3FLM1dVX3FhWEZFbjRaSlJYbGNOTksxT2NjUWZQeUtGeVFqcGZlOHE4NElERUl4RDFCNi0wb2JCQml6ZFZOdHkxN0ZUMktJVlBPakk3OU5tUy0yOU9FUXRfZmxHZjd3NzNlT0x0WDJZZGpuTjV6a0oxMDg0YkpQNnl5ak5UdnM2SEdEUQ?oc=5",
+   "fonte": "Jornal do Comércio",
+   "quando": 1794609147.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal do Comércio"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 19:32",
+   "foto": "d45b9592af68.jpg",
+   "credito": "Foto: Jornal do Comércio",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x533",
+   "materia_url": "https://www.jornaldocomercio.com/economia/2026/11/1270505-federasul-questiona-medidas-tributarias-do-governo-federal-e-impactos-na-economia-gaucha.html"
   },
   {
    "titulo": "Chuva ganha força no domingo em São Paulo - Jornal Diário do Povo",
@@ -170,6 +331,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
    "materia_url": "https://diario.dopovo.com.br/2026/11/13/chuva-ganha-forca-no-domingo-em-sao-paulo/"
+  },
+  {
+   "titulo": "Chuva fica mais ocasional neste sábado em São Paulo - Jornal Diário do Povo",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUJfX3dUSVlxc3lVMVZXVFI3Z1RhNkd3ZHB4TlBHVjRZdmlURWJIVEJIOUpISm1RUnFIaS1PRUM4TmZOT3h3NUVRaHpkblpwa3Q5aElFM1lUNEpnMFFXcG5xVTQwSFl1bmhTMkdxN1o2SjNLa0R0cHk3QkJQdlFOLWdyVU1LN2VVX1FBWlFxNlBhMjF5VmRN?oc=5",
+   "fonte": "Jornal Diário do Povo",
+   "quando": 1794608100.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Diário do Povo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 19:15",
+   "foto": "957f15bc56b7.jpg",
+   "credito": "Foto: Jornal Diário do Povo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://diario.dopovo.com.br/2026/11/13/chuva-fica-mais-ocasional-neste-sabado-em-sao-paulo/"
   },
   {
    "titulo": "Senado segue Câmara e contesta decisão de Dino sobre 6x1 - SBT News",
@@ -317,6 +499,27 @@
    "materia_url": "https://br.paipee.com/2026/11/13/senado-se-une-a-camara-para-derrubar-parte-da-decisao-de-dino-sobre-o-fim-da-escala-6x1/"
   },
   {
+   "titulo": "Câmara contesta decisão de Flávio Dino sobre escala 6x1 e pede que STF não referende flexibilização de folgas - Jurinews",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQjRsT1pwWWxXTFZ5UjNla2ZGZlp4UURZRFgyR1VrWW81bks1NURkdEI5a1hlLTFURTF1UWNzMEgyenZsNFltbF9ES25abUVWdUJacG9kejVGZm90ZUx1X3FBQmpHZkJvVVlsZkVXXzJ3VnIwbkpISmdIX1VmNGJGejVLUkNMbEpGeElCS05ySVhEcTdLRDlRcGRURXNCVzR1UzFmeE43WnFubm9XUHBXcWk5QXVXOGNqcmQ2X2w5dmtxSmY5eG9xdjhOaHRDZHZGa0YxS3hBYUNaX21CTjRKNVAyQV9fdw?oc=5",
+   "fonte": "Jurinews",
+   "quando": 1794604920.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jurinews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 18:22",
+   "foto": "057bef3dcea5.jpg",
+   "credito": "Foto: Jurinews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x628",
+   "materia_url": "https://jurinews.com.br/destaque-nacional/camara-contesta-decisao-de-flavio-dino-sobre-escala-6x1-e-pede-que-stf-nao-referende-flexibilizacao-de-folgas"
+  },
+  {
    "titulo": "Câmara pede que STF derrube parte da decisão de Dino sobre fim da escala 6×1 - Gazeta do Povo",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSllxbnVnNk5Ua3V4NV9BTVdIV2NTRFBmU2pKLTVlMHhFYmJCSDl4RHA3MVYwdjFRMDdYelA3YlotTXVzNmdDUUhVM2M3dUpGb0ZuMkIwTEtuSWt3dXJ3bTFjZ0tpUUYtNF9DTDFmVnhtaFBrSXdHUnA5RDdWQkNPUHR4dWdpcDNQWXExRjBvNXVSemhycGN0eHl2YVY0ME4wZnRVZ1RteDRJbmlpUWU3aDNlekppMmsyTmc?oc=5",
    "fonte": "Gazeta do Povo",
@@ -330,12 +533,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 18:19",
-   "foto": "ccc2beb8dacc.jpg",
-   "credito": "Foto: Gazeta do Povo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://www.gazetadopovo.com.br/economia/camara-pede-que-stf-derrube-parte-da-decisao-de-dino-sobre-fim-da-escala-6x1/"
+   "hora": "13/11 18:19"
   },
   {
    "titulo": "Câmara e Senado pedem que plenário do STF rejeite pontos da liminar de Dino sobre escala 6x1 - Folha de S.Paulo",
@@ -351,12 +549,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 18:12",
-   "foto": "01c7443cd028.jpg",
-   "credito": "Foto: Folha de S.Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://www1.folha.uol.com.br/mercado/2026/11/camara-e-senado-pedem-que-plenario-do-stf-rejeite-pontos-da-liminar-de-dino-sobre-escala-6x1.shtml"
+   "hora": "13/11 18:12"
   },
   {
    "titulo": "STF tem quatro votos para manter início da escala 5 x 2 em dezembro - A Tribuna RJ",
@@ -372,11 +565,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 18:03",
-   "foto": "9c836bcd26db.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "13/11 18:03"
   },
   {
    "titulo": "Entenda a proposta de ajuste fiscal do governo Lula - UOL Economia",
@@ -392,11 +581,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 18:01",
-   "foto": "b92eb2bf60ab.jpg",
-   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "hora": "13/11 18:01"
   },
   {
    "titulo": "Fim da escala 6x1: Senado se une à Câmara e pede ao STF revisão de decisão de Flávio Dino - GP1",
@@ -412,12 +597,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 17:59",
-   "foto": "41181a5c1e82.jpg",
-   "credito": "Foto: GP1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "952x488",
-   "materia_url": "https://www.gp1.com.br/brasil/noticia/2026/11/13/fim-da-escala-6x1-senado-se-une-a-camara-e-pede-ao-stf-revisao-de-decisao-de-flavio-dino-636168.html"
+   "hora": "13/11 17:59"
   },
   {
    "titulo": "Câmara dos Deputados pede ao STF que rejeite pontos de decisão de Dino sobre fim escala da 6x1 - CBN",
@@ -433,12 +613,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 17:54",
-   "foto": "a28339329a58.jpg",
-   "credito": "Foto: CBN",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://cbn.globo.com/politica/noticia/2026/11/13/camara-dos-deputados-pede-ao-stf-que-rejeite-pontos-de-decisao-de-dino-sobre-fim-escala-da-6x1.ghtml"
+   "hora": "13/11 17:54"
   },
   {
    "titulo": "g1 em 1 minuto: Jovens constroem os próprios instrumentos musicais em oficinas em SP - G1",
@@ -452,49 +627,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 17:53",
-   "foto": "232a216171e4.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/g1-em-1-minuto-jovens-constroem-os-proprios-instrumentos-musicais-em-oficinas-em-sp-15186701.ghtml"
-  },
-  {
-   "titulo": "Fim da 6x1: Senado se une à Câmara para derrubar parte da decisão de Dino - Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDNWeU9xb25lWUNvdU11RElZanBNM2JmQVNIQzFibU1QWTZJcldNUmlmOVJGUmY2S0dUUlNhOW5XMHE5UG80Q2djWGpaMHFtRUZHUjhzNzRPTGhUMzQwLVBrLVNCWXBSaGVmdllxN3RybktpbE44OFJJamliNUt6ejJNaUVDZTlJQ0V6NmJhTmUyVTR5YnkxMDRITXZ5ak5GWWhWbGlWZnVPRVRYRDYtbVpTSXVDY3VEZXB4bFluNVpYR1U?oc=5",
-   "fonte": "Metrópoles",
-   "quando": 1794602760.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Metrópoles"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 17:46"
-  },
-  {
-   "titulo": "Câmara pede ao STF revisão de seis pontos da decisão sobre transição da escala 6x1 para 5x2 - Repórter Ceará",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmw2MjdIQ3B3R0xRSUdua0U1Ul96VWdzZEY1Q0hOZ1AyQS12NjJoR0hCX05DQ2JwcVpNbi1LdVdTSWJULTdFdjB5OEdIZ3l1MkIxMGR3ZzY1aExwSFZVeGJsbzdGMVlTOWVKYWVNQlk2NV9yMHA0N0xFTE5uODdtaWZPUzgwc1J4TUxIemQwNldiemhWYTFTdmJSS0pEN3dLb3FzZW11ZENBdVZ2NmhjNFhENWFUMVYtWWNTOHVSSy10al9tWHNRXzlkZW_SAcwBQVVfeXFMUEZsNjI3SENwd0dMUUlHbmtFNVJfelVnc2RGNUNITmdQMkEtdjYyaEdIQl9OQ0NicHFaTW4tS3VXU0liVC03RXYweThHSGd5dTJCMTBkd2c2NWhMcEhWVXhibG83RjFZUzllSmFlTUJZNjVfcjBwNDdMRUxObjg3bWlmT1M4MHNSeE1MSHpkMDZXYnpoVmExU3ZiUktKRDd3S29xc2VtdWRDQXVWdjZoYzRYRDVhVDFWLVljUzh1UkstdGpfbVhzUV85ZGVv?oc=5",
-   "fonte": "Repórter Ceará",
-   "quando": 1794602234.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Repórter Ceará"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 17:37",
-   "foto": "c167d860bf47.jpg",
-   "credito": "Foto: Repórter Ceará",
-   "foto_tipo": "materia",
-   "foto_tamanho": "900x600",
-   "materia_url": "https://reporterceara.com.br/2026/11/13/camara-pede-ao-stf-revisao-de-seis-pontos-da-decisao-sobre-transicao-da-escala-6x1-para-5x2/"
+   "hora": "13/11 17:53"
   },
   {
    "titulo": "Câmara pede ao STF que rejeite parte de decisão de Dino sobre mudança da escala 6×1 - Blog Antenado",
@@ -513,20 +646,18 @@
    "hora": "13/11 17:34"
   },
   {
-   "titulo": "Câmara contesta decisão de Dino sobre escala 5x2 e pede ao STF que derrube 6 pontos - Ric.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmktenJrY2Vub2JhQms5Yk1YTlh6Wng0QnhBN1RodVk3TnRubDd2Zlc5cGsyVXNCazVpRktQWl95QXh2NHdiLTNhV2VZR0JGRVU0TkNXRDdGejZnVEdHSWNwTlhjQzJ5TXRyQjgycmZhMWprMkZTdzQ0ZUFTemg3d01QU0dZdzlLaEpFQ0VxNGREbWlfcFp5WmxR?oc=5",
-   "fonte": "Ric.com.br",
-   "quando": 1794601683.0,
-   "categoria": "brasil",
+   "titulo": "Moradores correm de explosão em fábrica de Salto (SP) - G1",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEV4N3IyZUNPN293MmxCRndNN2o1OHYwdzFUMU5JcU5Kb21vTmdFOTk2Ykhqa1h0R1NSZ2FvMEt6SmQwM0g4X2VRY29QMVdGRlJDYUx6YkZoWEFqeDg1ZzJaTHd3OEdVREVXZFJsSG9BVkVreEFCSFgxSVF3V1I1WkZqbXBRRzM2OHZwdzVuYS0wN3VyRkMzQjBnckU3cVlBSEpLTHNCLVRPR0x0QTFUdWw1WEJvc2xvQUxpcEJpYkVsUdIBwgFBVV95cUxQdEV4N3IyZUNPN293MmxCRndNN2o1OHYwdzFUMU5JcU5Kb21vTmdFOTk2Ykhqa1h0R1NSZ2FvMEt6SmQwM0g4X2VRY29QMVdGRlJDYUx6YkZoWEFqeDg1ZzJaTHd3OEdVREVXZFJsSG9BVkVreEFCSFgxSVF3V1I1WkZqbXBRRzM2OHZwdzVuYS0wN3VyRkMzQjBnckU3cVlBSEpLTHNCLVRPR0x0QTFUdWw1WEJvc2xvQUxpcEJpYkVsUQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794601843.0,
+   "categoria": "regiao",
    "fontes": [
-    "Ric.com.br"
+    "G1"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 17:28"
+   "hora": "13/11 17:30"
   },
   {
    "titulo": "JJ: Itatiba recebe ReVirada Cultural com capoeira, samba e dança - sampi.net.br",
@@ -539,22 +670,6 @@
    ],
    "urgente": false,
    "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 17:19"
-  },
-  {
-   "titulo": "6x1: Câmara contesta parte da decisão de Dino e pede que STF não referende flexibilização de folgas - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUVBd2xobUJkM1JOTHJNV1dYWnRXc09Jd093NDFvV2FhUzNZNlVWeGVFNkZ0UXNTek5wQkIwRHg1LUxVZUp1M09Mb1NtYmZWZFNwNnlMbTNuYmNVd3B3LVh3TFVUYk9hczVWTTVfTGhPQnpNZjVSY1hTNi1lRm5nQldGa24xTng5Q19qdGJrM0stVl8xOWtkbk9VUFJKUXpmZGZYdG9lR0FTV0FJR0NkbDd6TVEyN0RlLU1NeGxJR2hZRzM0UXVwVldVemJMRWxS0gHWAUFVX3lxTE5VVzRXWEp0OWR5SXpqZTgxZUh0NHZUVWFTYkxwSEJYUS15amxCWFVFV1BZRjgzVF9SOGVfb2xhVUQtQ3pPN3FnX0k4QWt6MXByTjZNUVByaUFmZVRBcVZaaDZFRWM3bDhLaUpwRFJNbnlLVHM4ZW5idmh6aUtaZVFxa2F4Mmc0Ykk3RkdoNnJGYWJKbndTQ29Jd0xWMTl5and5ZmlBaUlUMlhfM0trS3dKU0t1WmZBNzYzVTN0WEhzZEpjNzRaLWp2aEt5RjcwcGxBTG93cXc?oc=5",
-   "fonte": "Estadão",
-   "quando": 1794601140.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
    "pontos": 5,
    "hora": "13/11 17:19"
   },
@@ -703,22 +818,6 @@
    "hora": "13/11 16:45"
   },
   {
-   "titulo": "Governo estuda CNU com prova antes da autorização de vagas, diz ministra - Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVGhyWFRBNHJfaVNNbEY1N3ZqT1ppbUZaSVQ0R0tEaWxleWVlYm80ekRwcDlJMHNSek5Md0VmVGxuTG1IMUFJQ3owYkNIaHpvaENLYy04TTJ6Y1dTOEw4ZU1vSl9HNlljR1JHSXhGZUFyVmVDTTZ5ZWRRNkhYeEtfWFBuRkl3NW94OE5qRHkyZ0VIMnpSYkw1R19KZnR1NVVuMEwzR3lVemc3NGF6cFFLbE9ZbzR5SEdHel9ORjRLdkk?oc=5",
-   "fonte": "Folha de S.Paulo",
-   "quando": 1794599100.0,
-   "categoria": "estado",
-   "fontes": [
-    "Folha de S.Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "13/11 16:45"
-  },
-  {
    "titulo": "Inteligência urbana, infraestrutura e planejamento orientam debate sobre o futuro imobiliário de Jundiaí - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVA3SV81MnZFSXhfVmUxOHJGNUVhUi1ucjJDLTJsVlJwVFZGY09FVzAzMUpJRjNoVWxCeHh0S2dpZDlHOXVqdUVib2ZENHNFR1doU24tQTUxWHFTbHl5dHlLMVBDcHJmS0tvcTRJbEVoV0drb3d6VktQdDhXUEQzdVkyWEJubXpfUXBzZXQ3OGI1QldDVmFqRXQtbzRlLUdIaGw3dy1uSy1RandJY0ljbURuXzJyOVdCR3o4MzNDbjlabUNCbTNvTHJDckVJQQ?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -792,6 +891,48 @@
    "hora": "13/11 16:44"
   },
   {
+   "titulo": "Defesa Civil alerta para temporais em todas as regiões do estado de São Paulo neste domingo (15) - Hoje Diário",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjVPaTFvR0JaZ1BzblpBM3RyWnkxMGZvSHlBTldpT3FLSUs4V0RCUEF1Yk5xRG5HS2p2cGx0bERmZ1pQMlVtb1l3QlVPVHhhR1J3cTV0TDZfZVhfY1lGMElTVzVMeF9ieW5TTno2aWZjVWR6c1ZKZGRoZ1ZLRU1yc3NCWklpZE1wTDlQUURMRm5OMEhyVE1TbE5aLWlhWnFXWk85cWdoYkVkekJuOGJrOW5EeFFZMTNEQ0F0aUlhZFgydmRDYW1MaQ?oc=5",
+   "fonte": "Hoje Diário",
+   "quando": 1794609552.0,
+   "categoria": "estado",
+   "fontes": [
+    "Hoje Diário"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 19:39"
+  },
+  {
+   "titulo": "Profissionais de 47 unidades de saúde da zona sul aprovam estado de greve - PAIPEE -",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmpwVjN4WTlBR1J1U3A3eUI5N2xfYXBUeDl1eWJtWHpzT2pTRlM3SmJCNENvbUROTDJiOS1fN01nekdZdFVLZ2d5MGJKaThHaVd0WlNTTVJwZlNTdGlyQjltZFFmUElxTmhzNGVxTTNNOEFsV3lGTXdSUm9SblRVSmRtZUhyX0JCRjVOamFGUkYwVGpBaHplekd6eTR0ZzdnZGpNb1ZfVEtvTXM?oc=5",
+   "fonte": "PAIPEE -",
+   "quando": 1794609366.0,
+   "categoria": "estado",
+   "fontes": [
+    "PAIPEE -"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 19:36"
+  },
+  {
+   "titulo": "Estado de São Paulo fica em alerta para temporais neste domingo (15/11) - PAIPEE -",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHpGalZGVUo0T205NmhhUkw5UVRPTllMVThHQWt0cE90b2pIVGdPZXNaRzQtLUdnWkR1eTlIVXlzbjhsaGllaE1rY2RWcnYxZ1dSa1VpVW9sMUw1SkI5ZlJrOGtaaFJKYnR6czNaS29qM000R1BfRUZ6Mm9haTVIVjQyQTBndURiMWk0MW9KRHZZVHBxUEpfQmhWVnBydWpuWnlQYkdB?oc=5",
+   "fonte": "PAIPEE -",
+   "quando": 1794608765.0,
+   "categoria": "estado",
+   "fontes": [
+    "PAIPEE -"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 19:26"
+  },
+  {
    "titulo": "Nunes avalia quatro nomes para 2028 após desgaste de Mello Araújo em São Paulo - Diário do Centro do Mundo",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzdKS3BBSzM2Z2hEbzRTeGRBTkRmNi00cnZlRE5KVjFWRFRpRVdkM1RWNUtnNUtsRzl4dXdEbmxibFRibXlOaU56TW15MnlJSXFuLUdzcDRjODZRT1A3dUxOc1R0MnVHeFBIVDhvdmlXdTR6eUdickJwNGM0dnpsanZvYWZKd1RJMkNCdXRCSmdrUFl0WFE?oc=5",
    "fonte": "Diário do Centro do Mundo",
@@ -806,60 +947,18 @@
    "hora": "13/11 19:22"
   },
   {
-   "titulo": "Casa em Dia: CDHU realiza plantões de atendimento em Ribeirão Preto neste sábado (14/11) - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5idlBZM2p5M0Z4eEVyeU5mT0ctU0Z4U2U1Q1daVHZkZElVckFsNXhsS191aWhaQ2tURWRtVUQyd01lV3hjYnM4bnBEU1hvNXE2endpOVRHUDBvQ0ZjVTZvNHdIbTFfS1Q5M08wek5UNG1sYmN5UXNtNTAzNEtZZU0?oc=5",
-   "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1794607621.0,
+   "titulo": "Brasil ultrapassa mil casos de mpox e registra uma morte no Rio - TNH1",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckNkUFpsT0JtYUFUSXRoWW1aS1h6aENWdXgwQW41S0J4UHMtVGxRZTdGZlhJZjhZa0p5bHZOcHRoUjNiTDAxX1pQc0RIbUxyTE5uV3BrQml5MVk3TkNXTmpZWHVTSENGVFp1dVJ1WVhOeWFLdERtcUVQS0Y5bzc2d0pEdGVKZzlXMXdJN2s0dG1BOVlJWVl3VDEtUHRnS3VEMlHSAZwBQVVfeXFMTVJvYmxTemtTZ3V2ZUFqRWlSZE9nUkxualhsR3lWdUx2d09kOWtHazBZV2hmSnRTZ3RNM2haczJjWXkxbldDcGZUb2pyZnFnUE1RUkVXUHh5aTQxZUJqalZjcGxEVmtTYzlBc1BZWVdiU0ZHR0QxQjlRT0ZPRDZFd09JbnJPQVJKQ20xMlQ5VlZwUlpWVDRxUVVZRFBr?oc=5",
+   "fonte": "TNH1",
+   "quando": 1794608360.0,
    "categoria": "estado",
    "fontes": [
-    "www.agenciasp.sp.gov.br"
+    "TNH1"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "13/11 19:07"
-  },
-  {
-   "titulo": "Casa em Dia: CDHU realiza plantões de atendimento na capital paulista durante o fim de semana - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUVxRndyYTU0SEhUSFBzNXBweWJjQjQxSXQwVVdKWHFWWndBb2Y0aEtPWWdIc0hzeFNlaDRwN3c4NzlHdl9vSXFSWDJ1UTMyX3E4VjR6dFZFRVVxTlJsVjdtaXBtTTlBWThkTlUxeHBPd3ZsRHFvU1FZTGVqZndMbQ?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794607303.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 19:01"
-  },
-  {
-   "titulo": "Brasil ultrapassa mil casos de mpox e registra uma morte no Rio - Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWpqenJGc05uY2UzdGdRd0tSaTJfYTBORFBTdkllNHM2RnZtYVZMaU83ckJnN2pCaEE3cGNmc2pTaGp1d3hVZGR3NnRicjZCcEpYT3pPeGhZdFRCT2NjMFpCR3ljdnpoYVdZSEFYN2pIckQ2cUpwLWZnMWVLaTVVLVZKSmNIdE11bWkyUy0wb1lNVzFuTTJCRTJybkFuM3JIc2VKVmVDeU9jQm5lR0VTSQ?oc=5",
-   "fonte": "Jornal de Brasília",
-   "quando": 1794606912.0,
-   "categoria": "estado",
-   "fontes": [
-    "Jornal de Brasília"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 18:55"
-  },
-  {
-   "titulo": "Médicos de 47 unidades de saúde da zona sul aprovam estado de greve - Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc05GMVVibmYwa0Q4TFBZZ2J0c0U4UlhBbEFWWlBJWnlDWUd5ekJreHd1YXAzeXFSMWhDd2hiZG9XQndia1l5X1JRZHhSNTFyQ0JaRUNhSHo1QVpIcW1HY3ptWDJsYzNaSjk0WGwzUkU0a19iTkUtd3gzU2FybzBpdndsNWZrNWptbDFrU253TVlSSGJRZHV5WnVzR2ZxVmY1NXBfb1RKRQ?oc=5",
-   "fonte": "Metrópoles",
-   "quando": 1794606180.0,
-   "categoria": "estado",
-   "fontes": [
-    "Metrópoles"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 18:43"
+   "hora": "13/11 19:19"
   }
  ]
 }
