@@ -1,5 +1,651 @@
 {
- "gerado": "13/11/2026 16:39",
- "desde": "13/11/2026 10:35",
- "pautas": []
+ "gerado": "13/11/2026 17:36",
+ "desde": "13/11/2026 16:35",
+ "pautas": [
+  {
+   "titulo": "Motiva Autoban alerta para interdição total da Bandeirantes entre Jundiaí e São Paulo - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUsyd0JtU2dLUVdrWmZ1akZxODM0Y040djJ3aXBFRUM5eTdPLXcyR05BQW16dW15YnR5Nk5mRFZtaGZBUVJLeUJIN3F2VnVacVhYZG5aQkpDOXNPdmtqc3VHZnJjc1QxSF9POGxXN3JVb1NXaGR5ZEw5NFJSbVBGR3dUMjYteDE1Sm02TDNlMWV5c0lKclo5N2lXRUUtaEtkOFNSTEZrUFQ5SDlqSy0yMEdHQnZYUQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794599308.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 12,
+   "hora": "13/11 16:48",
+   "foto": "60f5018d0d3b.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://jr.jor.br/2026/11/13/motiva-autoban-alerta-para-interdicao-total-da-bandeirantes-entre-jundiai-e-sao-paulo/"
+  },
+  {
+   "titulo": "CIEE oferece vagas de estágio e jovem aprendiz em Jundiaí com bolsas de até R$ 2,2 mil - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdG12V05FZm4tYWhOX2Q2ZHp2WU9xbF8yOE0tZzhPYnZwcHc4Zl94aHVFMmJiQWM0SWdKZGpPeE1xal9Bc0JlemNxb2h0QUItZW12cGpVcV9ySTJ2R1RHN09JTHZhYjY4WVNEU2pLWHRaWjZGLXhLTjJUNlB0dFI2Rzl5eXZPUWZEY05vZ2pPUkJ6dzF2RjY0?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794598914.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "13/11 16:41",
+   "foto": "1a3bf6dc9d26.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/economia/empregos/ciee-vagas-estagio-jovem-aprendiz-jundiai/"
+  },
+  {
+   "titulo": "Vereador Faouaz Taha, Cijun e Iprejun promovem encontro sobre segurança digital aos idosos - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOW9pX0pXSS1BSkdRMmxZbmpSY2d2TXZxMnJkTGtvNV84eGJZMUNYYjZxTUtDTHo3VEIyOEx1NTBacUdtbWZyZ1lpdGJhNWtfQWpMVUtjTkpNNlhybzZpeS02Y2pUX2NGZ0ZNcFVrZnYtcW1fdFlwZVVYU1VxQ0pubC0tUHFmeFFpMWZOVEJnWHFZQQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794599432.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura"
+   ],
+   "pontos": 7,
+   "hora": "13/11 16:50",
+   "foto": "8121c337a3f8.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/politica/seguranca-digital-idosos-jundiai-iprejun-cijun/"
+  },
+  {
+   "titulo": "JJ: Mutirão de emprego reúne mais de 285 candidatos em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnk2Vy1hZkhLMXpmRWtyOHNMZkk1azJTYm1fVTF2TTMxeWlzMDFpUUM5R05uSnJRRmUxQzJ1a0V2Z3g1RXhBdURtTTFJWnVWbkVGTE9GaUlfV3dMOGNTMEJIc00wQ19uYWNWR0o5UzdtNFI0czZxY21rQ3g0R05hQTBWRzZtZGZvOFBUanh6Z2ZncnZYbFdHV2VPWVFIQVNzcUZ6OUdTMjBQU1lxLUtZV25VZ0k1bjk5SjNLVw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794598869.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "13/11 16:41",
+   "foto": "fa7274d01982.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018550/jundiai/2026/11/mutirao-de-emprego-reune-mais-de-285-candidatos-em-jundiai"
+  },
+  {
+   "titulo": "Câmara contesta decisão de Dino sobre escala 5x2 e pede ao STF que derrube 6 pontos - Ric.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmktenJrY2Vub2JhQms5Yk1YTlh6Wng0QnhBN1RodVk3TnRubDd2Zlc5cGsyVXNCazVpRktQWl95QXh2NHdiLTNhV2VZR0JGRVU0TkNXRDdGejZnVEdHSWNwTlhjQzJ5TXRyQjgycmZhMWprMkZTdzQ0ZUFTemg3d01QU0dZdzlLaEpFQ0VxNGREbWlfcFp5WmxR?oc=5",
+   "fonte": "Ric.com.br",
+   "quando": 1794601683.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Ric.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 17:28",
+   "foto": "60b40dd66d74.jpg",
+   "credito": "Foto: Ric.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1320x768",
+   "materia_url": "https://ric.com.br/politica/camara-contesta-stf-decisao-flavio-dino-sobre-escala-5x2-trabalho/"
+  },
+  {
+   "titulo": "Governo de São Paulo prevê investimento recorde de R$ 44,7 bilhões no orçamento de 2027 - Votunews",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX19mTEd2VjQxVHVzaW9ORUxpMzRpcFJvM0dvSHdRQnByYy1IM0ROcHNTOUF1Y01Qb21aWXVVZlhTVEFyLU9fTkotbHlvRVd3cGFSZnRSaVBrbDI3ZzJWWHd3SHNzVzdYcEVOaklvWFR5a0p3QzFRcV9FZTVUZEhCR0RjSUVpQXlwaFVxYndGYUxleVREcVRydHR1c2VnOEdTVmlWOVV5NVVSVWtkaTE4Q3BiSUU?oc=5",
+   "fonte": "Votunews",
+   "quando": 1794601560.0,
+   "categoria": "estado",
+   "fontes": [
+    "Votunews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 17:26",
+   "foto": "484d412220f7.jpg",
+   "credito": "Foto: Votunews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1024x576",
+   "materia_url": "https://www.votunews.com.br/governo-de-sao-paulo-preve-investimento-recorde-de-r-447-bilhoes-no-orcamento-de-2027/"
+  },
+  {
+   "titulo": "Renata Abreu defende diálogo no Podemos antes de buscar ministério no governo Lula - diarioesp.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE9OLTdYM09xQXhVS1JlSFpjQ0t0OGJsMjdYRktoRkNNWXNVWFB4X25RWWNmNjlDSUJFNzVxV0tQV1hPMmtsN01GdW5BZlpiRWNVZ3pXRnBjWE9LazQzOVg0TUdRZ01kVVRXM1MxcW1icVNfcU9Zc3NDcHBtWVVYUS1yYzlRcUdtNzBWX0tOYUN3aThQRTFubVlrM2NOYzJkTUlRQkhRNGhRSlNnXzNRd1gwb3N4bUg2VUMyZlZ6ejladHVSRmM3OUNTVGtfOVpJWno0?oc=5",
+   "fonte": "diarioesp.com.br",
+   "quando": 1794601200.0,
+   "categoria": "estado",
+   "fontes": [
+    "diarioesp.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 17:20",
+   "foto": "3c601179df32.jpg",
+   "credito": "Foto: diarioesp.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x791",
+   "materia_url": "https://www.diarioesp.com.br/sao-paulo/2026/11/13/renata-abreu-defende-dialogo-no-podemos-antes-de-buscar-ministerio-no-governo-lula.html"
+  },
+  {
+   "titulo": "6x1: Câmara contesta parte da decisão de Dino e pede que STF não referende flexibilização de folgas - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUVBd2xobUJkM1JOTHJNV1dYWnRXc09Jd093NDFvV2FhUzNZNlVWeGVFNkZ0UXNTek5wQkIwRHg1LUxVZUp1M09Mb1NtYmZWZFNwNnlMbTNuYmNVd3B3LVh3TFVUYk9hczVWTTVfTGhPQnpNZjVSY1hTNi1lRm5nQldGa24xTng5Q19qdGJrM0stVl8xOWtkbk9VUFJKUXpmZGZYdG9lR0FTV0FJR0NkbDd6TVEyN0RlLU1NeGxJR2hZRzM0UXVwVldVemJMRWxS0gHWAUFVX3lxTE5VVzRXWEp0OWR5SXpqZTgxZUh0NHZUVWFTYkxwSEJYUS15amxCWFVFV1BZRjgzVF9SOGVfb2xhVUQtQ3pPN3FnX0k4QWt6MXByTjZNUVByaUFmZVRBcVZaaDZFRWM3bDhLaUpwRFJNbnlLVHM4ZW5idmh6aUtaZVFxa2F4Mmc0Ykk3RkdoNnJGYWJKbndTQ29Jd0xWMTl5and5ZmlBaUlUMlhfM0trS3dKU0t1WmZBNzYzVTN0WEhzZEpjNzRaLWp2aEt5RjcwcGxBTG93cXc?oc=5",
+   "fonte": "Estadão",
+   "quando": 1794601140.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 17:19",
+   "foto": "ea46334f517e.jpg",
+   "credito": "Foto: Estadão",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://www.estadao.com.br/economia/6x1-camara-contesta-parte-da-decisao-de-dino-e-pede-que-stf-nao-referende-flexibilizacao-de-folgas/"
+  },
+  {
+   "titulo": "Sesc Jundiaí oferece oficina de cerâmica fria e vivência sobre maternidade neste fim de semana - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ01mYkdnSmdZa3pqd2RVQkkyUUQwV3VONThoYlotRmktT1lwS0Jzd0Q4RGxEbW5xVldiUExTdk92Qmp2OFhRbzM3anIwUlFMUVhfVXhDTUZxZ0s0QjNkTGgwd29SX3hoY3IxNktZSF9TY2wzX2pSR29RbFUxSkR3WW1LZWxSVHpfajlWclpGNVpvYjVXZW1mOGs1bkJ0UG54c1pFWGExal8?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794601095.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 17:18",
+   "foto": "35622eb1d0f4.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/sesc-jundiai-programacao-gratuita-fim-de-semana-novembro/"
+  },
+  {
+   "titulo": "Minas Gerais e Espírito Santo concentram a chuva do Sudeste no sábado (14/11) - Agrolink",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUx5dExPbW9wamRWQVhqMzlFQW1YSjZtOFBFN3ZZN1Q0OWh5S0NvMkt4WkNfRFRBbUIzSlQwS0duekVjdV9TaG9pM2lydGNnQ1k5dl9OemJndzBiR1V4UHJQLVhNUXRmSEJhdGJSZXJaMFk4TTR5azRYckVfZVNJZVFBaGNwa3lOblduMFdmZHZ3N29CZkxMaE9VRExwY0lJUDFrQzUtenpUa25NQjZOV3NDSWRaS1REbV9vU0JCV2UzWkVZUGdYMFMyTFY0ZzIz?oc=5",
+   "fonte": "Agrolink",
+   "quando": 1794601080.0,
+   "categoria": "estado",
+   "fontes": [
+    "Agrolink"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 17:18",
+   "foto": "e9b6a08c14d5.jpg",
+   "credito": "Foto: Agrolink",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://www.agrolink.com.br/agrotempo/noticia/minas-gerais-e-espirito-santo-concentram-a-chuva-do-sudeste-no-sabado--14-11-_521049.html"
+  },
+  {
+   "titulo": "Centro recebe nova edição do Festival do Pastel nesta sexta (13) - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUs0UHVSLVBLM3RBVUR3NEUycVFOOEpGR09janF4YmxpVlpia09Ya0J1Wjc3TnpyWkdBUThFTURZcDBJQjBBbmZEYmlHU0p2bm0wZ2haVDY3RjRoYkhfd1JyQXllWk9VMGhNZEtjTk42cG9EZW1Pa1ZSMkdlUnZ3TVVMUlhwa281djF1dnN0bl9jelU0SXVz?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794600323.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 17:05",
+   "foto": "54a2490d44ca.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/13/centro-recebe-nova-edicao-do-festival-do-pastel-nesta-sexta-13/"
+  },
+  {
+   "titulo": "Imposto do pecado: entenda cobrança sobre cigarros, bebidas e veículos - Diário de Caratinga",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmxQOXIxcm1HMXZ0bzNQeXdYMmo2MFNXcWQzRGVCUmVkNG1Ma1l3c2dSTm92LXRucnJKTGpTbWt6cjVvd01Bb0NnYk96M1I5VHI3R3hCQWVxT1Z3cmVzTFJOdjFtdV9yUjJhemo2Wk9STjBwUm5wM3RpVTVfaHUya0FCdUdveHNla21KbzAwd0g3a0FuWll1MzVOQkhrN0c0T1FBeVlySlRfdTJmOGlQZg?oc=5",
+   "fonte": "Diário de Caratinga",
+   "quando": 1794600180.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário de Caratinga"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 17:03",
+   "foto": "4f5f2dd8f8d4.jpg",
+   "credito": "Foto: Diário de Caratinga",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1100x734",
+   "materia_url": "https://diariodecaratinga.com.br/nacional/imposto-do-pecado-entenda-cobranca-sobre-cigarros-bebidas-e-veiculos/"
+  },
+  {
+   "titulo": "Jundiaí escolhe nova Corte da Uva nesta sexta-feira (13) - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmZMa283eVgzOER5aWdEQXNBWEF0bjJJbGhnY21iWl9GekVhUVZkWW4yaHNSWUNJTEJRWnF5bDczWlJPeVhDY19qYU9jay1XTlU3S2ZQUEtRMjdXNFlwblh6U09aWmppT01wM29rd3Q3eXhkMHRZdHBlVGRkWEZ4YUM5Qm9HOTlWdWliRg?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794600122.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 17:02",
+   "foto": "143a5186257b.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://jr.jor.br/2026/11/13/jundiai-escolhe-nova-corte-da-uva-nesta-sexta-feira-13/"
+  },
+  {
+   "titulo": "Feriado terá atrações culturais especiais em Jundiaí - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd3B0WVltZ3dKaFdTMS1IV3hES2gyUjJtak1acGxhTHMtWVcwT3F4Q0NaclFqYTF6VEdXaTlSRFNDTmpoSGF3ZmNMMXV3UDhkRzRsRjRIaFcycnR2ZTEwbjhHTExyUG5pczlrTTNNMExZMkhEVGU3QVBpX0lfaXJLd0RkVWZDbVVUbnc?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794599959.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:59",
+   "foto": "051a485a6e22.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/13/feriado-tera-atracoes-culturais-especiais-em-jundiai/"
+  },
+  {
+   "titulo": "Caminhão que transportava cerveja perde freio e tomba em avenida de São Roque - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUZzLU1BZG1HTm5Zd0RHcHltdHBIdzVWRkpuOU1QQU84YVFBYzUyMGpxZVBtNzZhZGIwRmJ2UGgwenZPdThDVjM5R09KOE1OR0JTdGVVaW9nbFRzLUI3b3pnUDlQZWhZY3A4X01WM1hmOXBQVWI4WmtDajRkOG9KYk9EMXJsc0R4NENuNkJxc3E3cnpuRkZjR3lhMWdIWXdsUl9IbHIyR2Fxbk9GMG0xVmw0dXg0RU0tb2NWMWpfZHZLNW9LS2JPSHlMaVRSaFdzVXdNRWM2UWlHWnfSAeoBQVVfeXFMTXNqbU1yNGFpbnB0RjJaMUtwSkthTUpFdlJEOHl6bmpPVmU1SlRBY0l0TE1zNkIwblpGcjV6RHBpMk1oNlFpeGdCNTM1cmZQT2xvVmVrWlRsMXN5dk9HaHJHTENVcVQ4N2d0am1RUEFuaE9mSjNFS2ZmaUZqc0hjZEo3ZDdSWVJ3S3RYLXFzaVpzR0pIcWFKVkxBTDlDTmVFdncwU2VJRnlhbnhOR2EzS0l5bW14c3A5ajVnSmFLbUVKUVV0SjBqQm5Ed0ptenhMUGlCTFcweW1kLXU5cmFCTDl6Q212MXF3Tnd3?oc=5",
+   "fonte": "G1",
+   "quando": 1794599838.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:57",
+   "foto": "00e462976930.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/caminhao-que-transportava-cerveja-perde-freio-e-tomba-em-avenida-de-sao-roque.ghtml"
+  },
+  {
+   "titulo": "Câmara aciona STF contra decisão de Dino que pode esvaziar fim da escala 6x1 - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY09pWklqejl0TWtCWEk3cktsX3BMTmVIc2gtdGRNY2V0c2RqSlZMcThZWXIwTEhTVXA0SmlaU1hYc0ROVDNIOWhPMG1VaGxRM0VTcVdOZi1GamNrRmdlTml4VHdPOFp0VmxDRXN1Ql9BVkhpRmtCS2lWN2llZU8tNHZkbHpfTjNISnJSZmMtWE45S01raEdzX2lKVWlLajZjTmhqamlFVEtoaUtIdmNldElqdVRPcTJQWVE4ZWZQNA?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1794599754.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 16:55",
+   "foto": "c8fd42ce3911.jpg",
+   "credito": "Foto: Plantão Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x718",
+   "materia_url": "https://www.plantaobrasil.net/noticias/163452-camara-aciona-stf-contra-decisao-de-dino-que-pode-esvaziar-fim-da-escala-6x1"
+  },
+  {
+   "titulo": "Centro Diagnóstico completa um ano com mais de 1,1 mil avaliações - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW5NbExYdjBfcFdtcWZ4SkFfQ3lHZUY0NHlHS2h6dHcxYksxUlFyMEw4YWNzWHVSX3p1VG1TOUVERzlSdWpFbmpmdVZ1OHc2OGg2NTRPMms3LVZ2OW9tRnVKSmxFbXlndWZXYm5CWWg3MjZzb2JUUEo1UkdTM1RTc3lYOU5hT1pPUFBlVnBTb3E2cDRrYk9HQW9n?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794599704.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:55",
+   "foto": "efe88451dfe0.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/13/centro-diagnostico-completa-um-ano-com-mais-de-11-mil-avaliacoes/"
+  },
+  {
+   "titulo": "Campanha Eletro Solidário já arrecadou mais de 2,4 toneladas de eletroeletrônicos e eletrodomésticos em Jundiaí - Sindicato do Comércio Varejista de Jundiaí e Região",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNXy1fek5RVTVGaTh6dzJ3NGFGZ2lZVXl3aFJrVnNzLVFySlNGWEJWQ3k4dDZELXUtWk9leV9aYXQwd0FlMVZLeGMzZWFibUtzeW5VeXc0TEUzMFBfTjE2OUVLNUJxMDVOMDRZcnRsX3g1eWxjM2x1eEVJWmtPdkJTOEZqelRnQ05RVHJyUlBrWFV3aEEwcDlZcUVVdE1yRlNnU3F0QUMzekQ4Q3V2b3laQ0s5TEc5WXMtbEtNd1luTXo1aFZJQ2NyM2FKY1lhOEtKX2xCR2t6eHdtVENZTmc?oc=5",
+   "fonte": "Sindicato do Comércio Varejista de Jundiaí e Região",
+   "quando": 1794599556.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Sindicato do Comércio Varejista de Jundiaí e Região"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:52",
+   "foto": "bc05afba3b1f.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Núcleo Catarsis apresenta sua mais nova montagem, Tutu Praco Paco, em Jarinu - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFhvb0tBSzJiRnlxS1cwTFRUZlE2a3FuSkItX3ZoVkZyUW11YVhkeGU0U25tUXJ6V1lrWU9qTXNZeXhRNnYxSTN0YWs0Ynp1Z182Qkl0ZFFUeFRUNk1qZFpnUlM3RzJRclAzSkd6cjV1SWFFX3JzUHVjTGJOR3Z1V2pEMmFlLXowbXRqQTZHMW5KRzY5WTJRRjVUVDdJdVlvcFE0elRjTQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794599536.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:52",
+   "foto": "16bb18061ff8.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://jr.jor.br/2026/11/13/nucleo-catarsis-apresenta-sua-mais-nova-montagem-tutu-praco-paco-em-jarinu/"
+  },
+  {
+   "titulo": "Defesa Civil de SP emite alerta severo de chuva - Repórter Diário",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVNlSFEzdEcwOWRnU3ZyaURKeU9wSWVYQWtOUnBFX3NvbU5TWGZqeTcxaEplOVFfb0U0ZzA0WkpyRW1JWlpmWVE4dVlpLUdkY3VqNmNYWmZmeVE4UUVKZ0IwZWVWcXVjTzdEMFJ5a21XbFlPUnZIaGt1cGVDcGhCYWVQSTZhZDZnMkI3YXMwM2U4MjFXVUtsUm5RRGFVQWM?oc=5",
+   "fonte": "Repórter Diário",
+   "quando": 1794599475.0,
+   "categoria": "estado",
+   "fontes": [
+    "Repórter Diário"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 16:51",
+   "foto": "7ca2bc411c95.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Câmara pede ao STF que reverta regras de Dino sobre fim da escala 6×1 - Portal Diário do RN",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNE12X2hoYkpaRlBrOVB1M2F6Mk1ib19KcHlSYkRFOTl2MmFfR09nUDJYS1YtcHJkNExaZmpTQUJLM0NLQmJXd1BoR0loTVdhaDJQdmY4YXd1aTF3UEJDNEQ5TjFDbEJ1SkNnWmpYNGd6RWFjUy1pSGV5eTQ3eFlKWUVmQ3FlYjdqcFZZV1dTaFlsSXppdUhNYnF1REQ?oc=5",
+   "fonte": "Portal Diário do RN",
+   "quando": 1794599383.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal Diário do RN"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 16:49",
+   "foto": "eb3e3cce1c00.jpg",
+   "credito": "Foto: Portal Diário do RN",
+   "foto_tipo": "materia",
+   "foto_tamanho": "768x473",
+   "materia_url": "https://diariodorn.com.br/camara-pede-ao-stf-que-reverta-regras-de-dino-sobre-fim-da-escala-6x1/"
+  },
+  {
+   "titulo": "Coordenador de Economia Circular do CIESP Jundiaí receberá Diploma de Mérito do CREA-SP - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGVPYmRlOV9ERk9hZGFTVHJBZnFMZ0p5cWlxZ1UwRGNELVNvdFMwUUZzNDhwcVdHVUxEOUJkbjNzRTlOQUpodGNJaDFEYXdOOE5NZnhvSzFOY2NKU2NoUEw4a25OQTRGMEkwb1pWTy1NRFRLQXg1RThIc2d4M1MwWlpuSU9qa3lQOUF4N1E1b3dfMVNmOTQxaUJseTdkYWhMeTFwdVJCS0NPaVBQbHN0S0ttVkpxeHlZ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794599154.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:45",
+   "foto": "e241591b5c24.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://jr.jor.br/2026/11/13/coordenador-de-economia-circular-do-ciesp-jundiai-recebera-diploma-de-merito-do-crea-sp/"
+  },
+  {
+   "titulo": "Câmara pede que STF rejeite parte da decisão de Dino sobre fim da 6x1 - TNH1",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaV85WnN3Vm1iN1M4d2REUGlrQnhhVEhNSTZ1cVd2QTRLMjRkd2NCaWtIMVh2a3ZxT0JTN3RMOHRaRmhMc2JYc2NoYm1pWmh0dkpPWXVqS1ZMa19naUc1UVk2MFF0WkhGd0l3NmdBM0NCM3JOeUNIb2RnNUJ3WnNtVnZlLUp2ZHIzbWlPeGlxYWMtUTR0cTI3X0YwNXFuQVNOTGtyQlZCN1BqQdIBpAFBVV95cUxOSTJyeFdqQ25BdlJlRWRRazBrU2dKWVhWUGQ3UmtObXNEM2tPb0o0REtMVm5FREVYaURwZDRTU283VE5OeF9zMFpEbGxtb2N4R21CRXBfY2YtREg2VUdJN1pDMmc0cjUtYjdDWlNWb0luS1Z6cTVKd3hYekIxcEhDTnhCWVlkN1VpMHBtRDF2X1d6VjlEXzNOcllwRzgxNXROZVB5Nw?oc=5",
+   "fonte": "TNH1",
+   "quando": 1794599085.0,
+   "categoria": "brasil",
+   "fontes": [
+    "TNH1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 16:44",
+   "foto": "10d031bfdcdf.jpg",
+   "credito": "Foto: TNH1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x450",
+   "materia_url": "https://www.tnh1.com.br/noticia/nid/camara-pede-que-stf-rejeite-parte-da-decisao-de-dino-sobre-fim-da-6x1/"
+  },
+  {
+   "titulo": "Câmara pede ao STF anulação de regras feitas por Dino para escala 5x2 - Diário do Nordeste",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0VqS1FKU2ZkMGk2U2FySDZzXzlMT2psWmhST09CQVJOOXVTMy1RcWREQjVFWDFzd0NtbUkycE94ODg3eGt5TEJXa01JNXBpMURIa0t4QVZ6ODN1VXZ0U1FZVE5YXzI0ZXptQzJHUUFFNHk2M3N3Qnd4U0JZZlJ4ODd1MnNhSlZTampaTkJNaUVGRGtYWXZPNkh4THJGNUpqY2ZEMEJvcVc0a3FMZlZCeW1fdFlMclo4THh0djhUQlllS3p0UVlDWHRmYVVOd0E?oc=5",
+   "fonte": "Diário do Nordeste",
+   "quando": 1794599008.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário do Nordeste"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 16:43",
+   "foto": "d925f8e3ed42.jpg",
+   "credito": "Foto: Diário do Nordeste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "798x449",
+   "materia_url": "https://diariodonordeste.verdesmares.com.br/pontopoder/camara-pede-ao-stf-anulacao-de-regras-feitas-por-dino-para-escala-5x2-1.3805580"
+  },
+  {
+   "titulo": "Inteligência urbana, infraestrutura e planejamento orientam debate sobre o futuro imobiliário de Jundiaí - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVA3SV81MnZFSXhfVmUxOHJGNUVhUi1ucjJDLTJsVlJwVFZGY09FVzAzMUpJRjNoVWxCeHh0S2dpZDlHOXVqdUVib2ZENHNFR1doU24tQTUxWHFTbHl5dHlLMVBDcHJmS0tvcTRJbEVoV0drb3d6VktQdDhXUEQzdVkyWEJubXpfUXBzZXQ3OGI1QldDVmFqRXQtbzRlLUdIaGw3dy1uSy1RandJY0ljbURuXzJyOVdCR3o4MzNDbjlabUNCbTNvTHJDckVJQQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794599001.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:43",
+   "foto": "ba2784ef5802.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://jr.jor.br/2026/11/13/inteligencia-urbana-infraestrutura-e-planejamento-orientam-debate-sobre-o-futuro-imobiliario-de-jundiai/"
+  },
+  {
+   "titulo": "Feriado de 15 de novembro terá atrações culturais e espaços com funcionamento diferenciado em Jundiaí - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWG1icjd3WGlBTXhSOEJLekFpNkc3NGNUMGZVblJyMXFVd2F0anBrY3dxWXBlYTg4T0ljQ2lTUGhkU2hLUlJIczFvNm42cFRmenRqQlgzaEMyOVpXb3RJbUJUWjRGWnhIWHFyNWpFZWtDeTZuNV96R05lZTdpNWdnUmR4dXFDTzVBZkthSWZndEJGOElldU9HblJsZWU1RFlFdEw0aXg0RlBjVGtRcUNDTHlIbm5QV2dyaV9IcnJkRUVnelZfMk5PU0tEOEdrZExacE5SSi0xR2J5Sk8xU3VxOWhn?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794598620.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 16:37"
+  },
+  {
+   "titulo": "Rodovia Presidente Dutra registra tráfego normal nesta sexta-feira (13) - Costa Norte",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkxFcHlsZ3ZtRW1kbTNNX1JrR0VoMHVjalJlSGJvRmZvQkI4Nnd4dV9kWW9kbzRvNjRTbDlDRjBDR25nbmE4ck1SUXJBVjV6RmI2ZUpWRFpjNHZEemdJTFpVRlVlUVN5YmRjMExFVUEwQTA2NDBYQS1VM2NRNm9NdFExUjlNYjBUVTZ2blpDTEpOOFBHUkxxZnJMY3g2VndIZXFXOGE0Y2RIRVhoYnowSDVnVUtDblpsak13dWxsd9IBxAFBVV95cUxNR2lrNDJvbkk0dnA4ZnptRXhkWWVNZEJXcmVmb1ZGNnJtaXRiLWZneTBCU0FHVy1oYWNWcXNNREo3YU4xZHRKamNQWTFCSGN4bF9oNmJDSFpVekVqVUE2ZVZxVnFxNU9YelBRbk9BNUZ1S0NvaWNYNjFRNGlNN2V0ejhVM0NoMzZxRmZialJMUXpSMEZJeGZ4aWRqTlZyLVBnTGZNU2IxUHZ6UmZKaW50ZjhtM1RQRXE4TzUtTVE2SXBBZmtQ?oc=5",
+   "fonte": "Costa Norte",
+   "quando": 1794598555.0,
+   "categoria": "estado",
+   "fontes": [
+    "Costa Norte"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "13/11 16:35"
+  },
+  {
+   "titulo": "Defesa Civil emite alerta para temporais em todo o Estado de São Paulo neste domingo - São Carlos Agora",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkpfcVE1M052R1VqWDRTZ0N2ZWFEQzVwVDBvNkRnOHN6Z0J3ekdfVHE0S1lKTEtWbC1TRktJQWlnM0pScXhzdWdscVNYQVozMDRoNVYzTUhpNjk5dXdaOGEyUjRvSDJHU1Ryd25EUEl2Y2Z3NkxncWd1SjRZaEptOFZzX2F2WUtDeTBMTEVZTXI3MU5xNzdnUUpXV3k1WFBFNkJzX1NERHFwNWZtNUtpR2prY0VDSFhWdzlKQzhydXJrVG5fTURkNktUUjZ5bUw0ZVdMUXNILXE?oc=5",
+   "fonte": "São Carlos Agora",
+   "quando": 1794600720.0,
+   "categoria": "estado",
+   "fontes": [
+    "São Carlos Agora"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 17:12"
+  },
+  {
+   "titulo": "Vai chover no domingo? Defesa Civil alerta para temporais e granizo em todo o Estado - ACidade ON",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjJWMWJKV0loLTlPVnRMdTFpYkVOSllSQzhiNzg0dk5ENGpxTG5INjNyUW5sdXNPVzBEeV96VEVTZXFNaVJZWUhlQ2xhZDFZWHZOOEVIdWtRb0hMcXp2N2ZGNTl6Q1hNNWJIUFdSdHgxX2p1b0gwakJ2X0xJSEdvMlAwX0NjMXJQc2NINkxjSWZscFFHQ3l4c01wbkpfeHhyUzRQTzdnVlhYTUpuanZRSmRHZ2VYaFRLaUxoeFVteHBWZ1N2TG1ETTlTOXdoY1U?oc=5",
+   "fonte": "ACidade ON",
+   "quando": 1794600465.0,
+   "categoria": "estado",
+   "fontes": [
+    "ACidade ON"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 17:07"
+  },
+  {
+   "titulo": "Obras autorizadas pela ANTT podem retirar 1,2 mil caminhões - Tudo Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDdrVDMtaGVNZ3FMcjhsRFNqcHFiT0N3QXgwYzZGMzk1Nm1RVzVreGx5TDlpTDZQWkxON3djSVRZb2J1NEEtTDlnS0loaUpINjhzY1dmUENCSmw3UUR0YjBtdVNqV0FyU0JXbHhkcmtvLXVSNldwTjg1Z1NNVVo1bGZPeWpDOW9HYnhHS3hOZlFXOUg5LUJHVXh5TVYwZkVtdEt5S0F5YzAxMXRNcGN3?oc=5",
+   "fonte": "Tudo Rondônia",
+   "quando": 1794600420.0,
+   "categoria": "estado",
+   "fontes": [
+    "Tudo Rondônia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 17:07"
+  },
+  {
+   "titulo": "Cruzeiro, SP conquista Selo Prata estadual por boas práticas no atendimento a pessoas com HIV/Aids - A Gazeta RM",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUndFaUw2N0pITGRhWU9yLWwyX19vd20yUWNGazZiX0VDWnhka2RWdFMycklTdkstMmhjb2Y0YUNVSUFjTHZxRzV0VHVLZWxHT3RjVnR6aTZxSTVUUkM0c0RWaE1xbTcxMmxJVEh0bl9YeVo3dFpNQ2d2WENKYWNPbVd6WDFuMlVNUjNqYzAwZ2JLWV9VTGVFVUcxekNyX3h5TzhhbkFCQ0ZnRFNXQzNDUm9ZdlV6RTlwcV9jRFNQOTU?oc=5",
+   "fonte": "A Gazeta RM",
+   "quando": 1794600311.0,
+   "categoria": "estado",
+   "fontes": [
+    "A Gazeta RM"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 17:05"
+  },
+  {
+   "titulo": "Atleta do Time São Paulo, Maciel Santos contribui com metade das medalhas do Brasil em etapa da Copa do Mundo de bocha paralímpica - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNR1EzMll2a1pyWXA4OVVrczhTS1gzOUxncktiYTJEU1B0YzBZaHh2STVsLWRndElnN3B0RjZHV0p4RzQ5RWNUTDlXbjRReVJVYVZ3RHpxTmpaLTdIS1pvbFcteVpwWmVaaVNCcGdtVWxIYzJ3bG8yekpHUTZQOGNENTZHdFJydUZaQ01wZ1FoX0JsamtzRDVIV2MzbVM0OVdDYjVHWkR2VXI4QlZsNVd0YTJXckw3UUpYQVBjMDRoMWYyazdONWtlOU1DY0JEZ3N1ODRxWjN4MDE5MXdkYlhYWEhQY1FPMlpGR3hPYUp3SDdSNWRFMEpFWVVDdXJDZFY1?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794599580.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 16:53"
+  },
+  {
+   "titulo": "Defesa Civil prevê temporais em todo o estado de São Paulo no domingo - Jornal Diário do Povo",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmhHR1Q3RWRTVU5FLWlhcEtrQTF0eGJrdlVPV0V1TzloVTJadkF6U3Z5dnBOZjE4ZHRhNGtIenRYNW13QkhiNzR0TV9uMDRCN2hTcWw1N2VkZU1BV3dabVRyNWxaQUctZThrNmhZQmZWRU9ianp2MEEwZmFYOWxDU1otYmd5dndBcFpPM1h3WGVTSENvOGhOY3dyWW1PdExER281R2JmUVkxM0kxX3Bn?oc=5",
+   "fonte": "Jornal Diário do Povo",
+   "quando": 1794599100.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Diário do Povo"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 16:45"
+  },
+  {
+   "titulo": "Defesa Civil alerta para temporais em todo o Estado de São Paulo neste domingo (15) - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGY2UEx1djVETjlxajFxVEtCX1VvUTZFVmFoNGJTNEh3YXgwS0FDMU91SWMxaWEycHBtWUtwN0JDeHJIeEFwbF94aFhONWJmX1dhbWFMWkJvOFNkLTFzMElXYUhHa1BqVlU1TTloVnNZVWVYR2d2dG5RT2dSTFh3ag?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794599060.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 16:44"
+  },
+  {
+   "titulo": "Médicos de 47 unidades de saúde de São Paulo entram em estado de greve - Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFNISTU5a1JoYjRWZ1hpa3FrMGM5NFJVT0N4ckFNa2c0UHpwWHBnbGgwOVNaUkNUZDJGVEJTekNSX3pTUzc4MDZFaTBOQ3JFUmNRSTR3eEh3RDZjZXJqZUU2UzhoUERhZ2NEaEtnajZqS0U3TnpBS1I5N3NfOHUxMEJBd2dSSzd6RmxiWmM3V1NLVnVJWHpsVnNEd0l4WTdsby1HTFhXbkU?oc=5",
+   "fonte": "Brasil 247",
+   "quando": 1794598908.0,
+   "categoria": "estado",
+   "fontes": [
+    "Brasil 247"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 16:41"
+  }
+ ]
 }
