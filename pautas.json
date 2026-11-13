@@ -1,5 +1,5 @@
 {
- "gerado": "13/11/2026 14:46",
+ "gerado": "13/11/2026 15:44",
  "desde": "13/11/2026 10:35",
  "pautas": [
   {
@@ -45,27 +45,6 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x840",
    "materia_url": "https://rodovias.motiva.com.br/autoban/noticias/2026/novembro/motiva-autoban-realiza-mais-uma-megaoperacao-com-interdicao-tota"
-  },
-  {
-   "titulo": "Autoban interditará a Bandeirantes entre Jundiaí e São Paulo - TVTEC Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGhmbGs3VTNGa2lyNm9wb3NHellfZVBfVEx5blJkdEVENHdqaWpIRS01MExDVjl3WDhLd2oxX1U0a3ZhVmhiWFBYWktaVEZWOEltRThzMlNEOERRRXlDSFRCMUU1RlBpYXZxdG9BZ1U3QWEyWlI2UHgyVURzNFkyT01PN1ZrYXVwampCTko3RHRKb1pmbG03MEFuWTJXNEMzS0dGR2JJMk0?oc=5",
-   "fonte": "TVTEC Jundiaí",
-   "quando": 1794589260.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVTEC Jundiaí"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 12,
-   "hora": "13/11 14:01",
-   "foto": "7d3a5d4b3ae0.jpg",
-   "credito": "Foto: TVTEC Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/13/autoban-interditara-a-bandeirantes-entre-jundiai-e-sao-paulo/"
   },
   {
    "titulo": "Família procura por jovem desaparecido desde o dia 9 - Olhar Itupeva",
@@ -127,6 +106,87 @@
    "materia_url": "https://portaldenoticias.policiamilitar.sp.gov.br/pm-rodoviaria-flagra-estelionataria-com-arma-e-dinheiro-falsos-em-jarinu/"
   },
   {
+   "titulo": "Mutirão de emprego em parceria com a Coca-Cola FEMSA recebe mais de 285 candidatos em Jundiaí - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkFyLXgxZFNoWkNQX2UtLXFXRE5oMkljcGk4MnFBZXpoNDlhZ3hXTVpQRkNXNFhLS0RHLWFJVm5maVdjZjNMTl9iN0ZSZEY2QVlSU0dLWXYxOV9TRl8zLUY0c3NkMmtwUFdjekM3V3FQTFNmSXU3TkVub2k0amtxbWF0Q0hpbGZSRUJzU0hMcnphc2VTSzB3UXJpdmhpWUkwQXVGZjl0SVA0bGMwOEt5T3ZUVlhKdnF3RFREWEtHQlNuSzFIM2poNEE1TlNIRnpQNEJWSzAyTQ?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794594660.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "13/11 15:31",
+   "foto": "5ddc09989ef4.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1200",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/13/mutirao-de-emprego-em-parceria-com-a-coca-cola-femsa-recebe-mais-de-285-candidatos-em-jundiai/"
+  },
+  {
+   "titulo": "‘Gato de energia’: consumo baixo chama atenção e CPFL descobre ligação irregular em academia de Jundiaí - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2E2ZVNQN2c1Szl2RjVBV2l3bHVsVDAzcVE3MDl0N3MtOE45ckhqY1VsWmdDZ2w3YjB5aEt2MkFyWkRCeElZOG1GdnJEVkdtbU50ZV9ZR3lBNGl5dHd2S0RqV0lJZ2FjazBsX1ZwaGtlN2M4UzRPbWViMm16aGlfeWowZFNra2JuM0tVcnVkSnJrYXZtVGc?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794594533.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "13/11 15:28",
+   "foto": "27342f1c5d8f.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/ligacao-irregular-energia-academia-jundiai/"
+  },
+  {
+   "titulo": "EDITAL ASSEMBLEIA VILA DI TREVISO - Jornal de Vinhedo",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxejNjbWFyekJxd0xFR0hvNmNsNkRZSEVXVnpYR3VvSzB0a2pDRUZtQU95M1g5d21DLUFCY0s1aExXYWdIYklVcmdGbjc5YXpxNloyNUZITzdTaGstRnhFNW5TM29KTmtITGxfc2U4RkJOZDdUWmc?oc=5",
+   "fonte": "Jornal de Vinhedo",
+   "quando": 1794594079.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Jornal de Vinhedo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "13/11 15:21",
+   "foto": "8a1bbd5162ba.jpg",
+   "credito": "Imagem ilustrativa: enioprado / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x896"
+  },
+  {
+   "titulo": "Wet’n Wild inaugura Kobra, montanha-russa aquática de 28,65 metros e R$ 18 milhões em Itupeva - revistabusiness.com.br",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFlPRmozMWlOUGJ4dGp5ZmtVTGhXbWVNWTNwMXgwY3hSLTZfWC1sOTBfQVdDZ3ZTTnlqMHZDYk5nRno2OVRsTFNIVnBYVjc1bGNwR2t1TVpWVTg3azFRSHRINXdQcVhwTGlaYW0xNXRZY3dSTTJpdFUwRHJOSTRXbkdzN200aTQxNXZjdlZ3T042UmpnN1R5Z2FGZWpFS042cmhfVG9VRE9IR3duRFRBa2VZeV93emNueUlyQ1dfZEhDcEpjQk5INy1mQ2c?oc=5",
+   "fonte": "revistabusiness.com.br",
+   "quando": 1794592462.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "revistabusiness.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "13/11 14:54",
+   "foto": "5583c5a78843.jpg",
+   "credito": "Foto: revistabusiness.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "984x554",
+   "materia_url": "https://revistabusiness.com.br/2026/11/13/wetn-wild-inaugura-kobra-montanha-russa-aquatica-de-2865-metros-e-r-18-milhoes-em-itupeva/"
+  },
+  {
    "titulo": "Bandeirantes terá interdição total entre Jundiaí e São Paulo neste fim de semana - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnJIaXViVFFLdGl3Sktic0JtaXVKbkFURi00aHgxMWhEN2tsQ2VVc3ZBR05VM3BJcTlTcU5udzlIM2t3QTNXeDVkWmVRNTN1dkZUbUxUTEhuRzZNQWN6aUR3dXdtdERiaDRlZDJJSlRFX0kyc1VRMVdkaDlUM3R0eHRjM1dKUHEtYjJjQ0pkUGhtWnp3a0dSS3pJTUh3RFZZ?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -146,6 +206,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/rodovia-bandeirantes-interditada-jundiai-sao-paulo/"
+  },
+  {
+   "titulo": "Autoban fará interdição total da Bandeirantes entre Jundiaí e São Paulo dia 14 - Destaque Regional",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNllTSUxidVRBQ0hfYVdVRC15MmVPVGs3b25VZVJsUEpmNTZralpka3RQeDNiWFhnVTFqSjhCRHdLaFdUdWZNbHZhRTNBNGxHdWU3VWlqRUNicExIMzJZRUpSaHJUSkVwYkxRTG1TaG1ZWHJiYUVkSFBra2VYTXpkTjRZb05qYkVzeVpDV0I2ODRmR1lEcGU0RWpiQ1Azd2Q4U2pob29SdFVJWW1kUGdneg?oc=5",
+   "fonte": "Destaque Regional",
+   "quando": 1794587345.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Destaque Regional"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "13/11 13:29",
+   "foto": "d4508953a75a.jpg",
+   "credito": "Foto: Destaque Regional",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1366x768",
+   "materia_url": "https://destaqueregional.com.br/autoban-fara-interdicao-total-da-bandeirantes-entre-jundiai-e-sao-paulo-dia-14/"
   },
   {
    "titulo": "Herpes-zóster terá vacina gratuita no SUS para maiores de 50 anos, decide Senado - www.n3news.com.br",
@@ -315,6 +396,296 @@
    "materia_url": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml"
   },
   {
+   "titulo": "Por que São Paulo vive sequência de chuvas severas em novembro - TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTU1Nd0RjelZxSDA0UzVfNFZNU0NlOXZCV2owWTVxMWpxaHhXMjFoTkNUVjlmX2ZhTTBpNlpjYnNhaEZKUy03bDVQV2JEQTRzZml2N2xnNXJIMV9iN1FUQUhQLU1aNlpfYVlzRkJmODF5Uk1OS1Q0VjJXV3NnZF9WVkVTYkh0VldVazhOc2FOXzAyUXZpV1d6ejBGQ3psVGpwQmVfd1liaHdqejh3S2hMME9fRms?oc=5",
+   "fonte": "TV Sim Brasil",
+   "quando": 1794595061.0,
+   "categoria": "estado",
+   "fontes": [
+    "TV Sim Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:37",
+   "foto": "9e8fd3b039d5.jpg",
+   "credito": "Foto: TV Sim Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://tvsimbrasil.com.br/sp/sao-paulo/infra/noticia/2026/11/13/por-que-sp-vive-sequencia-chuvas-severas-novembro"
+  },
+  {
+   "titulo": "Agência de Comunicação - CACB critica pacote fiscal e cobra corte de gastos públicos - Estadão Blue Studio",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWDJycTRCamw5cng5QzhOSkdRWUtYM1dwSE81clJ2OEgyekNtdUR3SFBoaVFZTGVvNzdjbmh3NzJBN2RKamlnSlNUTXJDcURLcmdEd3JLN3Q3VDZqeGRKdEdSQXZSQjM2dFhOdGtFLVJzS2xxNWVVNE5tb1phUDFSR3BhS2h1b2hMWDhSbHNDdS0tQWloTG9TNW1IWmlfR19TSTYyU3gwWkdPT2hNcXlrcmI5aFo0XzJXR0Z0TUxGRzBGX1k0RUVEeUMzMnhBMWZZMVdhc25DVzgzYVNfbVpkNUt5eWhMQQ?oc=5",
+   "fonte": "Estadão Blue Studio",
+   "quando": 1794594867.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Estadão Blue Studio"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:34",
+   "foto": "e6cd26e87a69.jpg",
+   "credito": "Foto: Estadão Blue Studio",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/associacao-comercial-de-sao-paulo/cacb-critica-pacote-fiscal-e-cobra-corte-de-gastos-publicos/"
+  },
+  {
+   "titulo": "JJ: Bazar da APAE de Jundiaí tem peças a R$ 10 - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR21NTnNab3dIMEZlOTlYaVJZckdsSkNsSzVfUFlfMTlpa3pmOFdobGdkLVE2VGRvN0lhdGF5Y2JRZ0c2aXF4SHBBR3V2RFY4WkNEUEV6dHRkbTdQTGs0RmVNWXFnZ2cxQnd5Y3BrUHUxUmRSUmIxSTF6bmdpODhWWlVwRnNYQU9wbXdTOVVqWWdnUWFrQlNUVHVSbXgzZk00X2VkejRaZw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794594778.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 15:32",
+   "foto": "cbe585a28d6a.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018533/jundiai/2026/11/bazar-da-apae-de-jundiai-tem-pecas-a-r-10-"
+  },
+  {
+   "titulo": "Conasa vence leilão da BR-163 e mantém concessão de rodovia entre Mato Grosso e Pará - Jornal Folha do Progresso",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3RTSUZpLXlPcG1jLV9Ib0xkREotaEhCdDdsc1RFTGphVzhjWkhwaTBLbGhfZ1BaRVUwbWtVNGM1TUM4dzl1d2s5MnlqcUQxRktRLXFFQkE1dGRmUGtwVHgwcngwbzZhZmNrbkZJNXJJamtmQ3hmLTExakZqZThabHJPVHN5dm0xdFZ0S3UtVHNyUVBoeHpya2t0ZXhTSlU0Z0xMZ1J5WHJ3dDlvaExxaVUyZW1qUmJiYUtEajdmRQ?oc=5",
+   "fonte": "Jornal Folha do Progresso",
+   "quando": 1794594558.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Folha do Progresso"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:29",
+   "foto": "1039f9f0b267.jpg",
+   "credito": "Foto: Jornal Folha do Progresso",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x500",
+   "materia_url": "https://news.folhadoprogresso.com.br/conasa-vence-leilao-da-br-163-e-mantem-concessao-de-rodovia-entre-mato-grosso-e-para/"
+  },
+  {
+   "titulo": "Imagens de drone mostram cortina de fumaça de incêndio em fábrica de Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVlROVnd3UlhYZWF2LS1QR0psekpKY3dzVllxdU43QmY5VXBMVEZFcm5qNVQtZ2dIWXd1Tk9tTk9zbHpCeUhkY2ZRMjlrcGYwZE1xdjJ6T3M5WjNWNHFNZXRBemlCVjJ2aU83aVVfbWFldDFEQWU1NVFQcUI1X2FCOXlING55UWZLWG5MZ3hadG4zYlNSZC02RWptazFKR2hlYVlQWkJJaHUtX0htUnVhMXJVS0xhRk5KZF9TcGw2NGxVRkJJTng2akgyMldZdWJyWmfSAeABQVVfeXFMTjBTblIwLVMzRmFkakRaYTFMMVFscjBBMjdmdElGb1hHWng1czJiRU5zaVpkaDFxcDFFS0Z4SVQ5RnB5NGRDR1BZaDQ1SVAwZFhtUHhOc3BjN2VWbUZqQ1FrNU5zeThIZ0lpYnlONVRBTUZENGdXTlliSndSZUVNYVc5Q1dFajdxNzl3elFXaTB3aU85dlgzY2pIOEJKODllY2FIdnJFWk1zbDdid2NMUUFfRTdDUVdQaFF5X3FKNllfNzc3ZmZEQ3lUeUMzTHJQc3lhb2ZSTHdCaXpTMktON2Y?oc=5",
+   "fonte": "G1",
+   "quando": 1794593868.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 15:17",
+   "foto": "4450544fcfa9.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/imagens-de-drone-mostram-cortina-de-fumaca-de-incendio-em-fabrica-de-salto-15186151.ghtml"
+  },
+  {
+   "titulo": "VÍDEO mostra explosão e funcionários fugindo às pressas de fábrica de produtos químicos - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUU1tNXZkdFR5Q2xTR29rWGhiYS1zQ3JlNVVneFJ5QVI2LXpETHJTa2lrZGJ0RFFzQWxQcjdncUVyd3E1TUNoNENZMGY1X1Z6bHRpSVcyUWhxQllBZTdjaVllRFNlWk5qZHpCdzhvakdGS2VtQ1U2Z1Jsbzk4YjBXWWR2N1lfTFYySlBZcHpWcVJqNm40TUVSWkc1QmpsaDBJUDd0NEhGSUQtSy1vaGs0QjlMWW9zTVJOWlU3RHlVaEhrNzVHV0d6QWdaX2tNaDRpUk5DWmVKSkfSAfIBQVVfeXFMTkQxX2ZSQndxMVRFNDQzTktZOVZSYmxVQjAzTXRSTXIxcnozOUpXNUhxN3k5aUtkZkMtUllKdWJmU3BoYXhxdHdGZVlzT2dYZlM2OE9vbk04THVkSVRIRWpFZUtpcmpYWkE0QkFMcVBJNHpXVlNXV251UkphMGI4TkttUkhIOHNBcVA4WnctNlJDVFRmeFVVTjNWQUZMcXZNaDZKSlJIR1NFWVQ3UEtCTzFBa3ViUkJDNW16YWpibmlra2VZRnU3UzdFcVhmampCaDU4RklBeWkwb3hSZXNNMk80MFZKd05VMTBRUEhoNDl3UVE?oc=5",
+   "fonte": "G1",
+   "quando": 1794593820.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 15:17",
+   "foto": "6f1c88d2b3eb.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/transmissao-ao-vivo-mostra-funcionarios-fugindo-de-explosao-na-fabrica-de-salto-15186149.ghtml"
+  },
+  {
+   "titulo": "Qualifica SP oferece mais de 2,5 mil vagas em cursos gratuitos com inscrições até terça (17) - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOckNCYk1yb3RRNDU2YU5PWTJpbWdTYmZ1UHc5QVJRSmFlTWIwSlY2T0NvYjczOUcwZVFXWWhvajFCM0V3M2Y5RzYySEZDV1NwS0ZNbS1EVUN0eVBrWExFY1kwTkFTTTFDRWNZNTZwa2lZUWFqZmY3T1BwMFo1dW8xag?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794593479.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:11"
+  },
+  {
+   "titulo": "Imposto Seletivo preocupa municípios produtores de tabaco - GAZ",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlBtZW5TOGxEWThzX2xyclF2bEw4bEM4NkpnbmtlT0NMV3AyakdQcUJpUTAyTHZtWTZOQ0lsS2lyVGU5QVFENUVHV2xfNUIwdGlIdktVSXNyTzVHTzUxQUd4d1hPVXl2TXIzNnN2Vjk5MWF4RFA0NGc5M1o5M2JJNDlOSEhPNGdk?oc=5",
+   "fonte": "GAZ",
+   "quando": 1794593040.0,
+   "categoria": "brasil",
+   "fontes": [
+    "GAZ"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:04"
+  },
+  {
+   "titulo": "Motoristas têm até segunda-feira (16) para cancelar multas do pedágio free flow - TVS+ SBT",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGp3UUZWNGdUMmUtdUYzVlpOU0xUZlVERUduRTVfQ2J3a3U5b2JEU25TbHpwb2pwWjZQZ2pPMTQ5el92NlE2ZHNsUkVTUGNoTmVBU2hUR05RTVMxY2JobGROU18yeEk0dnhwOWRrbEEwMm9YTHl6ZG5WcGh0OTRWOTZ0RU9wTHFwaHp2cF9WemZyazJFWnJ5TUo0M29zNkxPNlctYnZBakQ?oc=5",
+   "fonte": "TVS+ SBT",
+   "quando": 1794592916.0,
+   "categoria": "estado",
+   "fontes": [
+    "TVS+ SBT"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:01"
+  },
+  {
+   "titulo": "Polícia de SP prende dois suspeitos de roubo a condomínio em Higienópolis, na capital - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSHRwcWRSLWRJV2hCRERNcHpvX2dwQ0hvSHBqQTVtOVF2eG14U21yQVpZbFE4ZkRZaDN2QzVkMWxhcWMyN0x1ZnVkdVRtOWQ2UmxiUGRkRzRkakRsazVXLUN1TW15NnREVzAzb3JZNzdlYzVjVXBGSWhGdGxLN2pMemY0NzNVQ0hCRlhPQ21EQWNmdE9tbncwVnNyWkY3QQ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794592880.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "13/11 15:01"
+  },
+  {
+   "titulo": "Recém-nascido abandonado em Atibaia é encontrado em caixa de papelão; mãe é identificada - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qOW8zd2dYVWdyY0p3TFpQcFRXeFR5YlQ3REtRc2loT0tjY0xlN0dBcURjSmdXdEJyeTZlcUlxM09KSVAtUzN6Q1R5Y0pMRVhObUJLdm1PN3EtLXRxMTREZVl3NXVfcHdEWEhsN2lNRGFDOXV2WjVDQjg0a1pKQQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794592795.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 14:59"
+  },
+  {
+   "titulo": "Câmara desafia STF e tenta barrar mudanças de Dino na nova jornada de trabalho - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSG1GSzNkNTBNcV9DMnNpVGpVQWVCejBrN2s0OEd3Y3M2V2lZbWhKeDNVZEdPc0pnSE9KRkU4cl8xWnlDbVp4RWdqR09SRGFma2RJUmxzdnRuX1h6YktWTlkyMnZ0NWRVTXlReTR6WkVBV1Z5bkZfZXBMUmNRSVdLZW9wbVVMbWFvSkppekFZVW5YNHN6YmRDdDl5NGNrUEIxT3VUbFhITVlYcHNudDhody1mcVV4aWRmS2xGU2pTQXlSdw?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1794592261.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 14:51"
+  },
+  {
+   "titulo": "Câmara pede que STF rejeite parte da decisão de Dino sobre fim da escala 6x1 - Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlJrekRZZENFUzQyYWc4UFJDTk9rU0hRMnFkeVFNQlNuWGRMMHVMQnNlNlppRHVDT1ZFbE9ueHRkQjk2aGg1X3dyR1VJUkxVMGRBOTY0WWdnVTF4ZTZXMW1lMkpDeUg4bFBkMjhzVnBQMHFleDItUWd0YzI5dDdPSG8tbmh1SGxsVHU2WUw3VHRqVnNjSkJEaUVJOTJfX1JXV3p6c3ZiZUp2QVFNUjhYZGd1TlB4QXl6TDJ0QWd0NmZ6U1dvVGc?oc=5",
+   "fonte": "Jornal de Brasília",
+   "quando": 1794592178.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal de Brasília"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 14:49"
+  },
+  {
+   "titulo": "Educadores de Várzea Paulista e Itaquaquecetuba compartilham experiências após primeiro ano do programa Família+ - Prefeitura de Várzea Paulista",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTi1UTnBtSURJRHlRa0NEQ1ZDbV9NbWRsYWtjVDZWaTlyajRJMEpXY1k4TkU2ZkdqSUNwaE15QkxLbFZUY0lVUDZtd0NRRU4zRUEyNW1HUzFMZ2xWZkMxVTd5akdRWUZCV1ZCb0dITmVtWENNRGxYUDkyZ01Fcy1BTjRSem8zUHlVeERTdDNLWk9NSjRmb2s4ZE5HeTVxNEdvMEg2dm1peXRfSEJXcGdDSGVNM3QzRHNBdWdMZ0JDQlVRTm5jWTZlM3Boa2FSeVJZU1QxUlpwaUl6YjJlQS1aZG1UZWNQSzlQQ0lENVVnT3ZtU1VCekE?oc=5",
+   "fonte": "Prefeitura de Várzea Paulista",
+   "quando": 1794592116.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Várzea Paulista"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 14:48"
+  },
+  {
+   "titulo": "Câmara contesta decisão de Dino sobre escala 5×2 e pede ao STF revisão de regras - Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTJTd2pNdEw1OE5iS0FlV3lONVE2Yy00dV9NcnVxSkhVSE9BeW02Y1ROU0pkNW5CTmJveXc3Q3VJc2VfelgtSzJ2MXk3V01MbmN0VE9zdTJOZExMQXJiYVJMVnB2Z0gxYVN6WEowNW5jOFlaVVRzN1BVenU5RmN6ZTBvSVZON2xLUWNDTWY1ZjE1ak5hdjdNNXJnM21Icm1IYjdFUkpjUy1MRDJBQllIMVlidkM?oc=5",
+   "fonte": "Brasil 247",
+   "quando": 1794592058.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Brasil 247"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 14:47"
+  },
+  {
+   "titulo": "Bloco Afro Kekerê pode se tornar Patrimônio Cultural Imaterial de Jundiaí - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWg0THhheHM5VjBvekV0dW9pQjNvRzZZcXNrRC03RlFqT0psSmtPbmJhRnA4TFhSdHcxektEOXhMek5MVDNKOVgwNEJYdkVjclFXMktSQVlyZlRnWmx1QU5sTU93VTBEWWd1cEFxTXlvQ0gtU0dFTGFUQU9Jckc4SHlEQnRhdW5Tdnc0a1RoQlFlR2FyU3c2U3duRFpnUQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794591979.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 14:46"
+  },
+  {
+   "titulo": "Câmara pede que STF derrube parte das regras de Dino para escala 5x2 - brado jornal",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzB4STZiM1hZdnFqam5wRzRvdGdBRV92azNfNGZvREhBekF1TDRuSENMSGo4aE1GRkZ1eHFZSF9JdWZoQkl4TWoyb3hDQjdFSnprSEluYlZQQkdLU2ZSU1FPSWNyTVpJUk1CSkgxaVVFb25WajRfMFZYNVB0cXJld3RMS1JhR1ZNTDkwUzEtY3VuUE1NOERtOFpwRE1MUTExMVFNcGJ0Ynp4ZDBqbGdxWXRma3RFaFpNbGdwOEJFNXlWRnZL?oc=5",
+   "fonte": "brado jornal",
+   "quando": 1794591972.0,
+   "categoria": "brasil",
+   "fontes": [
+    "brado jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 14:46"
+  },
+  {
    "titulo": "Câmara contesta decisão de Dino e pede ao STF mudanças nas regras do fim da escala 6x1 - ncnews.com.br",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41UWZab0FYLTV5emxKN3lzYldNZTdYdWFMU3F5WWtfY1BDMHBhYWl1VVdQMVIyZFQ1T1ZFYW52V0REMkJEUTFwdVJTWDlFYXRqMzNrSHNXQ21uek1uSnc?oc=5",
    "fonte": "ncnews.com.br",
@@ -328,12 +699,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 14:41",
-   "foto": "211ae5584f08.jpg",
-   "credito": "Foto: ncnews.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x524",
-   "materia_url": "https://ncnews.com.br/2026/11/13/camara-contesta/"
+   "hora": "13/11 14:41"
   },
   {
    "titulo": "Câmara recorre ao STF para ajustar pontos da decisão de Dino sobre jornada 5x2 - www.plantaobrasil.net",
@@ -349,49 +715,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 14:41",
-   "foto": "166d4cd92837.jpg",
-   "credito": "Foto: www.plantaobrasil.net",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://www.plantaobrasil.net/noticias/163425-camara-recorre-ao-stf-para-ajustar-pontos-da-decisao-de-dino-sobre-jornada-5x2"
-  },
-  {
-   "titulo": "Câmara pede ao STF derrubada de seis regras de Dino sobre o fim da escala 6×1 - MundoBA",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOThQY1Z6VC1vTFZEdEE5ZEprY3lYZHpxbjlXcV8wRkFjZlg3Y2czeVl0cDNxQlg1Wk9nR1lSdDVhYTBPd2pwbk51SG1aUG1JMjh1VlM4TEhXV1JqTDd4T3ZGeHVOQWMzWVhfMXFUZHFqaXpOYmM1RXpMbC1JODRtN1N0UzM1WTJNRHM3ZTRIdWN3ZWtuUXhRdlhLSGpjQlhNUmFKSWUtZWxkNlpCNnc4?oc=5",
-   "fonte": "MundoBA",
-   "quando": 1794591540.0,
-   "categoria": "brasil",
-   "fontes": [
-    "MundoBA"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 14:39"
-  },
-  {
-   "titulo": "Câmara pede que STF derrube parte das regras de Dino para escala 5x2 - brado jornal",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzB4STZiM1hZdnFqam5wRzRvdGdBRV92azNfNGZvREhBekF1TDRuSENMSGo4aE1GRkZ1eHFZSF9JdWZoQkl4TWoyb3hDQjdFSnprSEluYlZQQkdLU2ZSU1FPSWNyTVpJUk1CSkgxaVVFb25WajRfMFZYNVB0cXJld3RMS1JhR1ZNTDkwUzEtY3VuUE1NOERtOFpwRE1MUTExMVFNcGJ0Ynp4ZDBqbGdxWXRma3RFaFpNbGdwOEJFNXlWRnZL?oc=5",
-   "fonte": "brado jornal",
-   "quando": 1794591403.0,
-   "categoria": "brasil",
-   "fontes": [
-    "brado jornal"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 14:36",
-   "foto": "24a64f87b5b2.jpg",
-   "credito": "Foto: brado jornal",
-   "foto_tipo": "materia",
-   "foto_tamanho": "860x570",
-   "materia_url": "https://www.bradojornal.com/noticias/politica/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-de-dino-para-escala-5x2/"
+   "hora": "13/11 14:41"
   },
   {
    "titulo": "Câmara pede ao STF que anule parte das regras de Dino sobre escala 5x2 - Rádio Metrópole",
@@ -407,28 +731,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 14:34",
-   "foto": "d0638b1239c7.jpg",
-   "credito": "Foto: Rádio Metrópole",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x752",
-   "materia_url": "https://www.metro1.com.br/noticias/politica/191386,camara-pede-ao-stf-que-anule-parte-das-regras-de-dino-sobre-escala-5x2"
-  },
-  {
-   "titulo": "Câmara pede que STF derrube parte das regras de transição de Dino para escala 5x2 - GZH",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc05oRnJualNoby1HMGJLWHU1amd3V1pVYXJoWDNPQnJvUDFGU2s3UW9EQzlYYVJxbjg0N2VxQ3I2dUxYRkFScmlVX09tS0Fpb0hzZjdwT1dSSGVtWl9HV2x4Zi12RlpEcG93Z2RqaXUxZHJHcm1xOHVxcDVaWDJoNV9LQVlXMndWZU4zZFFHQ1BKRmRiNkJBbVQwR2x1dHgyU25fYk9oUUpJX0haRG5VQlBDRGswa3A1TDZlbHk5cXdESTVqZHk0V2ZQUEJPZDlBM3ZSeTFYd1pOcUJULUx3YUJHM2Z6aUgxZEd4ejhsZzBoSy1GUkRISW5pQ1FJUQ?oc=5",
-   "fonte": "GZH",
-   "quando": 1794591212.0,
-   "categoria": "brasil",
-   "fontes": [
-    "GZH"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 14:33"
+   "hora": "13/11 14:34"
   },
   {
    "titulo": "Chuva ganha força e estado de São Paulo recebe alerta para tempestade; veja previsão - ACidade ON",
@@ -444,33 +747,23 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "13/11 14:33",
-   "foto": "137771d91911.jpg",
-   "credito": "Foto: ACidade ON",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x576",
-   "materia_url": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-ganha-forca-e-estado-de-sao-paulo-recebe-alerta-para-tempestade-veja-previsao/"
+   "hora": "13/11 14:33"
   },
   {
-   "titulo": "Imposto Seletivo sobre a cadeia do tabaco ameaça municípios e produtores, afirma Amprotabaco - Portal Arauto",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYS13MUlMQklhYjRFRnl4UENPMTVHYVZjaE5MNGlVZWNUanJPOGhiTUYzQVJYX2lBTzRwTnJIUl8xX1JNclhydENncDNYeDYwYmxVQVpMT1FfZjJpZW5pbXpEcGZ5VURWZFpfbjAwT21GS2Y5UE9ZemZ2V2hna3A4NTc3MWs2b3lFLWFadXBiRVJNX29WY3pfM2N5MGROa1BWaElRUW4tcWJKc0xWTkNwOUwyQWVVbmdZcnhCenRfVnl5bTgxa2Ftb0tVbw?oc=5",
-   "fonte": "Portal Arauto",
-   "quando": 1794591180.0,
+   "titulo": "Câmara contesta no STF pontos da liminar de Dino - SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFF2UUUweXhwQXI0OF8zMDlsZnQwcUZDOEFUSjJEamRjbFkwaGlDVllaelFoYlktdE1PTHQ2Y3ZiRWdSMXFKS0w4dzdyV3NUUjBqVWdTTVp6cklnNWtOUHoyR1cwbkdHNUZXc1RjWGhMNlVuNTBsSzVhaXMyUUoxd2UzbEQ0UkNqMGR3?oc=5",
+   "fonte": "SpaceMoney",
+   "quando": 1794590758.0,
    "categoria": "brasil",
    "fontes": [
-    "Portal Arauto"
+    "SpaceMoney"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 14:33",
-   "foto": "f1d5fdc08670.jpg",
-   "credito": "Foto: Portal Arauto",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://portalarauto.com.br/13-11-2026/imposto-seletivo-sobre-a-cadeia-do-tabaco-ameaca-municipios-e-produtores-afirma-amprotabaco/"
+   "hora": "13/11 14:25"
   },
   {
    "titulo": "Histórias, memórias e curiosidades de Jundiaí ganham destaque na programação da TVTEC! - TVTEC Jundiaí",
@@ -484,33 +777,21 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 14:25",
-   "foto": "ba675781e32c.jpg",
-   "credito": "Foto: TVTEC Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "940x788",
-   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/13/historias-memorias-e-curiosidades-de-jundiai-ganham-destaque-na-programacao-da-tvtec/"
+   "hora": "13/11 14:25"
   },
   {
-   "titulo": "Ipem/SP verifica radares na rodovia Rachid Rayes, na saída de Assis para Marília - Jornal da Comarca",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemNONXVDZnJPNGJWUkZPbmpCd1Qzd2MxYkhsbUlnbjQyTXk1MWI2QXJFazlJWmVtS2FNcVpiekhaRHUtVW5mQzhHY0hVNktOcGJLalJTQVJGYkRiMzEwbUZGTDNqM1MyN0lJRjZxWlpuamFSS0w5VHFGLTdXUXViNE9QNHdGZXJ0TzBLbU9IQWJQNWxnb2gxOW15ajI4aHV4WHRQVEc2TmtpYThvZWFGYw?oc=5",
-   "fonte": "Jornal da Comarca",
+   "titulo": "Inmet coloca 28 cidades de Alagoas em alerta de tempestade neste domingo (15) - TNH1",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObl95bWI5LXN2cUZVejNNdEJ4RnVKSzY0NThfM2hocXl0OGlKUUlpaUJvUndBd2pHSzBRVzFiS1AtYWlmWklFelU4ZlJ2clMxT20wQ3FaZGxPZk1pcHo5dzlfSlJNNTlRTDBYWkhwaUJ6bVNjUHgxRE9VSXZwVnZrWVR5ckYxRUJBRDBzbmRnVUVtbThXSk5ndXd6R3ExTzd1TXRmamoyT3RQWFRK0gGsAUFVX3lxTE5uX3ltYjktc3ZxRlV6M010QnhGdUpLNjQ1OF8zaGhxeXQ4aUpRSWlpQm9Sd0F3akdLMFFXMWJLUC1haWZaSUV6VThmUnZyUzFPbTBDcVpkbE9mTWlwejl3OV9KUk01OVFMMFhaSHBpQnptU2NQeDFET1VJdnBWdmtZVHlyRjFFQkFEMHNuZGdVRW1tOFdKTmd1d3pHcTFPN3VNdGZqajJPdFBYVEo?oc=5",
+   "fonte": "TNH1",
    "quando": 1794590640.0,
-   "categoria": "estado",
+   "categoria": "regiao",
    "fontes": [
-    "Jornal da Comarca"
+    "TNH1"
    ],
    "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 14:24",
-   "foto": "90a57901ae98.jpg",
-   "credito": "Foto: Jornal da Comarca",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x551",
-   "materia_url": "https://jornaldacomarca.com.br/ipem-sp-verifica-radares-na-rodovia-rachid-rayes-na-saida-de-assis-para-marilia/"
+   "hora": "13/11 14:24"
   },
   {
    "titulo": "Câmara pede para STF derrubar parte de decisão de Dino sobre 6x1 - O Antagonista",
@@ -587,22 +868,6 @@
    "hora": "13/11 14:15"
   },
   {
-   "titulo": "Câmara dos Deputados solicita ao STF revisão de regras sobre transição da escala 6x1 para 5x2 - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWU5FX3IxTlJzYy1mZERYeEx0NGt6TXA5cTlDdkx5OG93eU5WcXFrTkc0dHF1ZVNjSFdSQVVxVi1vSmJFS0hQM1dWQ2FfMG1ncU1OdW9oNUI5dDZ3dkxzRFgya1FTMmlBMmI2MmNMXzF5Z1AwUlpLOUo0NDVTaUN0RmREdUl2UWVrcVlxSW8yaUVoRjhRYXVwU1VVRWU5Y1djUlFBNERXM3pOb0s3N0M1ODlscGxSVXFyS01jcXQ0SWs2MmVoX2RJTDdEelA?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794590054.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal VV8"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 14:14"
-  },
-  {
    "titulo": "Festival Orgulho Nerd SP terá shows, games e concurso de cosplay com entrada gratuita - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaOW16OUp0QTd5NFF0ODNuNjFNU29paUpYY2VDYnRXcUVUWkVhZmp1ZDhWUGF4WEZfcUZfZjdMMGFUSEFSUzVzNmIwQkwtTWMtamQtY203WjJNSmZRUGlWWXNrNnFkVmY2ZGUxYmdCdEhZbHJvZ3BmZ0hvT2oyZw?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -635,66 +900,6 @@
    "hora": "13/11 14:04"
   },
   {
-   "titulo": "Jundiaí se prepara para receber turistas do Brasil e do exterior - TVTEC Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1g5UF9hcFh6RUxqQmdiTk0tbUdiZUU5OFRqMjJrc0RkcFVFRVZjLTRTaTUyelEyR0UtOVFaYW5zYkpPMnd1QTNoaW0zSzZtM0ZmUU1HcnNUSkFGa3ljUnhmZ2twQllvcU90RFR0ZzNNNG5jR3ppRlBoR1Q4c0hXVDRUbWY5NmJUOTlNd2owMUVzVGczV3VNTWhXVU43Z241cHhVaGloY0dvZGlKY1E?oc=5",
-   "fonte": "TVTEC Jundiaí",
-   "quando": 1794589440.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVTEC Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 14:04"
-  },
-  {
-   "titulo": "Câmara pede ao STF derrubada de parte das regras de Dino para escala 5×2 - BNT - Boca no Trombone",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0pYNWdtNGxoUnVJRU5QMXlENlRXOWtaanhUQ0hpeGwwZ3N2clJVNzd5OWVjekFpcnBUdDJXSVN4YnJjM3BGMG1KRG5zdXJMaGtPQk5mdk9uUWF3YXYxU1ZpSHdKTC1tNGxsU091azhlNXlneGFwb2JpYmxLLW5QM2FpZ20wVkhCUTlFTDJ3U24zempQeVd5YjVpVC1DYzA?oc=5",
-   "fonte": "BNT - Boca no Trombone",
-   "quando": 1794589260.0,
-   "categoria": "brasil",
-   "fontes": [
-    "BNT - Boca no Trombone"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 14:01"
-  },
-  {
-   "titulo": "– Circulando por Jundiaí. - DISCUTINDO CONTEMPORANEIDADES",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40N2lTUnVkUk12a1Z6cnBEN0d1VHNFWkRjVEJwLWFJaEd2aHdTRnpWQXJlWFRoeUNtbHZQTFk3YUp4SkZyN3pERUZpVThIMXRVbTRDc1ZITF9fVDZ3dFJld0s1WlpSN1ZFdy0ySklpY09JOHNRbFRLaA?oc=5",
-   "fonte": "DISCUTINDO CONTEMPORANEIDADES",
-   "quando": 1794589227.0,
-   "categoria": "regiao",
-   "fontes": [
-    "DISCUTINDO CONTEMPORANEIDADES"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 14:00"
-  },
-  {
-   "titulo": "Câmara dos Deputados questiona decisão do STF sobre jornada de trabalho - boca.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkZWd0FMRlFSa1UwUFZ0bDZ3TnpGdGZyangxRjBKVVlFMnMtbEltUHFqTnJJRkdRSDRXVW5NWG94WEgzNHltWExNbll5QXl4aGx2aGtzaWlBNUZrSWVrck5jbmhYeDZtaEItQmNqRU1RcHpoU2lVaThKQ0ZUaTc5eEg4VmVTc0t2ZnRXM2JROTdCeGxZNVN1cFVjcWNJR0VhNHc?oc=5",
-   "fonte": "boca.com.br",
-   "quando": 1794589189.0,
-   "categoria": "brasil",
-   "fontes": [
-    "boca.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 13:59"
-  },
-  {
    "titulo": "Defesa Civil monitora impactos das chuvas em SP e envia ajuda humanitária a famílias afetadas no Vale do Ribeira - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUnR4UDdoZ29sd082WEN3VXI1VEpVODVrMWhDeHJ2TG5TY01yZDF4U3lRY3J4NlFJZVpRUng4c0ZmdzJRVXFFWmV0ZlJ6UU9kckJnbTB6UVRPQ0x5MXd2Z2tfdmdxY3dGVkluc0N5dXNMR0x3djAwUl9VNzVZMHdCb2Z0STYyLWhWVzMycld0bVdkOTRteWpRZzZZUkJnTkwtOHpaNVkzZVAtSnJCQ01FMVZzRU9XSTA4NkxFcklYd21yUTN6OVVpdlZvQjhQZklXTHFQZFdn?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -711,76 +916,6 @@
    "hora": "13/11 13:57"
   },
   {
-   "titulo": "Funcionários da Kalunga sofrem ataque a tiros após expediente em Santos - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMy1ETWxBbDVoUWVrdW4tU1ZfS25LUDJMTFlzZGkzWWpha0JfRFFZSFd6Yk5VOFktajVyeW5FTGJoRWwweG5nZERZd2Y2ekxQVlBISWxwbHRrckVteHFtTnJ1N29sNGl2SEdrRXQ4UHJTY3BGSDVtbEdnUHk2QkxrcVc0UjUyQ0ZRVUV5amVEZ1Mzc2Z1QlRzSXBQX2lhd3NTX2lna09HWjUtenNscWdXdkNXWUZtR1pRdVl4VUZB?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1794588896.0,
-   "categoria": "regiao",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:54"
-  },
-  {
-   "titulo": "Conheça a indústria de produtos químicos destruída por incêndio em Salto - G1",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkthZEdRWC1tajRRTzJ2Q2VITHF4dFZBTkctN0k0eXU1Nmp5UVBqQVQ4NTV4NV9veHA0NkN5OUZibC00cUdrZDNmMXJpYTA3MlZkVUlwOWxidV9ZaXh0OEtZdmd0NC1wR0pnLW5vMko0c05TdTBkRVpPajBoS3d4MFZENFYyZDFoOHRUcXlncjJETkxRRHk5WWg1cGZaRklhVGF3NmlEaXR0RDMzRWp1SERhUWxINnNLdHlBaVJBUDJEVUFDVHlHYjNJWE9rSW5sYTZkNdIB4wFBVV95cUxPQUxLZ1ZReE9oa19qU2dyVER4OWxfTjhkbWVidWNBRE5HaUkwaTNOVDVlazRWX0xqRWVpaDNxRVZfQy1Cc1hXUE5ENWRmTk1OcnhpLTVfaWdmOGptMng0U1UwM2t5d3dvODRqekJNaUtabEx4ZjdWVFZVcGVXUTJqODQzekVpUjlsdmU4OVpRYVlIM3NKN1cwTjJnb094YVU0YndDNHRSTkhiWndvcVBjQmJZREd6NFRLYjU3NzlSSkl2RmRCUFpBREt1RHhTTHFmRTdsa0RzZ19yYUVJblJlLXpYVQ?oc=5",
-   "fonte": "G1",
-   "quando": 1794588103.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:41"
-  },
-  {
-   "titulo": "Programa educativo do Corpo de Bombeiros atende 96 alunos da rede municipal de Vinhedo - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDBYLVFMV0szNXQzRzd5R1VxajFLX2U4c05zMjQ2aVJyQjZsMy1pdnBKUzZWbU5ERFNfZTFoanBMWFNMZm1ub0JqYmZhcWtEUEJRN3EzTkNmVmU3RlJWOVlMUW9rZ2E5N2RmWS0xZmN1el9zZEs1aThyQkZvV1J1REs4QnpEMVdlTU1pa2lPRG8wbl9vM243TkkwVjQ4QjdqclRvMnFDU2lvUFdEUjdzOWIxQUNRNks5a3RBdXY5SDVaVHc?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794587860.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal VV8"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:37"
-  },
-  {
-   "titulo": "Vinhedo implanta Ecoponto para descarte gratuito de pneus - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVVTTXhwNUptdDBxVUhyMUIzRUtwMl9BWFIwNkY1aG1FYy01OWZXNTYtc1dCMW05b0kzcmwwY1RyQm53NjAzd21USVFLc013SjJKZG5QQzRXVDVBdFEzSlhIbFJFOXozbHFPLVJQdkJGWFJjWXhxT0hrQUhYMHpsME5QZDJNeHpzODlYeGNGOXFQR3V0em81VVROZTQ?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794587782.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal VV8"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:36"
-  },
-  {
-   "titulo": "JJ: Sesc recebe oficina de cerâmica fria e vivência sobre maternidade - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUENTRVNON1FwcnBCd2R5b3RNR1gwdDExX1YxdkJkRFdmS2NURFFVRXFJRWxxUjNPdUdKYW1wVl9LaUt0aTFhMWNqNFhYR050VGZFUXltYTZsZWtUYmhpbG5GSUNzckhvalN4WjF4cDNBeWw2Z1llV21FaWh5VC1aSnRWWUJZamNKMU1PNE9na185QmQ0dENOT0dsaG9HbVU5TDBNdVpjRmRjcmpNRmZWbTlaY3QyLVhEamJGM0hydFdua3NFc2c?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794587570.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:32"
-  },
-  {
    "titulo": "Defesa Civil emite alerta severo de chuva para a Grande SP - SBT News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjcya2pCZl9tSGJtTFh3SFBlbEFCUC1hdFNZV0VydUpYVjRaVmRsQkJMMjdKcUl0cXNvWFJ1bERNYk9nTFlKcXBtbVhOamQxYnh6czBnVTU4UHdxWVVfUjYwRWJjckM3Ui1WWVRVZ3Q3YUpsZlRCLTI2Y2V0cUN5bFFnN3B1VXdkeTlFdHJSNEk4OUROb0pseG9MSnFUTzZZcmc?oc=5",
    "fonte": "SBT News",
@@ -795,20 +930,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 13:29"
-  },
-  {
-   "titulo": "Vídeo mostra 'muralha' de fogo e fumaça após incêndio em fábrica de produtos químicos em Salto; veja - G1",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSEk2TG9pdmt6V200T2x0TUp6MERpWDY0SllsUlQ5MHF0ZWFwN1YzNmxrNXkwN2hFdXFSSTJqTTUtTG8yNkpNSjZmdzBxS0lmQnRYVEVYRnBocWNKb2xiS1p3R3RtNFhIYmtHMlpvTDJZMUFXNnZ4U21sT0tneVVwclcyYXFXelY3MURqYnpiUzd0UHR4eVhFNFFqMWU2RmVzUURuU0xPNTdJXzU4Nm5nak5ZeEJlcDBuRFc0aTZaNHBUYTF2N3F6T1VfNlNfcE1ZWjBXNE5vb0tLcUVsRU9IYXEwcks0R0dsRGNEVTNuQUZ2czBYVmfSAYQCQVVfeXFMT3JiMktlc2U4Ml9NdkZsUkx1cjBaTDljTlplSkhkcjlBQzNwTm83QmhBS2lOZXd4OUpPMHJBQk5FTEpMekhTeDZXTVMyY1lYbk5NYzZXMHRFbFQtUTRzVGFoT0h6YUd5aDRzeG13dDFEbW5vTzFFU1BRZ2V6ZkdTNFhjWmpNUk5oaXhiWWJIQXZPUkl6UnpOd3BLcURnN2ZjdzRHWTlFN1k3cnd0Q3k0S2dhT1V4RjV3M0w4YzAtbU1rNjZyNE1rSWgxX1Fod19Ta0lVbXZ0djlkMEhWSDdKMFI2Y0dZUzBNNTBqc0EzTlNMdmxkQ3hmVlpaa1BTTU1jZnVXMVU?oc=5",
-   "fonte": "G1",
-   "quando": 1794587331.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:28"
   },
   {
    "titulo": "Nunes diz que 'está todo mundo desconfortável' na Prefeitura de SP após denúncia de vice-prefeito - G1",
@@ -841,34 +962,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 13:20"
-  },
-  {
-   "titulo": "Incêndio em fábrica de produtos químicos de Salto mobiliza socorristas de várias cidades da região - G1",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBvSS1JVHRvWVRsLWN3TE1jd0tTeXVoXzVXUmVKZEdwM3Z2SGVmcXdNendDc21aazlvRFJCNl9va2R0QWFzNzZXdmx5RnR0UWc3M01odjRUU29CSmhsOUhkNjZHbXZfLTFSTWN0WTJzNTFRZ0EtNFU2aHN0YlY1RGVVWGE5bnh4Nm9xdXNlTUlLWV9BSldSSDAwUHp1WW9yNFHSAbABQVVfeXFMUEJYbXJCT0NlWHdoaTVFZUxEM1JPQWctV1RJa3NHYkhNXzVuOXdKUVgtOV83S1dWaVBXc2U0RUFSbXV5SDQyZER0ODVuTFdvajd3QkRXTlZoWHo3TlpFZTVNdXgweDZBaTUxS0pXUkI4NzU0VjZ3UjJiSmRVZ0UzTG5hNE1FWHJrTkx5NHBsU2l1UUJfM2xrUG5LM250SWRvd0Jrcy1mUk42SzFNVXVtSzM?oc=5",
-   "fonte": "G1",
-   "quando": 1794586271.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:11"
-  },
-  {
-   "titulo": "JJ: Ladrões tinham como alvo motos estacionadas ao lado de shopping - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDV4WElmcXBiN0FPUC11RzFNdXQ4bTNOMnBVeHlWWlJRdG5qbHpvSGxLaW5ZZFRqYUpEdkRTMnVfaXpxMUFLRHhIX29ycEZKdm5mc21oNWw4eGFNME1WRlo1X1ZSMVY1dnEwNFFfOVRGTlFLaHpLbUZSWHlTM1ZueDhfbW1vR1hSbEVYRUhxSUt3dU1rZkxoeTIxcDRKZDM5VGNfYjRDcWIxNF8tTGpPVXJSTTFrS0Q5aXVkNXZDSnNJT1k?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794585965.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 13:06"
   },
   {
    "titulo": "Chuva forte coloca capital paulista em estado de atenção para alagamentos - CNN Brasil",
@@ -933,70 +1026,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 12:54"
-  },
-  {
-   "titulo": "Defesa Civil de SP emite alerta severo de chuva para capital e região metropolitana - Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFpSNEctS21hbkZWNGlGQnQ3dGFaTTAtMjROZ3h3b2lYbWkzaE9QX3dKc1ZFc1VZN1ZzbTlBOFBBMUljbVhIU0Y4ajJyeWp0VnBYRlJiWkVBSGpCMnNUYjRQcWZ1YVFyQzZ2a2gtM0k2N1NjcEh1cnVFMnZDNW9PTmVXTXlfQWZMNHkzQktLd1NVUHF3Y1NYUDdEbFV5RkstNTJTT2h2aTRQUmQ5dmNaSDZRRXZwa3R3UTZ0bExfYjdCUTZzajV0QzZLNUVISmg0MkgxdnlRUlYyZ28?oc=5",
-   "fonte": "Tribuna do Sertão",
-   "quando": 1794584700.0,
-   "categoria": "estado",
-   "fontes": [
-    "Tribuna do Sertão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "13/11 12:45"
-  },
-  {
-   "titulo": "Chuva forte deixa São Paulo em estado de atenção para alagamentos - R7",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzEzN2RBeURWMjYwaUVYRlVGQXJJZnZZSEFvZHRSUklrRFNUSTdKSDItZXVZWVpNWURId0hpVC0tMXlfQl92Z0hrSlhxOF9JUUNGbEM5ajRIZ2ZNZ2tSVVkxVEZMUUFJTWM1ZWd3NnB6cVJpeTVBaG5jTGNRYllJTG5jVWZ0ZVhvZXpLYk41TEpNTzZINDVyUXgtUHEyZ3hRUFd4dWJtQQ?oc=5",
-   "fonte": "R7",
-   "quando": 1794584591.0,
-   "categoria": "estado",
-   "fontes": [
-    "R7"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "13/11 12:43"
-  },
-  {
-   "titulo": "Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar - Jornal Z Norte",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHhMUDB4ZHZWZkh5aE5iNTFLTm9NUV9MM0l1Z3VqNnJ2MDI3eWFCMWtMWVk0NmllVndWSWZqcjVxV0YxNUU5c2NoQmwyTGV1ZWdiWkJUdS1kTkRhckxXSC0wU3dJRWVnYXpnbWczSHR1eGVyNWJVUzFyRUdPUnBTMHFzdDFqaXJVSjFqRzRNZlBRSUcxZXpJM2txYkxzemg0UEhjVE5abEhOQXhuMnA4SEVwMEFzZnFOcFJVNzZVOGdZaFY4WVM0bQ?oc=5",
-   "fonte": "Jornal Z Norte",
-   "quando": 1794584520.0,
-   "categoria": "estado",
-   "fontes": [
-    "Jornal Z Norte"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "13/11 12:42"
-  },
-  {
-   "titulo": "Apoio aéreo ajuda Polícia Civil de SP a prender dois suspeitos de envolvimento em roubos na capital - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYi1nSklQVTcxNER2ay00bmV6bTdFTlluNmRPOGJ6TGJuTk1WMFdhWk4zYW9jXzVVMVJabzlLYWZsQlNPSGRIM0JSWFFnYWNTRUpNbE8yYmpySjJNQmw0ajJCbjV3Q3o5UjVnUktkOUJLd3AyaXNzVEJnVHFLUzhWTUpkcm9POHg1NjNhSWVZX0dXU1I5eGh6eXdnV253YUFhbGVBNFpCaEhIY0xmb3Z4Qzdac0htRGhxWXlzWTdoc1RuNTZNdGxHRWd0NEx5WmNPSWpPSVNxUjNFRHhMMmdvU2Mwb2Y?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794584229.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "13/11 12:37"
   }
  ]
 }
