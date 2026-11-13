@@ -1,7 +1,29 @@
 {
- "gerado": "13/11/2026 12:59",
+ "gerado": "13/11/2026 13:54",
  "desde": "13/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "AutoBan faz mais uma megaoperação com interdição total da Bandeirantes, entre Jundiaí e SP, neste sábado (14) - Estradas",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcW45TUtwRU1ZSVdQY2tITjlkZV9yMDJ1OVlKc1FkQ0ppTEtvNG5ZY0dfWm01TlNTZFpIdmhUbWM3ZzI2V2RHdDQ4eEgyMEVYTkN6LVVsbkljN2lGWXRELUUtTnBwWXR4WFc4YzJRblNYQ0sxYk5UM1Zjb1l3T2pwS19uNTlGTTJwMzZrTzNWanNrXzFoQUpvZ3lXcFFCN2RhbWV6cUE4ajM5Z1dFLTV3aE5iTHpzOFVGMlhVV2stYkZQTWVCcUdWV1ln?oc=5",
+   "fonte": "Estradas",
+   "quando": 1794587363.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Estradas"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "transito",
+    "seguranca"
+   ],
+   "pontos": 14,
+   "hora": "13/11 13:29",
+   "foto": "d64dcb95c30e.jpg",
+   "credito": "Foto: Estradas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://estradas.com.br/autoban-faz-mais-uma-megaoperacao-com-interdicao-total-da-bandeirantes-entre-jundiai-e-sp-neste-sabado-14/"
+  },
   {
    "titulo": "Motiva Autoban realiza mais uma megaoperação com interdição total da Rodovia dos Bandeirantes entre Jundiaí e São Paulo - Motiva Rodovias",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkRoOTg3VDVvMGhEdENqXzBiZVZjUVVVTFZOM2VBQktYREVjNDFYS1M2Z1o4Y1FPd3VjTm9jdDU1aUN1NUJJbC11N25aZ18wR0NQME1kMXF5dHhGcVhjWGJZQThQT2hPLXlwTW5JU0FacE5OdnRLUDZUa0ZFUTFJNkNJUF9lTEdWcXJuWnhkbEdoS2p2cjVwRjhHZzdsQ0ZFSGlsenRJSFphaUJsRHdxRHNUNHVHQ1BtZjVMeUFtZnFNc2pW?oc=5",
@@ -23,24 +45,6 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x840",
    "materia_url": "https://rodovias.motiva.com.br/autoban/noticias/2026/novembro/motiva-autoban-realiza-mais-uma-megaoperacao-com-interdicao-tota"
-  },
-  {
-   "titulo": "Família procura por jovem desaparecido desde o dia 9 - Olhar Itupeva",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEtjY0tCZFR1TmJUaDlhY0dSXzI5VXVTcDY2Wmc3UzZUREx2T2E4MUJZb3kyQjU4N01UaFRycmtMSVJzeUNOb2xQUHFXZEtPd1AwcEptUEVtU1JRc05oZUZjUjJpVGNZM2JpSTE2aHVtWEhCTnVWZFNzN1AzVWFsVkFBQjlacXRvUWkxQmdCOGt5cGpGdXVnblJQR1pFZThfQ3ZyOQ?oc=5",
-   "fonte": "Olhar Itupeva",
-   "quando": 1794582174.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Olhar Itupeva"
-   ],
-   "urgente": true,
-   "assuntos": [],
-   "pontos": 12,
-   "hora": "13/11 12:02",
-   "foto": "94d00f9934c6.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
   },
   {
    "titulo": "JJ: Autoban interditará a Bandeirantes entre Jundiaí e São Paulo - sampi.net.br",
@@ -105,6 +109,27 @@
    "materia_url": "https://portaldenoticias.policiamilitar.sp.gov.br/pm-rodoviaria-flagra-estelionataria-com-arma-e-dinheiro-falsos-em-jarinu/"
   },
   {
+   "titulo": "Bandeirantes terá interdição total entre Jundiaí e São Paulo neste fim de semana - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnJIaXViVFFLdGl3Sktic0JtaXVKbkFURi00aHgxMWhEN2tsQ2VVc3ZBR05VM3BJcTlTcU5udzlIM2t3QTNXeDVkWmVRNTN1dkZUbUxUTEhuRzZNQWN6aUR3dXdtdERiaDRlZDJJSlRFX0kyc1VRMVdkaDlUM3R0eHRjM1dKUHEtYjJjQ0pkUGhtWnp3a0dSS3pJTUh3RFZZ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794587562.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "13/11 13:32",
+   "foto": "f02cbffaa9b0.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/rodovia-bandeirantes-interditada-jundiai-sao-paulo/"
+  },
+  {
    "titulo": "JJ: Empresa de EPI de Jundiaí é vítima de golpe e dois são presos - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGl5SXhwNmo5bmdkX0lqQTNLdi1IaVZjcUhmWjQwQ0Fxc01sa0k4VkFKdlJHVVNiVElwckxKMC1QWE40cW0tckl4cHd1blBuQXBqNjlPMWtuODlzVEpkQWItWkZLenFhdG1qY3dhM1l6TG5qYTh5VElCSGN6YkExR3E4UXVvS0toTUxrM1NwYjExQklzc3oxTmxydGF3VG5FaFNteEhvazRNbVpWeGpyMFR1ejRQbTh1WE45WkhOX2Q?oc=5",
    "fonte": "sampi.net.br",
@@ -124,6 +149,25 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3018462/policia/2026/11/empresa-de-epi-de-jundiai-e-vitima-de-golpe-e-dois-sao-presos"
+  },
+  {
+   "titulo": "Grupo Zoe RH, de Itupeva, anuncia vaga para ajudante de produção - Olhar Itupeva",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3IxeXZ6Si0zYXYxZjJicWR0UU4xZ3MxZ3lTRk1taXpHUnI2Sk1FckJLTUd4Y3I3Ry1wYXJMUzRlYkFteFh6VVlPNEVsT2xTOGJfazZUZ0ZUaTFXWHFwVkpLY3lUdjh3RDFSSmM4Skt5Z3RtVGhDajVzVEd3M2hhY2tsSGdDeUxKQ3hiUWVCcDE2RWVabEpELV9xbW9EaTZRbExpREJ6WVdlczJ1b001dg?oc=5",
+   "fonte": "Olhar Itupeva",
+   "quando": 1794582175.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Olhar Itupeva"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "13/11 12:02",
+   "foto": "5d930704b30a.jpg",
+   "credito": "Foto: Olhar Itupeva",
+   "foto_tipo": "materia",
+   "foto_tamanho": "848x477",
+   "materia_url": "https://olharitupeva.com.br/noticia-detalhes/-grupo-zoe-rh-de-itupeva-anuncia-vaga-para-ajudante-de-produo-2483"
   },
   {
    "titulo": "“Eles vão quebrar o Brasil”: especialista critica pacote fiscal e prevê mais impostos para empresas - 4oito",
@@ -189,10 +233,10 @@
    "materia_url": "https://rnews.com.br/jundiai-vacinacao-e-40-servicos-gratuitos-sabado-14/"
   },
   {
-   "titulo": "Defesa Civil de SP emite alerta severo de chuva para capital e região metropolitana; veja onde - Terra",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSVRxMF9UYWM3N1g1Xzk0d2xPNGhLVEVZX01DcUlFY002WVF1OHJQd19EM1JPTnF4azRBVFJXWm9sOWwzTC1JdDBiVzFpZDdyNGN1QjNxZmlKZWVrcElqX1BFbVJJZmtha3czbXpMSWQ0SnZFZ0JKeE1hOWk1YTNNdjZzbjlJNDI1X2FmLVN6YXNqTjJiLW55RUxxT211YUdpMVZLRzlIWWF0X0VscGhENldSTmFSOWhlTWx2Z0Qtb3A3MndBTE05U0dPVjVhQmVoMG91SEFKaE83ODRoSU1UdTdZNmlGNmZLYk45bkg4bHVIRGpmLXpFMEJiUUw0dUZTRXRaSUFHRU5sV0JSVkxpWEJZM1ZPOXM?oc=5",
-   "fonte": "Terra",
-   "quando": 1794582780.0,
+   "titulo": "Chuva coloca parte da cidade de SP em estado de atenção para alagamentos - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUdGeF9nb3p4dlZNYTRvWVh6c0w4bXZpMWRPNzdWV0Z2T1FFT0RiT3B2VXFUamw1bGVKZl9Rd2xBUjlpYmp4azVmTlJQVnpDcVFqaVF1S3hETGNVYWVCSldMM1Rwb0RFb2xodTFUTGx4dGtjNGV3Q3k4R0V4YlRJSENXSmpoX0tRUktBa2g3aWhXZ3RDaU9LY25lZkJ6UQ?oc=5",
+   "fonte": "Estadão",
+   "quando": 1794585267.0,
    "categoria": "estado",
    "fontes": [
     "Estadão",
@@ -203,33 +247,315 @@
     "clima"
    ],
    "pontos": 6,
-   "hora": "13/11 12:13",
-   "foto": "c4c0539b3e70.jpg",
-   "credito": "Foto: Terra",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://www.terra.com.br/noticias/brasil/cidades/defesa-civil-de-sp-emite-alerta-severo-de-chuva-para-capital-e-regiao-metropolitana-veja-onde,44db02f96285fe5aefdd92f4aa6d30c6i7bbavb7.html"
-  },
-  {
-   "titulo": "Chuva coloca parte da cidade de SP em estado de atenção para alagamentos - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUdGeF9nb3p4dlZNYTRvWVh6c0w4bXZpMWRPNzdWV0Z2T1FFT0RiT3B2VXFUamw1bGVKZl9Rd2xBUjlpYmp4azVmTlJQVnpDcVFqaVF1S3hETGNVYWVCSldMM1Rwb0RFb2xodTFUTGx4dGtjNGV3Q3k4R0V4YlRJSENXSmpoX0tRUktBa2g3aWhXZ3RDaU9LY25lZkJ6UQ?oc=5",
-   "fonte": "Estadão",
-   "quando": 1794585267.0,
-   "categoria": "estado",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
    "hora": "13/11 12:54",
    "foto": "97accd83cca5.jpg",
    "credito": "Foto: Estadão",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
    "materia_url": "https://www.estadao.com.br/em-alta/sao-paulo/cidade-sao-paulo-estado-atencao-alagamentos-cge-npr/"
+  },
+  {
+   "titulo": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2 - G1",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSlgxNmI1c0pJN09ZT2U3Ujdzbm5FZld6RzJsVDhKdVNUR1NSNDhkNTlZLU5mNjgyNVd0ZDlSTlZQdng2NWU3LVFNdU9uVkwwXy05ZW92NTNOLW9oeHhzZmVfbjJYOXZzVGlzQjF6ZkNhSXg0SGtnd180YjM4VzBjUFNUYXVHRVBBeWxXaEQ5S2ZSbmJnSVVyTldoUTNhLW1EQ2stSzAyVi1FVWpKcmkxSi1BQ21ycGwwVExTQy11azJ3TVNDVDdYNWk4ckXSAdsBQVVfeXFMUHJTYVBnN1RickdXLXFBVWdQa1FGSzFUU0tWNlJHNVBDX1NKU3lhRl9iWGgya2p2WFV3Vm8tbGJqcU90OHFmZGZwaThaQk9VWTEyMU5kU3dyS240ZHAwbnVJcXNLS0FxS3Bsd1hRbUZzMDk2TzJhRUlkSWplUDM2MTVKREk3a0oxdWNya3RXTE9pN0doX0k0RmlfVmx4Z2dCMFpUdlBaVFJsUGZOaGFVelBKdmJkNlZ0SVJwWTFGRWFBWjdwbHY2MmxDSUZzdkZkckxPaTFxOHB5aGRZ?oc=5",
+   "fonte": "G1",
+   "quando": 1794588179.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 13:42",
+   "foto": "42eb3c23e2f4.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x897",
+   "materia_url": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml"
+  },
+  {
+   "titulo": "Conheça a indústria de produtos químicos destruída por incêndio em Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkthZEdRWC1tajRRTzJ2Q2VITHF4dFZBTkctN0k0eXU1Nmp5UVBqQVQ4NTV4NV9veHA0NkN5OUZibC00cUdrZDNmMXJpYTA3MlZkVUlwOWxidV9ZaXh0OEtZdmd0NC1wR0pnLW5vMko0c05TdTBkRVpPajBoS3d4MFZENFYyZDFoOHRUcXlncjJETkxRRHk5WWg1cGZaRklhVGF3NmlEaXR0RDMzRWp1SERhUWxINnNLdHlBaVJBUDJEVUFDVHlHYjNJWE9rSW5sYTZkNdIB4wFBVV95cUxPQUxLZ1ZReE9oa19qU2dyVER4OWxfTjhkbWVidWNBRE5HaUkwaTNOVDVlazRWX0xqRWVpaDNxRVZfQy1Cc1hXUE5ENWRmTk1OcnhpLTVfaWdmOGptMng0U1UwM2t5d3dvODRqekJNaUtabEx4ZjdWVFZVcGVXUTJqODQzekVpUjlsdmU4OVpRYVlIM3NKN1cwTjJnb094YVU0YndDNHRSTkhiWndvcVBjQmJZREd6NFRLYjU3NzlSSkl2RmRCUFpBREt1RHhTTHFmRTdsa0RzZ19yYUVJblJlLXpYVQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794588103.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:41",
+   "foto": "db930d9806c4.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/conheca-a-industria-de-produtos-quimicos-destruida-por-incendio-em-salto.ghtml"
+  },
+  {
+   "titulo": "Programa educativo do Corpo de Bombeiros atende 96 alunos da rede municipal de Vinhedo - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDBYLVFMV0szNXQzRzd5R1VxajFLX2U4c05zMjQ2aVJyQjZsMy1pdnBKUzZWbU5ERFNfZTFoanBMWFNMZm1ub0JqYmZhcWtEUEJRN3EzTkNmVmU3RlJWOVlMUW9rZ2E5N2RmWS0xZmN1el9zZEs1aThyQkZvV1J1REs4QnpEMVdlTU1pa2lPRG8wbl9vM243TkkwVjQ4QjdqclRvMnFDU2lvUFdEUjdzOWIxQUNRNks5a3RBdXY5SDVaVHc?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794587860.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:37",
+   "foto": "937fbcd56d5b.jpg",
+   "credito": "Imagem ilustrativa: Rodrigo.Argenton / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1744"
+  },
+  {
+   "titulo": "Vinhedo implanta Ecoponto para descarte gratuito de pneus - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVVTTXhwNUptdDBxVUhyMUIzRUtwMl9BWFIwNkY1aG1FYy01OWZXNTYtc1dCMW05b0kzcmwwY1RyQm53NjAzd21USVFLc013SjJKZG5QQzRXVDVBdFEzSlhIbFJFOXozbHFPLVJQdkJGWFJjWXhxT0hrQUhYMHpsME5QZDJNeHpzODlYeGNGOXFQR3V0em81VVROZTQ?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794587782.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:36",
+   "foto": "cdb102800e7a.jpg",
+   "credito": "Imagem ilustrativa: enioprado / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x896"
+  },
+  {
+   "titulo": "JJ: Sesc recebe oficina de cerâmica fria e vivência sobre maternidade - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUENTRVNON1FwcnBCd2R5b3RNR1gwdDExX1YxdkJkRFdmS2NURFFVRXFJRWxxUjNPdUdKYW1wVl9LaUt0aTFhMWNqNFhYR050VGZFUXltYTZsZWtUYmhpbG5GSUNzckhvalN4WjF4cDNBeWw2Z1llV21FaWh5VC1aSnRWWUJZamNKMU1PNE9na185QmQ0dENOT0dsaG9HbVU5TDBNdVpjRmRjcmpNRmZWbTlaY3QyLVhEamJGM0hydFdua3NFc2c?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794587570.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:32",
+   "foto": "6067aa8a6cff.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018491/cultura/2026/11/sesc-recebe-oficina-de-ceramica-fria-e-vivencia-sobre-maternidade"
+  },
+  {
+   "titulo": "Defesa Civil emite alerta severo de chuva para a Grande SP - SBT News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjcya2pCZl9tSGJtTFh3SFBlbEFCUC1hdFNZV0VydUpYVjRaVmRsQkJMMjdKcUl0cXNvWFJ1bERNYk9nTFlKcXBtbVhOamQxYnh6czBnVTU4UHdxWVVfUjYwRWJjckM3Ui1WWVRVZ3Q3YUpsZlRCLTI2Y2V0cUN5bFFnN3B1VXdkeTlFdHJSNEk4OUROb0pseG9MSnFUTzZZcmc?oc=5",
+   "fonte": "SBT News",
+   "quando": 1794587349.0,
+   "categoria": "estado",
+   "fontes": [
+    "SBT News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 13:29",
+   "foto": "8bcc36578a0a.jpg",
+   "credito": "Foto: SBT News",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "materia_url": "https://sbtnews.sbt.com.br/noticia/brasil/defesa-civil-emite-alerta-severo-de-chuva-para-a-grande-sp"
+  },
+  {
+   "titulo": "Vídeo mostra 'muralha' de fogo e fumaça após incêndio em fábrica de produtos químicos em Salto; veja - G1",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSEk2TG9pdmt6V200T2x0TUp6MERpWDY0SllsUlQ5MHF0ZWFwN1YzNmxrNXkwN2hFdXFSSTJqTTUtTG8yNkpNSjZmdzBxS0lmQnRYVEVYRnBocWNKb2xiS1p3R3RtNFhIYmtHMlpvTDJZMUFXNnZ4U21sT0tneVVwclcyYXFXelY3MURqYnpiUzd0UHR4eVhFNFFqMWU2RmVzUURuU0xPNTdJXzU4Nm5nak5ZeEJlcDBuRFc0aTZaNHBUYTF2N3F6T1VfNlNfcE1ZWjBXNE5vb0tLcUVsRU9IYXEwcks0R0dsRGNEVTNuQUZ2czBYVmfSAYQCQVVfeXFMT3JiMktlc2U4Ml9NdkZsUkx1cjBaTDljTlplSkhkcjlBQzNwTm83QmhBS2lOZXd4OUpPMHJBQk5FTEpMekhTeDZXTVMyY1lYbk5NYzZXMHRFbFQtUTRzVGFoT0h6YUd5aDRzeG13dDFEbW5vTzFFU1BRZ2V6ZkdTNFhjWmpNUk5oaXhiWWJIQXZPUkl6UnpOd3BLcURnN2ZjdzRHWTlFN1k3cnd0Q3k0S2dhT1V4RjV3M0w4YzAtbU1rNjZyNE1rSWgxX1Fod19Ta0lVbXZ0djlkMEhWSDdKMFI2Y0dZUzBNNTBqc0EzTlNMdmxkQ3hmVlpaa1BTTU1jZnVXMVU?oc=5",
+   "fonte": "G1",
+   "quando": 1794587331.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:28",
+   "foto": "5717153c4c38.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x700",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/video-mostra-muralha-de-fogo-e-fumaca-apos-incendio-em-fabrica-de-produtos-quimicos-em-salto-veja.ghtml"
+  },
+  {
+   "titulo": "Nunes diz que 'está todo mundo desconfortável' na Prefeitura de SP após denúncia de vice-prefeito - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORDk2VUw2NlNVamdnZ2dUUV9wOWVaVURHUDB4ZlNfQi1TT3g1b3NPdXFhZ0tadFMteDEyN1JiVTVzZmVXNVpCcVhNZXBWNUZaQTBQVE4zU3JIaU50dDBNYkQ3LTh2NG9CRzVfcU9mdU9EV2p4bHltWV9DY2k4bk0zZWUwZHJhTzlhR2JnRzZkSEtaY3BRQ0poYTQ2LWNqWWRjbXQ3NmRwc3hHY3R2c05GRU1rc2VRS1FuTjIxWWhnNE5rTnVFcnNraFFOeDNUeXFabnFvZjJocXdtTGtWMzJNWHdzdTI4OXd0cnfSAfgBQVVfeXFMUDNoWHdya0Z0MXNLX2Y3bmxYMkZtZW9Vai12a193UG9xTk1FMGhTb2daWkpXUkFBbzJ5NkxmUnl0ZExLOVdoWVlCUko3T0hrZzI5dFpDc0EyMmlXVEs4Mk1hbGtjbW1RSmhwckx2Vml0eG5kZmpsMWpubE40clRxS0VKZTRra29zMWV6U0xUVmQ1dzd1aU1jOEVORDJRTmEyXzFBVldWZ1BTV3ZFVnM4SDVtN0I3LWktaXJodHlHdlV2RThyVFRtR3BBbjBMYmt6VFJtMUQzZ3pNLVNyN20tcXJrWEdhbjlrRDVHNVIybkxlRzI5Zm8tWnE?oc=5",
+   "fonte": "G1",
+   "quando": 1794587009.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura"
+   ],
+   "pontos": 5,
+   "hora": "13/11 13:23",
+   "foto": "b7f35daa1191.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/nunes-diz-que-esta-todo-mundo-desconfortavel-na-prefeitura-de-sp-apos-denuncia-de-vice-prefeito.ghtml"
+  },
+  {
+   "titulo": "Palácio dos Bandeirantes recebe exposição de Francisco Rebolo e Gregório Gruber - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wVDBEXzBBNU9XbVAzaEJsOVdDNDMybmctTWhqa0ZUWXE0OFNPNzh1c3JzY2kzMFVEbE13dVhVVFpIX3hBNzBMMVhGWWkwakQtRFVNOGFOMVlWX2VocUxKNWZWNmhfZFFYUXVsaTliT2RMSldaNUVJ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794586800.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "13/11 13:20",
+   "foto": "bd99a6622f88.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x960",
+   "materia_url": "https://www.agenciasp.sp.gov.br/cultura/pb-recebe-exposicao-de-arte/"
+  },
+  {
+   "titulo": "Incêndio em fábrica de produtos químicos de Salto mobiliza socorristas de várias cidades da região - G1",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBvSS1JVHRvWVRsLWN3TE1jd0tTeXVoXzVXUmVKZEdwM3Z2SGVmcXdNendDc21aazlvRFJCNl9va2R0QWFzNzZXdmx5RnR0UWc3M01odjRUU29CSmhsOUhkNjZHbXZfLTFSTWN0WTJzNTFRZ0EtNFU2aHN0YlY1RGVVWGE5bnh4Nm9xdXNlTUlLWV9BSldSSDAwUHp1WW9yNFHSAbABQVVfeXFMUEJYbXJCT0NlWHdoaTVFZUxEM1JPQWctV1RJa3NHYkhNXzVuOXdKUVgtOV83S1dWaVBXc2U0RUFSbXV5SDQyZER0ODVuTFdvajd3QkRXTlZoWHo3TlpFZTVNdXgweDZBaTUxS0pXUkI4NzU0VjZ3UjJiSmRVZ0UzTG5hNE1FWHJrTkx5NHBsU2l1UUJfM2xrUG5LM250SWRvd0Jrcy1mUk42SzFNVXVtSzM?oc=5",
+   "fonte": "G1",
+   "quando": 1794586271.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:11",
+   "foto": "38e958c87a84.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/socorristas-incendio-fabrica-salto.ghtml"
+  },
+  {
+   "titulo": "JJ: Ladrões tinham como alvo motos estacionadas ao lado de shopping - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDV4WElmcXBiN0FPUC11RzFNdXQ4bTNOMnBVeHlWWlJRdG5qbHpvSGxLaW5ZZFRqYUpEdkRTMnVfaXpxMUFLRHhIX29ycEZKdm5mc21oNWw4eGFNME1WRlo1X1ZSMVY1dnEwNFFfOVRGTlFLaHpLbUZSWHlTM1ZueDhfbW1vR1hSbEVYRUhxSUt3dU1rZkxoeTIxcDRKZDM5VGNfYjRDcWIxNF8tTGpPVXJSTTFrS0Q5aXVkNXZDSnNJT1k?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794585965.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:06",
+   "foto": "95e4962924af.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018471/policia/2026/11/ladroes-tinham-como-alvo-motos-estacionadas-ao-lado-de-shopping"
+  },
+  {
+   "titulo": "Chuva forte coloca capital paulista em estado de atenção para alagamentos - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEsxeG8wdzF4Q1BOY0VWcXBqTXdCdHA5V25zbmtoc1dpa1REM3JoOWZjT1N1MTFvSjd3N2k4aDQ2Zl95TkctVHJEdGZNSFZlQlNDYzBPcjFfR3JtbE9XUFQtbHFYMTRON04xZVl5Y1g2NHp3Y21DU3g1SnIxYXA0YW82Q1JON256T1p3aDB1bHJwcHNvdEI2NlR3YXowX2dsMXpQSU8tb203YzJTRkdzbFQzQmR2MTBQVTljQjM5djE?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1794585940.0,
+   "categoria": "estado",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 13:05",
+   "foto": "15eb03f9c93b.jpg",
+   "credito": "Foto: CNN Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/chuva-forte-coloca-capital-paulista-em-estado-de-atencao-para-alagamentos/"
+  },
+  {
+   "titulo": "Corinthians pede reunião com MP para tentar impedir intervenção - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOby1aLWVzYjNPY0p4Q0FEMmJiSTl3alNsdkxqUDFydXdFaFFJU3BoYWwwa21hQWgwNTNobmxONnhJTy1Qb3ZTeXA5UGZrSU1hOXZhcV8yVUl1QmRqM2dmZlo0bzNTU1RxSUxEWER2UjFXTmZWMWpBR0VTVVBWNmkwdHFNYlhhdlQxOE1RWXFySGF0UWJYR1hoQkl4aHl1MmRFTDc1Y2RFVEpEbkdISlpj?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794585662.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 13:01",
+   "foto": "f61521d8bf3e.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1603",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/corinthians-pede-reuniao-com-mp-para-tentar-impedir-intervencao/"
+  },
+  {
+   "titulo": "Após ajuste fiscal, Kassab diz confiar em equipe econômica do governo Lula - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzBPcUVRdmNidTJ2ZU5EcXBLTHNlQWJSbVMxNVNHY1I2MkY4YmxseVNIV1JnenFaeWN3VjM3Vi02VDdOb3NHNHVkdWtZRUM4aE11U3plZ0RtdzgyQ0M0dHdsZjNmZ0hvaHJ5RkY0TGJOLTUySzJNUkc3RGpvdV90SnFjR2RsSzUyY2E4SERMVEFpZmtLN245Y1FRbFlUU1lZT2Z6a21Yd0lUeEpLWjZJ?oc=5",
+   "fonte": "Metrópoles",
+   "quando": 1794585600.0,
+   "categoria": "estado",
+   "fontes": [
+    "Metrópoles"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 13:00"
+  },
+  {
+   "titulo": "Flávio Bolsonaro critica reforma tributária e alerta para IVA de quase 30% no Brasil - MZ Notícia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0xzQVpja01iUk9LVHNJem5lcGJxVVUxZzBYLV9FZ2R4UGhmYWlRSmNJTTZTQmN2RlU0V2xrclh5eEN5N0cxcmhaQlJNakZiWFE4ZndaSHgzT0pWSE5DTmdfY21HVlcxM29PY2FDdFhxZTZxVHdmU1RSWGNlUE5Wd3k2dk1wZTlYdzRvT0NGbU14WHhyUGVzT05lVkdwRy1yNm1md0VzcWpqNmp1RWc?oc=5",
+   "fonte": "MZ Notícia",
+   "quando": 1794585545.0,
+   "categoria": "brasil",
+   "fontes": [
+    "MZ Notícia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 12:59"
+  },
+  {
+   "titulo": "Defesa Civil de SP emite alerta severo de chuva para capital e região metropolitana - Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFpSNEctS21hbkZWNGlGQnQ3dGFaTTAtMjROZ3h3b2lYbWkzaE9QX3dKc1ZFc1VZN1ZzbTlBOFBBMUljbVhIU0Y4ajJyeWp0VnBYRlJiWkVBSGpCMnNUYjRQcWZ1YVFyQzZ2a2gtM0k2N1NjcEh1cnVFMnZDNW9PTmVXTXlfQWZMNHkzQktLd1NVUHF3Y1NYUDdEbFV5RkstNTJTT2h2aTRQUmQ5dmNaSDZRRXZwa3R3UTZ0bExfYjdCUTZzajV0QzZLNUVISmg0MkgxdnlRUlYyZ28?oc=5",
+   "fonte": "Tribuna do Sertão",
+   "quando": 1794584700.0,
+   "categoria": "estado",
+   "fontes": [
+    "Tribuna do Sertão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 12:45"
   },
   {
    "titulo": "Chuva forte deixa São Paulo em estado de atenção para alagamentos - R7",
@@ -245,12 +571,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "13/11 12:43",
-   "foto": "6e3433ac31c7.jpg",
-   "credito": "Foto: R7",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://www.r7.com/sao-paulo/chuva-forte-deixa-sao-paulo-em-estado-de-atencao-para-alagamentos-13112026/"
+   "hora": "13/11 12:43"
   },
   {
    "titulo": "Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar - Jornal Z Norte",
@@ -266,12 +587,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "13/11 12:42",
-   "foto": "29fb1018c27e.jpg",
-   "credito": "Foto: Jornal Z Norte",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://jornalznorte.com.br/saude/vacina-contra-a-covid-19-faz-parte-do-calendario-basico-de-vacinacao-veja-quem-pode-se-imunizar"
+   "hora": "13/11 12:42"
   },
   {
    "titulo": "Festa da Uva já tem data marcada; veja quando será o evento - ACidade ON",
@@ -285,33 +601,23 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 12:37",
-   "foto": "1fc7cf0d57a2.jpg",
-   "credito": "Foto: ACidade ON",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "materia_url": "https://www.acidadeon.com/campinas/lazer-e-cultura/festa-da-uva-ja-tem-data-marcada-veja-quando-sera-o-evento/"
+   "hora": "13/11 12:37"
   },
   {
-   "titulo": "Governo de São Paulo prevê investimento recorde de R$ 44,7 bilhões no orçamento de 2027 - Região Noroeste",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzNYX2FFbFNkYkF4RTR3TG1ZSTR1RnRwb2tMRHZ5SHF4S0Z5a0NUd05vTmhSbDJISU5YbDQtcnVwUHpOcWN6TS1EY1VWdWpCZWVHTTRvb0hTVFZZbmF0bkNPczFXanZUUlhTYVpDdDRlbVhnbnluZW9pX3FkQmlqY21VS1hEdGdDT0lseFVubWM3OExaaE9Fel9ISmlteExLLWFvZ0hXSGtTYThjVnROb1h4bw?oc=5",
-   "fonte": "Região Noroeste",
-   "quando": 1794584100.0,
+   "titulo": "Apoio aéreo ajuda Polícia Civil de SP a prender dois suspeitos de envolvimento em roubos na capital - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYi1nSklQVTcxNER2ay00bmV6bTdFTlluNmRPOGJ6TGJuTk1WMFdhWk4zYW9jXzVVMVJabzlLYWZsQlNPSGRIM0JSWFFnYWNTRUpNbE8yYmpySjJNQmw0ajJCbjV3Q3o5UjVnUktkOUJLd3AyaXNzVEJnVHFLUzhWTUpkcm9POHg1NjNhSWVZX0dXU1I5eGh6eXdnV253YUFhbGVBNFpCaEhIY0xmb3Z4Qzdac0htRGhxWXlzWTdoc1RuNTZNdGxHRWd0NEx5WmNPSWpPSVNxUjNFRHhMMmdvU2Mwb2Y?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794584229.0,
    "categoria": "estado",
    "fontes": [
-    "Região Noroeste"
+    "agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "seguranca"
    ],
    "pontos": 5,
-   "hora": "13/11 12:35",
-   "foto": "484d412220f7.jpg",
-   "credito": "Foto: Região Noroeste",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://regiaonoroeste.com/governo-de-sao-paulo-preve-investimento-recorde-de-r-447-bilhoes-no-orcamento-de-2027/"
+   "hora": "13/11 12:37"
   },
   {
    "titulo": "Governo Federal zera Imposto de Importação de equipamentos para testar baterias e produzir biometano - Diário do Transporte",
@@ -327,12 +633,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 12:33",
-   "foto": "c23e02419a60.jpg",
-   "credito": "Foto: Diário do Transporte",
-   "foto_tipo": "materia",
-   "foto_tamanho": "739x415",
-   "materia_url": "https://diariodotransporte.com.br/2026/11/13/governo-federal-zera-imposto-de-importacao-de-equipamentos-para-testar-baterias-e-produzir-biometano/"
+   "hora": "13/11 12:33"
   },
   {
    "titulo": "OAB rejeita aumento de tributos do Governo Lula e Senado aprova texto-base do ajuste fiscal por 45 votos a 31 - Jornal Grande Bahia",
@@ -348,12 +649,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 12:20",
-   "foto": "2573845b8d30.jpg",
-   "credito": "Foto: Jornal Grande Bahia",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://jornalgrandebahia.com.br/2026/11/oab-rejeita-aumento-de-tributos-do-governo-lula-e-senado-aprova-texto-base-do-ajuste-fiscal-por-45-votos-a-31/"
+   "hora": "13/11 12:20"
   },
   {
    "titulo": "CACB critica pacote fiscal e cobra corte de gastos públicos - Tribuna Popular",
@@ -369,12 +665,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 12:18",
-   "foto": "a1151e796174.jpg",
-   "credito": "Foto: Tribuna Popular",
-   "foto_tipo": "materia",
-   "foto_tamanho": "768x512",
-   "materia_url": "https://tribunapopular.com.br/cacb-critica-pacote-fiscal-e-cobra-corte-de-gastos-publicos/"
+   "hora": "13/11 12:18"
   },
   {
    "titulo": "Incêndio atinge fábrica de produtos químicos em Salto - G1",
@@ -388,12 +679,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 12:14",
-   "foto": "4e71a2afd436.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/incendio-fabrica-salto.ghtml"
+   "hora": "13/11 12:14"
   },
   {
    "titulo": "Tradição de Jundiaí, Festa da Uva conquista prêmio nacional de sustentabilidade - Tribuna de Jundiaí",
@@ -407,12 +693,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 12:11",
-   "foto": "7e683895a04d.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/tradicao-de-jundiai-festa-da-uva-conquista-premio-nacional-de-sustentabilidade/"
+   "hora": "13/11 12:11"
   },
   {
    "titulo": "JJ: Quatro escolas de Jundiaí recebem circo, teatro, dança e música - sampi.net.br",
@@ -426,12 +707,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 12:10",
-   "foto": "7966caa2f898.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3018457/cultura/2026/11/quatro-escolas-de-jundiai-recebem-circo-teatro-danca-e-musica"
+   "hora": "13/11 12:10"
   },
   {
    "titulo": "Festa da Uva de Jundiaí conquista reconhecimento nacional no Prêmio Braztoa de Sustentabilidade 2026 - Prefeitura de Jundiaí",
@@ -445,12 +721,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 12:10",
-   "foto": "951db5b42759.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/13/festa-da-uva-de-jundiai-conquista-reconhecimento-nacional-no-premio-braztoa-de-sustentabilidade-2026/"
+   "hora": "13/11 12:10"
   },
   {
    "titulo": "Pneus importados de carros passam a pagar 30% de imposto e podem pesar mais na troca - garagem 360",
@@ -469,6 +740,22 @@
    "hora": "13/11 12:08"
   },
   {
+   "titulo": "Defesa Civil de SP emite alerta severo de chuva para capital e região metropolitana; veja onde - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNGl4RGFoSG5GNjJRcEZ0ZnRCaEUtb1JDd0VkZ1NGVmRZczdKVklnNzcyWTFuY1U0V25zQ2JOM1hOM21uODBDcFo4ZGktQXljNTBKamx2T0hpVWVwbnBxUER6dWk2U1V2ZUx0eHl4d3liM2xaX1ItOUxXVVc4eEpLakFKTDdmQVB0bW45NnBYdmhiWmdURmdWb1psRHN3eHE2WnZYU2o2VnFYcVhScVA5d3I0Vl9ybjBsZWJGeDRCMmp2T2pKaU5VYndvY3JzdjhlNlljOTdB0gHWAUFVX3lxTFA0aXhEYWhIbkY2MlFwRnRmdEJoRS1vUkN3RWRnU0ZWZFlzN0pWSWc3NzJZMW5jVTRXbnNDYk4zWE4zbW44MENwWjhkaS1BeWM1MEpqbHZPSGlVZXBucHFQRHp1aTZTVXZlTHR4eXh3eWIzbFpfUi05TFdVVzh4SktqQUpMN2ZBUHRtbjk2cFh2aGJaZ1RGZ1ZvWmxEc3d4cTZadlhTajZWcVhxWFJxUDl3cjRWX3JuMGxlYkZ4NEIyanZPakppTlVid29jcnN2OGU2WWM5N0E?oc=5",
+   "fonte": "Estadão",
+   "quando": 1794582180.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "13/11 12:03"
+  },
+  {
    "titulo": "Ana Elisa critica ajuste fiscal do governo Lula aprovado no Senado - www.correiodamanha.com.br",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemVSbF94QUZhVENSZ0h5elVuS1ZOVkdwZWdSbEFWbmlwMTJCVEpnLUg1NEJKQXpwaF8zdVdSTDFSZ29IVmNGX2ROQVhRbzExVjJkeUJLNzAwc2NZQ2hnQTBDR3d0NnFQZExpdDhzazkzUzJlWm5QY3VpblMxSWdCb3I2M1p2Ym5BSUp0bUdNTWNPUW9OU3BEeXB1QXNLWUNVZWV3azJJSTRZVkQwN1RkN2lmdnhzZTZEcmEyQWx0STYzNDFCVlR2Wl9EUW5XdEpRZlE?oc=5",
    "fonte": "www.correiodamanha.com.br",
@@ -482,11 +769,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "13/11 12:03",
-   "foto": "6aa96f60008d.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "hora": "13/11 12:03"
   },
   {
    "titulo": "Tolerância para pagamento de pedágio free flow termina e motorista pode ser multado em R$ 195 - Gazeta do Povo",
@@ -502,12 +785,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "13/11 11:59",
-   "foto": "bce8386d80d6.jpg",
-   "credito": "Foto: Gazeta do Povo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://www.gazetadopovo.com.br/brasil/pedagio-free-flow-volta-multa-motorista/"
+   "hora": "13/11 11:59"
   },
   {
    "titulo": "Erika Hilton contesta decisão de Flávio Dino sobre fim da escala 6x1 - Congresso em Foco",
@@ -554,6 +832,22 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "13/11 11:48"
+  },
+  {
+   "titulo": "Ex-assessor de Mario Frias é alvo da PF em operação sobre 'Dark Horse' - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnBaQ3pfNHh0REt5ekE3SXN6TkJTUHlqNDIzYm5fZC1LV0JudUNRc2t3c3dveGJjSTNlcWh2NURhWXVjV01HSXNTX3UwbkVKZUdCbmxVUjBRLVNsOUJUYzg5VTdFUGdfT0pzUHhJbUVXajA0VGMycnB1enJmSXI2MEltSWJWT011YS1oUnBrVmNxcDFlLUZKX0F6cDJHRm5Ba3ZQRnZzSmZaX1dZMUNCbWhSc3RFMkwxX0x3dzVLMnlmWTAwbVVQLVZORUltU2tvbjNTRFA5NWE?oc=5",
+   "fonte": "UOL Notícias",
+   "quando": 1794581093.0,
+   "categoria": "brasil",
+   "fontes": [
+    "UOL Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "13/11 11:44"
   },
   {
    "titulo": "SindiTabaco alerta que Imposto Seletivo pode ampliar mercado ilegal de cigarros - Правда.Ру",
@@ -632,20 +926,6 @@
    "hora": "13/11 11:31"
   },
   {
-   "titulo": "VÍDEO: incêndio atinge fábrica de produtos químicos em Salto - G1",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVBWZjRjb3Btb3Y0VFVERWFfcHBqS0dxc0xUdWZhOVVXekQwYUZORDRfcm5PbFZKQjBGeUk4X2xYd3F5Z2FfV0hMOENZRkREWXc4d042eGJ6UmMxa01hak9jQ1VUMkxCSHJIZ0s4azk2UVl1X1NmaVk0NUs0YjdoUGYyT1dkN0dmWU51Qll3MnpfQdIBoAFBVV95cUxNSEJsT3I2X2JWbU9tV085VWx0MGg4LXRfbEhZRGhVdDVlVFpyazBZUVV5aFYyekFGaTZaS0IwWExlV3JEY0Itdy1DSDUxQnpxYWZfNGcwem1sdzdZLW9ocW1qVnJ3QlB5U0E3VXNQazJZN3M5S2tZU1NJVm4xdzBaQ2hXbzljVWo4MHpDNGIyaHg5SmxIVkhZd0xpOWRMRnV1?oc=5",
-   "fonte": "G1",
-   "quando": 1794579924.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 11:25"
-  },
-  {
    "titulo": "Alerta: Chuva extrema de mais de 200 mm ameaça dois estados na próxima semana - www.bra1.com.br",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDJLUkpiU3BKZ2FRb0JrXzh6VFN2TEluWmtqTG1KZUdoN1ZKVjVRU3RoSVZuM0dvbVBDSnFhamNESGF4aUhFSUVxbE4wdUJEcDVBUG9PTGRWS0NXU3JrczRaOFdEcUJ6c1NzYkhkMHJsYy0tUlpXeGltbnN6UGpzV0dWeXA0bVVDb3lhaXJWd3RCSzFoYV93V0ExZ0Z1YXZ0NVhDbWtQTzdSX1paNFhhT2xsQ1k1aGhU?oc=5",
    "fonte": "www.bra1.com.br",
@@ -660,20 +940,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 11:14"
-  },
-  {
-   "titulo": "Jundiaí terá mutirão para tapar cerca de 400 buracos nas ruas neste sábado (14) - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0NGUF95clZHODVXalB5dmJFZFBsTHNPVGwtLXh5OGpfTVMzblQ3MF9KeVl4NENDdVZrR0VaNWNReTVkVUIwRk4zeWVmRU9KS3piRmlKM1huWU5ramIyNFFzejBobTB0aVppUlBuUU81NzktYnEtTERYU0V5N29OUVd0TnAxZVB6bG9JS1otNmpSejlwQV9TMjJYWXhncHptS2lIUGVjMTdsMDlxeDBUMm96TXRCaXl6OU9FeXM4ZmVLa3BH?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794579171.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 11:12"
   },
   {
    "titulo": "Postes: Câmara aprova mudanças e devolve decisão ao Senado - TeleSíntese",
@@ -708,162 +974,18 @@
    "hora": "13/11 10:55"
   },
   {
-   "titulo": "Produção artesanal de carnes curadas e defumadas ganha espaço e impulsiona negócios - G1",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMW1CT2ljTDRiWGxjaG5tX1A2djQ5bjlCaW1oYlhaZkJmanhpT1RYNGN0dXRnQ2Z3bnlpdno3UW93ZTVNQVoyZU83UkVCZFdLeURyVTRvM2VncVp6a2VvTDdraTRGaDhvdzlKckFSODBFRkpjS0o3VFlXNEh3US1HdDR2Mm1IRkNDTVQtWXBGQjdaZlFYblpVaFBoZVJ0WWwySFF1em9OM0dFUFhweDdtYnFFckdJNGtmTWI5TkVQOTF5aVdhb3E5MTdvaEFtVC1qRGFJR3A0d0Z0R1lXQzR3ak9IdmtqTFpsb2N3QzU1a1gyNEI2Sm02UnNMZjRtb0Ux0gGPAkFVX3lxTE1VajF3cmhzUmJNWXVEZzRkM3BIVnhUVW5rQzQ2eFZwR21iWnFWNmRuaGplOTRxTHdRMTVERjBrbzMyZUludUFxcTdwV2JmRFdVM3h3UTNQdUdEaTJlLUFlY01vRzU1dHJnMHdfS1A0TjRhaFR4S0hqOEJydzFobHUydHJ3U0VhVU1aSFpRS1RvM1FWTkg1NHFpU3BfYUVCcExFcm40SlFlbDhESnladXlZSWhhOWtRR0czbDhtX3hKcVdNWXdSZnpEVjNKaHBEUWF5a3hPSFBpZ3VPZF9lZE5LcGJXcE9EZlEwbzJ0RW1Hc3NMaWtjV3NGMjlxN2ZuX2x4dnNHTFNobGtDTEoyQ3c?oc=5",
-   "fonte": "G1",
-   "quando": 1794577924.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 10:52"
-  },
-  {
-   "titulo": "Precisa de atendimento? Jundiaí reúne mais de 40 serviços em um só lugar neste sábado (14) - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGRHSDRjWEFqejlyMmhzbUFsOXIyWU1wWVhtQV9SUmZadHM2U05TQVByYzVuV3RGZTNGSFJXLWI3YnFYMzJuMFRyTGlnNEJtaUZTS1RhTEl0M1RPa285MWxqcF9LTk0xaVdOUl94T3BTTUduWG9WVV9xV2IxZTVhcmdhN2RoVGFWOUdFQk5kVHJLM3Z1MlNPU1ln?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794577796.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 10:49"
-  },
-  {
-   "titulo": "Pneu importado vai ficar mais caro? Governo aumenta imposto de 16% para 30% - Quatro Rodas",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTdXSzF1aEM1UTlmQS1hM3E4OHJ6WTM1cHJSX2FtS1ZLRVBFRWMtejBRaFlsMUg4Sy1TTEIzVW9hTXg1V0tRaHNQQm5iUy1FeFlJdHdoRk5NVEo4THBBVHFBSklpWDllV2c0SjRXd25RRTNSLUdDeHNrWFJqSTlQcVBqZWl0Nnd0bzJET0lSdFM1d2JnbXc?oc=5",
-   "fonte": "Quatro Rodas",
-   "quando": 1794577200.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Quatro Rodas"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 10:40"
-  },
-  {
-   "titulo": "E.M. Cláudio Gomes realiza 1ª Feira de Empreendedorismo em parceria com o Sebrae - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEpObDdDdndrSERtNFYtRDFTa1V6emtJZHVqNVdSTHA3Ni1DR1pqcGZ1OG1EdEFWUzY4UlNwS0hodkpUeXZIMnYxUjBEVVZ2Q2hObXhmbVNFZTlEcWE4SWNSM3RQcVFHc25OWU9OeDdXSk5UQzZCUlVNZEdReENEQW1BdDFISTA4Zk1qc1lNa1ZZYUswSWFxa01DWWRia1k1ME8wNVZXSzFQUnJQb1dNUzhlc2NxaW03anc?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794577087.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal VV8"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 10:38"
-  },
-  {
-   "titulo": "Lideranças evangélicas defendem diálogo com governo Lula - Repórter Ceará",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXRVVGVGV3pHTjZ5YmtUaXVMTlRQYWJScFhRV1kwdjdBX2JfQTA0d2FXbGZwYnd4eC1EZDhrdmgwaXpneXUxRUdwYkMxLTFJd1ZWQU9ad2tFYkZ0cG9WaG5jeHpFNi0xR3hBV3BlWHV4dWVpSHhvWmZwczhoRjRHYk5yZkR0X0d1MzRUcVZGYWNWWlFxbDc1X0JoLUNLd9IBngFBVV95cUxPTXRVVGVGV3pHTjZ5YmtUaXVMTlRQYWJScFhRV1kwdjdBX2JfQTA0d2FXbGZwYnd4eC1EZDhrdmgwaXpneXUxRUdwYkMxLTFJd1ZWQU9ad2tFYkZ0cG9WaG5jeHpFNi0xR3hBV3BlWHV4dWVpSHhvWmZwczhoRjRHYk5yZkR0X0d1MzRUcVZGYWNWWlFxbDc1X0JoLUNLdw?oc=5",
-   "fonte": "Repórter Ceará",
-   "quando": 1794577000.0,
+   "titulo": "Governo de SP mobiliza 60 bombeiros e 22 viaturas no combate a incêndio em fábrica de produtos químicos em Salto - BOM DIA SOROCABA",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTJfWnliNzVpOHBoRnRzVDlrOXhFMU1LYkJuRFZwRUl1aUg2XzEzRHZiMmRGRTZnN3g4MDBFZXRMSjRyQ2U4R2VFc1RwbVpKRFpaUXhTcmxUNmJVMkkyeTJFOVdmb2FQenRBbHBXelFuNDNwU3hFbGFMSmN4ZTNFckY0UG1wdzVtN0xodEJrYUNQVTFtYXNaS3lZc0sxSHpielVMSFNoQ3d0TGJGQWJTVk5GeE5XbzZZZGRaeG0xTzVWSENmNXVlSmhOaWlpd193bzZPdGFDS0V2ZXl0RDRjeGFLWGwxaXVkZlEzSXR3?oc=5",
+   "fonte": "BOM DIA SOROCABA",
+   "quando": 1794587940.0,
    "categoria": "estado",
    "fontes": [
-    "Repórter Ceará"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 10:36"
-  },
-  {
-   "titulo": "Feirão Casa Paulista: R$ 2,1 milhões são liberados para apoiar famílias na compra do primeiro imóvel nas regiões de Campinas e Araçatuba - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdnBpMWIzLUtPNjFaVlR6cVZob3Iwb1lGUDB0U0pxX1ZmSW9aSzhwR2s2d0I2bTF1V1lGOV9ad0ZnRm9rNUZIMmlsUzQtR1E1WXNFYUYwaHRWN0h4anJmU3JDbmJlX21IalJlV2lOaFdwbTlTM1QyUXNfM25vUEx0VllRbjJ3TjJpaWFMNEtLUUZBRURiWVBmT0tWd0kyT19BUnVGdUNtV3NiUU9McHU0TWFBUlhKVjhSVm9tcUwtSlA4bHNVSDVncWc0dXNkbzVDSFpHWmhQc29HdUZKYTZvVDRFVlc5MjV0cUdMWFdYOVU1UkI5dXFScjgxZE9USTE4Z0NQdmM3eUpENmE0SWZJ?oc=5",
-   "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1794585357.0,
-   "categoria": "estado",
-   "fontes": [
-    "www.agenciasp.sp.gov.br"
+    "BOM DIA SOROCABA"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "13/11 12:55"
-  },
-  {
-   "titulo": "Prefeitura lança Bonde São Paulo, primeiro Veículo Leve Elétrico (VLE) da cidade - Prefeitura de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYV9URmxZanJpTFU5YnFKYWRZZEt4WFl0eDBBQkp1c01LcVc4Qk9DcUhqU3dabzNDeEZzb3pmMDV4bjJzcXhtYURTVS1UVjRqR1c3akNGdHk4R2FZUWQyUjJmQWdvYjAxRUY1ZjgxUzB1THM1cUxlRDBUcnh5eWp1SkZGMFQ2dy1TX3FFc1lybWktcHNSN0NCTjBGMEZUWVhwSExmUTN1QjNwWklwS09nQlEtdE8yeGNhdVc5eGpsbm8yeE43ZFdNYzNVdjhIOURPRHhVRHJ5VF9Ga0VrQS1DNlEtSmhWaDZBbzVmXw?oc=5",
-   "fonte": "Prefeitura de São Paulo",
-   "quando": 1794584852.0,
-   "categoria": "estado",
-   "fontes": [
-    "Prefeitura de São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 12:47"
-  },
-  {
-   "titulo": "SP entra em estado de atenção para alagamento; Defesa Civil emite alerta - uol.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXdBRTBZeG1iNG1Vd3JLSl9GNlhVTkp6Z2U4VEV1RDljaEhEZ04zMGppRGhfeGdtVHh5cHAzUjRyN0I5eVBZWkF0RFpxWE9GeHlzRktVVGNhSGtXZXYwNmtPOXg0dGdtY01vaFhzcVBTZ2ZvckVLdFVGS0R6aUZZakx3UUdQYThqVTFoYjYyalg4LXlfa3hKam5MZkNVRVpfM2lIckFwZ25Obmc?oc=5",
-   "fonte": "uol.com.br",
-   "quando": 1794584043.0,
-   "categoria": "estado",
-   "fontes": [
-    "uol.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 12:34"
-  },
-  {
-   "titulo": "Vargem Grande Paulista conquista Selo Bronze em premiação estadual de boas práticas em HIV/Aids - Prefeitura de Vargem Grande Paulista",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEM2cmZWeVFtS2lBdW1uUzgyVFRLWW91RzlJWkdteXVqSUJTT2tsNWZQeE5HUG9yS01pNmdSRk1vbXltVEhxTThPS0g3SW5SSGJ2cDgxejR3WGZzS2Q0dFZyenJTMm8yUHVxZEpBdHlCbjN5Y0RSVTZBNjN2YmVUdzdIMF8zZnpabVh4WHlwMGJ0czNmaDVERE8weGJrbHNfX2llUGJKSW42NkFlQkV4SHZLdk5uZzE1eGRGMXdUazdOOFNNenVYcU9zUHpjOU9LTVdiOWRLNWFkMjhhTUVN?oc=5",
-   "fonte": "Prefeitura de Vargem Grande Paulista",
-   "quando": 1794583680.0,
-   "categoria": "estado",
-   "fontes": [
-    "Prefeitura de Vargem Grande Paulista"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 12:28"
-  },
-  {
-   "titulo": "Dia Nacional da Alfabetização: programa da Fundação CASA supera meta de aprendizagem em 2026 e ajuda adolescente a aprender a ler e escrever - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWWtzNnpSbnJVZWZXVmF0UW96YTdneDF6MGE5YzlDMExOS3IzZlZnNDE1cEVTeV9HMFZ5Q1lBSmFiSnlzUzA3aUlWVlhuNXdjUDFtWG1KcTFtMXRKek1SQ0hJc240bHF6ZFBHRURDekkyV0k1dUVHVEI3UE9aNHV6cjZGSUZTRXVnZTNLbjBaNWlTUVZZMnRNWlJrOEFzdWo2UUlkZ19fSTh6TXlNZ0g4VWVtYkFQU2NaVEtHNlpoYjUtUUFUbG1McU1mM1ZzZnhmeWtWaEJEbVZOM29VZjdRNlNNMll1VTVLRmN2UUdiaHE1VmN0VnJ5Z1Q5WE9ldkUtYXhyUWF6bmF6YmZZak80WlJrOTJxUUVCcWFZWm5Hbw?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794583500.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 12:25"
-  },
-  {
-   "titulo": "Defesa Civil emite alerta severo para ventos e raios na capital e Grande SP - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1NLblRKRXFBdnNjdHcydWFfTkF0OXpfWDgxanNVMjFFd2xWU3QzMDd6WkwxdHBaUVNzVWI5ZzFXNlFWU29xNkhoalZoWWpYckZDSDVZTXFtSW1PQVA4ZHZvZXkyVlRQQXctYnlFVW9FdG53czhkVjBjUVBQcEV4alVaSm1xVUFGTkpHVWJZX0dDTG9aeXhmQm00VkhKeGZvdkZ5UlFtNVFpUm9RMDBkb3A5ZzdXNGxYSzdaQnRtV1JEWGM?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1794582366.0,
-   "categoria": "estado",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 12:06"
+   "hora": "13/11 13:39"
   }
  ]
 }
