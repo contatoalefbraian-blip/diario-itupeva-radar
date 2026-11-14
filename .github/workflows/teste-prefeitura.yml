@@ -1,0 +1,40 @@
+name: teste-prefeitura
+# Teste manual, so leitura: abre o site da Prefeitura de Itupeva e mostra como as noticias estao organizadas.
+# Nao grava nada no repositorio e nao publica nada.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  ler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: ler paginas
+        run: |
+          python3 - <<'PY'
+          import re, urllib.request
+          UA = {"User-Agent": "Mozilla/5.0 (radar Diario de Itupeva)"}
+          for url in ["https://www.itupeva.sp.gov.br/noticias",
+                      "https://www.itupeva.sp.gov.br/feed",
+                      "https://www.itupeva.sp.gov.br/rss",
+                      "https://imprensaoficialmunicipal.com.br/itupeva"]:
+              print("\n=====", url)
+              try:
+                  r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30)
+                  html = r.read().decode("utf-8", "replace")
+                  print("status", r.status, "| tipo", r.headers.get("Content-Type"), "| tamanho", len(html))
+              except Exception as e:
+                  print("ERRO", e); continue
+              for m in re.findall(r'<link[^>]+(?:rss|atom)[^>]*>', html, re.I)[:5]:
+                  print("FEED:", m)
+              links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', html, re.S | re.I)
+              vistos = 0
+              for href, txt in links:
+                  t = re.sub(r"<[^>]+>|\s+", " ", txt).strip()
+                  if ("noticia" in href.lower() or len(t) > 40) and vistos < 25:
+                      print("-", t[:110], "|", href[:140]); vistos += 1
+              for d in re.findall(r'\b\d{2}/\d{2}/\d{4}\b', html)[:10]:
+                  print("data:", d)
+              print("TRECHO:", re.sub(r"\s+", " ", html[:1500]))
+          PY
