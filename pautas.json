@@ -1,5 +1,5 @@
 {
- "gerado": "14/11/2026 18:09",
+ "gerado": "14/11/2026 18:50",
  "desde": "14/11/2026 16:35",
  "pautas": [
   {
@@ -24,6 +24,27 @@
    "materia_url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-organiza-operacao-para-buscar-convocados-da-data-fifa/"
   },
   {
+   "titulo": "5ª edição do Prefeitura na Área leva serviços, oportunidades de emprego e saúde aos moradores do Santa Gertrudes - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdVJTajMxb2gxaUQzaHpnaVlhNWw2Sk5RdTdQNlM5a1dOdjdoN0EzNEdqRXpabE8yVTlxODhWM2FvR1M4UVRfSmNpUjZ2N25sY0NuUklLNEFvOHNHNlN6UXlnLUNGcUhyZlpFMUVOTjE4VVZzN1IxVmZmd0tFdWFicEdqblNzSEtSa21zbUUwSVptZWJ4azQ0YUNFdHQ0UVp1TXdRM3lMODFfRkNvLWxwamNpTjdYTjdyX1haRXJxOW9TdUcxaTVhRWV0c2QxNDExUzZMMFhOcUktNXE2SGhYUXpkTFdYMFdCMUZVVVotbw?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794688140.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "14/11 17:29",
+   "foto": "822203d7f49a.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/14/5a-edicao-do-prefeitura-na-area-leva-servicos-oportunidades-de-emprego-e-saude-aos-moradores-do-santa-gertrudes/"
+  },
+  {
    "titulo": "Desgaste com voz faz Lula cancelar declarações nas Filipinas - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFdTU0FoLWNIWUFqSjY3UXZXWXBUNldsTVIxYlkyM3J5cTZHRDVfMnhaZ3pSWTJWdmFOcTlCSUR2QnNKSzFlUnRMLW9MbHI0YTlNMFN4N0d3cVd6XzNNMlpuZFRlYVQ5UElnd0dQejNKVTlrSHJOVVpKQ0VYWDBsR0xGMi1ySlVMOUpuT0xiMEdITE52?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -45,27 +66,6 @@
    "materia_url": "https://jr.jor.br/2026/11/14/desgaste-com-voz-faz-lula-cancelar-declaracoes-nas-filipinas/"
   },
   {
-   "titulo": "5ª edição do Prefeitura na Área leva serviços, oportunidades de emprego e saúde aos moradores do Santa Gertrudes - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdVJTajMxb2gxaUQzaHpnaVlhNWw2Sk5RdTdQNlM5a1dOdjdoN0EzNEdqRXpabE8yVTlxODhWM2FvR1M4UVRfSmNpUjZ2N25sY0NuUklLNEFvOHNHNlN6UXlnLUNGcUhyZlpFMUVOTjE4VVZzN1IxVmZmd0tFdWFicEdqblNzSEtSa21zbUUwSVptZWJ4azQ0YUNFdHQ0UVp1TXdRM3lMODFfRkNvLWxwamNpTjdYTjdyX1haRXJxOW9TdUcxaTVhRWV0c2QxNDExUzZMMFhOcUktNXE2SGhYUXpkTFdYMFdCMUZVVVotbw?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794688140.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "14/11 17:29",
-   "foto": "822203d7f49a.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/14/5a-edicao-do-prefeitura-na-area-leva-servicos-oportunidades-de-emprego-e-saude-aos-moradores-do-santa-gertrudes/"
-  },
-  {
    "titulo": "Governo abre consulta pública sobre calor extremo; saiba como participar - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUpDTktSd212d2xqX09iOEZnM0RKTmVXNEhZTTdsVXhTN25ZOW81YVlfNXdGU09EVnNMeUZsQVR4RmJaam01SDRJeUtpVndMR056Tnl6M2JBQXpOUUkwaFh5bmRlUnlXLThSQTVORWp0ZlZlSkx2N3p6bkk2ZFBFZHdseXBJdlFWTFUzMS0yZHFzTWJGbGtJQkZlbXdBczFnRHdr?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -85,6 +85,86 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/politica/governo-consulta-publica-calor-extremo-brasil-participativo/"
+  },
+  {
+   "titulo": "Briga familiar termina com casa em chamas e prisão de procurado pela Justiça em Sorocaba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWkhLYWI3UmpzZ3B6QVJDMTBIWUlxNE54TVU2UkpYZ1dqT0pST1dnNWE3TDB4dVJzM1NrYnVDaWoydGx4OWQ0WDlRRERHajN3STc0R2tidkNHbWdxZ2JLVHk4dFV4aWotMnRrMTN4WEZIT1F6c190bElrNzAwNXB3bnVtb2pfRXRHOUlmM2lzc2lhWUVoSGRTSzJsSDZJLW8tZkQybkRhMkRhLXBNSDFaamh5dlFScl95YzZuV2MyZGx1SWtvSWRQMW02X1l3ZGRpS0ZCUVJQZ0g1dzk5U241UktaTHVXbllua0HSAfgBQVVfeXFMTW01QmtmVTVINDN1MlYyclZlcnZiZkR5YXlRdGJpZ0VPb21OTllKNWFLenFudFpDdEFLWThBMDNZLThnWXpwZWFpWC1HZDFsRnUwUTQxUkMxWXlWb3k0Mm50a0ExUFBqeFduRnpsVFZrTGtUM3RMd1k0VFFqOW01V19DQVdaUG9YaXlkNGZjSWRXdE9QUWtnZUdNaFZCUDRPWG9IX1RNUEN2TFRGWmtNYTM5NjR0ZXNCdGtFWWNtQ3hFbHJadUJXYUgtOUg0ZzlUdllmWGFxa1RGTVhOY1QtcnVZUXgwbzE1YnFLN2p2Y25ZZ0ktbGotbEw?oc=5",
+   "fonte": "G1",
+   "quando": 1794686395.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "14/11 16:59",
+   "foto": "31c2c5040dee.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/briga-familiar-termina-com-casa-em-chamas-e-prisao-de-procurado-pela-justica-em-sorocaba.ghtml"
+  },
+  {
+   "titulo": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF - G1",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRG5BZEdSaW5HWXRabDl4MDNTVk1obzlqQndCc3oyS2lfaFpOYjVmVHhXZ1daR3JTX05WRzZpb3ViVWhMSW9XNjRWUWt4NTZRTGxNdHZXMm9QTFM3UzBQUjlvRHZiQ2g5bnozc0oxc2JGbjBjaTVYbmJUTHl5M3NRZTE0QW1haUhBZ25JTWdvbktwTUU0ellsZ045aXRJVDNGaXR1eDFfbU8zTmxaTjhWeDMwUnpiTXhwVnozSFc3Z2ZaY0NDWkNHVTBmRWFNTjZueDRYM0tlVDZISDFp0gHrAUFVX3lxTE9PR0hzRkNGeUwwYTl4U0ltSTBZU2FMVWxxZ3V3OXpUaXBoMTJhN2VHWkVFTFNWSHdtREprTU1Fa0txbmQtSU5zTVBEZVYzT0l5WW1CZG5QbXRTXzJkRDhNQnZLZEU1eWhjWGU3enRhRWRpbUZmOUNnbUw5YUVId3hRYUQ2OUNKek9jckJmYnFpT2lqX1lNbUdMZlFMTlB1MnY5U204dmVCR0JyQTFIU2dHUllDaV8taEI3QlFObGJIeGF6bHNuMmQ2emVOTDl0ZHdsRU00US1Lc05uLUgzcDllZ1BaQ2RkLVFZNGs?oc=5",
+   "fonte": "G1",
+   "quando": 1794686135.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "14/11 16:55",
+   "foto": "5ba766b5f5c6.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "materia_url": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml"
+  },
+  {
+   "titulo": "Novorizontino é campeão da Série B 2026 - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDg1VjNrdko3YUhlNm5rTVhVQUJnZWFrTDA1S0dIZ2tVUzM5RmJlaWE5ZmNGLVV5SkUzWUxGWnV4Z0NCaUk0MUFDQU4wakdkdzJqQ1JxT1pCaldWaEJRMU9xeVZMX3M3OHFPMGFpdDJMU1JVaDFQWnlJNE9KbHYtZThRWi1SSVZEY3lldC1YMA?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794692431.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 18:40",
+   "foto": "d734804026d7.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/novorizontino-e-campeao-da-serie-b-2026/"
+  },
+  {
+   "titulo": "Seu débito, governador: uma carta aberta a Tarcísio de Freitas - Nexo Jornal",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1ZtVXFPZ0xXR2FhZll0dmYxVmhFUnRhQ0tTSWxyZkhhcGxmWVI0WFNTUy1WQ3Fja3JDTG1JWTVSR19WMFF6UjdGcFN2eHc0U0lvNGZFcnYwM3V0S0R6dVB4dkpPTDVuMVFaOU9DaVVlMF94UGN0WjJJOXhmaGVZZXdCVm5JT19rTUk1enh2NXRkNWtXZXBfMGxuT1BsSEZsNThpSjA5b0hOOEk?oc=5",
+   "fonte": "Nexo Jornal",
+   "quando": 1794691134.0,
+   "categoria": "estado",
+   "fontes": [
+    "Nexo Jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 18:18",
+   "foto": "4e7fda561ad9.jpg",
+   "credito": "Foto: Nexo Jornal",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "materia_url": "https://www.nexojornal.com.br/ensaio/2026/11/14/tarcisio-de-freitas-secretarios-seguranca-governo-sao-paulo"
   },
   {
    "titulo": "Governo Lula acelera articulação para aprovar últimas propostas da reforma tributária - Portal do Zacarias",
@@ -145,27 +225,6 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x801",
    "materia_url": "https://www.plantaobrasil.net/noticias/163579-governo-lula-blinda-direitos-sociais-e-mira-privilegios-em-novo-ajuste-fiscal"
-  },
-  {
-   "titulo": "Deputados do PT defendem ajuste fiscal com criação e aumento de impostos - Blog do BG",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmJ2d3NCd3RSa2NJd01XTFZDU1ZiaTNCNGpPZ3FUSi02RDg1ZFZTbFY5V1dkZDRZNWg4elh4R2RHa0RsbzBDWUN2ZHdieU5RMGlFWll3SjJPb1c1R1F0Y09yVUxILVlzeGt5aWdGdGxPUjlpVTB5TzdXV3ZRZTBibFZpbVBQckgzeGY1ZDRWTl9qQ0NsTTBMampfLWF0Z2NVSDZZ?oc=5",
-   "fonte": "Blog do BG",
-   "quando": 1794687977.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Blog do BG"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 17:26",
-   "foto": "73eface9610b.jpg",
-   "credito": "Foto: Blog do BG",
-   "foto_tipo": "materia",
-   "foto_tamanho": "740x461",
-   "materia_url": "https://www.blogdobg.com.br/deputados-do-pt-defendem-ajuste-fiscal-com-criacao-e-aumento-de-impostos/"
   },
   {
    "titulo": "Lindbergh Farias lidera ala do PT contra pacote de corte de gastos e propõe novos impostos - Bnews",
@@ -271,25 +330,6 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1067",
    "materia_url": "https://tribunadonorte.com.br/politica/senado-se-une-a-camara-dos-deputados-para-derrubar-parte-da-decisao-de-dino/"
-  },
-  {
-   "titulo": "Briga familiar termina com casa em chamas e prisão de procurado pela Justiça em Sorocaba - G1",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWkhLYWI3UmpzZ3B6QVJDMTBIWUlxNE54TVU2UkpYZ1dqT0pST1dnNWE3TDB4dVJzM1NrYnVDaWoydGx4OWQ0WDlRRERHajN3STc0R2tidkNHbWdxZ2JLVHk4dFV4aWotMnRrMTN4WEZIT1F6c190bElrNzAwNXB3bnVtb2pfRXRHOUlmM2lzc2lhWUVoSGRTSzJsSDZJLW8tZkQybkRhMkRhLXBNSDFaamh5dlFScl95YzZuV2MyZGx1SWtvSWRQMW02X1l3ZGRpS0ZCUVJQZ0g1dzk5U241UktaTHVXbllua0HSAfgBQVVfeXFMTW01QmtmVTVINDN1MlYyclZlcnZiZkR5YXlRdGJpZ0VPb21OTllKNWFLenFudFpDdEFLWThBMDNZLThnWXpwZWFpWC1HZDFsRnUwUTQxUkMxWXlWb3k0Mm50a0ExUFBqeFduRnpsVFZrTGtUM3RMd1k0VFFqOW01V19DQVdaUG9YaXlkNGZjSWRXdE9QUWtnZUdNaFZCUDRPWG9IX1RNUEN2TFRGWmtNYTM5NjR0ZXNCdGtFWWNtQ3hFbHJadUJXYUgtOUg0ZzlUdllmWGFxa1RGTVhOY1QtcnVZUXgwbzE1YnFLN2p2Y25ZZ0ktbGotbEw?oc=5",
-   "fonte": "G1",
-   "quando": 1794686395.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 16:59",
-   "foto": "31c2c5040dee.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/briga-familiar-termina-com-casa-em-chamas-e-prisao-de-procurado-pela-justica-em-sorocaba.ghtml"
   },
   {
    "titulo": "Fux interrompe julgamento sobre fim da 6x1 no STF - SBT News",
