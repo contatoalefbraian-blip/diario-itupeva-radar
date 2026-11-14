@@ -1,31 +1,10 @@
 {
- "gerado": "14/11/2026 12:13",
+ "gerado": "14/11/2026 12:57",
  "desde": "14/11/2026 10:35",
  "pautas": [
   {
-   "titulo": "Rodovia dos Bandeirantes está totalmente interditada entre Jundiaí e São Paulo - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEp6cy1BUXJuei1QcEJIZEVhOElHSm1wcEh1d0xmRG9EM1JUU0tiZnJLYUZvSTVVcE1sc09PVUNJUW9fTzBBTzk0aFdQRnM3TDI5aUU5RVpOSlk5dzJHQjgxR2dHeVEzSzJUczdRQTVTbmNhZ3IyLVlrUmR1T1dXdUtkUUhvZUtPdFBqR1ZtRDU3b2VTcjFndU9NbXJZYkdyUThTUHBQNWpCZw?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1794660255.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 12,
-   "hora": "14/11 09:44",
-   "foto": "c76fc5acbf96.jpg",
-   "credito": "Foto: TVS+ SBT",
-   "foto_tipo": "materia",
-   "foto_tamanho": "700x500",
-   "materia_url": "https://www.tvsmais.com.br/rodovia-dos-bandeirantes-esta-totalmente-interditada-entre-jundiai-e-sao-paulo/"
-  },
-  {
-   "titulo": "JJ: Mulher morre após passar mal e cair na rua em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa203Q0ZoX1FDa2thVU5lNGU2akM3RExIYUVBbTQwYlQ5X19VWDRNXzkwc3Q1WlBLMTFqUjJreXdrVzM0YUZ4M2E2S0dRd3E0VjF0djRwWENkSF8tYk43ZExORlBreTRaV2xPTTdxVjR2bVQxYUNMZnFkeXBvNlg1Rmo0aEV6R184YkhBLWZ0aDdabU9NeDM2bFJlM2d6RGFmN1lpNDlWZ0tvVTY5WmYyTHVjSzhSZw?oc=5",
+   "titulo": "Mulher morre após passar mal e cair na rua em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzI4bXBLQ2FJR2ZVd2ZzeVhtdF9jTUpkVEJfcVJDVU5EeHRzVmpwTWNkbWV3RGNVd1FZYUMydkhyOXZOZmRKTWNqZ2VGZWlTeG9vOXhEb2JWSWcxa2VuSkVqcEpUZWZGWmpVOHJXbjk4ZDlralUxZUk3b1FadzF1bjJ0Y2wtQTJSdjJ5Yl9Wa3lVaFhnZVczQ2p6Nk5RVko4X2x1RUVFUC1ZV1NTY2lCM19sYmhyQ1FDZUJZ?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1794666608.0,
    "categoria": "regiao",
@@ -36,11 +15,54 @@
    "assuntos": [],
    "pontos": 10,
    "hora": "14/11 11:30",
-   "foto": "355e4d6c74a3.jpg",
+   "foto": "989475b17cd4.jpg",
    "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3018718/policia/2026/11/mulher-morre-apos-passar-mal-e-cair-na-rua-em-jundiai"
+  },
+  {
+   "titulo": "Polícia interdita escritório de falsos sorteios em Araçatuba, SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0x6SHVhLVR1S1VmREdhUEJCczd4V0NXZFB2OGxRWVRaajRiQmJoeDlQZE0wWG1IbVRFNnlZckRaTUl2OENKVnJBcW1vOENXVktHa1RuS2Z6TGRnbVRuYnlBb0M2NkxrdXZ3aml0Z1JGN2hpVHdKVlBTTXN3MHc0QktQUU50V2pWcWhtaE5GbDRPQ3k4b215WV9pT2RuX3dLOS1kZ01ULVBjUXNDcVBiYzN2T0t2Q1VGZmNnN0FzUGJvaW_SAdIBQVVfeXFMTTRJc3ViZVVLeEZHOFdsQjd3NFlIUF93VDRLb05HdnBxbngtQmN4anBIWGZ3LUtrODRJRzBrN1RXSGV1a2U5TmVlZ19XcTJ3dm1OMDNhTjU0RGFsVmRPZGRUTTdTVHFFRGtMU2p1Z2hCVWd5YTZXSy00Y1J1dTdwUDJ2NlVIQmJPWlRxaHZzNTNKMmZ4eXFHcUpaenpoS2lpcnoxNWdrbmVXSGZLWlI4UDQtSUVKNm51cTAwOGJXZEJlbkxaR3FvVng2RFAtS3EtTUZn?oc=5",
+   "fonte": "G1",
+   "quando": 1794669497.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito",
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "14/11 12:18",
+   "foto": "b69e47e471ec.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/policia-interdita-escritorio-de-falsos-sorteios-em-aracatuba-sp-15188014.ghtml"
+  },
+  {
+   "titulo": "JJ: Marido é preso suspeito de agredir a esposa no Centro - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmtUNVR1VHRBbWN0V1ExSnM5QkNabUc3aW84Zlc3cE00SG1QU2xxdURTMWZVODlxVnpWZFlJOE9EMm5ueEF1Rl9ZSjhrNVZGWHRob1hSSDVBZG9TNXljV1kzdFJnS3k3dl9HekNfcjBKZHFUUTZHWTZZdXBHcXpILU1OUXF4aHBIMXNjUkpINW55YnpzM0FQdDJaSU14U0JzcUNETWdDalEwWjlsWnRILWNiSC1KZw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794669390.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "14/11 12:16",
+   "foto": "7605618aa05b.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018724/policia/2026/11/marido-e-preso-suspeito-de-agredir-a-esposa-no-centro"
   },
   {
    "titulo": "Sob gestão de Tarcísio, São Paulo gera mais de 322 mil empregos formais em 2026 - Republicanos 10",
@@ -62,6 +84,82 @@
    "credito": "Imagem ilustrativa: Ann Rosener / Wikimedia Commons (Public domain)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "844x1024"
+  },
+  {
+   "titulo": "Muito além do diagnóstico: moradores do interior de SP contam os desafios de viver com diabetes - G1",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaVNmTi05V01oREs3aGs5SkxkTXlncEdiZFJ2ZkRCU1ltaWNBeno5d0xoYmxhakVxMnRleG9JdWtJZ3dZTEp5Tl92VEdoSEZZNnQtQW5EeDFpYTdtV0RpVHk4Z0tGWkdsMC1ET1NwX1FQdDNHekJFUEFreFlEb2hBMFBDQVJCcXhXTU4xeFhtUWUxWWJDT2g1RXZpUHhGazd2M1hsSXVNT2stNEhvOHBDMDBsbS1udmtQN0xYeVo3UUpMcFFZNXhpWXZFSUNRSFhzY3hWcFduZ2Zhd0lOVlFfRGtZdV84bUYtMjRxN0VQbU9Bd9IBgAJBVV95cUxOdTF6R1pWcHlnLVl5QUUySjFDbnJMMjdySGdBRDZkUS1UYVVkYUZyNUtIZlM5V1JXOWVZYU9JWTJLQjlmZVJ0TElPS3dzemczQjVCTmo3OWZOdnNFZkkzMU5tOXhhalI4Tk8xZTR3VGZFWHRaQ2pCVUxLQ1ZyQnM5aGh2WVFTbjY0YnBUR0xDZ1VaTTBxVHBJbUlNUXVJOFVTa3NPR0ZoOW5icXVFc0JXZ3JCOFg0dnJZajV2VnNtSGVJVXh4cXM1eWRYTFl3bmNRSEdiY2xSU1QtaEd1cFBLMGhMRi1tZ1JieDZKQW1OMGR5djJXTlRGZHk1TENXcXZa?oc=5",
+   "fonte": "G1",
+   "quando": 1794671115.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 12:45",
+   "foto": "9f7f73abd708.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1270x700",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/muito-alem-do-diagnostico-moradores-do-interior-de-sp-contam-os-desafios-de-viver-com-diabetes.ghtml"
+  },
+  {
+   "titulo": "São Paulo marca eleição que vai determinar novo presidente - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcENibWZfOUVLZEtDUEpiMDRzb1BFTGpWRDU3MjdPckhVMEJXMGxkeDdTQW5oejB2dEEyUkt3bW50WXY0WjRrX3c2UVhrWG5HSm5kQ2hNNWN1UFNDMXgyUG91bWU3S0pabW95RkJra2F6UjFuUGpkNC0tTGktU2xqd2JBSndwTjdaWWVjYzdBMEtIdGFRS0VmbnBVQzNWVy1DeURWaThvR2s?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794669588.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 12:19",
+   "foto": "dd5eaf391e6c.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-marca-eleicao-que-vai-determinar-novo-presidente/"
+  },
+  {
+   "titulo": "Drone mostra estragos em fábrica após incêndio e explosão em Salto; veja antes e depois - G1",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDloTVA0bHUxTUlBQmg0MzIxT2lWS1RZVVJGcDVZbmFBcGtMWXJEemRoazc4VWVRc1RqRlg1aVM4d2N5RzNnZUU1QjJlWkFCTmFLODJxbmtJVXNRZ20zOWc1ZzR0cXNKLWdpVG5qWmNyNDJMdF9EVFl3WGJEMXNCZGVIaDVRakVlOEJtMUlR0gGcAUFVX3lxTE9VLUd6RFQ3WEtuRmVwTTNtVWo0dFQtTkxqOGhQRjVOTFVDM0dFTUpPZHJMR0hXMVJHSFoxNzdVUjQwOHZCQ3ZieWZCbE5yckpPWVVzSlpkemJzVEtsSmZwSU43dF94Qkt4RUJxRmlGVjFWWnhGNFFwMzhPREluMUFKMnFiNWdyMUJsUDZCV2VvNGd2d0YwVkZIUEZCRA?oc=5",
+   "fonte": "G1",
+   "quando": 1794669277.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 12:14",
+   "foto": "8cb48b37c8a5.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/drone-fabrica-salto.ghtml"
+  },
+  {
+   "titulo": "Imagens de drone mostram estragos em fábrica após incêndio e explosão em Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczZsUXIyNkZXQ1hRb2tubXpVM2stUHh1ZW5zTmFxWFdHN0Y2RDN0YXhLLWtoVEhIVllvdFZOOTZZdFFjOHkxLVVwLU0zZkV6M1dSa3AxSXdaODZfNzQ0UmlCUUZSVDM1bm1zQXVab3dTS1lMcllicFR3MTdqLVhUX1psT2hLbVpHaVVQRUJJdWEtbU1wdDE4RDhTVHd5ZW1rRjVOd2c2RGQxYVJYTmFnRE8zLVMxZzdpdHZLaXVOQTlQTnZGd1BLRHpwZk5aVl81bnJnNjd3c9IB5gFBVV95cUxPZHoyYjNHbnA5SGNlMWZSekdFWkp2SG85eHNxZnRlTHViRml5dVZRZV9ZTXVNQnRVN1BBVHh0ZEloVUZlUWFHc3phVmJ4MkdZV2VqN3pCQWxNYWNYVVpCZTdHNTFCbTV6TGlRLXRIUkFuMF9yS1Rmb2xFaUhTNmRYVGdORmJLdWtLay0zTFo0bURKb1JmZzFtVmRsdHlBQmpibXVRNUZpSEM2ZVg3bjlUOVlHdkdwZUtWcmcyeVI0RkU1MndxeUE0R0RNcjdqVWdpRDV3cjhNME9wRG92a2FrdEVsRjBfQQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794668940.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 12:09",
+   "foto": "860942447ffb.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "401x720",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/imagens-de-drone-mostram-estragos-em-fabrica-apos-incendio-e-explosao-em-salto-15188001.ghtml"
   },
   {
    "titulo": "Lotofácil 3829: aposta de Jundiaí acerta sozinha e leva R$ 1,6 milhão; veja as dezenas - ncnews.com.br",
@@ -100,6 +198,25 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3018717/jundiai/2026/11/bebes-prematuros-precisam-de-atencao-redobrada-da-medicina"
+  },
+  {
+   "titulo": "Incêndio destrói loja de acessórios para veículos em Araçatuba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0ZGVEhVaVlBaGFnY2dha2FYN2FJZFozYk5FZVlYRmxmc09EbjhPQ1pvTDNjN0FmTjVQS185NlM3dGVkRE1MRVVmYlVwN3VEVmhTVEpXSVdqZUYyNllrU1ZUSk0wemFUMkZWckVjZGMtSGt1U3AxVWpRNnh2b19ma3NMY0dJaEdEclZ1cXFXb1p1dUxTOF9lQ2ZyLTBiYmNyckw2QjJOWTZSSU5sMldveDFrbG5oZVBqdGNpV0VjMGo0bVIyWWZIZ2hsTjhSWDQ50gHQAUFVX3lxTE9HRkZUSFVpWUFoYWdjZ2FrYVg3YUlkWjNiTkVlWVhGbGZzT0RuOE9DWm9MM2M3QWZONVBLXzk2Uzd0ZWRETUxFVWZiVXA3dURWaFNUSldJV2plRjI2WWtTVlRKTTB6YVQyRlZyRWNkYy1Ia3VTcDFValE2eHZvX2Zrc0xjR0loR0RyVnVxcVdvWnV1TFM4X2VDZnItMGJiY3JyTDZCMk5ZNlJJTmwyV294MWtsbmhlUGp0Y2lXRWMwajRtUjJZZkhnaGxOOFJYNDk?oc=5",
+   "fonte": "G1",
+   "quando": 1794665744.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 11:15",
+   "foto": "e667bcd539ca.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/video/incendio-destroi-loja-de-acessorios-para-veiculos-em-aracatuba-15187957.ghtml"
   },
   {
    "titulo": "Giffa brinda aos 10 anos com blues, burger e chope em Jundiaí - Tribuna de Jundiaí",
@@ -238,6 +355,63 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/quadra-publica-futebol-society-fazenda-grande-jundiai/"
   },
   {
+   "titulo": "São Paulo prepara R$ 2,6 bilhões para duas grandes obras de mobilidade urbana - www.jornalcruzeiro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3QxbmVsRGhrZUhBVGFMdnlIS1Mwa0lzZEo1RnRVdU9kbzBSWXJmVmtnUDloVEFmS0pEdy1mR1N6Sy1MNXM4WjFxQU1GWmF2NXpNcWswZEYxZUQtMzFKVkR1VG9wSm43WU5SWjNNa3R0bVF1Y0NfRzJfeGpGd2JqQ21iLW9vQmg5Z3lSbk4wRThsOVBfMnd2d0hmNnNoOVNaclN1enN5dDJEMmt1S19yMl9jS0hyYTRUeVlJZU5n?oc=5",
+   "fonte": "www.jornalcruzeiro.com.br",
+   "quando": 1794670200.0,
+   "categoria": "estado",
+   "fontes": [
+    "www.jornalcruzeiro.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "14/11 12:30",
+   "foto": "bc13d57b726d.jpg",
+   "credito": "Foto: www.jornalcruzeiro.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1201x801",
+   "materia_url": "https://www.jornalcruzeiro.com.br/tendencias/sao-paulo-prepara-r-26-bilhoes-para-duas-grandes-obras-de-mobilidade-urbana/"
+  },
+  {
+   "titulo": "Estudo com apoio da Fapesp busca voluntárias com depressão pós-parto para testar nova abordagem terapêutica - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2xsa3dScm5kRHJSU3ZjdTZPOFM2dnNfX1VfZWNmM29MNHNMVDNOdThJWlR0M3NobmhvN0dxYmlDb3U1RzBKX1kzTDBDZmFPdC01V29ka243STVsYkpNai1EalRkQmc5RjlXdVhXWmY2U3pULXh1ZXpDUGlhczhrbg?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794669960.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "14/11 12:26",
+   "foto": "5f6c8bba3ba3.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1500x1000",
+   "materia_url": "https://www.agenciasp.sp.gov.br/saude/estudo-abordagem-depressao-pos-parto/"
+  },
+  {
+   "titulo": "Defesa Civil alerta para temporais em todo o estado de SP neste domingo (15) - Costa Norte",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUI3S2pzYk1vR3VzMGw1M1hlTEFrWmtKWVlsa2VEemhSUm8wSnVNSF9uTm12RmhIWU9tZXNKWk5BOE5qRV9LWnVNaUh2b3E3elF6QXBQbmh6VFNXd1dOREpON0paQ2U3d0hCUk5xczlFbnNsQWdTQ0J3OGs4WGlLYXVVLTExSl9fUXI3akhwWkJZc1BHcnFPZVhub2N3d1VmTUNQcW82U0xRZFhYRnFxQtIBtgFBVV95cUxPd28wZUxhMTVDTHF1d2tROXR2RnlNY3JQV2x6aGNwYXkyWWQ5VlI4MDVYMXdGbzBscHpUcnlySHFyanZMZ3lFWU85UDNRd0NyMmc4X210TkVENTlHZzROc1lvSEdWNHM2MWVlajNYaFRmY0dsTDJIX0gtY2dIU2lqUy1CckREWlc4dlhId0JoZy12UzZfcE1lbzA3bmdWeVp2VHFZZnNSalo4X2x6bFZtbGdNWWdXdw?oc=5",
+   "fonte": "Costa Norte",
+   "quando": 1794669720.0,
+   "categoria": "estado",
+   "fontes": [
+    "Costa Norte"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "14/11 12:22",
+   "foto": "29418c3521f0.jpg",
+   "credito": "Foto: Costa Norte",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x450",
+   "materia_url": "https://costanorte.com.br/clima/defesa-civil-alerta-para-temporais-em-todo-o-estado-de-sp-neste-domingo-15.html"
+  },
+  {
    "titulo": "Motoristas têm até segunda-feira (16) para quitar débitos do Siga Fácil e evitar multas - Costa Norte",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWxYN3lvQWRIZWpfSDkzMVA4cE9uOTVkVGNvVXVXVmhJc1FlSmh1QjMxMmpVT2JrMUlrS1o4am9icW5oaDE0ZmI2Yml1YWN4UDQ4MXRKSFNSX1czQm1uNC1UVzB6aWFOVm9teF94cjhiZmM0cWtyZnBOdEd4Y1FnM09RZXhseER1MHEwb04wYVh1OTdVeVl0ckNwR3B1LUpaUnJxdE4yRjFiYVJiQ0xoeGpRU3diRW44SVQ4anlJVUhYd9IBxwFBVV95cUxNQTBsVGEtRklzRnUwcF9lTksta3FWd1M3X21tTTBUT1JtS090bk12bzdQOXZTV09idlQ5QUxoUy1nZThWcWgzVWZ2QmJBWnhJN3I2WC1OQU5KcDR5MFNBckRiR3l5MGpWRXlWSi1oaE4zMWx2RmdUQXNJTkUtVGdBUkItaEtpeFhQbTRHcVJXVFpDOVBnNGh6S1BZMjVBTjVBYjhoNUl3aDlVQ3ZGRXZTZVRPSUo0XzI0S3ZBbnQ5WDRMUHJMTFVZ?oc=5",
    "fonte": "Costa Norte",
@@ -255,6 +429,24 @@
    "foto_tipo": "materia",
    "foto_tamanho": "800x450",
    "materia_url": "https://costanorte.com.br/cidades/motoristas-tem-ate-segunda-feira-16-para-quitar-debitos-do-siga-facil-e-evitar-multas.html"
+  },
+  {
+   "titulo": "Saúde atualiza estado das vítimas das explosões na Pyrozzar em Salto - Jornal de Itu",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVV4cnZXSFNpYUVNZ25lT0x5OUw4cXRrS2VlTDd4NzRxQUQxRkl3Rl9oMDMweDl6UFZaOTQ1ZjFLTVV4RkRuNVlxQUtoaG1VX3pQMHJxb2Q1WFVpZ1I3LVZ1T21EeU5qYW5lVmpNSmQ2Zmw2SlJiQnhCMS1taFR5cnl6ZHRCQmN4elRHRUMydm5rRjQ0LUZkWjJQc053MUNI?oc=5",
+   "fonte": "Jornal de Itu",
+   "quando": 1794668820.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal de Itu"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "14/11 12:07",
+   "foto": "19e3e395e1c9.jpg",
+   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1018"
   },
   {
    "titulo": "Domingo de feriado em SP terá ônibus grátis e festival com shows; veja a programação - ND Mais",
