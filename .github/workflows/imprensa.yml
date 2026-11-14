@@ -1,0 +1,38 @@
+name: imprensa
+# Monitor da Imprensa Oficial de Itupeva: le as edicoes novas e marca os atos que podem dar materia.
+# Grava so em registro/imprensa/. Nao publica nada.
+on:
+  schedule:
+    - cron: "10 11,22 * * *"   # 8h10 e 19h10 (horario de Brasilia)
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "So imprimir as ultimas edicoes (nao grava nada)"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: imprensa
+  cancel-in-progress: false
+jobs:
+  ler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: instalar leitor de PDF
+        run: sudo apt-get -qq install -y poppler-utils >/dev/null
+      - name: teste
+        if: inputs.teste
+        run: python3 imprensa.py --teste 3
+      - name: ler edicoes novas
+        if: ${{ !inputs.teste }}
+        run: python3 imprensa.py
+      - name: registrar
+        if: ${{ !inputs.teste }}
+        run: |
+          git config user.name "imprensa"; git config user.email "imprensa@users.noreply.github.com"
+          git add registro/imprensa || true
+          git commit -qm "imprensa oficial" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
