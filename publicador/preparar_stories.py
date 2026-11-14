@@ -10,7 +10,7 @@ if os.path.exists("SEM_STORIES"):
 agora = dt.datetime.now(dt.timezone.utc)
 for arq in sorted(glob.glob("fila/*.json")):
     post = json.load(open(arq))
-    if post.get("tipo", "feed") in ("reels", "so_story") or dt.datetime.fromisoformat(post["horario"]) > agora:
+    if post.get("tipo", "feed") in ("reels", "so_story") or dt.datetime.fromisoformat(post["horario"]) - dt.timedelta(minutes=20) > agora:
         continue
     destino = arq[:-5] + "-story.jpg"
     if os.path.exists(destino) or not post.get("midia") or not os.path.exists(post["midia"][0]):

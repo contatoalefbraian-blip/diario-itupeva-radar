@@ -25,6 +25,7 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "contatoalefbraian-blip/diario-itupev
 RAW = f"https://raw.githubusercontent.com/{REPO}/main/"
 API = "https://graph.facebook.com/v21.0/"
 ATRASO_MAX = dt.timedelta(hours=3)
+ANTECIPA = dt.timedelta(minutes=20)  # post pronto pode sair ate 20 min antes do horario
 
 
 def chamar(metodo, caminho, token=None, **dados):
@@ -125,11 +126,13 @@ def main():
         print("META_TOKEN ausente."); sys.exit(1)
     agora = dt.datetime.now(dt.timezone.utc)
     os.makedirs("publicados", exist_ok=True)
+    # Janela de publicacao: o post pronto pode sair ate ANTECIPA antes do horario,
+    # para compensar os atrasos do agendamento do GitHub (ex.: post das 9h sai entre 8h40 e 9h20).
     falhas = 0
     for arq in sorted(glob.glob("fila/*.json")):
         post = json.load(open(arq))
         quando = dt.datetime.fromisoformat(post["horario"])
-        if quando > agora:
+        if quando - ANTECIPA > agora:
             print("aguardando:", arq, post["horario"]); continue
         nome = os.path.basename(arq)
         if agora - quando > ATRASO_MAX:
