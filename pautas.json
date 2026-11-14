@@ -1,115 +1,33 @@
 {
- "gerado": "14/11/2026 09:40",
- "desde": "14/11/2026 07:35",
+ "gerado": "14/11/2026 11:26",
+ "desde": "14/11/2026 10:35",
  "pautas": [
   {
-   "titulo": "Fundo Social de Solidariedade abre inscrições para Workshop de Panetone - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWtMWEhzNS1sVWhrQWY5bTh5dDR1R0oxUXFnbFJwVkhMamtBV2lMX25jQkY4UlNYQnotekxWM0VvNWhjWGhLMFJzWmNDUkF4WExsWUNfNzdVY0d0SHA2TUg4QmtTTlVuUXpiN0FUTWlQS2hMTVNtekZCYXMxTG9LbGgzbHUtRGNOUXF1d1NTczNCZDFRMnpLQkt2dnRfV2RNWF9rVjdzcTBWU2RZejllT0RHTDN2bVBZTmc?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794659400.0,
+   "titulo": "Rodovia dos Bandeirantes está totalmente interditada entre Jundiaí e São Paulo - TVS+ SBT",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEp6cy1BUXJuei1QcEJIZEVhOElHSm1wcEh1d0xmRG9EM1JUU0tiZnJLYUZvSTVVcE1sc09PVUNJUW9fTzBBTzk0aFdQRnM3TDI5aUU5RVpOSlk5dzJHQjgxR2dHeVEzSzJUczdRQTVTbmNhZ3IyLVlrUmR1T1dXdUtkUUhvZUtPdFBqR1ZtRDU3b2VTcjFndU9NbXJZYkdyUThTUHBQNWpCZw?oc=5",
+   "fonte": "TVS+ SBT",
+   "quando": 1794660255.0,
    "categoria": "regiao",
    "fontes": [
-    "Prefeitura de Jundiaí"
+    "TVS+ SBT"
    ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "14/11 09:30",
-   "foto": "bfc87c37ef53.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1200",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/14/fundo-social-de-solidariedade-abre-inscricoes-para-workshop-de-panetone/"
-  },
-  {
-   "titulo": "Após concluir rede de água, DAE Jundiaí avança com obras de esgoto no Fumachi - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTVqVFZWaEwxUXlZb20xcXV2WlBxRmtjVTJsQXZlMEQ1WHItc1VyY094UWk0Z3A0YmpGMi1VNXM2SERtQU9XQlBZcXI4N1g5b210bGowV2tybC1ta0xYN0FyNWtTTmJOdDNuMW11enBycWhORFExczlFVVZYTkdidXZQRGFPNWM0emxPQW83MA?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794658484.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "14/11 09:14",
-   "foto": "c387b85189f0.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1400x930",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/dae-obras-rede-esgoto-fumachi-jundiai/"
-  },
-  {
-   "titulo": "Trânsito da Bandeirantes será desviado para a Anhanguera a partir das 23 horas - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0Z2NjZXdVhuMm5IS2IxZk1mMWRoSU45QlU3X3JsZi1NeEZJczItR1JKd1M0NENwbVpJYlloMXotZHk4SlhDRXV0NGJZLTY4dEFUUUw3Q3pfX3Z5d1pnVFF0R2NlVVpERjlKQ3FCSjZ0aVhhZ1hGbEVocWt4azZuZVMxbVo4TEpMdU1GMW9TalpKQ3VGRjhvbXQyV1ZVOEVwUDB6bEtkWEtVYzZa?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794652657.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
+   "urgente": true,
    "assuntos": [
     "transito"
    ],
-   "pontos": 7,
-   "hora": "14/11 07:37",
-   "foto": "cb73c829f8bb.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
+   "pontos": 12,
+   "hora": "14/11 09:44",
+   "foto": "c76fc5acbf96.jpg",
+   "credito": "Foto: TVS+ SBT",
    "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/14/transito-da-bandeirantes-sera-desviado-para-a-anhanguera-a-partir-das-23-horas/"
+   "foto_tamanho": "700x500",
+   "materia_url": "https://www.tvsmais.com.br/rodovia-dos-bandeirantes-esta-totalmente-interditada-entre-jundiai-e-sao-paulo/"
   },
   {
-   "titulo": "Taxação de dividendos volta à pauta: PT protocola projetos para tributar lucros, proventos e grandes fortunas - Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOGJZaU1oekx4REttWVJZdXdOQ0gyMXBZdXBzWmxYVXIyb1JINnZQZHllempHZ0huS29LYzY1OG9YeHlzUWFyRlBfNmtTRVZnYlZBSTN5YlZPNmdPai11ZjN2NjktZ2RlTzF4RGhYbE9PVmZCR1FHQ0tkcWFiRnZFbXBpendVNGpqSWFwZFplN09ObDl0NWdOOVhYdDFaUVMtTVBacm5uaEJOa1ZFamU1MVBya1pPWFlwbXJ1cy1jbGJtZ01EMlpyYm5IbUZVeVhIaFBkeUlvVFUySjJkZjlVZkdOdzNrYXFvYk9z?oc=5",
-   "fonte": "Seu Dinheiro",
-   "quando": 1794659519.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Seu Dinheiro"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 09:31",
-   "foto": "441d59308694.jpg",
-   "credito": "Foto: Seu Dinheiro",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://www.seudinheiro.com/2026/economia/taxacao-de-dividendos-volta-a-pauta-pt-protocola-projetos-para-tributar-lucros-proventos-e-grandes-fortunas-davs/"
-  },
-  {
-   "titulo": "Dr. Maurício Garibe, de Jundiaí, assume como desembargador no Tribunal de Justiça - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3U1WWlqX1FCV19uTGNDVVFUSXBjaDExR0w0MWJ2YXFMSEQxT0JxTlBzQjRvcXV4OHllbno5WFdaQWdkRGs2Z0J5T2ExSUFCS3NRWnc5WHBxUm9ZWUFHNzJzTTBZZ0VmNFM1aVZyYlo1aFFKTHRXMWF6ZHdjRlR0RGNMMURVRE1SQzNObkVPTFltd3JMcUZ1ZDUzZ3QxUmttWUcwUDJNcmZ4UnhX?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794659284.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 09:28",
-   "foto": "14a837812178.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/14/dr-mauricio-garibe-de-jundiai-assume-como-desembargador-no-tribunal-de-justica/"
-  },
-  {
-   "titulo": "Resultado do Super Sete 922: ninguém acerta sete colunas e prêmio vai a R$ 450 mil - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGF0elBuN0Q1eHpXQTVtN05ieU1ZM3ZoeU13ZGNBa2dTLXZQNTNoOW1RSURvS1FKa1JqN2poMFh2Smo4cVg3UUZ6VUVlemZGeXR6bUNlVU1XNmktWXR0SlM2ejdZWHJzeEtSaE8tYXhMZlI0Z1JIX19oTW9LdkZfcA?oc=5",
+   "titulo": "Giffa brinda aos 10 anos com blues, burger e chope em Jundiaí - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWng5dFpsWkpraExUMGlaYkQwUzMtSzJoTGFoZGc0Z2V4QVRFMU5zODloQnh4MXFaLWRrM0Q5a09zMnpmRHdqM2hPRlNLaS1QQk1uR0xheDZrRkJ5U2wxZkRqaWFOX2F6ZF9jeDF1dzZ2OXFoWHRDRlRBQlJuUVpDZ3I0OXpoNEUzOFIyaGk3SXJjaHZpbm05dm8wZktpV2hINm1XTXc5c2htczFwYmc?oc=5",
    "fonte": "Tribuna de Jundiaí",
-   "quando": 1794658418.0,
+   "quando": 1794665580.0,
    "categoria": "regiao",
    "fontes": [
     "Tribuna de Jundiaí"
@@ -117,371 +35,89 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 09:13",
-   "foto": "7b72a6baab6c.jpg",
+   "hora": "14/11 11:13",
+   "foto": "1507a4ab5cb1.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/resultado-super-sete-concurso-922/"
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/giffa-brinda-aos-10-anos-com-blues-burger-e-chope-em-jundiai/"
   },
   {
-   "titulo": "Resultado da +Milionária 407: prêmio acumula para R$ 116 milhões - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM2otU3RjVnlsU2s3WmZTdl9Kc3VBQjY4dnF0aUpUTHg0UC13V2wtdnlvWXFhTXZSbGZ5d1M0c0Z1MzhZSXpVVXV6S01ha0VsT3RlUE44M1VxLTh3Q2N5Q25NMnRiZzh0aUVzcXNlRzJyZUdfc0FuYUJ0YWtNbk15UFM0VTM2Yk0?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794658186.0,
+   "titulo": "Corpo é encontrado na Estrada do Pé do Morro, em Cabreúva - Portal da Cidade - Cabreúva / SP",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUVRU3VLdEFzTVZncGFVVFpRNzd1aEtCMG1fOFJZcnZiMGQwUUdiUTBjZTBnbjJoNEpsbE41RGpQbFNIMnlaeTdDcXRMYzVqMEM5ckF2Z29rU0tfZXJ0M25QYTVEVl82cjR6bDhDVUl1aTFCUFU2Qkd0eUxTbzQ2Tm5yVHBPcC1rM0pSRTFhSHp4bkpsd1VtclBSci00MUZ2dzR4VXFtd3NWRkw2dHhMMkVoUQ?oc=5",
+   "fonte": "Portal da Cidade - Cabreúva / SP",
+   "quando": 1794665040.0,
    "categoria": "regiao",
    "fontes": [
-    "Tribuna de Jundiaí"
+    "Portal da Cidade - Cabreúva / SP"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 09:09",
-   "foto": "765430e1e79d.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/resultado-mais-milionaria-concurso-407/"
-  },
-  {
-   "titulo": "Resultado da Dupla Sena 3032: sorteios acumulam e prêmio vai a R$ 13,3 milhões - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm1nMWZ0czBDTkhaV0VQZGlaVmI3TVVNNHN2dzIyb3FMMnMtVjNKRTNjdVI1QUgzaWZnenhkMHdFV1libnJvemJERUJFQzc4TjhYNGdQOUh6YnNDbzdfV0hBUTA1cEhzOEE1c2JrV3d1Z0p1WjdzQ1VQdDZ5M0dOel93?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794658078.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 09:07",
-   "foto": "1f48246ae825.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/resultado-dupla-sena-concurso-3032/"
-  },
-  {
-   "titulo": "Resultado da Lotomania 2999: duas apostas ganham R$ 2,83 milhões cada - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkZ5ekE0U0g4cU5SeGt1MEt4TlQxVE41VDhwaC1xV0YzRFFFM3QwOHdreXZxV3oxQXpYM1g2VVBVb3oyUVgtQ0hkLTBzcFpCLTJZTHdmWThZdUlLc3J2TGZBN2ZIVW1OYXNhVzZlTGN5OWtzNVR2eGNsSFBhd2FxMQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794657814.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 09:03",
-   "foto": "ecb7e2d4f0a1.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/resultado-lotomania-concurso-2999/"
-  },
-  {
-   "titulo": "Saiba mais sobre Notícias - Página 62 de 62 - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NaFNFMk5xMmlPNy0xUDlUV2l4U0dDbXR6WS04MjljeTcxZVJQZExqMWxjN3ZpXzVSbUdtc3hjUmlWdUZVRlFES1F4dk9RSEh4UEJDX2N5Ti0wNnZIM1E?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794657810.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 09:03",
-   "foto": "b234e9c6a532.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "materia_url": "https://tribunadejundiai.com.br/noticias/page/62/"
-  },
-  {
-   "titulo": "Resultado da Lotofácil 3829: aposta de Jundiaí ganha R$ 1,64 milhão - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFY4OGhaaV9jNURzWW5UVUo2MXV2VFUxS3FFanAyY0l1NTZYa3hYUUNLb0ltWnVzZWZtR3FoR19JZl9YeWlZTGdPaUFlT25WeUNZdk1mZk5pUzNmbXFqUTVKN3dvNmJKd01pVTA0VDJDS2FXWExUSHhSSWZOUS1tcQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794657579.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 08:59",
-   "foto": "a8146028fbee.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3829/"
-  },
-  {
-   "titulo": "Após 16h de duração, incêndio em fábrica de produtos químicos foi controlado em Salto; rescaldo continua - G1",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZUNnOXFlSEdIZTBkQ05vdEJGOHhIQWNxZ0g1cloyejRKYzdGdFRzd2RPRlltcDNhQV9PZHBxbTdxdkh3cUg0VXo5MG0xSVZhclVla2s0MkNZRWVBbUlyQkE2SjlYWlFYejFQM1lXb3M5cm1LMlVMb0h4a014SkVKaEVVZkNZdldnWFQ4TGIycGtuTUZCdFFDWFdjSUxRVjZPdGdTQmxxS1ZaRVMzVXFocWNfUHk0ckFYQmhOb3NiNE1TSElMU0w2WXgyNVQzQ0hKS0QtSWVxLXBlWmF6TDZHMUhTQ1BRMGpWak5MdVZXdmxhVzQwRXNMTktSaHfSAYsCQVVfeXFMTlZkMnNqb0hObmZlNFN2eFlvbUsxd21HZHF0SnBjb0EzME9PWFJ6eWFrS25rVFhYZXZCQkxscTNYTi1ZMllYZG81Y1hXWlVmNUppS19iMGozb1JJT2ktR2lMdmNKTDJPX2p1NkdIdU0tLXFFSmpObnZ3NVdXMXRwS1hLUjJJcTVwLVdRZmdFbDVid1ZNbG5jMG80eVYzSFBOV1lydEhkN1czdDdMOEk1MFNUZTAtT2k5N3A5a1BiU1g3U0JUOXpta1REZjBYTERUVmhxcUZWd3hfc01ndWpVWkcwdGMtTTFtNlNvVHJENmhocFEwWkpzYzZEZkd0NERRbzlDQlBsdkNpX2hJ?oc=5",
-   "fonte": "G1",
-   "quando": 1794656236.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 08:37",
-   "foto": "8b08555835d3.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/apos-16h-de-duracao-incendio-em-fabrica-de-produtos-quimicos-foi-controlado-em-salto-rescaldo-continua.ghtml"
-  },
-  {
-   "titulo": "JJ: Morre no São Vicente motociclista vítima de acidente - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEo1My0wYUFwSlFmUHdZeDZDcHM0MnhPUm5Vc1hONU0wOVJRZjFDZ0ktZUlBZzNyaTBpVml3d2h1bzhRZl9qX3R3RDM4dkxvLTcxbm9oTzlPeEFWYXZ6LWxZanhfTFB3RWU1N2ZHWlpBcVY3bl9IZGQ3RVB5Nm82aGJxZjN6RmkyQThwTzUydVNYREoxS05BamNWYmUwYjc1QVZ6LWw0UHRzMXp4Z2ZGVlB5dXY?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794656202.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 08:36",
-   "foto": "c93f8f74d971.jpg",
-   "credito": "Foto: sampi.net.br",
+   "hora": "14/11 11:04",
+   "foto": "ff70d94344cd.jpg",
+   "credito": "Foto: Portal da Cidade - Cabreúva / SP",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3018684/policia/2026/11/morre-no-sao-vicente-motociclista-vitima-de-acidente"
+   "materia_url": "https://cabreuva.portaldacidade.com/noticias/cidade/corpo-e-encontrado-na-estrada-do-pe-do-morro-em-cabreuva-0633"
   },
   {
-   "titulo": "Projeto incentiva catarinenses a destinar parte do Imposto de Renda para ações sociais no Estado - Oeste Mais",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3RYejU1enJZV3cyR2MtSXd5NEkzQ0JBclkyeGdpQkV4UTRnWFgzMllSLUxkMDk2Q0FFaDJ3MlRWOG1rMVdpRHZRSFRQSHJUemFpQ2hCUkxsNm1kbWlac21od3BvZ3FHbE9hV1VKZWtCcENSSnNkX3dOLWJERWh0TmFIekd0NzFwaWdoTncxV3RBMlBDQkdzaXhIUWsteGxDOXk2MXdWa1llaFNoOUpIdkVwU0R1bHRka3ZHU3lOQ092V0JXN2p5cmlvQkhJdFd4cGw4RFJVMjBHYU5r?oc=5",
-   "fonte": "Oeste Mais",
-   "quando": 1794654826.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Oeste Mais"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 08:13"
-  },
-  {
-   "titulo": "Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar - Jornal O São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDVac2ZzQ29Tc3lqTjdBelpjUjNQbTA0ZWRHaHhvR2x5bF9LSHlMeEJneDd1Yjg0a1lidXk0V0JHVHVVLXVXTHVNSEpFaDhxSjJQNHdCRENzM29mR0ozM3JUZ1dPdmVXLUptWXZVamJZaHZGOWdFVmZTQW1Kd3VOVXZhVF9rNnNEd2d4Z1E0YkxienB5VF9PTG9LMC1aUy1jbEE1N1pvdERxWmF2VllxdGZEQ1pWZkVGNGt6dVROdnZWUFpVWDN0ZUNZYw?oc=5",
-   "fonte": "Jornal O São Paulo",
-   "quando": 1794654355.0,
+   "titulo": "São Paulo terá calor e risco de temporais com ventos de até 70 km/h - IstoÉ",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMU0lDbW5oVC0zVi1adHFfX0VqcElid3Q3VF9jT3NWc1A2MzFGQUFoRXBIUzZWdDY0dDAtN0VWa3FKY3J0T1RlVGNjTnl4YXRZekw3c0V3em1ld1NzZWdvbm1XLWpDeHkySkJ4MjQ2NU1YREJhQXlqOFZHaXI?oc=5",
+   "fonte": "IstoÉ",
+   "quando": 1794664891.0,
    "categoria": "estado",
    "fontes": [
-    "Jornal O São Paulo"
+    "IstoÉ"
    ],
    "urgente": false,
    "assuntos": [
-    "servico"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "14/11 08:05",
-   "foto": "29fb1018c27e.jpg",
-   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
+   "hora": "14/11 11:01",
+   "foto": "c66e200a62ed.jpg",
+   "credito": "Imagem ilustrativa: Rubens J. Dias / Wikimedia Commons (CC BY 4.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1301"
+   "foto_tamanho": "1600x1200"
   },
   {
-   "titulo": "Vetor Oeste terá quadra pública de futebol society e novo espaço de lazer no Fazenda Grande - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2RRQXphQ2V3bTRNR3lhSjFvVkZmeTZ3Q0RabDlQZ2pXM1E2Y2JzMUM4bTVJNk9wZHZBZ3FzT2piQkFjSDFfTFZfUjNfVmpIRVFpUUt3U1ROSGFzdDlGZ0FhTkloSVMtT2dOSTJIMHR1RnJjcnNENDJwVjNjT1lxYnhiaUZpZ1FFenhoeno3UUZLdE9FSjY0ZzdRVGpZQmJCMW5mV2NMUFFRTjdZMHRPbGJjQUVqQ19WdEVHcnYteWZfS0ttV2ZVeUVNOHBqdUx3LVJvcw?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794654000.0,
+   "titulo": "Lotofácil premia aposta de Jundiaí com mais de R$ 1,6 milhão; confira resultado - vtvnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPby1SOW4zN3ByMXJ1WGxZTzFaXzg4YWdFbXMxTTFMN1hlOWNKWmtKRHlpMTd2dU05cXpjX3hKemwyWEoyWFg1ZGE0N09ZR3BndmgtSUtuTERLVjNFUWNMYTZ2RWhPajI2UHk3X0wyUGhqeEk2bFZYaFMtUUMxaDJCOGlESQ?oc=5",
+   "fonte": "vtvnews.com.br",
+   "quando": 1794664020.0,
    "categoria": "regiao",
    "fontes": [
-    "Prefeitura de Jundiaí"
+    "vtvnews.com.br"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 08:00",
+   "hora": "14/11 10:47",
+   "foto": "bc7da628da23.jpg",
+   "credito": "Foto: vtvnews.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://vtvnews.com.br/noticias/cotidiano/lotofacil-aposta-jundiai-milhao-cc/"
+  },
+  {
+   "titulo": "Vetor Oeste terá quadra pública de futebol society e novo espaço de lazer no Fazenda Grande - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdndsd2d3c3lHclYwalpBUzdOTkp6Y1FnVTAtQzFDSHpEclZwZDNqMEthRmJSXzlDb1owQjladFJwaDgxNlVnVkp5UnBHQnoxY0tkdjdEbVE0amUtUFEyWlR3Q3lCcWJILXJHYmlEdWJ4RXBySTVzQktKQW5qRkY2QjVsaU16REtZRC04b2R0SWtIX2pVTmhhRHg1MngyVHExY1JRUA?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794663651.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 10:40",
    "foto": "44337f17fb88.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
+   "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/14/vetor-oeste-tera-quadra-publica-de-futebol-society-e-novo-espaco-de-lazer-no-fazenda-grande/"
-  },
-  {
-   "titulo": "'Tentamos correr': cinegrafista relata desespero ao registrar ao vivo explosão em fábrica de Salto - G1",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcFZ2ZHhyemtaaDVWZnUtalJHb0VxalBZU3pBekNnamhwd0lhVkxSMVd6dmdWUm03N2pvVTBDbjFNQVowMFZraEJ5N0tTZ3lyd0o2dXA1OWZTWE9qRXdYMlZmUFRfcWhmel94cDE4cVpWWEZ2b1lTb0poeDhCV1pyZzVYclVqSmtoRk5sSGJRd3Q4ZC1vT3pnbnd2S1FvcUI4bWVxSHpNcE5tN0o0RXp4RWFkUHRsQ3NOekFRVHJQTWtQb0E3Z3N6NTZYQk0wSXV0TTMwcVJ2cHRNR204SENiZFNVajlLWFMwX1VGM1Yzbm5zb2fSAYICQVVfeXFMUHFhQXRUNTRPTG9ja2tPQWVmUGFfOGhtZk9YX0ZwN2JoSjNTMTJqc0JRRFg1eHRLV0lQOHdrNWt4Z0ZEVzRaU0N6Y3IyX2lBbEdZRnZaUzNIejZQckx6ajhVcFA5d3Ytelk2SHk2V0x0bGQyNnRVanZwNFA4UkZaM0l0Wi1LSGdoTmQ5cDk2UzI0eHVKY2NLWFE5aDZya3lvX1dqY3dIdWVvUHpRbkp1bzl4OEowYlc3aHBWWmpKRDhrVGN4SzRITWg5ZTU5a2xxQ3BKZXdwSWF1SGszSEJXbjZYX1M2NGU0dkJvaThIcHpKbnNmaEktanJKV0VpdW9XY01n?oc=5",
-   "fonte": "G1",
-   "quando": 1794654000.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 08:00",
-   "foto": "3b42043f8bb0.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x700",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/tentamos-correr-cinegrafista-relata-desespero-ao-registrar-ao-vivo-explosao-em-fabrica-de-salto.ghtml"
-  },
-  {
-   "titulo": "Cavalos reviram lixeiras no Jardim Novo Horizonte - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXR1YmVjY2djLVZoeFJkUXZCbVNZem81SWV5blVFNjZwVm9Gd3lXVmVURVdKNHdSbmJuZWs3RHhPUEtaeHVtejd0cDRBcU5hWkQ2dWxySHRLVXFIelVERWRXVjRFd25SMmdxZ180bnY1ZlYxX3RUbUZTcFZiUG92SXUwbFJlUQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794653903.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 07:58",
-   "foto": "003e56d28b94.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/14/cavalos-reviram-lixeiras-no-jardim-novo-horizonte/"
-  },
-  {
-   "titulo": "Com presença de Maurren Maggi, Vinhedo ganha neste sábado novo Centro de Excelência em Atletismo - Hora Campinas",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdU9Fdkh1cTdyNHUyRVNmZ19MUmkyQ0ZzcDlXN2VfS0dsVG8yTFNZakRNYkZ0bzdlY1A2SVZmak9sVTl4UjhPWmNpR05takF1UXg2UjY5VjNLU2pkbHhKT1ZSYjFaMWdWVWxSVDhVLVI1UEhxZV9JazFxRnJDbTRMYWF4WU5QOHRyLTBZS3dpYjF1RV96Qi1xSWh1VjRZdFpMVW13ZUFIRmcxZk9VV19sMw?oc=5",
-   "fonte": "Hora Campinas",
-   "quando": 1794652611.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Hora Campinas"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 07:36",
-   "foto": "934dc66a8871.jpg",
-   "credito": "Foto: Hora Campinas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x450",
-   "materia_url": "https://horacampinas.com.br/com-presenca-de-maurren-maggi-vinhedo-ganha-novo-centro-de-excelencia-em-atletismo/"
-  },
-  {
-   "titulo": "Atividade física prepara o cérebro de pacientes com depressão para a psicoterapia - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvdTlsV1k5OE1weWZxaDVQLTgzYWEyWER0ZXdzNGU5Vndkb3UzRVB0TXlEM0lvbTcySlZDeWw5anFWd0hEUWxmRXdSZTE2WEFmc1ZZVFZRNUt1Z19qVnlMUzcwZHVZY1RLcXhzTFFubE1pRnJVQTA0TE1WTlF0QQ?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794658920.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 09:22",
-   "foto": "52670ed618d7.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1000x667",
-   "materia_url": "https://www.agenciasp.sp.gov.br/saude/atividade-fisica-depressao-cerebro/"
-  },
-  {
-   "titulo": "Alessandro Guedes protocola pedido de CPI para investigar desvios de recursos públicos na Prefeitura de São Paulo - Fato Paulista",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORk93aWJKUXhrTmNlZ2lSVlcycTNHellmVTUwUXV1dEprUWNQVVdfZnZpX0JnRlYwUmwyUnljX0d3UEs2UUFraUZDUWMzY1N6OGRkVkNraEJJMEl1eVNfQVBtZGNjNGIxWHZRMzhXNXZCWG0wWXlwM3ZJSnRSTkJfVDRFZ3Fhb2N0d1pLRG0zT2pfRVE2WGZvV0swMHBvT0I1SlFRTE5JcU1TT0xtV01XMjFwUF8wclJaRmdyaUgyM2hveGdtTE94UTdwZXhfTTkybmpIWVBjbE5iUQ?oc=5",
-   "fonte": "Fato Paulista",
-   "quando": 1794657290.0,
-   "categoria": "estado",
-   "fontes": [
-    "Fato Paulista"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 08:54",
-   "foto": "a25900e0caac.jpg",
-   "credito": "Foto: Fato Paulista",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://fatopaulista.com.br/alessandro-guedes-protocola-pedido-de-cpi-para-investigar-desvios-de-recursos-publicos-na-prefeitura-de-sao-paulo/"
-  },
-  {
-   "titulo": "Siga Fácil: prazo para quitar débitos e cancelar multas termina segunda - Grupo Rio Claro, São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzVmdW43cHl6cWVVdnlhU0hWcHNLaXVsb2ZyR2xUMFlOQUduYlk3bVBMWjJPWWhUYUVYd01PSUs0d2xBLVZsYTlkU3IxaGtGMUpFdl9QejEzWngyaUM3WnVyTHNGZWxPMlVCaXYzRGtYUVh3ZWVzSFg5dUZRb0NKYlBOZmZyNTlnVHpHdjRPVUNLWEphUk9uSjZadHBmeDhjNmJIMDViUjFpYm56eHBfVjRB?oc=5",
-   "fonte": "Grupo Rio Claro, São Paulo",
-   "quando": 1794657197.0,
-   "categoria": "estado",
-   "fontes": [
-    "Grupo Rio Claro, São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 08:53",
-   "foto": "e7f07d1d818d.jpg",
-   "credito": "Foto: Grupo Rio Claro, São Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1080x608",
-   "materia_url": "https://www.gruporioclarosp.com.br/geral/siga-facil-prazo-para-quitar-debitos-e-cancelar-multas-termina-segunda/"
-  },
-  {
-   "titulo": "Defesa Civil alerta para temporais em todo o estado de SP; veja regiões em risco e recomendações - Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1NOaURNbkFCem90eVJUWmtxR2lKY3BtREtDcnpJRjJYNDNReUJPN21fR1dJRFJfMTE1Q3JyLUpvbVhoMnF0eDVGQWc5dHotSkV5ZWNSMnRsM1NVLV9PNG1aT1U0V1N0R2RFQXpOUGQwYkQ4YkduRjZ0V2hOT1JQaWJseXI5QnAybnVEREJEMWU1ZlBmOGExRlJJOU5vcTF6NHRUTk9qN0hrRG9wdGVFYmtlVkNJMVVqREdmdUZCUkprUEtkVkZOZU8xcnFYd0d3RVpaTlJtdVc4UQ?oc=5",
-   "fonte": "Rádio Itatiaia",
-   "quando": 1794657165.0,
-   "categoria": "estado",
-   "fontes": [
-    "Rádio Itatiaia"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 08:52",
-   "foto": "1a1c8b88b78b.jpg",
-   "credito": "Foto: Rádio Itatiaia",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://www.itatiaia.com.br/brasil/sudeste/sp/defesa-civil-alerta-para-temporais-em-todo-o-estado-de-sp-veja-regioes-em-risco-e-recomendacoes/"
-  },
-  {
-   "titulo": "Instituto de Pesca de SP monitora os efeitos do El Niño sobre a atividade pesqueira paulista - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2p3QjlKbTRKLXlUNm11d1lVTDJrNkp0Vll0YWJ1VVdrZTd6ODRpVHpudHg3Q1Y5SDJXVlNfT2UyV2V2YTcxZFgtNFdwOTFoWVl1R2JWNWQtWENVa3Z2ZmxWOUFWNDVRdTJGdWlsb1V0V0lYbHF5TE5CWUZlQTN5TFVfM2lBcThaMl9jSktrU1daUXlOcHBXZ0k0dEpUeTg5YlJWSXlfelpVUnl6dnQyLVR0S21ZYzlncFVzbGRYUkFMbG5qRHhWS0x3?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794653820.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 07:57",
-   "foto": "83c792336807.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1024x768",
-   "materia_url": "https://www.agenciasp.sp.gov.br/agro/instituto-de-pesca-de-sp-monitora-os-efeitos-do-el-nino-sobre-a-atividade-pesqueira-paulista/"
-  },
-  {
-   "titulo": "Como saber se tenho pendências no Siga Fácil? Prazo para quitar valores acaba nesta segunda (16) - csastudiowebradio.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGdfSlpSOUY4Ty1ER001aUI3U3ozVUtZX2RXc1JtSjBrdzNwc0pvV2ZGeTMxcHl3allpOTBSX2hWSDdXcGM3R2hTdnY1R0hMT1oyLTRsd0pWWnNGQ3d0VlpsR052bkRyV0xLc2tGY0hmYlplVVVRVGJnMWc5bUk4eHJyU1FEN2NmWkxLeGE1bzdJSVMzNlJNZUlodHE3bWRaWE9IQzdmbVR5eG1DZ3R4UkltZmtBWjZrVi1aV3hac0xlb20xUExrcUpqdi1JdlBkelhOSHd1b1N2RVpMTGc?oc=5",
-   "fonte": "csastudiowebradio.com.br",
-   "quando": 1794652680.0,
-   "categoria": "estado",
-   "fontes": [
-    "csastudiowebradio.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 07:38",
-   "foto": "ed6fcccfa2e3.jpg",
-   "credito": "Foto: csastudiowebradio.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "700x393",
-   "materia_url": "https://csastudiowebradio.com.br/noticia/67143/como-saber-se-tenho-pendencias-no-siga-facil-prazo-para-quitar-valores-acaba-nesta-segunda-16-/amp"
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/quadra-publica-futebol-society-fazenda-grande-jundiai/"
   }
  ]
 }
