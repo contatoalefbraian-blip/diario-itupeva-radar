@@ -30,8 +30,6 @@ MARCAS = {
                            "emergencial", "situacao de emergencia", "art. 75", "art. 74"],
     "aditivo": ["termo aditivo", "aditamento", "acrescimo", "prorrogacao de prazo", "reequilibrio", "reajuste contratual"],
     "concurso/selecao": ["concurso publico", "processo seletivo", "convocacao de aprovados", "classificacao final"],
-    "decreto": ["decreto n"],
-    "lei": ["lei n", "lei complementar n"],
     "audiencia publica": ["audiencia publica", "consulta publica"],
 }
 NOMEACOES = ["nomeia", "nomear", "exonera", "exonerar"]
@@ -64,7 +62,7 @@ def link_de(e):
 def texto_por_pagina(pdf):
     open("/tmp/ed.pdf", "wb").write(pdf)
     t = subprocess.run(["pdftotext", "/tmp/ed.pdf", "-"], capture_output=True, text=True).stdout
-    return t.split("\f")
+    return unicodedata.normalize("NFKC", t).split("\f")
 
 
 def valores(t):
@@ -83,7 +81,8 @@ def atos(paginas):
     for n, pag in enumerate(paginas, 1):
         for linha in pag.splitlines():
             l = linha.strip()
-            if not l or l.startswith(("IMPRENSA OFICIAL", "Diário Oficial assinado", "Publicação Oficial")):
+            if not l or l.startswith(("IMPRENSA OFICIAL", "Diário Oficial assinado", "Publicação Oficial",
+                                      "Município de Itupeva - SP", "Diário Oficial")) or re.match(r"^(Segunda|Terça|Quarta|Quinta|Sexta|Sábado|Domingo)-?feira?,? \d", l):
                 continue
             nl = norm(l).upper()
             if l.isupper() and len(l) >= 6 and nl.startswith(CABECALHOS):
@@ -102,6 +101,11 @@ def analisar(e, paginas):
             nomeacoes += 1
             continue
         tags = [m for m, termos in MARCAS.items() if any(x in t for x in termos)]
+        nt = norm(titulo)
+        if nt.startswith("decreto"):
+            tags.append("decreto")
+        elif nt.startswith("lei"):
+            tags.append("lei")
         vs = valores(corpo)
         maior = max(vs) if vs else 0
         if maior >= VALOR_ALTO:
