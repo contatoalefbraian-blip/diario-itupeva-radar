@@ -1,7 +1,29 @@
 {
- "gerado": "14/11/2026 14:20",
+ "gerado": "14/11/2026 15:04",
  "desde": "14/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "Acidente entre dois carros em rodovia de Jundiaí deixa ferido em estado grave - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOUE3aHJEQmg3TUZMdTRncUZvQ1JGR0VtX1NyVWZOMkpvRUFZSGFlVVRlVVpSLUU4SXhROUNHWExScnprcXhfUmd3YUNwSHFoV0Q2ck82cHFkcmFJT1Y2SHJBQ0pLWHN1ci0tZ0JxSGEtNzVpZ1hKUDJ2ZDQ1encxekltOXlDOW56YmN6elJGVHBaMFNLYldZY1JNMUFuWWtYVFk1ek8xQjB4TDZPOXNPM2xYYy1sdFJQTUpXbThLUU9vaW55QU1RdE1DU3A3SjFiLWxSdjY2OThmNknSAeoBQVVfeXFMTnlySFVycjdHQzZmQUFNaU01eFFuTExMMmFjS25nWlpHbUZlR19xTS1XZWJBLVFnX1p4RWJSRXdGZ25IOVU4UUUwYmE1aHBxRmxXUG02WmdQRUR1cTZjZU9CSkRoQTdDemUxc0VNQ3BNN3p1czFjTEo0NjJuQ2dWQTFrLWk3SzZzWjFfdGJOWks4YmdNbkVwc3J3N3lHMU1YRjZXbDNNdjJza1FqOHRyZzVIUFJocjhjd0kwQUJYODZOSExXT1dKbVVJQ3VhM1Z4bHA3UWI2ZjFsWFpqcWRhU2RicHJoRGEyXzhR?oc=5",
+   "fonte": "G1",
+   "quando": 1794675675.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1",
+    "www.radioviramundo.com"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 13,
+   "hora": "14/11 14:01",
+   "foto": "b6d730845d4f.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1270x838",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/acidente-entre-dois-carros-em-rodovia-de-jundiai-deixa-ferido-em-estado-grave.ghtml"
+  },
   {
    "titulo": "Mulher morre após passar mal e cair na rua em Jundiaí - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzI4bXBLQ2FJR2ZVd2ZzeVhtdF9jTUpkVEJfcVJDVU5EeHRzVmpwTWNkbWV3RGNVd1FZYUMydkhyOXZOZmRKTWNqZ2VGZWlTeG9vOXhEb2JWSWcxa2VuSkVqcEpUZWZGWmpVOHJXbjk4ZDlralUxZUk3b1FadzF1bjJ0Y2wtQTJSdjJ5Yl9Wa3lVaFhnZVczQ2p6Nk5RVko4X2x1RUVFUC1ZV1NTY2lCM19sYmhyQ1FDZUJZ?oc=5",
@@ -23,7 +45,7 @@
   },
   {
    "titulo": "Polícia interdita escritório de falsos sorteios em Araçatuba, SP - G1",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0x6SHVhLVR1S1VmREdhUEJCczd4V0NXZFB2OGxRWVRaajRiQmJoeDlQZE0wWG1IbVRFNnlZckRaTUl2OENKVnJBcW1vOENXVktHa1RuS2Z6TGRnbVRuYnlBb0M2NkxrdXZ3aml0Z1JGN2hpVHdKVlBTTXN3MHc0QktQUU50V2pWcWhtaE5GbDRPQ3k4b215WV9pT2RuX3dLOS1kZ01ULVBjUXNDcVBiYzN2T0t2Q1VGZmNnN0FzUGJvaW_SAdIBQVVfeXFMTTRJc3ViZVVLeEZHOFdsQjd3NFlIUF93VDRLb05HdnBxbngtQmN4anBIWGZ3LUtrODRJRzBrN1RXSGV1a2U5TmVlZ19XcTJ3dm1OMDNhTjU0RGFsVmRPZGRUTTdTVHFFRGtMU2p1Z2hCVWd5YTZXSy00Y1J1dTdwUDJ2NlVIQmJPWlRxaHZzNTNKMmZ4eXFHcUpaenpoS2lpcnoxNWdrbmVXSGZLWlI4UDQtSUVKNm51cTAwOGJXZEJlbkxaR3FvVng2RFAtS3EtTUZn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNElzdWJlVUt4Rkc4V2xCN3c0WUhQX3dUNEtvTkd2cHFueC1CY3hqcEhYZnctS2s4NElHMGs3VFdIZXVrZTlOZWVnX1dxMnd2bU4wM2FONTREYWxWZE9kZFRNN1NUcUVEa0xTanVnaEJVZ3lhNldLLTRjUnV1N3BQMnY2VUhCYk9aVHFodnM1M0oyZnh5cUdxSlp6emhLaWlyejE1Z2tuZVdIZktaUjhQNC1JRUo2bnVxMDA4YldkQmVuTFpHcW9WeDZEUC1LcS1NRmfSAdIBQVVfeXFMTTRJc3ViZVVLeEZHOFdsQjd3NFlIUF93VDRLb05HdnBxbngtQmN4anBIWGZ3LUtrODRJRzBrN1RXSGV1a2U5TmVlZ19XcTJ3dm1OMDNhTjU0RGFsVmRPZGRUTTdTVHFFRGtMU2p1Z2hCVWd5YTZXSy00Y1J1dTdwUDJ2NlVIQmJPWlRxaHZzNTNKMmZ4eXFHcUpaenpoS2lpcnoxNWdrbmVXSGZLWlI4UDQtSUVKNm51cTAwOGJXZEJlbkxaR3FvVng2RFAtS3EtTUZn?oc=5",
    "fonte": "G1",
    "quando": 1794669497.0,
    "categoria": "regiao",
@@ -42,6 +64,84 @@
    "foto_tipo": "materia",
    "foto_tamanho": "405x720",
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/policia-interdita-escritorio-de-falsos-sorteios-em-aracatuba-sp-15188014.ghtml"
+  },
+  {
+   "titulo": "IML de Jundiaí procura pelos familiares de Thaís Silva - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzFuZ1JrYzJWTl9SZlgtdjMzVXN4bEpySkE2S1d6Mi0zck5iNzR5WlQ2NXJpTFdlS2ZSajRnbVZ2eXF1NkdJeF9QS0xZNzhBUmdRM2ZTYnZCNlN1Qlo2QTlfOGdJVGR3U1RaVXZTWFZrRXNzZno2ZFA3UVh6V0E2NnBKVlhCWkdtazBIZw?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794677816.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "14/11 14:36",
+   "foto": "2ddd4915d1e9.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/14/iml-de-jundiai-procura-pelos-familiares-de-thais-silva/"
+  },
+  {
+   "titulo": "Moto é furtada no Monte Serrat, em Itupeva - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hTjdmU3VoSE5lNWNFbmk4T0tYMkdjNWNZNkdBcjBlSERNTG92enlSc2tNRkI0N29BWkdwTkRPYXFTel9KTWE3eVZaZFZkUVJicjJ5LWYtNFctQUdrOTRZZG9SQ2JIb2pmVGJlRDI2Qml4WEpKZmRQeDN5MA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794677134.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "14/11 14:25",
+   "foto": "1d09aa2f0108.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/14/moto-e-furtada-no-monte-serrat-em-itupeva/"
+  },
+  {
+   "titulo": "Mulher é presa após invadir casa da ex-sogra armada com faca - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVIwbHZIeFBuYmpfbXdQRElwaTIxZ2xwRzJFem9ONkFZZ3Ita0h0R0lGV2kwTG4tSFd0LXVHMDRHczdSMjNObHF1eURfNU5zOHpCM25kSFBXcUlNdFBDX1ZMb0x5cUV6dUtxOGRMYWNXQnAwYkt1M2l6T2lfOXJPeF8wYXpnVlFLNEY2bmFGdkk5ejZD?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794676749.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "14/11 14:19",
+   "foto": "7d379e88c3c7.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/14/mulher-e-presa-apos-invadir-casa-da-ex-sogra-armada-com-faca/"
+  },
+  {
+   "titulo": "Homem é executado em estrada rural de Cabreúva com vários tiros - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUU5M0FkSjlGRmRtQjdjT1I1b29qVGFvVzBIMmdUODZlRkFzaGg0WVRqaE1EMEhpckxyak5ra3BhaTYtSDBNc0pJX2FFYjVqdDlyWDI2WjZCamtiY2stY3lkTlNwaF9NaW4yZVJ1Zk1DR2xEXzYxY1A3dC0ydEFyYXhKMU9ST2dNdjh3N1JHRE5rN045ZTUyaQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794674036.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "14/11 13:33",
+   "foto": "e92dc06b956d.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/14/homem-e-executado-em-estrada-rural-de-cabreuva-com-varios-tiros/"
   },
   {
    "titulo": "Fundo Social de Solidariedade abre inscrições para Workshop de Panetone - Tribuna de Jundiaí",
@@ -86,6 +186,129 @@
    "foto_tamanho": "844x1024"
   },
   {
+   "titulo": "Governo aumenta imposto sobre pneus importados para 30% e motoristas podem pagar mais caro - Lavras24Horas",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFZnOWVFU1R3YzFTZE5kQWdzUk5JQzNYdzJxblRrQjRUVXNfUEZZZER2UEQ4YlJSbTBmcEJNa2xLMm1zMlg4LThMTHJ2ZU1hdjg0bjZiblY3TncxY0VTWjdVbGlwM2ZtdUpheXN5eEVfbDFJaHByNHV3dmt1MWRuQmpVRTlzeWQ2R1JXY09OZS1jNUJzQmxsZmEwN2hsQVJfOWtXZG9SUlBnTlN4Nm9sTldCYUlMcVVNUFRxRmFzNl9MWllLQWdNWXln?oc=5",
+   "fonte": "Lavras24Horas",
+   "quando": 1794678826.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Lavras24Horas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 14:53",
+   "foto": "8111417b48f6.jpg",
+   "credito": "Foto: Lavras24Horas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://www.lavras24horas.com.br/portal/governo-aumenta-imposto-sobre-pneus-importados-para-30-e-motoristas-podem-pagar-mais-caro/"
+  },
+  {
+   "titulo": "Em vídeo, ministro afirma que ajuste fiscal preserva direitos e combate privilégios - InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlBEWWk1N1hBVUM3NEFZTDFJRHJKWDAzcGNFVm1CS2N4NERFdFlTVzV5MThjUVM5M0hiYWlkTzB1dENCd2REeXJKSHE5THhxTzFXZGhmMV9lNjJwMTRCQzVyZm4yclB0ei1HdGZJcTdQeFZlQUo3ejBWVEsxRi1qQ3dZV2VhQk81SWh4ZHA2UDJNbmVKaW9KX3ZfR1c0dXI0QlNKNjNQeVJhYU4zVWk0WkFZRC1Rd19RazVkdGxR0gHDAUFVX3lxTE91cnp5UmlKVVRVbVRwYkhrVnRmZmhGQ25RME94cVNVUXNoWlZJTVlOM1h4RUJUZFdoZV9QWTluWUJ3M1M3Wkh0M0JzcFNidXBwaDRiNGxjVWVTbUpQa3VQV0hxcUhwOVFtSzFhZmItODNObDVqcl9FVWdoYUFTZHpmcWg1VTI2WGpHbWNHN3JIVTlVVW42SFZ0NjhOWU9POG1VMHV1d2loUjl5dmNmMG5maExoZ2M2VnBqZ1N5WTRxOWpmQQ?oc=5",
+   "fonte": "InfoMoney",
+   "quando": 1794678633.0,
+   "categoria": "brasil",
+   "fontes": [
+    "InfoMoney"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 14:50",
+   "foto": "cb9a98dfdd70.jpg",
+   "credito": "Foto: InfoMoney",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1120x720",
+   "materia_url": "https://www.infomoney.com.br/politica/em-video-ministro-afirma-que-ajuste-fiscal-preserva-direitos-e-combate-privilegios/"
+  },
+  {
+   "titulo": "Antena 10 FM - Antena 10 FM",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONnFQOUd1eEhBTzlDelhvY3pQeGJLSnMwZ2xKbTZ1czJfc3lJYkhkUDhBWmUwR2RCSWxzYl96dXdJQXBWVWFJSWt2bXNCd1g2TVk1TDR5M004TGZJQm9WQ1FvNzZ2UTM4OUxCUXlFMTZMWnYyeW1MZlo3N0hYbFdMTVc1RWRsdEtVaTZ2X1NnWUtheGVzZXdhbFlfUkdQSGF5RVlfRzd2eFh2b0loM2lJdVJQVU1mcTcyeGRfcWJmQ2lVeTdjYXc?oc=5",
+   "fonte": "Antena 10 FM",
+   "quando": 1794676892.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Antena 10 FM"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 14:21",
+   "foto": "aeb8b520f10b.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Aliado de Lula critica pacote de corte de gastos e cobra defesa do projeto eleito nas urnas - Bnews",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeko4WUh2RzJuVXZCSmR3dUgtenEzNGN3V2o1Qi1EME82RE9lYWlBaHlhUm1wdkF6Z2Zmemx3dGkzQ2VBTEk1d0c4R3ozRTFfQ2MxbTB4djZBVjBZZDlBekgxTEU3ODBSOVpYUFlrR3Axekg4VmZqYjNEOTR4UVNoOThzLUxmRU54ekxGWkdTMGFoMTBQR0lrd2lSOFc3aHNFNXZNRzdqWU1mbFE1OFR3T3F5LTV6bjVlMThkR3U2UWJjbk51cnlJQ1VFRGprd0pEaGR4UnRn0gHbAUFVX3lxTFB6TVBjaWlaUk4yUmY5VUdQR09Eb2hQdWNxazlTclBRVXpzY0JjLUdsTU1heFhIYjRkYjN1anhDRXNwdktZWXZUT0wxV2FfaWNWb0ZNdEswbU5JSEVGQjhOREZ0ZEVaejlxckNTWjJQZ1pjM2JoRkdNdWxNWUFpM2toZ2JSZzJUNHBJMk9Ya3BtR3pWSUJpaDNNclcyTjktQjRDbkhyUnphalJSSDllUGJ2bUJYTVlKNVhZbnRPbmdObnJRQVEzQjFqUm5TMTltWnBxWnBRdjJPcU5iQQ?oc=5",
+   "fonte": "Bnews",
+   "quando": 1794676308.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Bnews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 14:11",
+   "foto": "c4a59d230cc5.jpg",
+   "credito": "Foto: Bnews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://www.bnews.com.br/noticias/politica/aliado-de-lula-critica-pacote-de-corte-de-gastos-e-cobra-defesa-do-projeto-eleito-nas-urnas.html"
+  },
+  {
+   "titulo": "Rodovia Presidente Dutra registra tráfego normal neste sábado (14) - Costa Norte",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHJBdjB2ZldlWTVfVEdyUXExMWtycGV1ajBwbjloUnhxejJfSzd0bnBob2lVdzFSYzZJSWdtWDVMVVM3ckR0T1l3Y1BFcnQwVmp6dFhnZ0hkR0J6eXlvM3Z5NVJkRk45UUJEby1pN0wtRHpnMVpXcm9jY29PUmpZWTZjWW01RkVEQnBFWXM0RUwtQnRmWVNDRlBpdmZKTGVYUkZZeG5IUkxwZUxiZ2lGNzVubjh4NlYy0gG-AUFVX3lxTE5rRGQ0TmRzVXRQa2RTVDFpSXJWSi1BMXltQUl6ZVhEYlBUbnVzY25kRXh1RklUZ2lZaThTM1FDYjlpWTM4cHlRVl9SSDRmZ1RvU3liV0tqXzE4X3NOYl9GM281R09CdEt2MXFSTzlWc0Ixc1lmTHVfZTBDak1mdUpyTWhhMWJPOEltM1FiQkNiMld6VkpnZ3ZYcUczamRzVVpmbEc1VTdVQk5LR3dCcnVqNW1LQU9qN3B5Z1k4dHc?oc=5",
+   "fonte": "Costa Norte",
+   "quando": 1794676159.0,
+   "categoria": "estado",
+   "fontes": [
+    "Costa Norte"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "14/11 14:09",
+   "foto": "c522857dc56b.jpg",
+   "credito": "Foto: Costa Norte",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x450",
+   "materia_url": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-sabado-14.html"
+  },
+  {
+   "titulo": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo - Terra",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYm9RcXZVOGN3ZXlPYmJTaEptbThYWTYxUkZPMjJvZkFTclVDTFFQZ0JLN0ZRMEJFRWhXOXMtTXZCdmsyNnM0M21HbkRSYWM1Q2hfeWxIa21hZjdSaGM1bmpCYklCaXJkRFo1dVY4YkVYRTZlZWR2VzBaQjRscmdUUHJITW9hSy0zNUF3NWNBTGV6Y3JJUzVDSVQ4NkpHS0tDY0RtLTZIVHRTMGNKM2d6ZENyb1ZNOVR6TGZVLU9nUUtxQ24zeVNFd0tPelRFdmpHY2Z3Y2t2azJzWEp1Skl1Q3VoRllFT0pGbEkzSGY4R0s?oc=5",
+   "fonte": "Terra",
+   "quando": 1794675480.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 13:58",
+   "foto": "afbe524b4b1f.jpg",
+   "credito": "Foto: Terra",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://www.terra.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo,7a1d10971e7643219f24c9c99d955e178ubm5a1v.html"
+  },
+  {
    "titulo": "Prazo para quitar débitos no pedágio free flow termina segunda-feira no Estado - RD – Repórter Diário",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXZyS3U2N2k1ZXNwYU4zbVJHdTZ1V3hJVUJkQVZ1clFWVlZyZkNZeUxkTGJMRXN3em1VU0dKa2k1dmFFYWoxM2tTNXMyREV3ZzM0SjBhNm9WSnBrTE5sVHlIOVBKWFRnMFpiNG0tb29NeVB2M1BsSHJEWHRMQ25rMXFhTjNfTkJqS0YyeklYYWZESDFJbVNQcWhQR3ZuVVJySmU0ZVIzWlNzY3NyUkJGY1NHM2o0aElXaGZRcnZvd2FpaGRqVTBDYw?oc=5",
    "fonte": "RD – Repórter Diário",
@@ -104,25 +327,6 @@
    "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x873"
-  },
-  {
-   "titulo": "Homem é executado em estrada rural de Cabreúva com vários tiros - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUU5M0FkSjlGRmRtQjdjT1I1b29qVGFvVzBIMmdUODZlRkFzaGg0WVRqaE1EMEhpckxyak5ra3BhaTYtSDBNc0pJX2FFYjVqdDlyWDI2WjZCamtiY2stY3lkTlNwaF9NaW4yZVJ1Zk1DR2xEXzYxY1A3dC0ydEFyYXhKMU9ST2dNdjh3N1JHRE5rN045ZTUyaQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794674036.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 13:33",
-   "foto": "e92dc06b956d.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "materia_url": "https://jr.jor.br/2026/11/14/homem-e-executado-em-estrada-rural-de-cabreuva-com-varios-tiros/"
   },
   {
    "titulo": "Senado se junta à Câmara e pede ao STF revisão da decisão sobre 6x1 - www.n3news.com.br",
@@ -207,23 +411,25 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/muito-alem-do-diagnostico-moradores-do-interior-de-sp-contam-os-desafios-de-viver-com-diabetes.ghtml"
   },
   {
-   "titulo": "São Paulo marca eleição que vai determinar novo presidente - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcENibWZfOUVLZEtDUEpiMDRzb1BFTGpWRDU3MjdPckhVMEJXMGxkeDdTQW5oejB2dEEyUkt3bW50WXY0WjRrX3c2UVhrWG5HSm5kQ2hNNWN1UFNDMXgyUG91bWU3S0pabW95RkJra2F6UjFuUGpkNC0tTGktU2xqd2JBSndwTjdaWWVjYzdBMEtIdGFRS0VmbnBVQzNWVy1DeURWaThvR2s?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794669588.0,
-   "categoria": "regiao",
+   "titulo": "Bancada do PT protocola projetos para ampliar tributação sobre grandes patrimônios, investimentos e dividendos - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ21WeEdKdlBBVDNmdXJ2NjdvOFJIRWh5X2JGaUFoU1R4anVXa0lXZFdTU21PaEx0dlBldTFnSF9ZSXY3NDdTZTFMdnVuMHFEWXdLY1hjc0F6aUlldzRXZGM5S09zZzJMWDVLeUtsbzl4QW9tdTA4Sm94X2x5RWhDUk83NjRzSGRBaXUzb0ZjbjZibkNuQXhQU0RSamJicU5wWUxWQVQ0SGRfanMzcmlET0hoLUk1el90RHRCdEx5d1BkUENqQjhYWW40dXI5bGpQV0ZsMFdvNXM4NHdRcDk0T3h3?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1794669685.0,
+   "categoria": "brasil",
    "fontes": [
-    "Tribuna de Jundiaí"
+    "Portal VV8"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "politica"
+   ],
    "pontos": 5,
-   "hora": "14/11 12:19",
-   "foto": "dd5eaf391e6c.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
+   "hora": "14/11 12:21",
+   "foto": "96eb2ee8a581.jpg",
+   "credito": "Foto: Portal VV8",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-marca-eleicao-que-vai-determinar-novo-presidente/"
+   "foto_tamanho": "1000x616",
+   "materia_url": "https://portalvv8.com.br/noticia/85597/bancada-do-pt-protocola-projetos-para-ampliar-tributacao-sobre-grandes-patrimonios-investimentos-e-dividendos"
   },
   {
    "titulo": "Drone mostra estragos em fábrica após incêndio e explosão em Salto; veja antes e depois - G1",
@@ -264,7 +470,7 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/imagens-de-drone-mostram-estragos-em-fabrica-apos-incendio-e-explosao-em-salto-15188001.ghtml"
   },
   {
-   "titulo": "PT apresenta pacote para tributar LCIs, LCAs e grandes fortunas e taxar em 15% lucros e dividendos - Gazeta do Povo",
+   "titulo": "PT propõe taxar dividendos em 15% e tributar LCI, LCA e fortunas - Gazeta do Povo",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2JxcVJOcGFLNFVxbnJ0R1RVOWk1S1hBMHUwMFVzLUY4RXFUVHlEeU5jVzJuejAweklOYlAyLUY0ajFROW9ycFZOSzJRUDZmYVJILVZ5anZZVktDNGo5bXJtd3RLLWx4cmFCMW5VWU1mcmVJcnZLNGlDR2s4NndkS2ZvWktUTXhFVGlidUFmRkJJdW0tNzJVN3BLM1Q?oc=5",
    "fonte": "Gazeta do Povo",
    "quando": 1794668940.0,
@@ -278,7 +484,7 @@
    ],
    "pontos": 5,
    "hora": "14/11 12:09",
-   "foto": "6bed76ba4b17.jpg",
+   "foto": "80fe8d8a6d1d.jpg",
    "credito": "Foto: Gazeta do Povo",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x986",
@@ -317,12 +523,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "14/11 11:24",
-   "foto": "8b25d7a0824b.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-eua-atrasos-cancelamentos-voos.ghtml"
+   "hora": "14/11 11:24"
   },
   {
    "titulo": "Incêndio destrói loja de acessórios para veículos em Araçatuba - G1",
@@ -336,12 +537,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 11:15",
-   "foto": "e667bcd539ca.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "405x720",
-   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/video/incendio-destroi-loja-de-acessorios-para-veiculos-em-aracatuba-15187957.ghtml"
+   "hora": "14/11 11:15"
   },
   {
    "titulo": "Giffa brinda aos 10 anos com blues, burger e chope em Jundiaí - Tribuna de Jundiaí",
@@ -355,12 +551,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 11:13",
-   "foto": "1507a4ab5cb1.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1400x930",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/giffa-brinda-aos-10-anos-com-blues-burger-e-chope-em-jundiai/"
+   "hora": "14/11 11:13"
   },
   {
    "titulo": "El Niño deve perder força no início de 2027, prevê meteorologia - Portal Correio",
@@ -374,12 +565,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 11:10",
-   "foto": "774f5768e956.jpg",
-   "credito": "Foto: Portal Correio",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x807",
-   "materia_url": "https://portalcorreio.com.br/el-nino-deve-perder-forca-no-inicio-de-2027-preve-meteorologia/"
+   "hora": "14/11 11:10"
   },
   {
    "titulo": "Corpo é encontrado na Estrada do Pé do Morro, em Cabreúva - Portal da Cidade - Cabreúva / SP",
@@ -393,12 +579,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 11:04",
-   "foto": "ff70d94344cd.jpg",
-   "credito": "Foto: Portal da Cidade - Cabreúva / SP",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://cabreuva.portaldacidade.com/noticias/cidade/corpo-e-encontrado-na-estrada-do-pe-do-morro-em-cabreuva-0633"
+   "hora": "14/11 11:04"
   },
   {
    "titulo": "São Paulo terá calor e risco de temporais com ventos de até 70 km/h - IstoÉ",
@@ -414,12 +595,23 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "14/11 11:01",
-   "foto": "c66e200a62ed.jpg",
-   "credito": "Foto: IstoÉ",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://istoe.com.br/sao-paulo-temporais-ventos-70-km-h-15-novembro-2026"
+   "hora": "14/11 11:01"
+  },
+  {
+   "titulo": "Gilmar reage à declaração de Moro sobre devolução de dinheiro para OAS do triplex atribuído a Lula: 'Desfaçatez' - O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaFFrc0dRU3hISVJaWDd3Yl9fQmtMckpabjN0REF3RnljWFYzWWFxWF9ESndoSHdHYURURkRPQzVnSEUwenFnck1BN3F5US0wM0FsV21Md1REOTRlTW9QTkl3MnNqU2tTZHp5TVlvM1MxOEd1UXhRT1E0QXcwQVdjV044WGZoOGhNWlJOcHRiQ0Q5dWxlSmZsam5tZ3p1dzhoU0JLVTFfdmhxbzVzRFllSnM5MHJCLUowbUtmNmdvTmh3c05WSjZreXRoM1JQZTV6QXJGMDF2X3lMU21sazdXbmMweGd0N3VIT3IzeE1UeEVBLTE0UVFmb9IBhwJBVV95cUxPXzRPZlV2S3Y0UVlKTjRsSjBwT3pEbU9BR3RfQWlpcEttdFpNX05sbmVkN21VMjdFZ3ZzNlhjWGpXRklxUHBjblA2SnUySmxtcnh1eEtfZllmdUpUbFVjYWpEZ1BIcFh2Mnk1MkJ5WGczS3pnS0tMZ21IQTB6TjhNd2N2bUI4cUtEa3dkclJnS2dJenp5bmFCSWlCRGtTOTYyZjFqaGJtazh3NnlXUDFidmM4R0xwc2xNRUZ3TjQ4ZWNHVU5ocTVZTHVZeFNqaFVQaUdTUmE0WG94OG8yQWtoT1FtMV9CTUFlMm5CSjZSRzNLcW9wNVo1bVRXQzZFWi0tY2gwS0F5MA?oc=5",
+   "fonte": "O GLOBO",
+   "quando": 1794664673.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O GLOBO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 10:57"
   },
   {
    "titulo": "Lotofácil premia aposta de Jundiaí com mais de R$ 1,6 milhão; confira resultado - vtvnews.com.br",
@@ -433,12 +625,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 10:47",
-   "foto": "bc7da628da23.jpg",
-   "credito": "Foto: vtvnews.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "materia_url": "https://vtvnews.com.br/noticias/cotidiano/lotofacil-aposta-jundiai-milhao-cc/"
+   "hora": "14/11 10:47"
   },
   {
    "titulo": "Vetor Oeste terá quadra pública de futebol society e novo espaço de lazer no Fazenda Grande - Tribuna de Jundiaí",
@@ -452,12 +639,21 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 10:40",
-   "foto": "44337f17fb88.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1400x930",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/quadra-publica-futebol-society-fazenda-grande-jundiai/"
+   "hora": "14/11 10:40"
+  },
+  {
+   "titulo": "Lotofácil 3829: uma aposta de Jundiaí ganha R$ 1,64 milhão; veja os números sorteados nesta sexta-feira (13/11) - Varginha Online",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nVk5XdkswQVpxOU5hRW9xR1hTUDROZ1Q3QU5KQUQ5ZDRtVlFiTWxnMWY2YXlmV3Rzd3Q3RmdEZTJZd0s3bnFpTk5PSUJNazFad3dnRDVrWnZ3anFCV3ZxU2tObXVRSE9OSVlYRzJSbDNkWnZ5V09PZVZn?oc=5",
+   "fonte": "Varginha Online",
+   "quando": 1794663489.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Varginha Online"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 10:38"
   },
   {
    "titulo": "Time São Paulo Paralímpico completa 15 anos com 157 atletas em 16 modalidades - Diário de São Paulo",
@@ -471,12 +667,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "14/11 13:39",
-   "foto": "dcc30160c0a1.jpg",
-   "credito": "Foto: Diário de São Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "980x551",
-   "materia_url": "https://spdiario.com.br/noticias/esportes/time-sao-paulo-paralimpico-completa-15-anos-com-157-atletas-em-16-modalidades.html"
+   "hora": "14/11 13:39"
   },
   {
    "titulo": "Prazo para regularizar tarifas do Siga Fácil termina na segunda-feira (16) - Diário de São Paulo",
@@ -490,12 +681,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "14/11 13:39",
-   "foto": "db61dc82ed54.jpg",
-   "credito": "Foto: Diário de São Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "980x551",
-   "materia_url": "https://spdiario.com.br/noticias/noticias-de-sp/prazo-para-regularizar-tarifas-do-siga-facil-termina-na-segunda-feira-16.html"
+   "hora": "14/11 13:39"
   },
   {
    "titulo": "Estudo com apoio da Fapesp busca voluntárias com depressão pós-parto para testar nova abordagem terapêutica - agenciasp.sp.gov.br",
