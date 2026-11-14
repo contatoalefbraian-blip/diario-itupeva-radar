@@ -12,8 +12,7 @@ jobs:
     steps:
       - name: business discovery
         env:
-          META_TOKEN: ${{ secrets.META_TOKEN }}
-          META_FB_TOKEN: ${{ secrets.META_FB_TOKEN }}
+          META_IG_LEITURA: ${{ secrets.META_IG_LEITURA }}
         run: |
           python3 - <<'PY'
           import json, os, urllib.parse, urllib.request
@@ -24,11 +23,11 @@ jobs:
                   return f"tipo={d.get('type')} app={d.get('application')} escopos={d.get('scopes')}"
               except urllib.error.HTTPError as e:
                   return "debug indisponivel: " + str(json.loads(e.read() or b'{}').get('error', {}).get('message'))
-          for nome in ["META_TOKEN", "META_FB_TOKEN"]:
+          for nome in ["META_IG_LEITURA"]:
             tok = os.environ.get(nome, "")
             print("\n########", nome, "|", escopos(tok) if tok else "ausente")
             if not tok: continue
-            for u in ["coisasdaregiao", "jrjundiai"]:
+            for u in ["coisasdaregiao", "jrjundiai", "ia_noticias", "avozdaregiao.jundiai", "jornaldejundiai", "expressao.jornal", "coisasdeitupeva"]:
                 campos = f"business_discovery.username({u}){{username,followers_count,media_count,media.limit(3){{timestamp,caption,permalink,media_type}}}}"
                 url = f"https://graph.facebook.com/v21.0/{IG}?" + urllib.parse.urlencode({"fields": campos, "access_token": tok})
                 print("\n=====", u)
