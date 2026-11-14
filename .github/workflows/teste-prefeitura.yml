@@ -1,5 +1,5 @@
 name: teste-prefeitura
-# Teste manual, so leitura: descobre como a Imprensa Oficial de Itupeva lista as edicoes.
+# Teste manual, so leitura: lista as ultimas edicoes da Imprensa Oficial de Itupeva e tenta ler o texto da mais recente.
 # Nao grava nada no repositorio e nao publica nada.
 on:
   workflow_dispatch: {}
@@ -8,24 +8,34 @@ permissions:
 jobs:
   ler:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
-      - name: investigar imprensa oficial
+      - name: ler edicoes
         run: |
+          sudo apt-get -qq install -y poppler-utils >/dev/null 2>&1 || true
           python3 - <<'PY'
-          import re, urllib.request
+          import base64, json, re, subprocess, urllib.request
           UA = {"User-Agent": "Mozilla/5.0 (radar Diario de Itupeva)"}
           def get(u):
-              r = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30)
-              return r.read().decode("utf-8", "replace")
-          base = "https://imprensaoficialmunicipal.com.br"
-          h = get(base + "/itupeva")
-          print("== scripts"); [print(s) for s in re.findall(r'<script[^>]+src="([^"]+)"', h)]
-          print("== urls internas")
-          for u in sorted(set(re.findall(r'["\'](/?[a-z0-9_\-/]+\.(?:php|json|pdf)[^"\']*)["\']', h, re.I)))[:40]: print(u)
-          print("== trechos com ajax/fetch/edicao")
-          for m in re.finditer(r'(ajax|fetch\(|\$\.get|\$\.post|edicao|edição|listar|getJSON)', h, re.I):
-              print("...", re.sub(r"\s+", " ", h[max(0,m.start()-200):m.start()+300])); print()
-          print("== formularios"); [print(f) for f in re.findall(r'<form[^>]*>', h)]
-          print("== inputs"); [print(f) for f in re.findall(r'<input[^>]*>', h)][:20]
+              return urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=60)
+          raw = get("https://dosp.com.br/api/index.php/dioe.js/4924?callback=dioe").read().decode("utf-8", "replace")
+          d = json.loads(raw[raw.index("(") + 1: raw.rindex(")")])
+          eds = d.get("data", [])
+          print(len(eds), "edicoes; campos:", list(eds[0].keys()) if eds else None)
+          for e in eds[:8]:
+              print({k: e.get(k) for k in ("data", "edicao_do", "pgtotal", "flag_extra", "iddo", "link", "cadernos_texto")})
+          e = eds[0]
+          link = e.get("link") or "https://dosp.com.br/exibe_do.php?i=" + base64.b64encode(str(e["iddo"]).encode()).decode()
+          print("\nLINK:", link)
+          r = get(link); conteudo = r.read()
+          print("tipo:", r.headers.get("Content-Type"), "| bytes:", len(conteudo), "| inicio:", conteudo[:8])
+          if conteudo[:4] != b"%PDF":
+              h = conteudo.decode("utf-8", "replace")
+              pdfs = re.findall(r'["\']([^"\']+\.pdf[^"\']*)["\']', h, re.I) + re.findall(r'(?:src|href|data)=["\']([^"\']+)["\']', h)[:15]
+              print("links na pagina:", pdfs[:20])
+          else:
+              open("/tmp/ed.pdf", "wb").write(conteudo)
+              t = subprocess.run(["pdftotext", "-layout", "-l", "3", "/tmp/ed.pdf", "-"], capture_output=True, text=True).stdout
+              print("TEXTO (3 primeiras paginas), caracteres:", len(t))
+              print(re.sub(r"[ \t]+", " ", t)[:2500])
           PY
