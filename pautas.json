@@ -1,5 +1,5 @@
 {
- "gerado": "13/11/2026 22:17",
+ "gerado": "13/11/2026 23:22",
  "desde": "13/11/2026 16:35",
  "pautas": [
   {
@@ -87,6 +87,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x900",
    "materia_url": "https://tribunadejundiai.com.br/economia/empregos/ciee-vagas-estagio-jovem-aprendiz-jundiai/"
+  },
+  {
+   "titulo": "Morador de Várzea Paulista acha ossada humana em obra rodoviária - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWpkVDkwM2I0ZVhvekZHQTRQaE04WHlXQ0g1eUt6d2hyTkxrRWVEX3JRaWk2cm51SndzM3N0ZmZLZTRpb1JQcmVCN3NsdkZfTDZhbGJxUUdKdmdaanVqMm1aZHJQNXBVaC1UMXg2VnpUTUltekNpNXE0ekVpVGE0WVNxV2Fra2t3NFJkM0kzdUZ0d0V1UmNzeTJ3?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794619564.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "13/11 22:26",
+   "foto": "86ee2b629311.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/13/morador-de-varzea-paulista-acha-ossada-humana-em-obra-rodoviaria/"
   },
   {
    "titulo": "Jovem de 22 anos é preso no Residencial Jundiaí com mais de 100 porções de drogas - JORNAL DA REGIÃO",
@@ -278,6 +299,67 @@
    "materia_url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-sabado-sao-paulo-tera-calor-trovoadas-e-chuva-em-parte-do-estado/"
   },
   {
+   "titulo": "Suspensão de voos nos EUA: secretário cita inconsistências entre radar e torre e diz que sistema de tráfego aéreo é velho - G1",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2pRak9jRWR3VnpjSDJTZ0lSZVJXUGhSaDdRM3lCd3ZWZVV3TFRLLTJwVWxBSFdQMUIzVmhlc3l5OTBscXBfX1NsR0NZeGp5RmlCMmhyOHdCRGp0MllrVW91RmFBcEdORUpodG5VZ25ZbnN4ejMzOEFOXzFjbEhTb2hKRzFCdHNjVUxsN2Z0bUZBT2NwS0Y3MFBUYkNJSndKNDBBOVk1SlgzcmEyLWJvUmxGb1luZDgyN0tENHB5ajRqQThzZWZqQVhveXpDMnBVdUt1ZGdlSDItNWVUNlFCMVJPeEtxYWtRdkVQRXU5RFRkNEYzLXMzeWlyR3RzUdIBjAJBVV95cUxPZlA1R09IZVFsejBzaF9BQktzaE91VlRCZjFUVW9ZN3Y4LXdHaFZiVlRsdE9VYVlnajRMVnFjdE8tTnYxVHk2amdzVnZRZEh2eENOcEtmNTIxTUU1RnhYamlnSW9QSWdEMTN3Zmh2a1JHbUtVeG4tb2dKb2JPUXV6a3NyMDlkRTBPbjFxUWFuUVNwUWVXcHJXOUlMaExLV1YwcUJhZFFqU2x4TFFLQ3hVY1RlMWRwSUxidWtEZk5Fb3ZJRFBZYjNwVWxHajhOaTZqQmhIeDVzVWJPRDBlYXlZWUZ6RkI2dFRvajdQeHI0dHV1UmZQdnBWNlREQ2VYZndfTUFPdVcwb2g1Q3dN?oc=5",
+   "fonte": "G1",
+   "quando": 1794620223.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 22:37",
+   "foto": "64ea85708c23.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "materia_url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-secretario-diz-que-houve-inconsistencias-entre-radar-e-torre-e-que-sistema-de-trafego-aereo-e-velho.ghtml"
+  },
+  {
+   "titulo": "Apostador do Medeiros, em Jundiaí, gasta R$ 3,50 e ganha R$ 1,6 milhão na Lotofácil - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzJzQXVzNWxRcGI2SkFubTZHVnlQMUpPVzZTUHRZUzZYb1NBcFZwcW1YdW9NSnVjLXBxZ3VxWVlaMFMtY0dXVVRFcGRZWmc0Y01pVVZmalJOU3lRZ3BVNzFPeHJuZmEyaGVjZU90VmR3clNpWFdocFZCR2g5c0hZZ3RBU0ZENVB0YWZURUI2ZmdFSTFnZkw5dFhhRmx4ZGJ5NkV6R1BuTnNROEU?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794620183.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 22:36",
+   "foto": "fcbe5fa0d208.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/13/apostador-do-medeiros-em-jundiai-gasta-r-350-e-ganha-r-16-milhao-na-lotofacil/"
+  },
+  {
+   "titulo": "Congresso pede que STF suspenda parte das decisões de Dino sobre a 6 X 1 - Poder360",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblBwY1dTdnRMdWdrVEY0cmYtbndQaUVIWlVMVkRNWUMwcHRhNzZ5Z2xfUzZ2d3NzSXM2aXdMS1gtYlluQ3IzcURWcGtCWTI0cmZVOEU2TDJUZ19GZ1BWeEoxajdTQTdhSzc0SzVFSTVrSmtrQmplN0ZmZnZpLWk3ZlQwaVZOLUpDY2dKc2hScjZISldUSzBqMTZhRHJDSEhpdjhWUnh1ZVRweW04T2RQbl9CMW0?oc=5",
+   "fonte": "Poder360",
+   "quando": 1794619800.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Poder360"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 22:30",
+   "foto": "81c7c1f8fbd2.jpg",
+   "credito": "Foto: Poder360",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "materia_url": "https://www.poder360.com.br/poder-congresso/camara-pede-que-stf-suspenda-parte-das-decisoes-de-dino-sobre-a-6-x-1/"
+  },
+  {
    "titulo": "Lotofácil 3829: aposta de Jundiaí ganha R$ 1,64 milhão; veja os números sorteados e todas as cidades premiadas - Portal de Camaquã",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMXRYdUxxeFZqNGNyWXFMWUU1S1RDSnBtTGJhV1pRVEtxbjVfX09wejNQall0dmR6QW5kczMzV1B3NkFrYXR3bGV4TUVNRXh0bzdaZnNpNERCTU5Fci1KWk9OSTRtTWViaHhKWFdfZnEwcWdhZE5samhHaW1JbGlfbHo3SkVzcDZENnlmcVNDVVRQQ05VMDVMaXJCOGwyYUI4SldFWHhWRm1fTXBzejl4RzBJVkU4cEZJQ2VVSnNrdWhRVGdOdVZNandIOFM0STFFUXlDeTU2a1ZMaXNidEE5UlJMNExIZ2g3OGIxY29aRDBVNmwwaXc?oc=5",
    "fonte": "Portal de Camaquã",
@@ -294,6 +376,24 @@
    "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Aposta de Jundiaí leva mais de 1 milhão na Lotofácil - Portal Hortolândia",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUZxVGoxLU5yRnJhUDlDZTgwVnZFYXA1NU5GOG1uWEJLQ0hQa09fSlV4T2lQYlpfUUVGV0Y4SnhjaXljcXZkMGVIRElNVEtxdFJSeWthTnB3SjVwTDQ3RUpFUWhXWEk5bjAzQVdHMWp2YnVUc2tmZ2Z0YlE2YjVqY1ZtWHBLa1BXVUZKekFzQWVrUlRibDJCZUhHekl6LTRDRVgzeTc1b29DZWI3ZmxEdjVCMVE2dw?oc=5",
+   "fonte": "Portal Hortolândia",
+   "quando": 1794618841.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Hortolândia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "13/11 22:14",
+   "foto": "5e3b4f611580.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
   },
   {
    "titulo": "UAI Itaú de Minas, no Sul do estado, passa a oferecer serviços de trânsito - REDE BRASIL DE TELEVISÃO",
@@ -315,6 +415,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "700x525",
    "materia_url": "https://rbtv.com.br/noticia/31849/uai-itau-de-minas-no-sul-do-estado-passa-a-oferecer-servicos-de-transito"
+  },
+  {
+   "titulo": "Ministério Público acusa Santiago Peña de chefiar organização criminosa criada para fraudar o sistema financeiro do Paraguai - G1",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPN0FNaTBDRHNhYjdJYktod3ZDTUthY0FyaS00WG04UVRKamc2UnQtVDljdmVLNWYzODlFcFp2YnpJZTlfZ0NhUVNVdzVfdXUxUF96VkRyd1FuSGhWQWk4aVNjVnFPc25PSm9Da2RYb3BPTTlTU0JUMl9LYVR4U2laV2Z2aWR2cEYzSVJzUGw3WjlBdXRnMk84ZzBJTjBtSTJpZlZLQjh2VTR6cWQ3aTJIMF9nVmtRY3ozdXd4VVFZbkJuUWtYRzFzWkthOE50R3ZkZjhRZmF3V3M5Z01PWEY5dGZyRVE5YmJER3hyQzVwS0J4NGVqcnNBSzljb1BsV3A2Y2doVFNWU2V3cDFrTFlXNW5vQmjSAaMCQVVfeXFMTjZpLUNfb1pqM0wxQllhanVJN1Nkcm5mN3hRX0dMVG5NVkcxZW5QYnBnQ2VraVByOXdHbjd1aXlKNDZrOGM3WGtadzR1R3NVV1F3aWJTSGF4NWpNbXFJOEFhZFZOcjVaSlE2b0hOdUpETkxRMVlqQ1lOSmprYWxTb3luRUJONTRXanhianJpckpjM0VHT1Fsd3lSN0tjYm9RZzhYNVlwUzR2TjR0b3ZfWVYzak4zNm9MdG5IeEZsSEVwVFRURFhveGZpOTBXU05oOEFaamtGLXp4bWpzQXFURmhDMlNuNDh5Q3NETVhRbDZSd1FaQVJaVW5UeVRwUEU5NWZoZVh2MXZwYTNkcjZQYXd4S2xXRVVxVEpkQ2FkdmdKeUpF?oc=5",
+   "fonte": "G1",
+   "quando": 1794617911.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "13/11 21:58",
+   "foto": "55137b16a95d.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/ministerio-publico-acusa-santiago-pena-de-chefiar-organizacao-criminosa-criada-para-fraudar-o-sistema-financeiro-do-paraguai.ghtml"
   },
   {
    "titulo": "Pane aérea nos EUA frustra viagens e deixa passageiros sem previsão de embarque - JORNAL DA REGIÃO",
@@ -407,12 +528,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "13/11 21:07",
-   "foto": "cc95b6afdaed.jpg",
-   "credito": "Foto: CPG Click Petróleo e Gás",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://clickpetroleoegas.com.br/granizo-sp-104-mil-sem-luz-domingo-bt13c-btl96/"
+   "hora": "13/11 21:07"
   },
   {
    "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
@@ -426,12 +542,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 21:02",
-   "foto": "69b8ea650ebd.jpg",
-   "credito": "Foto: TVTEC Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x702",
-   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/13/caravana-de-natal-da-coca-cola-tera-novo-trajeto-em-jundiai-veja-o-percurso/"
+   "hora": "13/11 21:02"
   },
   {
    "titulo": "São Paulo recusa oferta por Ferreirinha - Tribuna de Jundiaí",
@@ -445,12 +556,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 20:50",
-   "foto": "eb2d595949f8.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1137",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-recusa-oferta-por-ferreirinha/"
+   "hora": "13/11 20:50"
   },
   {
    "titulo": "Educadores de Várzea Paulista e Itaquaquecetuba compartilham experiências após primeiro ano no programa Família+ - Prefeitura de Várzea Paulista",
@@ -478,12 +584,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 20:17",
-   "foto": "1df48944ded6.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/13/pm-explica-motivo-das-blitze-e-busca-tirar-criminosos-das-ruas/"
+   "hora": "13/11 20:17"
   },
   {
    "titulo": "Homem com dois mandados de prisão em aberto é capturado pela PM - JORNAL DA REGIÃO",
@@ -497,12 +598,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "13/11 20:12",
-   "foto": "d711a4356200.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "materia_url": "https://jr.jor.br/2026/11/13/homem-com-dois-mandados-de-prisao-em-aberto-e-capturado-pela-pm/"
+   "hora": "13/11 20:12"
   },
   {
    "titulo": "Montadoras podem ter desconto em imposto com reciclagem - Agora Litoral",
@@ -579,8 +675,8 @@
    "hora": "13/11 19:55"
   },
   {
-   "titulo": "Vídeo: Procurado pela Justiça é baleado enquanto trabalhava em Rio Preto | Sorocaba e Jundiaí - G1",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmtXamVOQ0VqSlh1SDZGR3JiMmFrOE82TlRzaHRPUjhsVThCN2lhUzh1QVBRY0tmOVdrVWM0SVdkSE5WVnl0QTBkampfQnhBbE5BRE9VVXRURnFBQy1XZlJUMU1mak5ydE9nS2pVRXBKVHJ3RHBtak9XYkV2b2hsTUprQkdXdFQwWEpVTUFpeGg4aVJLeFE4VnpwTEVjbWk1MUZfTk5PaFVTUC1xaTZCMkRpcWp2OUJ3N2hoWmlyWGh6Um5OQkE?oc=5",
+   "titulo": "Procurado pela Justiça é baleado enquanto trabalhava em Rio Preto - G1",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmtXamVOQ0VqSlh1SDZGR3JiMmFrOE82TlRzaHRPUjhsVThCN2lhUzh1QVBRY0tmOVdrVWM0SVdkSE5WVnl0QTBkampfQnhBbE5BRE9VVXRURnFBQy1XZlJUMU1mak5ydE9nS2pVRXBKVHJ3RHBtak9XYkV2b2hsTUprQkdXdFQwWEpVTUFpeGg4aVJLeFE4VnpwTEVjbWk1MUZfTk5PaFVTUC1xaTZCMkRpcWp2OUJ3N2hoWmlyWGh6Um5OQkHSAdQBQVVfeXFMTlZPNUttb0xUSlUzVTlzTnJGTTktU0J1cTF3RVUxMnpiMmlyUWlzWXQ3UDVXYUhQaWZ3UEp6U3Y0eEdySTUtdUlTMG9NVm0xM01nQzVRcXQtV1BtSjJkSGdtN2V6VFBEZDBRNmtkZTN5ZWNEdEdPcVlGc2lHZWlsa3QwWUcxRlZiaVpoWjVaRndDc3lKNVAzUElsdEt0dkZUVjZXUHFyN2oxWXdRMDBUeTdNRDVwbTVYRXNST1doUWY1UmszeEJMd29tSkJ4QktsT3NkX00?oc=5",
    "fonte": "G1",
    "quando": 1794610232.0,
    "categoria": "regiao",
@@ -621,20 +717,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 19:32"
-  },
-  {
-   "titulo": "Mostra Científica e Cultural valoriza protagonismo dos estudantes da rede municipal de Jundiaí - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mU09TQkZUdGFTLTlBWGZNTU5XYVhKMHZIRTZQYXNTRmpvc05IUEZmZXd5X0hGazdjU1luM2tKZ1IzYUlobi1LZGdUR2ZHYzBVUlp6Qk5rZFZfY3F4bURYV29GOXE4VEo2Qzg5OTlJQ2c3ZVdKSGww?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794608845.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 19:27"
   },
   {
    "titulo": "Chuva fica mais ocasional neste sábado em São Paulo - Jornal Diário do Povo",
@@ -701,20 +783,6 @@
    "hora": "13/11 19:03"
   },
   {
-   "titulo": "Motociclista de 28 anos fica ferido ao bate em ambulância em Várzea Paulista - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTU5TZlJkRU0yY3YzeUJ5WkFJZWdtYllzMGFLS2hRQlVLMG5WbVhoaUs5Y3ZybU9fd2pPMmFmZ3VlcG54NUpLUHZ0LV9HMlBNZ2xoWVd4UFh1VEpEVl81VTFhVGZXOTJ2ZnAyek01TzhtTng0emwwTDBjdEdaZWNaSTRpTXNabDVhX1BTZFRQa0toaE9qR2dPUEpNRUw2d0RTVlNGenpBVmJzUQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794607056.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 18:57"
-  },
-  {
    "titulo": "Câmara pede ao STF que derrube parte da decisão de Dino sobre o fim da escala 6x1 - Rádio Itatiaia",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFlGcUlzUGM3TzNIbXJmWXA2NnlTYzFrZmtVYXhCR0RsSktRSzVrLV9lWmxnVU4xcnZPWGRzaVp3eV9qYTM5dEtSdEd3YlJGMXhiTGo1cXZ3dm5nank1WXZkS2Y2TlNWVFBVUVc3MXVacDZRVkk0SC1FWldTdEx1d2s3aUdOeXV4VEpoeXRDcU8wX0p2bjNOQkcyQ3VXczlvYzdfblpMNlpvRFNhdXZNV19VZzZ1eTRaWUdn?oc=5",
    "fonte": "Rádio Itatiaia",
@@ -729,38 +797,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 18:57"
-  },
-  {
-   "titulo": "Governo Lula enfrenta rejeição de quase metade dos brasileiros, aponta Atlas/Bloomberg - Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGx5X3NudGxVeDFOT0VmcWFiREF3cVZRMlhXamZVbTZQZldmYjNPN3dCZG9tajc0azE5T1phc29WazVGUVROQ2FDSUJGUXg5U3J0S3d2Wlk3VWw1bTNUR1R6Q2U4blVGX3ZJSC16RVc4cTF1bzBEbmYwamJ2SmhFVVNPUndoQkVVUk9LTWF4TFNqQTZVdklVUFhaMFoyaEZVX3R6QjltNnZzRWQtTGtXQnc3TWNyVTJwbGJ2M1ZOa24xRXAxVm1mcm5zUk9idw?oc=5",
-   "fonte": "Seu Dinheiro",
-   "quando": 1794606852.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Seu Dinheiro"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 18:54"
-  },
-  {
-   "titulo": "Senado se une à Câmara para derrubar parte da decisão de Dino sobre o fim da escala 6×1 - PAIPEE -",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjNCTXhqbkVURV9PenMwR3lQekdjZkFaNHVUX1NtMW52Z25HTzNYQmVyRHF4NEstV2lsOVFmUER1NnlrMzE4bWxMZDh1VzZMMVEtVXZDMFBfVXUyZFN2WFhjWnp1MzNOc1RhWGhQR0tWMm9ycGtLWlJRVGxjaGdOdFRhenBqMkVfSl9wWTVrQnZmY1o4elNSNDEwS3hjRG9QcDVkdU5zU2s3TEsyMndrTUZXZjlnMmpkN09wbU9R?oc=5",
-   "fonte": "PAIPEE -",
-   "quando": 1794606372.0,
-   "categoria": "brasil",
-   "fontes": [
-    "PAIPEE -"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 18:46"
   },
   {
    "titulo": "Defesa Civil alerta para temporais em todo o estado de SP neste domingo - BNews SP",
@@ -859,36 +895,6 @@
    "hora": "13/11 17:59"
   },
   {
-   "titulo": "Câmara dos Deputados pede ao STF que rejeite pontos de decisão de Dino sobre fim escala da 6x1 - CBN",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWDFZZnA2QVhqSEJ3am4ybWttQnRQakZKN2Z4aENsUl9JLWRTRGluMHNURFVTcnEtRnBHYWM0azlONS15ZDEybGd3bEU5Y29WWUdKOGRTdklLeUVFNGdRZXNLVm5OV1NVdlN5NkE4eGhhaDBMSnhzejd1eW5LSUlzN2VTazlFcHVhUVZQcmF4ZHd5MFBTYi1GVS1ZUUpMZU15NVc5QWtQMTk5SHg5clUyRlJMTVpmV0Z5T2RJU0IyUktOc0hfeG13dDM4cEl0b3dZMGg1bDRjbVhBVS1VME5oUG0ta3HSAfMBQVVfeXFMTW9LQkh6eFdNOWh4cndOSlZCR0JzVkRQbTNCaWxjc19XME5aOUlXTm9vMnZvNTIxWDVTQ2JTQzZFYTRmdzZVblF2X3c0N1VKcENtYi1iWGkwVHo1aWwtdHhUV1N2bDVIVkswdW1ZMmZjXzlQMUFvdjVpdDB3R25uZzJBU0xxRGVyUVNDcGFQU0hFSFdFa1VEQUxoVlliaEd6TUI0YldjZTJPQmdaRmxNZjhPUGttRmQ0b1hKcTU4NHpvVXZCNXRDWjBOdWtnaXJWNDV4TGpGZEZqbFRMMzNWT2QxQnY4TFU1am56UDRIYl9UbGN3?oc=5",
-   "fonte": "CBN",
-   "quando": 1794603256.0,
-   "categoria": "brasil",
-   "fontes": [
-    "CBN"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "13/11 17:54"
-  },
-  {
-   "titulo": "g1 em 1 minuto: Jovens constroem os próprios instrumentos musicais em oficinas em SP - G1",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlBnNWUteFFweUVxd3c1cUEzWWlXaWl6OUpxazliSkRhTVBYNUx2RWNhQ0Y1YXJKcTduTFJIMmxVdEhoRklFSHItRDI3TGRqME12ZlkzV1lpdlhfMkpBd2ZCX1FQWnVGQnBqQmxQc0J5bVpoV2RkcFQ0bHItSzIxOXVWbjBzUVpqaGlQQ2VkRFRNXzMwSXJ5WGs4MmZCTGNNVVhQa05SMDFpWUpkd1ZkeTZ6bHhkWWhnQWtBZDlYd1F5YktYOUR4Z1BzZTh3Z2dkb0JZYzRmZUVscUdHOUHSAewBQVVfeXFMTWs0TVFxY0lDUm9RZkdHN0VwX0szUzBodTktRTZYMWtXZWRJSHBUeUlWcFI3U0NwVGEydEdKQ0ZubTVlV0R1M08wTlEwd0FIUXh2VzdkemhSYndETDN5SDdSLVU0ZkxpejB4bWUzTmo3YVJSYjJMeEM5Q3BRMFdTVzBRaEY3cEZBdF9yMTRwamVNRFZnbFo3N1VTQ0QyZWFoVVEzTWo2cU9HNEw4NmtZU2kyQXRGT1FoYUszVFN3enctOGx0WUZtbUxJUjlLaGtrNXBXZlRjakhacXVKWE9ucUIzT05WVlZ2SzR2TmY?oc=5",
-   "fonte": "G1",
-   "quando": 1794603228.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 17:53"
-  },
-  {
    "titulo": "Minas Gerais e Espírito Santo concentram a chuva do Sudeste no sábado (14/11) - Agrolink",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUx5dExPbW9wamRWQVhqMzlFQW1YSjZtOFBFN3ZZN1Q0OWh5S0NvMkt4WkNfRFRBbUIzSlQwS0duekVjdV9TaG9pM2lydGNnQ1k5dl9OemJndzBiR1V4UHJQLVhNUXRmSEJhdGJSZXJaMFk4TTR5azRYckVfZVNJZVFBaGNwa3lOblduMFdmZHZ3N29CZkxMaE9VRExwY0lJUDFrQzUtenpUa25NQjZOV3NDSWRaS1REbV9vU0JCV2UzWkVZUGdYMFMyTFY0ZzIz?oc=5",
    "fonte": "Agrolink",
@@ -952,18 +958,32 @@
    "hora": "13/11 16:44"
   },
   {
-   "titulo": "Governo de SP pagará R$ 357,6 milhões em bônus inédito pelo Saeb em dezembro - portaldacidade.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHNINjE4V0o0Q1FKZVRKSEJxRmhGY21zLXR2bkFacWpUU2tvdnN2b3I4akhRTGRhRTlLcWR4Z2Q0UF9IOGVMVEZRbTBNdUVPQ1h5dlRxUnFGNm9TN1Q5cTVPbm1hVTdYVGJQeV9wdXF1THhXeTRTLXlXNGpoMUtCQU1vekRKWlZOSnlLbkVuMDdadjJuREd1Qk5JbzYwY0l1ZEROdWEwc2lneERscEVUSzcxVU5kdzg1bDEzRWRLcDdXbldwRGlaTW5faXU4dHM?oc=5",
-   "fonte": "portaldacidade.com",
-   "quando": 1794614640.0,
+   "titulo": "Atleta do Time São Paulo, Maciel Santos contribui com metade das medalhas do Brasil em etapa da Copa do Mundo de bocha paralímpica - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNR1EzMll2a1pyWXA4OVVrczhTS1gzOUxncktiYTJEU1B0YzBZaHh2STVsLWRndElnN3B0RjZHV0p4RzQ5RWNUTDlXbjRReVJVYVZ3RHpxTmpaLTdIS1pvbFcteVpwWmVaaVNCcGdtVWxIYzJ3bG8yekpHUTZQOGNENTZHdFJydUZaQ01wZ1FoX0JsamtzRDVIV2MzbVM0OVdDYjVHWkR2VXI4QlZsNVd0YTJXckw3UUpYQVBjMDRoMWYyazdONWtlOU1DY0JEZ3N1ODRxWjN4MDE5MXdkYlhYWEhQY1FPMlpGR3hPYUp3SDdSNWRFMEpFWVVDdXJDZFY1?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794621516.0,
    "categoria": "estado",
    "fontes": [
-    "portaldacidade.com"
+    "agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "13/11 21:04"
+   "hora": "13/11 22:58"
+  },
+  {
+   "titulo": "Nunes diz que clima na prefeitura é \"desconfortável\" após denúncias de vice - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkthdzhjbzl4cVhsdlRMS2FpRTN2a0pJbnFrZWc5WGw2bGowWmhwOFV5R0tRN0oySVNpYmcxWW1nY3lfTG11SjVUU0dERnhNcFUyd1pMTnZScEN6OUx2MGRsbUhxOUg3Vy14d2ZSZUUta2xRYmwzbDZZWDdoTWpsWG5jaUlUTEl5WjhfaVZabDZFNkdzbHJETGN6XzVCYmJXNWZZandYNU1VSWxRWHB0bE5n?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1794616240.0,
+   "categoria": "estado",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "13/11 21:30"
   },
   {
    "titulo": "Cola no Provão Paulista: USP, Unesp e Unicamp pedem reunião com o governo - Metrópoles",
@@ -980,32 +1000,18 @@
    "hora": "13/11 21:01"
   },
   {
-   "titulo": "USP, Unesp e Unicamp cobram reunião com governo de SP após relatos de fraude no Provão Paulista - diarioesp.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0k4R1UwcWU4YURYNXNzczh2ZVNRU2h4RmRRd0xjamdLTE0tQi1kNUppQ21KSWpUQzZ6VU1sY1NiMWVhX0J1b0hWanFpLWNfTHlIRFpqSHVZT2JocXNxYmFNcjV5YmY3Q2VfM1VnNVRBeVhiWTQ1cUVVdjZEakp6enVvWEVLcjZwQ2RXbWhFc1FSOFZ3WEkzVmNmbC1oNjhYUzJSSF8wV0RMSXZiUTdjWmJLc3pEd3BneFhDcGpsUGl1RVZ4MmJWTTBRZ0wtT0I2R0wxMkYzbnZLZHZwcUdFeC1Gbw?oc=5",
-   "fonte": "diarioesp.com.br",
-   "quando": 1794614460.0,
+   "titulo": "Corpos ficam em macas, sem refrigeração, do lado de fora do IML de SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT05VWjNWdXZSU293U21FaDNoMUFkeGJLbW9TOUI1dk5GNkJLQTNsZFd5WmtqLXNqVTFzbVl5enRlTG5Bd2QtQlQ0TEJaTkRBc1d0WUFTaGRJVXM4TmJSSlFkQ2VZbU5zemE1SC1tdHRWM3I0bWFHRVNFYlMtNVJTUnY2VXVub1RZR2ZRQ0JPY0lacDRGWTdMZG9famxudDV6VlNyOXVXM1NTZmFVQkcyaWwzaWVEQXBuZmFVTzI1QjdpeFdxWk5aSUdLTXh4dkxYU0dIMDZ3eU03SU5xYlhXNTRJZWFtRDM2OEs5bFcyVWdDOGo4NUVDdGJn0gGIAkFVX3lxTFBhMlVmb282UktaWHlOdDduc3o4eUlKS1o5d0xnOWw4SjdJak1XMXBOYkpEeS1KaDY4UzJudjU2M2ZIRkFzY3UxNERhRzRmV2swT0stOEE2R0oyYnVaSG8yRDFBQXpEMW1aN2ZvdnZRR2dQTkp6dF9BbFVEb0pRclFMd3dXVVlQdWhybldpS1RDSXNsaWVUcFplbFNyWkxlMlp5NmZJeUdFc3N0WEtia1hOSHplRDFuX3JqekpGZl9DVEd3UXFKOWpObUpXRnp6X1ZsbHEtZUJfNVBZZThRdFl0UXZIUEhRUXdTU1kyTzVuQnpUMmJBWUwwdWliUzVpTThCWDhFNENDdg?oc=5",
+   "fonte": "G1",
+   "quando": 1794613718.0,
    "categoria": "estado",
    "fontes": [
-    "diarioesp.com.br"
+    "G1"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "13/11 21:01"
-  },
-  {
-   "titulo": "Defesa Civil alerta para temporais em todas as regiões do estado de São Paulo neste domingo (15) - Hoje Diário",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjVPaTFvR0JaZ1BzblpBM3RyWnkxMGZvSHlBTldpT3FLSUs4V0RCUEF1Yk5xRG5HS2p2cGx0bERmZ1pQMlVtb1l3QlVPVHhhR1J3cTV0TDZfZVhfY1lGMElTVzVMeF9ieW5TTno2aWZjVWR6c1ZKZGRoZ1ZLRU1yc3NCWklpZE1wTDlQUURMRm5OMEhyVE1TbE5aLWlhWnFXWk85cWdoYkVkekJuOGJrOW5EeFFZMTNEQ0F0aUlhZFgydmRDYW1MaQ?oc=5",
-   "fonte": "Hoje Diário",
-   "quando": 1794609552.0,
-   "categoria": "estado",
-   "fontes": [
-    "Hoje Diário"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "13/11 19:39"
+   "hora": "13/11 20:48"
   }
  ]
 }
