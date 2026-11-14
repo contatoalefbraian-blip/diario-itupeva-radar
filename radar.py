@@ -47,6 +47,11 @@ PRIORIDADES = {
                  "corte de gastos", "orcamento", "arcabouco", "secretario", "ministro"],
     "seguranca": ["policia", "preso", "presa", "operacao", "golpe"],
 }
+# Fontes (analise de 7 a 14/11/2026, 512 historias de Itupeva e regiao):
+# agregadores que repetem noticia 14h+ depois dos jornais: ignorados
+IGNORAR = ["novo dia", "portal sorocaba"]
+# fontes que costumam dar a noticia primeiro: +2 pontos (pesa nos urgentes)
+RAPIDAS = ["g1", "prefeitura de"]
 JANELA_HORAS = 3
 ESTADO = "vistos.json"
 
@@ -130,6 +135,8 @@ def main(xml_teste=None):
     pautas = {}
     for xb, cat in feeds:
         for i in itens(xb):
+            if any(x in norm(i["fonte"]) for x in IGNORAR):
+                continue
             if i["quando"] < janela and not (eh_urgente(i["titulo"]) and agora - i["quando"] <= JANELA_HORAS * 3600):
                 continue
             k = chave_titulo(i["titulo"])
@@ -145,7 +152,8 @@ def main(xml_teste=None):
         t = norm(p["titulo"])
         p["assuntos"] = [a for a, termos in PRIORIDADES.items() if any(x in t for x in termos)]
         p["pontos"] = (PESO[p["categoria"]] * 2 + min(len(p["fontes"]), 4) + 2 * len(p["assuntos"])
-                       + (5 if p["urgente"] else 0))
+                       + (5 if p["urgente"] else 0)
+                       + (2 if any(norm(f) == "g1" or norm(f).startswith(tuple(RAPIDAS)) for f in p["fontes"]) else 0))
         p["hora"] = time.strftime("%d/%m %H:%M", time.gmtime(p["quando"] - 3 * 3600))
         lista.append(p)
     lista = [p for p in lista if p["categoria"] != "brasil" or p["assuntos"] or len(p["fontes"]) > 1]
