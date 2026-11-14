@@ -13,21 +13,31 @@ jobs:
       - name: business discovery
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_FB_TOKEN: ${{ secrets.META_FB_TOKEN }}
         run: |
           python3 - <<'PY'
           import json, os, urllib.parse, urllib.request
           IG = "17841473503076065"
-          tok = os.environ["META_TOKEN"]
-          for u in ["coisasdaregiao", "jrjundiai", "ia_noticias", "avozdaregiao.jundiai", "jornaldejundiai", "expressao.jornal", "coisasdeitupeva"]:
-              campos = f"business_discovery.username({u}){{username,followers_count,media_count,media.limit(3){{timestamp,caption,permalink,media_type}}}}"
-              url = f"https://graph.facebook.com/v21.0/{IG}?" + urllib.parse.urlencode({"fields": campos, "access_token": tok})
-              print("\n=====", u)
+          def escopos(t):
               try:
-                  d = json.loads(urllib.request.urlopen(url, timeout=30).read()).get("business_discovery", {})
-                  print("ok | seguidores:", d.get("followers_count"), "| posts:", d.get("media_count"))
-                  for m in d.get("media", {}).get("data", []):
-                      print("-", m.get("timestamp"), m.get("media_type"), "|", (m.get("caption") or "").replace("\n", " ")[:70], "|", m.get("permalink"))
+                  d = json.loads(urllib.request.urlopen("https://graph.facebook.com/v21.0/debug_token?" + urllib.parse.urlencode({"input_token": t, "access_token": t}), timeout=30).read()).get("data", {})
+                  return f"tipo={d.get('type')} app={d.get('application')} escopos={d.get('scopes')}"
               except urllib.error.HTTPError as e:
-                  err = json.loads(e.read() or b"{}").get("error", {})
-                  print("ERRO", e.code, "| codigo", err.get("code"), err.get("error_subcode"), "|", err.get("message"))
+                  return "debug indisponivel: " + str(json.loads(e.read() or b'{}').get('error', {}).get('message'))
+          for nome in ["META_TOKEN", "META_FB_TOKEN"]:
+            tok = os.environ.get(nome, "")
+            print("\n########", nome, "|", escopos(tok) if tok else "ausente")
+            if not tok: continue
+            for u in ["coisasdaregiao", "jrjundiai"]:
+                campos = f"business_discovery.username({u}){{username,followers_count,media_count,media.limit(3){{timestamp,caption,permalink,media_type}}}}"
+                url = f"https://graph.facebook.com/v21.0/{IG}?" + urllib.parse.urlencode({"fields": campos, "access_token": tok})
+                print("\n=====", u)
+                try:
+                    d = json.loads(urllib.request.urlopen(url, timeout=30).read()).get("business_discovery", {})
+                    print("ok | seguidores:", d.get("followers_count"), "| posts:", d.get("media_count"))
+                    for m in d.get("media", {}).get("data", []):
+                        print("-", m.get("timestamp"), m.get("media_type"), "|", (m.get("caption") or "").replace("\n", " ")[:70], "|", m.get("permalink"))
+                except urllib.error.HTTPError as e:
+                    err = json.loads(e.read() or b"{}").get("error", {})
+                    print("ERRO", e.code, "| codigo", err.get("code"), err.get("error_subcode"), "|", err.get("message"))
           PY
