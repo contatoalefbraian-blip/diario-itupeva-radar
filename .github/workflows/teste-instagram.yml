@@ -1,0 +1,33 @@
+name: teste-instagram
+# Teste manual, so leitura: verifica se o Business Discovery da Meta le os posts publicos
+# de perfis profissionais da regiao. Nao publica nada, nao grava nada, nunca imprime o token.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  ler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: business discovery
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.parse, urllib.request
+          IG = "17841473503076065"
+          tok = os.environ["META_TOKEN"]
+          for u in ["coisasdaregiao", "jrjundiai", "ia_noticias", "avozdaregiao.jundiai", "jornaldejundiai", "expressao.jornal", "coisasdeitupeva"]:
+              campos = f"business_discovery.username({u}){{username,followers_count,media_count,media.limit(3){{timestamp,caption,permalink,media_type}}}}"
+              url = f"https://graph.facebook.com/v21.0/{IG}?" + urllib.parse.urlencode({"fields": campos, "access_token": tok})
+              print("\n=====", u)
+              try:
+                  d = json.loads(urllib.request.urlopen(url, timeout=30).read()).get("business_discovery", {})
+                  print("ok | seguidores:", d.get("followers_count"), "| posts:", d.get("media_count"))
+                  for m in d.get("media", {}).get("data", []):
+                      print("-", m.get("timestamp"), m.get("media_type"), "|", (m.get("caption") or "").replace("\n", " ")[:70], "|", m.get("permalink"))
+              except urllib.error.HTTPError as e:
+                  err = json.loads(e.read() or b"{}").get("error", {})
+                  print("ERRO", e.code, "| codigo", err.get("code"), err.get("error_subcode"), "|", err.get("message"))
+          PY
