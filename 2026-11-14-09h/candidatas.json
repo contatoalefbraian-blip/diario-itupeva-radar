@@ -1,0 +1,71 @@
+{
+ "pedido": {
+  "id": "2026-11-14-09h",
+  "termos": [
+   "Estação Jundiaí trem",
+   "Linha 7-Rubi trem CPTM",
+   "Jundiaí train station Brazil"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo",
+   "acidente"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Estação Marumbi (8175181290).jpg",
+   "descricao": "Passeio de trem entre Curitiba e Morretes pela Serra do Mar. Descida de + 700 metros até o nível do mar, de trem! Curitiba / Paraná - Brasil",
+   "tamanho": "1600x1067",
+   "termo": "Estação Jundiaí trem",
+   "credito": "Foto: Cesar I. Martins from Jundiai, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Esta%C3%A7%C3%A3o_Marumbi_(8175181290).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Trem Bernina Express - Lago di Poschiavo - Estacao Miralago - Suica (8746322744).jpg",
+   "descricao": "Train Bernina Express Tirano -> St. Moritz (Italy -> Swiss)",
+   "tamanho": "1600x1200",
+   "termo": "Estação Jundiaí trem",
+   "credito": "Foto: Cesar I. Martins from Jundiai, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Trem_Bernina_Express_-_Lago_di_Poschiavo_-_Estacao_Miralago_-_Suica_(8746322744).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Trem Bernina Express - Lago di Poschiavo - Estacao Miralago - Suica (8745200243).jpg",
+   "descricao": "Train Bernina Express Tirano -> St. Moritz (Italy -> Swiss)",
+   "tamanho": "1600x1200",
+   "termo": "Estação Jundiaí trem",
+   "credito": "Foto: Cesar I. Martins from Jundiai, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Trem_Bernina_Express_-_Lago_di_Poschiavo_-_Estacao_Miralago_-_Suica_(8745200243).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "CPTM 9500.jpg",
+   "descricao": "Trem da série 9500 estacionado na Estação Luz, da Linha 7 (Rubi).",
+   "tamanho": "1600x1100",
+   "termo": "Linha 7-Rubi trem CPTM",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:CPTM_9500.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Škoda 15T, smyčka Radlická.jpg",
+   "descricao": "Škoda 15T in Radlická tram loop; first day of operation this type of tram with passengers in Prague.",
+   "tamanho": "1600x1200",
+   "termo": "Linha 7-Rubi trem CPTM",
+   "credito": "Foto: Honza Groh (Jagro) / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:%C5%A0koda_15T,_smy%C4%8Dka_Radlick%C3%A1.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Paris Métro Line 7 Station Map.jpg",
+   "descricao": "Part of a Paris Métro Line 7 Station Map above a Train door in Paris, France.",
+   "tamanho": "1600x1200",
+   "termo": "Linha 7-Rubi trem CPTM",
+   "credito": "Foto: DiscoA340 / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Paris_M%C3%A9tro_Line_7_Station_Map.jpg"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "pedido": {
+  "id": "2026-11-13-09h",
+  "termos": [
+   "Plenário do Senado Federal Brasil",
+   "Senado Federal fachada Congresso Nacional Brasília",
+   "Brazilian Federal Senate plenary"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "200 anos do Senado Federal (53454234104).jpg",
+   "descricao": "General view of the plenary session of the Chamber of Deputies during the grand celebration of the promulgation of the new Charter, the Brazilian Constitution, led by Representative Ulysses Guimarães,",
+   "tamanho": "1600x1168",
+   "termo": "Plenário do Senado Federal Brasil",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:200_anos_do_Senado_Federal_(53454234104).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Plenário do Senado Federal 2.jpg",
+   "descricao": "Plenário do Senado Federal (plenário deliberativo máximo da câmara alta do Congresso Nacional)",
+   "tamanho": "1600x1381",
+   "termo": "Plenário do Senado Federal Brasil",
+   "credito": "Foto: Boaventuravinicius / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_Federal_2.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Plenário do Senado Federal 3.jpg",
+   "descricao": "Plenário do Senado Federal (plenário deliberativo máximo da câmara alta do Congresso Nacional)",
+   "tamanho": "1600x1200",
+   "termo": "Plenário do Senado Federal Brasil",
+   "credito": "Foto: Boaventuravinicius / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_Federal_3.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Plenário do Senado Federal 4.jpg",
+   "descricao": "Plenário do Senado Federal (plenário deliberativo máximo da câmara alta do Congresso Nacional)",
+   "tamanho": "1600x1200",
+   "termo": "Plenário do Senado Federal Brasil",
+   "credito": "Foto: Boaventuravinicius / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_Federal_4.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Plenário do Senado Federal.jpg",
+   "descricao": "Plenário do Senado Federal (plenário deliberativo máximo da câmara alta do Congresso Nacional)",
+   "tamanho": "1600x1200",
+   "termo": "Plenário do Senado Federal Brasil",
+   "credito": "Foto: Boaventuravinicius / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_Federal.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Senado Federal do Brasil Plenário do Senado (15716252315).jpg",
+   "descricao": "Plenário do Senado durante sessão deliberativa ordinária. Em discurso, senador Eduardo Suplicy (PT-SP). Foto: Moreira Mariz/Agência Senado",
+   "tamanho": "1600x1065",
+   "termo": "Plenário do Senado Federal Brasil",
+   "credito": "Foto: Senado Federal / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Plen%C3%A1rio_do_Senado_(15716252315).jpg"
+  }
+ ]
+}

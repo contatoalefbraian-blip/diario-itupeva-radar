@@ -1,0 +1,73 @@
+{
+ "pedido": {
+  "id": "2026-11-11-12h",
+  "termos": [
+   "Supremo Tribunal Federal fachada",
+   "STF Praça dos Três Poderes",
+   "carteira de trabalho",
+   "Supreme Federal Court Brazil building"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo",
+   "ministro",
+   "retrato"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Fachada do Supremo Tribunal Federal (STF) (54334559198).jpg",
+   "descricao": "Fachada do Supremo Tribunal Federal (STF), instância superior ou última instância do poder judiciário brasileiro. O STF acumula tanto competências típicas de uma suprema corte, ou seja, um tribunal de",
+   "tamanho": "1600x1067",
+   "termo": "Supremo Tribunal Federal fachada",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Supremo_Tribunal_Federal_(STF)_(54334559198).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Fachada do Supremo Tribunal Federal (STF) (54333425092).jpg",
+   "descricao": "Fachada do Supremo Tribunal Federal (STF), instância superior ou última instância do poder judiciário brasileiro. O STF acumula tanto competências típicas de uma suprema corte, ou seja, um tribunal de",
+   "tamanho": "1600x1067",
+   "termo": "Supremo Tribunal Federal fachada",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Supremo_Tribunal_Federal_(STF)_(54333425092).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Fachada do Supremo Tribunal Federal (STF) (54334331921).jpg",
+   "descricao": "Fachada do Supremo Tribunal Federal (STF), instância superior ou última instância do poder judiciário brasileiro. O STF acumula tanto competências típicas de uma suprema corte, ou seja, um tribunal de",
+   "tamanho": "1600x1067",
+   "termo": "Supremo Tribunal Federal fachada",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Supremo_Tribunal_Federal_(STF)_(54334331921).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Imagens de Brasília - Fachada do Palácio do Congresso Nacional (53457774890).jpg",
+   "descricao": "Imagens de Brasília - Fachada do Palácio do Congresso Nacional O Palácio do Congresso Nacional é um dos pilares da arquitetura monumental de Niemeyer que dão forma à capital inaugurada em 1960. Está e",
+   "tamanho": "1600x1067",
+   "termo": "Supremo Tribunal Federal fachada",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Imagens_de_Bras%C3%ADlia_-_Fachada_do_Pal%C3%A1cio_do_Congresso_Nacional_(53457774890).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Imagens de Brasília - Fachada do Palácio do Congresso Nacional (53457492208).jpg",
+   "descricao": "Imagens de Brasília - Fachada do Palácio do Congresso Nacional O Palácio do Congresso Nacional é um dos pilares da arquitetura monumental de Niemeyer que dão forma à capital inaugurada em 1960. Está e",
+   "tamanho": "1600x1067",
+   "termo": "Supremo Tribunal Federal fachada",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Imagens_de_Bras%C3%ADlia_-_Fachada_do_Pal%C3%A1cio_do_Congresso_Nacional_(53457492208).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Imagens de Brasília - Fachada do Palácio do Congresso Nacional (53457492143).jpg",
+   "descricao": "Imagens de Brasília - Fachada do Palácio do Congresso Nacional O Palácio do Congresso Nacional é um dos pilares da arquitetura monumental de Niemeyer que dão forma à capital inaugurada em 1960. Está e",
+   "tamanho": "1600x1067",
+   "termo": "Supremo Tribunal Federal fachada",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Imagens_de_Bras%C3%ADlia_-_Fachada_do_Pal%C3%A1cio_do_Congresso_Nacional_(53457492143).jpg"
+  }
+ ]
+}
