@@ -1,5 +1,5 @@
 {
- "gerado": "14/11/2026 06:40",
+ "gerado": "14/11/2026 07:23",
  "desde": "13/11/2026 16:35",
  "pautas": [
   {
@@ -108,6 +108,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x631",
    "materia_url": "https://jr.jor.br/2026/11/13/morador-de-varzea-paulista-acha-ossada-humana-em-obra-rodoviaria/"
+  },
+  {
+   "titulo": "Pintor é preso por embriaguez ao volante e pane da Microsoft deixa mais tempo na Cadeia - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2p2ZW10ZWFOZkkxX21CVEhOZEFFTlY1OF81bWRuNG0tbTZqbnlqbWdyYXhxUlhzQVJXNlJlY3U5Wjhlam82bmVKSGMwYzJFTkNsTW1VZU92MUtfNlI1a0U0d3lQUUEtbEQwR2gzMmVVU3hDSGZhbV9SYkZLaGVLMnVzQmZicHA0MHVNVUl6N0ZzVm1vNjlNbEdWM1czNjlFZU11X3c1aUp5Yl96RlYzb1VfWGJydmI1?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794613831.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "13/11 20:50",
+   "foto": "ad116871e097.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "materia_url": "https://jr.jor.br/2026/11/13/pintor-e-preso-por-embriaguez-ao-volante-e-pane-da-microsoft-deixa-mais-tempo-na-cadeia/"
   },
   {
    "titulo": "Jovem de 22 anos é preso no Residencial Jundiaí com mais de 100 porções de drogas - JORNAL DA REGIÃO",
@@ -337,6 +358,123 @@
    "materia_url": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-sabado-sao-paulo-tera-calor-trovoadas-e-chuva-em-parte-do-estado/"
   },
   {
+   "titulo": "Rodovias Castello Branco(SP-280) e Raposo Tavares (SP-270) tem programação de obras e intervenções na próxima semana - Estradas",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTnpnNnFwdEpsM19nRzIzeFlEMDB6eGJZdEVzZDlOUVo2dVdRYllTLWFxNmYzN0J5eHB0QUZaVl9NdVp1ZUVDemlXZXIxQXgwNUpxMFZ5SC1qOWxTODl4UHZxbmVuVzYwY1MzZDB2TUhKTWFPSW5jYlo4NjlTeDA1VlpNX3UyTlpTSVV3dGtKdTE1Vk8wTzFZVDlidy1aUXc?oc=5",
+   "fonte": "Estradas",
+   "quando": 1794651340.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estradas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "14/11 07:15",
+   "foto": "0b402e3b41e2.jpg",
+   "credito": "Foto: Estradas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://estradas.com.br/castello-brancosp-280-e-raposo-tavares-sp-270-tem-de-obras-e-intervencoes/"
+  },
+  {
+   "titulo": "Covid-19 volta a preocupar em SP: saiba onde se vacinar - Exame",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlp5Z3BIRFl3cF9PYkhGb1RjRmwxSHZuY3kyTHJsLXQ1ZjlmbzJTWmd5SVo4aUhRbHBYaXBSQURhRDRjRmFGX1lIZGNSd0R3eU01VnR2VmNPamd4X3JwdW9jYmxvMmlNMnVBTDF4TG85UDhNMUp1d1VRR1g4bThYaVdnYndjdmJfU0RlNHVTZktBNF9aUmc?oc=5",
+   "fonte": "Exame",
+   "quando": 1794650507.0,
+   "categoria": "estado",
+   "fontes": [
+    "Exame"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "14/11 07:01",
+   "foto": "a2dd7d3674a6.jpg",
+   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1018"
+  },
+  {
+   "titulo": "Feriado terá atrações culturais e funcionamento especial em Jundiaí - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZENNdWdpb0VYU2ZjYVhKeHZBZlVOSjJEa1RYQjZLY0tzcXJFQTNma1pfUXFOdzJmTGdUOFFfRXpDOWdlZ2xpcG5tN2NqY0VfaENDSXdFdVhNWGxRS0Mwc21lb214TzhBdWlOSnNaUGNmalJvaDljcUVvVy1CeEljOHZiUDFlTVNZeFB3Y0lSbjFGQWd3aG9ZWmUxQ3FpQ2UzNEJGWldEblJEcE0?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794650252.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 06:57",
+   "foto": "c3db7fced7c6.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Estudantes apresentam soluções criativas em mostra científica de Jundiaí - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjEtMmtjSHdIajlqN3pUZEdDeGZxNGwzdkQtRFVhNDdwSEhMQnNDb2F1VWlXNFAxeE9TNXR3dE5xYU5Jby14OURYWTFMS3lXZHRhX2FIZ2FhY1YzdlRVa1c2QXVxUEczd1FRUHA1M0JPYWhQa1k5WGgzaVN6Rlo0LXZBazNxbjBUTjdoLTh0WUwxeDdVN0pkalRpNkdnQTNJemd6YmsyQXlUUW9Nb2tMMG9R?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794650047.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 06:54",
+   "foto": "011f2aa7ddf6.jpg",
+   "credito": "Foto: Portal Novo Dia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1536x1024",
+   "materia_url": "https://jundiainoticias.com.br/2026/11/estudantes-apresentam-solucoes-criativas-em-mostra-cientifica-de-jundiai/"
+  },
+  {
+   "titulo": "Festa da Uva conquista reconhecimento nacional por sustentabilidade - Portal Novo Dia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUJOcjRGeHA4MG1vOFJROTJhT01fMGxnR2ZoUk1OMFlfZTdrOWZseVF6X3VYakI1Vm9oV0dTZE45RUtUQzBwMVJHSm1CbVRtbWVPa2ZRN2N0VnVHeEFWRkRFeUhjRnNiZ3ZnUnlkWkNuS0RaVm9LUTRBTVoxTnlpcG1OUW5VZVdQdGZsTGl1WFNuVUhOTE4tUkxzb1ZSbGZsRWpzbEhGeEVtYnc?oc=5",
+   "fonte": "Portal Novo Dia",
+   "quando": 1794649500.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal Novo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 06:45",
+   "foto": "2444fe717112.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Defesa Civil emite alerta severo de chuva para São Paulo e Grande SP - Prensa Mercosur",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWYwdVh5ZGt5VjhqbEZZb1RhSy15LUZTOG8xODBrcUpqRmpMSGd4RDl0VlhId1JyQVdEQjE1NXkzaUVJWTBadzV0R05lUG9BbzBsaG5zeGZMQjBzQUpZLS1rNlgtQ3ZmZFU1Q09OT3hfalV2eGo0RFdiU3ROYlJjNWJmSkdVZ2hGWUxCWXpFNjZiOTFQNmZXa0tRREVLSVpzMTVsRHZwakxLcVU?oc=5",
+   "fonte": "Prensa Mercosur",
+   "quando": 1794649467.0,
+   "categoria": "estado",
+   "fontes": [
+    "Prensa Mercosur"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "14/11 06:44",
+   "foto": "8beed23f457e.jpg",
+   "credito": "Foto: Prensa Mercosur",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x902",
+   "materia_url": "https://prensamercosur.org/2026/11/14/defesa-civil-emite-alerta-severo-de-chuva-para-sao-paulo-e-grande-sp/"
+  },
+  {
    "titulo": "Região de Jundiaí cria estratégia conjunta para fortalecer o empreendedorismo - Portal Novo Dia",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTAtNWtMVE1iU0szUjBJOXVrVUxoZjZxWGx5cmdhbGhncE90aWotOWpraWs2SzhXaVUwNzZid1pPRnoxblo0YUF0TmNHTWJIVHdueXYzZk5TdTBwYVRfcnBpY0VkYTA3elV5Zk1HWWVuMEpORUt1SWswOVFPVGVkZDZZakp4RUtCSExlUW5xZjNRMHZ3dWtLTlFxUm1xbWFzMGJLTnpyakVKbWhpRTFVY1U2eHpQcWVH?oc=5",
    "fonte": "Portal Novo Dia",
@@ -386,12 +524,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 05:59",
-   "foto": "84dc05f12821.jpg",
-   "credito": "Foto: Portal Sorocaba.com",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x419",
-   "materia_url": "https://sorocaba.com.br/sorocaba-hoje/incendio-em-fabrica-quimica-deixa-12-feridos-em-salto"
+   "hora": "14/11 05:59"
   },
   {
    "titulo": "Canais oficiais explicam como pagar pedágio free flow e escapar de multas - Fato Paulista",
@@ -407,12 +540,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "14/11 05:58",
-   "foto": "137f3eac1bde.jpg",
-   "credito": "Foto: Fato Paulista",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://fatopaulista.com.br/free-flow-veja-como-quitar-pedagio-atrasado-e-evitar-multas/"
+   "hora": "14/11 05:58"
   },
   {
    "titulo": "Incêndio em fábrica química em Salto deixa nove feridos - Portal Sorocaba.com",
@@ -426,12 +554,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 05:53",
-   "foto": "52f108aab456.jpg",
-   "credito": "Foto: Portal Sorocaba.com",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x541",
-   "materia_url": "https://sorocaba.com.br/sorocaba-hoje/incendio-em-fabrica-quimica-em-salto-deixa-nove-feridos"
+   "hora": "14/11 05:53"
   },
   {
    "titulo": "Free flow: veja como quitar pedágio atrasado e evitar multas - Terra",
@@ -447,32 +570,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "14/11 05:30",
-   "foto": "6222ab244bee.jpg",
-   "credito": "Foto: Terra",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://www.terra.com.br/mobilidade/carros/free-flow-veja-como-quitar-pedagio-atrasado-e-evitar-multas,d1a0c2c28d53174d9ebc0634072fe87ahlgq3pme.html"
-  },
-  {
-   "titulo": "Estudantes criam 'Exército da Pós' para cobrar Lula por reajuste em bolsas - UOL Educação",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXFGd2VWRXFqNmVNRVpzeU9HTlVtcDI5eUU1Y3BTdTRZa0ZfZnpNdC1zNzRiS2FFZDdJOGYteXpiZkZvaVVsbmJ5bmt6Q3Nxa3RHYWIxTlpCZ0VLT3lnaHZHMVdLck12eENRUWRQaU9nZmZHYjRlRW1ZdG5fM2kyR2ZXRms1SjVGWFBPNzRpcm5aNWszTGNnZVZlLUpHRHVodnVoeEM4dHNRQnotdk96Ynd4WDRyTWhMV2RzblltT04tQjg?oc=5",
-   "fonte": "UOL Educação",
-   "quando": 1794645000.0,
-   "categoria": "brasil",
-   "fontes": [
-    "UOL Educação"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 05:30",
-   "foto": "0be101dc9e91.jpg",
-   "credito": "Imagem ilustrativa: Sakibnb / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "14/11 05:30"
   },
   {
    "titulo": "Sábado (14) deve ter tempo abafado com pancadas de chuva à tarde em São Paulo - Folha de S.Paulo",
@@ -488,12 +586,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "14/11 05:00",
-   "foto": "630403ea103b.jpg",
-   "credito": "Foto: Folha de S.Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "materia_url": "https://www1.folha.uol.com.br/cotidiano/2026/11/sabado-14-deve-ter-tempo-abafado-com-pancadas-de-chuva-a-tarde-em-sao-paulo.shtml"
+   "hora": "14/11 05:00"
   },
   {
    "titulo": "Free flow: prazo para pagar pedágio atrasado acaba na segunda; veja como fazer e evite multa - Expressão Rondônia",
@@ -509,12 +602,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "14/11 04:14",
-   "foto": "71d8b6bbc5d8.jpg",
-   "credito": "Foto: Expressão Rondônia",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://expressaorondonia.com.br/free-flow-prazo-para-pagar-pedagio-atrasado-acaba-na-segunda-veja-como-fazer-e-evite-multa/"
+   "hora": "14/11 04:14"
   },
   {
    "titulo": "Por que Câmara e Senado dizem que Dino passou dos limites na escala 6×1 - Prensa Mercosur",
@@ -531,6 +619,20 @@
    ],
    "pontos": 5,
    "hora": "14/11 04:03"
+  },
+  {
+   "titulo": "Marcha para JESUS será hoje(14) - Jornal Jundiaí Agora",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VEtCa3FfellVZ0dQbTBZMlNXekozRlIwRXF3TXphSEwya2tVZm5nczJmc1A3WUZKTjYwWTdDOWRraU5jLUh3bzVFaWUybDl0dnZUaHRfTmd0d1BfUWEzY2xyNWFkdVk?oc=5",
+   "fonte": "Jornal Jundiaí Agora",
+   "quando": 1794639632.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Jornal Jundiaí Agora"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 04:00"
   },
   {
    "titulo": "Receita Federal propõe adiar em um mês pagamento definitivo da CBS - Congresso em Foco",
@@ -579,22 +681,6 @@
    ],
    "pontos": 5,
    "hora": "14/11 01:54"
-  },
-  {
-   "titulo": "Lula deve acomodar ex-ministros e aliados derrotados na formação de novo governo; veja cotados - Tribuna da Bahia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWdHUW9ndF9ha1dnOHlUWHNQemFfRzUxSE4ycEdJdzJKTzU5c1Y0UFNramJHNnYtOURpaGZpc1BXMWxBc1FmRG5zbFo4dWJIYy1vQ3dOQ0dKemdTcE5zb1JfNlBlNXV2MmtXdDV0YzBjNEZyb3ZZWUZ1SS1XVWhDcl9ka253VG9lRHlfcWpTVHlaQ1R6UmpPNGFTSEhiVEMwcTRzSHVuZ09Bb3dRRW1BRE9KdG5SZUtrMHhKcTJwR0tOMTRTRXE5aFFnR0t3QQ?oc=5",
-   "fonte": "Tribuna da Bahia",
-   "quando": 1794628800.0,
-   "categoria": "estado",
-   "fontes": [
-    "Tribuna da Bahia"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 01:00"
   },
   {
    "titulo": "Por que Câmara e Senado dizem que Dino passou dos limites na escala 6x1 - TV Sim Brasil",
@@ -775,48 +861,6 @@
    "hora": "13/11 21:58"
   },
   {
-   "titulo": "Pane aérea nos EUA frustra viagens e deixa passageiros sem previsão de embarque - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2w2eGN6c2U3OFdoUndSREt0dE04ZlNQUmIzaU1NM2M1RFhUUko0MzRPUTZLeEZkbktQdlZBeHIwSXhKMkJyUzNvREdCWktMWXNZcnVqUVJ0R3EzcDVwM3YyUW5UbUJqNzdwVVAwUENIQzA4c2RTbDFFMU1VOUtyZEI3RU4tNm5tcjhQNXhjMjF2VmdMelRuYXIwc2FxSEVGLXpfUUNSLVQtUERSQ1E?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794617800.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 21:56"
-  },
-  {
-   "titulo": "Resultado da Lotofácil 3829 tem ganhador em Jundiaí - Portal Hortolândia",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXM1RnkzTTBXNUtFOHdJeVpKNHhIYS1nUnV6UGR4SHBMZU1oYTlQektxMEpXWXZEVU1HMU13d2x6bUl1UC1EbmxZQTh0Z0FiNTFYQ2o4NHZZSnNJeExRSHlXRHplZ3kyTUpQRWh5eWdNb2VjRjJ3ZV85dE9ia05kRTEzVGdlZw?oc=5",
-   "fonte": "Portal Hortolândia",
-   "quando": 1794617141.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal Hortolândia"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 21:45"
-  },
-  {
-   "titulo": "Defesa Civil emite alerta para temporais em todo o estado de SP - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTRJUUtTYnFFU19jbGdXZUJRVWpsdFpraDlSRFBBblhNNmVpODkyUjhPVTFXM1VKYTJVRTBDQmRGRlRZWFdjcGZjMVV5UnEwTGsyYUlsdXpQTUhuNVdZXzc5YVVtSW45Q2NRR3RqQ0xyOE9vZ2UxcTlGVjRnOXBqUjBZOWRFcjFUNzc0ZEVpQlNmV09DYUxTMGRsR0RCX1ZFNXFEQzFXTUNEWTVzT2V4U2VoQQ?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1794615773.0,
-   "categoria": "regiao",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 21:22"
-  },
-  {
    "titulo": "Senado se junta à Câmara e pede ao STF revisão de parte da decisão sobre o fim da 6x1 - Rádio Itatiaia",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTZPSDhsdFNJM1poNU16clFSWmRhem9KQnF3SkN4WUluWnFZb2hDa21ZTGFuTlZsYUluZ0pUenU3dHJCR2hTMFhfUGlGOFlZcTNSMmpaOUJXQjBaVTYxbUJ3TDhTbC13d3Fma0FRQ19Wd2RPSzNodlFaQXMzWG15M29YTkxGUlJISHJqNFdHYmhiOVdnUkJZMzhNSnpPbXBwUDJHcnVCb1ROU3M2SEItdHVsWTdldjJfVVZScEU3cEs?oc=5",
    "fonte": "Rádio Itatiaia",
@@ -847,34 +891,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 21:07"
-  },
-  {
-   "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmh0dm1YVzc2d2Zpa1NtcTFjZ2JxRDVKSld2dkdtVm1LdkRWTFcwNTZWV2k1SnctMV9qQS1BQUc5Q0pseldyQm02b2hOdjlUYnJpeFhzdi1xLXF0MUgwOTRDVXVLLTFtZkg3bFlGYlBOalg5eTMwZ29xY2I2ZmVadXBZMnF0UUpNeWpGcjhKTlZ0Qm9oalBpeGw0V3NLN2dnbWdsZVVtNng0Q1c5QXJPU1ZpSU9CTDN1WktueA?oc=5",
-   "fonte": "TVTEC Jundiaí",
-   "quando": 1794614525.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVTEC Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 21:02"
-  },
-  {
-   "titulo": "São Paulo recusa oferta por Ferreirinha - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTRZa0hNVDZxTUt5R29pTnVXWWxSTVg0bmh5SC1zZzdNLTYwR2xFQVVzdGUyU2ZtaTktTUo1TGZndXNPY0lDMVctQ3BXellRVVNTZE5STlplNEFBblYteFU5MzdZNVY1eGxDNlIydWhOUEhlTERwZ0tHRkI4d3Nna1VHVmxwR3laZWRmNVJmZw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794613832.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "13/11 20:50"
   },
   {
    "titulo": "Câmara dos Deputados contesta decisão de Flávio Dino no STF e pede manutenção de regras aprovadas para o fim da escala 6×1 - Ceará Agora",
@@ -973,6 +989,22 @@
    "hora": "13/11 18:57"
   },
   {
+   "titulo": "Governo Lula enfrenta rejeição de quase metade dos brasileiros, aponta Atlas/Bloomberg - Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGx5X3NudGxVeDFOT0VmcWFiREF3cVZRMlhXamZVbTZQZldmYjNPN3dCZG9tajc0azE5T1phc29WazVGUVROQ2FDSUJGUXg5U3J0S3d2Wlk3VWw1bTNUR1R6Q2U4blVGX3ZJSC16RVc4cTF1bzBEbmYwamJ2SmhFVVNPUndoQkVVUk9LTWF4TFNqQTZVdklVUFhaMFoyaEZVX3R6QjltNnZzRWQtTGtXQnc3TWNyVTJwbGJ2M1ZOa24xRXAxVm1mcm5zUk9idw?oc=5",
+   "fonte": "Seu Dinheiro",
+   "quando": 1794606852.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Seu Dinheiro"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "13/11 18:54"
+  },
+  {
    "titulo": "Entenda a proposta de ajuste fiscal do governo Lula - UOL Economia",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVd4NVVqUFNCc3ktTGVXcmh6RFNBWHJDTXhZRHlxb2JYM2pYLXZpa0NTVTA4LWI1bjV3YVB5M2ZVV0Z4QmJaeGFWeV9iWElkVDRIZVZHU1Y5RWV2dC02Z3Fyc3hVNzQ2VzMybTdja0x3dUhTcGVScmtDaldSR0tzbkRKUlBvR0xQd0FKR1plbU5POW1wV1lRMG9PeUxsLWV4d1RiYjZKSllURUVQNl83M1Y1M1Q?oc=5",
    "fonte": "UOL Economia",
@@ -1019,38 +1051,6 @@
    ],
    "pontos": 5,
    "hora": "13/11 18:20"
-  },
-  {
-   "titulo": "Minas Gerais e Espírito Santo concentram a chuva do Sudeste no sábado (14/11) - Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOUx5dExPbW9wamRWQVhqMzlFQW1YSjZtOFBFN3ZZN1Q0OWh5S0NvMkt4WkNfRFRBbUIzSlQwS0duekVjdV9TaG9pM2lydGNnQ1k5dl9OemJndzBiR1V4UHJQLVhNUXRmSEJhdGJSZXJaMFk4TTR5azRYckVfZVNJZVFBaGNwa3lOblduMFdmZHZ3N29CZkxMaE9VRExwY0lJUDFrQzUtenpUa25NQjZOV3NDSWRaS1REbV9vU0JCV2UzWkVZUGdYMFMyTFY0ZzIz?oc=5",
-   "fonte": "Agrolink",
-   "quando": 1794601080.0,
-   "categoria": "estado",
-   "fontes": [
-    "Agrolink"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "13/11 17:18"
-  },
-  {
-   "titulo": "Defesa Civil de SP emite alerta severo de chuva - RD – Repórter Diário",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVNlSFEzdEcwOWRnU3ZyaURKeU9wSWVYQWtOUnBFX3NvbU5TWGZqeTcxaEplOVFfb0U0ZzA0WkpyRW1JWlpmWVE4dVlpLUdkY3VqNmNYWmZmeVE4UUVKZ0IwZWVWcXVjTzdEMFJ5a21XbFlPUnZIaGt1cGVDcGhCYWVQSTZhZDZnMkI3YXMwM2U4MjFXVUtsUm5RRGFVQWM?oc=5",
-   "fonte": "RD – Repórter Diário",
-   "quando": 1794599475.0,
-   "categoria": "estado",
-   "fontes": [
-    "RD – Repórter Diário"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "13/11 16:51"
   }
  ]
 }
