@@ -1,5 +1,5 @@
 {
- "gerado": "14/11/2026 15:04",
+ "gerado": "14/11/2026 15:57",
  "desde": "14/11/2026 10:35",
  "pautas": [
   {
@@ -144,27 +144,6 @@
    "materia_url": "https://jr.jor.br/2026/11/14/homem-e-executado-em-estrada-rural-de-cabreuva-com-varios-tiros/"
   },
   {
-   "titulo": "Fundo Social de Solidariedade abre inscrições para Workshop de Panetone - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkZHSmFkZHA0eFZlcndyUGdJOE5STjctdFgwRkMwYzhvQ1gxU1p0X1NNaUI5U3c1TEdHUkhUNDh3WTJmWUVXSkp5VWVzUjFJUXRWaDJVbVFIaGdqZkVfXzEwZW44SUZSRUxKNzFtMUZnYlhyWUlldzBDR1p4V1Q3LW9mZVNIVnI1MGxIaW1COXlVb1NNeXR1dWZhVnc?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794672402.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "14/11 13:06",
-   "foto": "bfc87c37ef53.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1400x930",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/workshop-panetone-gratuito-fundo-social-jundiai/"
-  },
-  {
    "titulo": "Sob gestão de Tarcísio, São Paulo gera mais de 322 mil empregos formais em 2026 - Republicanos 10",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEtIZUFETjBDaHVGU2c0MklnUTEyUV9NM2pfeUNQWUdvbUdmcjVYLUp6Y1JpZTF6bXZNbUNzLUZKREhIVm9BQUl2T0ltdGR0ZHlNYXN5dWJ1ZjhWREtWeWpfWFUxN1kycE9qRDlybDBZRnY1eTUtQkV5NUg4bWpaWUlYSFFSRy1BWnJFUV94RHdyR0FFbTNLYjN6LUU5REhTTjZ3SUtzX3VhaVAzMkVvM1pZYm1CdzA?oc=5",
    "fonte": "Republicanos 10",
@@ -184,6 +163,123 @@
    "credito": "Imagem ilustrativa: Ann Rosener / Wikimedia Commons (Public domain)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "844x1024"
+  },
+  {
+   "titulo": "Nota de Esclarecimento: Projeto de Lei da Serra do Japi - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUlXSU1OZkMybnpIdHdjcDR3NE5JQUdjMnYyVDZzRDlSY2xyRXl2N0Z1WjE2aU9LS2tuYm9rUUFZT3VRallhRk5QMnRXcWswYk9xTDlHRVdIYU85ZW9PMzRzTFd4WTVQQTRtc3MxcmVGcjMzNWZCcVR3SF83TjRqa3FDaFQxMW5GRm55cjZybXQzRXB5c0pjMVNRWkZQV2FVSWNZ?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794681720.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 15:42",
+   "foto": "e94895a20395.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x850",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/14/nota-de-esclarecimento-projeto-de-lei-da-serra-do-japi/"
+  },
+  {
+   "titulo": "Ala do PT defende ajuste fiscal com mais impostos - Poder360",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUNuNUFQVTI5X1FzRmZxUGxLbmMzVFhYN0E2MnpvUGxjQjZrUUo2cXJHNUpLUHVUWmxwaU9NSFU1Y0xVQmlsTExmU2NCLWtnbjhaM0pKQ3Z2ZGs5U3BFTGJ2N1pxdEVQRGlkelNnTGFnOEVTdlJxUzdWcW1xblVyM2VPNm5nSENxYnNkNU5hdnJoNjc2OHNSSGRR?oc=5",
+   "fonte": "Poder360",
+   "quando": 1794681629.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Poder360"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 15:40",
+   "foto": "57b242500351.jpg",
+   "credito": "Foto: Poder360",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://www.poder360.com.br/poder-congresso/ala-do-pt-defende-ajuste-fiscal-com-mais-impostos/"
+  },
+  {
+   "titulo": "VÍDEO: homem leva tiro 'de raspão' no meio da rua após discussão com vizinho em Votorantim - G1",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObUZMQ0FjcHJxS0E2ai1Cc0V2LVVYQXBjTy1oYnVxSWY2RFNhcFF4dWpmRXFzZHJuendjWVhQVEZPMFRNTnVVdGN4bXlhZDdRQ19kN3NkSVhzWHhpMEtmbV9IUW9kZ2pyMlVXU2hlVG5qdzdQYkN5X284bkZPNTRPQlBuMjBHQVJYVEdDS2N1aUxRZnUyZFRuMTVhQnJVSWtNSkp5eWZxM2h1V0NwYVZFeDNOb1d0eURLOHdtc0lISUh1ZFItdEZPaUZOTmdLRTFaTmI0U9IB4wFBVV95cUxNYzhYYm8zZVdBSDhCc1FNdHBTQ29mOGhqN0djbzB2cDB0WnYwWFJCWFZOYkN0cUE0MVNuYWZ1X0JmaUIwcjJWM05jZjRqSTExU1dBdkRLdEJ5amRtWkhoa3JEMEg5QjlYdjhBUGlpVk1OLUJfS1hqQ1A4V2x2T2R2X1BSTlpQT1lTQXF1MVYxcjZuRnNJQ0JpY0RaTk5RYko0Um5VZGJIaUE4Z2tqX202NnA5R3ZYSzI2dDFWalR3Q0ltSEVVQTh5Z1NXTVlIQkg2dUxvV1lXOHY5Q0NoZEVEN2FWVQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794681326.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 15:35",
+   "foto": "1b9edb39f4bc.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x700",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/video-homem-leva-tiro-de-raspao-apos-discussao-com-vizinho-em-votorantim.ghtml"
+  },
+  {
+   "titulo": "Vinhedo inaugura Centro de Excelência em Atletismo com presença de Maurren Maggi - tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1o2M3F1THQ3blduWU1QczZrbUcyclZUc0UyMVVQTW51RktBX3Y4aV9JZ1cza2tDa3F0cUtOQ0c4a1VFMXpmTnptZXZpRE5SYmo1VGE5RlU5S2RzSUxMdWhtY05mUC0zSTVsbVZKLTV5YVFJcVA1NVVCQV9BUmN2Mm95Q1ZyR0ptMk00ZmRud1RvZlJjR0NmQ0dqNTVLc3V4eThIRm5DU0xkTkFm?oc=5",
+   "fonte": "tmc.com.br",
+   "quando": 1794680735.0,
+   "categoria": "regiao",
+   "fontes": [
+    "tmc.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 15:25",
+   "foto": "15939f026b89.jpg",
+   "credito": "Foto: tmc.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x450",
+   "materia_url": "https://tmc.com.br/esporte/vinhedo-inaugura-centro-de-excelencia-em-atletismo-com-presenca-de-maurren-maggi/"
+  },
+  {
+   "titulo": "Reforma Tributária: CACB e entidades pedem mais tempo para adequação às novas regras - Capital News",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNURTakxRRXUwNnhuemFhNmd4UzBvWXhyZDVET0w2amFlV2pmQ1I1NzlvTHlZLTVyenR3bDVlTzhYaGtyTjhDcmxhVHAtT3VyRHZLSlVielhCUXdrYzAzVjJZUXNGLWtySVZaR0RUcFNRTDl4MFB3ZkxSTXl2aHBPRFM1SWU3cEdJal95cDgwTGs4eTRQd3RPbVdsMjNranYwaFVnZ0FYM29lT1pDam5sdGRIc3FRZ1hyQjNicmloOUtkUkNJdU5yN0pn?oc=5",
+   "fonte": "Capital News",
+   "quando": 1794680520.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Capital News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 15:22",
+   "foto": "9faf3a162c79.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "JJ: Jundiaí elege nova Corte da Uva para a festa de 2027 - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWJjUzRCT0hWSU1XeDQ2UUZfSTZRYjlCNGJfbGFRTVFtRlYzQUlZckFlajVmdFg4MER4ck1sVUxibDcyM3hDZlJsUmlvYTFqbEpzOVdJSDlxR0tRcDBrWUR1dVh0aVpMU05XbGZnaC16aG9zamhXZ0U3alNXSnBUdmFYVlQyWjdQZ2hxdEpzUjdFTjJJSF9ycHZKNlpwaHBsNldEYVFDUVdZaHRiWlFod1pwRGw?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794680511.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "14/11 15:21",
+   "foto": "74d3621512ea.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3018744/jundiai/2026/11/jundiai-elege-nova-corte-da-uva-para-a-festa-de-2027"
   },
   {
    "titulo": "Governo aumenta imposto sobre pneus importados para 30% e motoristas podem pagar mais caro - Lavras24Horas",
@@ -288,20 +384,20 @@
    "materia_url": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-sabado-14.html"
   },
   {
-   "titulo": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo - Terra",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYm9RcXZVOGN3ZXlPYmJTaEptbThYWTYxUkZPMjJvZkFTclVDTFFQZ0JLN0ZRMEJFRWhXOXMtTXZCdmsyNnM0M21HbkRSYWM1Q2hfeWxIa21hZjdSaGM1bmpCYklCaXJkRFo1dVY4YkVYRTZlZWR2VzBaQjRscmdUUHJITW9hSy0zNUF3NWNBTGV6Y3JJUzVDSVQ4NkpHS0tDY0RtLTZIVHRTMGNKM2d6ZENyb1ZNOVR6TGZVLU9nUUtxQ24zeVNFd0tPelRFdmpHY2Z3Y2t2azJzWEp1Skl1Q3VoRllFT0pGbEkzSGY4R0s?oc=5",
-   "fonte": "Terra",
-   "quando": 1794675480.0,
+   "titulo": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZThJSndIamhCbzh6OWVkRVc4NnhJdHlESnR5WmE3QzI4eXp4M25UWDJldkVWcEdvUnVBV2lZM2o3MUluelJiNE1qeXJobHhOdTh1eUZnMVdsVDJhXzB2T3Z1bkdRc3c1V0VBN2JZS0JEczNHS0ltQ2NtNW1WWXRqaHJIenRwQ0VQaW94MnJuNG5ia2VTcUVpZXlCd01YN2ZSUEllWEFjMjFjdU1UNUw5UVdfQ3hidW_SAbwBQVVfeXFMTjZHRXhxM1l0WF9aSE80T2kxeXEzNFlYTUp4MTNXaks4NU1ocHJMUXhMNkVFZENMRF82Q29qaElob0phQnhSaVg3SEh1Q1h3SDNKbGZuOS1ydTYyczFyUmc0eXRaYy16aXpuTXpsQl9KTnlZSWEzYjg3RXE4UjlzYkc3Vy1pYzZReVFmZXFVNS0zY1RneGNZTGlzSkt0Z00tTWZXQW5nWnRRdDNsbE1iWWtRMkFRcUs0ZUJxNlI?oc=5",
+   "fonte": "Estadão",
+   "quando": 1794674881.0,
    "categoria": "brasil",
    "fontes": [
-    "Terra"
+    "Estadão"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "14/11 13:58",
+   "hora": "14/11 13:48",
    "foto": "afbe524b4b1f.jpg",
    "credito": "Foto: Terra",
    "foto_tipo": "materia",
@@ -348,6 +444,27 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1200x718",
    "materia_url": "https://www.n3news.com.br/2026/11/senado-pede-ao-stf-revisao-da-decisao-sobre-6x1"
+  },
+  {
+   "titulo": "Chuva provoca alagamentos e interrompe circulação de trens na Grande SP - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXpMYzV3OXBUQzlfaXFKSlJJLWlTVW82N0FpaHpsRklaX0twMXNfT1NXX0lKdEhaMWtkU2h5QUViODVRNEJpcUF5dTNZdXNRdGc2aE1BSEI1aURiTjF1WFFoY1FqWExOcWxhZFllUHpUQ0ZfbkNERC1hRzNDTkVxMExLcmJmUXF0LUMyZjRaX043RHB5MlE?oc=5",
+   "fonte": "Estadão",
+   "quando": 1794673395.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "14/11 13:23",
+   "foto": "012c625cd5d2.jpg",
+   "credito": "Foto: Estadão",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://www.estadao.com.br/em-alta/sao-paulo/temporal-bairros-sao-paulo-estado-atencao-npr/"
   },
   {
    "titulo": "Motoristas têm até segunda-feira para pagar pedágio free flow atrasado sem multa - Diário de São Paulo",
@@ -403,36 +520,24 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 12:45",
-   "foto": "9f7f73abd708.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1270x700",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/muito-alem-do-diagnostico-moradores-do-interior-de-sp-contam-os-desafios-de-viver-com-diabetes.ghtml"
+   "hora": "14/11 12:45"
   },
   {
-   "titulo": "Bancada do PT protocola projetos para ampliar tributação sobre grandes patrimônios, investimentos e dividendos - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ21WeEdKdlBBVDNmdXJ2NjdvOFJIRWh5X2JGaUFoU1R4anVXa0lXZFdTU21PaEx0dlBldTFnSF9ZSXY3NDdTZTFMdnVuMHFEWXdLY1hjc0F6aUlldzRXZGM5S09zZzJMWDVLeUtsbzl4QW9tdTA4Sm94X2x5RWhDUk83NjRzSGRBaXUzb0ZjbjZibkNuQXhQU0RSamJicU5wWUxWQVQ0SGRfanMzcmlET0hoLUk1el90RHRCdEx5d1BkUENqQjhYWW40dXI5bGpQV0ZsMFdvNXM4NHdRcDk0T3h3?oc=5",
-   "fonte": "Portal VV8",
-   "quando": 1794669685.0,
-   "categoria": "brasil",
+   "titulo": "São Paulo marca eleição que vai determinar novo presidente - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcENibWZfOUVLZEtDUEpiMDRzb1BFTGpWRDU3MjdPckhVMEJXMGxkeDdTQW5oejB2dEEyUkt3bW50WXY0WjRrX3c2UVhrWG5HSm5kQ2hNNWN1UFNDMXgyUG91bWU3S0pabW95RkJra2F6UjFuUGpkNC0tTGktU2xqd2JBSndwTjdaWWVjYzdBMEtIdGFRS0VmbnBVQzNWVy1DeURWaThvR2s?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794669588.0,
+   "categoria": "regiao",
    "fontes": [
-    "Portal VV8"
+    "Tribuna de Jundiaí"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 12:21",
-   "foto": "96eb2ee8a581.jpg",
-   "credito": "Foto: Portal VV8",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1000x616",
-   "materia_url": "https://portalvv8.com.br/noticia/85597/bancada-do-pt-protocola-projetos-para-ampliar-tributacao-sobre-grandes-patrimonios-investimentos-e-dividendos"
+   "hora": "14/11 12:19"
   },
   {
-   "titulo": "Drone mostra estragos em fábrica após incêndio e explosão em Salto; veja antes e depois - G1",
+   "titulo": "Imagens de drone mostram estragos em fábrica após incêndio e explosão em Salto; VÍDEO - G1",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDloTVA0bHUxTUlBQmg0MzIxT2lWS1RZVVJGcDVZbmFBcGtMWXJEemRoazc4VWVRc1RqRlg1aVM4d2N5RzNnZUU1QjJlWkFCTmFLODJxbmtJVXNRZ20zOWc1ZzR0cXNKLWdpVG5qWmNyNDJMdF9EVFl3WGJEMXNCZGVIaDVRakVlOEJtMUlR0gGcAUFVX3lxTE9VLUd6RFQ3WEtuRmVwTTNtVWo0dFQtTkxqOGhQRjVOTFVDM0dFTUpPZHJMR0hXMVJHSFoxNzdVUjQwOHZCQ3ZieWZCbE5yckpPWVVzSlpkemJzVEtsSmZwSU43dF94Qkt4RUJxRmlGVjFWWnhGNFFwMzhPREluMUFKMnFiNWdyMUJsUDZCV2VvNGd2d0YwVkZIUEZCRA?oc=5",
    "fonte": "G1",
    "quando": 1794669277.0,
@@ -443,12 +548,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 12:14",
-   "foto": "8cb48b37c8a5.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/drone-fabrica-salto.ghtml"
+   "hora": "14/11 12:14"
   },
   {
    "titulo": "Imagens de drone mostram estragos em fábrica após incêndio e explosão em Salto - G1",
@@ -462,15 +562,10 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 12:09",
-   "foto": "860942447ffb.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "401x720",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/imagens-de-drone-mostram-estragos-em-fabrica-apos-incendio-e-explosao-em-salto-15188001.ghtml"
+   "hora": "14/11 12:09"
   },
   {
-   "titulo": "PT propõe taxar dividendos em 15% e tributar LCI, LCA e fortunas - Gazeta do Povo",
+   "titulo": "PT apresenta pacote para tributar LCIs, LCAs e grandes fortunas e taxar em 15% lucros e dividendos - Gazeta do Povo",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2JxcVJOcGFLNFVxbnJ0R1RVOWk1S1hBMHUwMFVzLUY4RXFUVHlEeU5jVzJuejAweklOYlAyLUY0ajFROW9ycFZOSzJRUDZmYVJILVZ5anZZVktDNGo5bXJtd3RLLWx4cmFCMW5VWU1mcmVJcnZLNGlDR2s4NndkS2ZvWktUTXhFVGlidUFmRkJJdW0tNzJVN3BLM1Q?oc=5",
    "fonte": "Gazeta do Povo",
    "quando": 1794668940.0,
@@ -483,12 +578,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "14/11 12:09",
-   "foto": "80fe8d8a6d1d.jpg",
-   "credito": "Foto: Gazeta do Povo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x986",
-   "materia_url": "https://www.gazetadopovo.com.br/economia/pt-impostos-lucros-dividendos-lci-lca-grandes-fortunas/"
+   "hora": "14/11 12:09"
   },
   {
    "titulo": "Lotofácil 3829: aposta de Jundiaí acerta sozinha e leva R$ 1,6 milhão; veja as dezenas - ncnews.com.br",
@@ -502,28 +592,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "14/11 12:05",
-   "foto": "4824c94c1ca4.jpg",
-   "credito": "Foto: ncnews.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "984x554",
-   "materia_url": "https://ncnews.com.br/2026/11/14/lotofacil-3829-jundiai-premio-16-milhao/"
-  },
-  {
-   "titulo": "Atrasos e cancelamentos de voos devem continuar nos EUA, alerta secretário de Transportes - G1",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnQxNm5ZWkttTUVoR2ZWTzVXRGtaZ2tnSkIxVnRtUFVWLTBsMHBid1A3UkFqRXpsblpPWVhfekl6XzJWQTY1aWs1RXJZbXoza1R4UElfNUVCdkNDbkxnZWNfTDhFMHphb0FTMWhuTlNwMFZWQi1IQzJmeEpvdU5DSTJiWk9obFRjaHFOX2pSVWxwOURGcU5CUdIBpwFBVV95cUxQb2dGM2xPdi04alFDTzZ3LUw4YmxNeXhEM2ZVUWs2RmZub19tQ196S2ZYeXJwWE1LZHFZQWFBaXZUa09DZDVnbGhwaXBqcjRKNEtleVB6a28wSUFUSUxycHpURWZ0Wjg0S3JVMGpMY19DNFJZRDViMFZMWlpPN3IwbTAxdG5qRHg1MDlHWHR6R2RzVmNxWHZoY2tqMktrdUNXWGNNa1FLUQ?oc=5",
-   "fonte": "G1",
-   "quando": 1794666292.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 11:24"
+   "hora": "14/11 12:05"
   },
   {
    "titulo": "Incêndio destrói loja de acessórios para veículos em Araçatuba - G1",
@@ -538,6 +607,22 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "14/11 11:15"
+  },
+  {
+   "titulo": "Rebelião na esquerda contra projeto de ajuste é inspirada no próprio Lula - VEJA",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjFKSXI2ZGFtUjh1UkdxRThSSm44Z0hsSzFxczZScG0yVjNxckdkWTdkbjNXOERUNEx5WktkWjNZeVRCUHVsXzRiRzRGc3lOemRRdGZFeDhUTTFpZUppTlQxZDh2akRtYjdYb3JVM1MtZmt5c2xyaFhzWEd6dXZ0czFBOVc5X3RLV0NnaWNrSnFvMHpRNWJZdVdYUE44RDFRZG83VDVNY0haWkRCbkE?oc=5",
+   "fonte": "VEJA",
+   "quando": 1794665640.0,
+   "categoria": "brasil",
+   "fontes": [
+    "VEJA"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "14/11 11:14"
   },
   {
    "titulo": "Giffa brinda aos 10 anos com blues, burger e chope em Jundiaí - Tribuna de Jundiaí",
@@ -598,22 +683,6 @@
    "hora": "14/11 11:01"
   },
   {
-   "titulo": "Gilmar reage à declaração de Moro sobre devolução de dinheiro para OAS do triplex atribuído a Lula: 'Desfaçatez' - O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaFFrc0dRU3hISVJaWDd3Yl9fQmtMckpabjN0REF3RnljWFYzWWFxWF9ESndoSHdHYURURkRPQzVnSEUwenFnck1BN3F5US0wM0FsV21Md1REOTRlTW9QTkl3MnNqU2tTZHp5TVlvM1MxOEd1UXhRT1E0QXcwQVdjV044WGZoOGhNWlJOcHRiQ0Q5dWxlSmZsam5tZ3p1dzhoU0JLVTFfdmhxbzVzRFllSnM5MHJCLUowbUtmNmdvTmh3c05WSjZreXRoM1JQZTV6QXJGMDF2X3lMU21sazdXbmMweGd0N3VIT3IzeE1UeEVBLTE0UVFmb9IBhwJBVV95cUxPXzRPZlV2S3Y0UVlKTjRsSjBwT3pEbU9BR3RfQWlpcEttdFpNX05sbmVkN21VMjdFZ3ZzNlhjWGpXRklxUHBjblA2SnUySmxtcnh1eEtfZllmdUpUbFVjYWpEZ1BIcFh2Mnk1MkJ5WGczS3pnS0tMZ21IQTB6TjhNd2N2bUI4cUtEa3dkclJnS2dJenp5bmFCSWlCRGtTOTYyZjFqaGJtazh3NnlXUDFidmM4R0xwc2xNRUZ3TjQ4ZWNHVU5ocTVZTHVZeFNqaFVQaUdTUmE0WG94OG8yQWtoT1FtMV9CTUFlMm5CSjZSRzNLcW9wNVo1bVRXQzZFWi0tY2gwS0F5MA?oc=5",
-   "fonte": "O GLOBO",
-   "quando": 1794664673.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O GLOBO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 10:57"
-  },
-  {
    "titulo": "Lotofácil premia aposta de Jundiaí com mais de R$ 1,6 milhão; confira resultado - vtvnews.com.br",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPby1SOW4zN3ByMXJ1WGxZTzFaXzg4YWdFbXMxTTFMN1hlOWNKWmtKRHlpMTd2dU05cXpjX3hKemwyWEoyWFg1ZGE0N09ZR3BndmgtSUtuTERLVjNFUWNMYTZ2RWhPajI2UHk3X0wyUGhqeEk2bFZYaFMtUUMxaDJCOGlESQ?oc=5",
    "fonte": "vtvnews.com.br",
@@ -642,18 +711,32 @@
    "hora": "14/11 10:40"
   },
   {
-   "titulo": "Lotofácil 3829: uma aposta de Jundiaí ganha R$ 1,64 milhão; veja os números sorteados nesta sexta-feira (13/11) - Varginha Online",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nVk5XdkswQVpxOU5hRW9xR1hTUDROZ1Q3QU5KQUQ5ZDRtVlFiTWxnMWY2YXlmV3Rzd3Q3RmdEZTJZd0s3bnFpTk5PSUJNazFad3dnRDVrWnZ3anFCV3ZxU2tObXVRSE9OSVlYRzJSbDNkWnZ5V09PZVZn?oc=5",
-   "fonte": "Varginha Online",
-   "quando": 1794663489.0,
-   "categoria": "regiao",
+   "titulo": "Como saber se tenho pendências no Siga Fácil? Prazo para quitar valores acaba na segunda, 16 - Click Guarulhos",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2JIRzhVeW1ZWnNRVEZsTzY2NWVxQWtjTFo5aTF3RkptTWRUQXllb3lUZEttM0FpOE00QTdSZm5OOXhSTXFfMEo1c3dxY3h2RXBtQ1JnM2I2a0lieFdIYmpxeVdoWmlFb0ZRNXAtVTlnSTRZTjVvS1BJYkJVRzQtYlVDNnZwOExQX1E5LVg4amoxbjlveUZZdEYtTktiMllFeDZteVljM200bTdBeTVFcVNXSEo3STJURFFXT2xOTlpmbkdUYURBOU50UXFINnJSbVE?oc=5",
+   "fonte": "Click Guarulhos",
+   "quando": 1794682117.0,
+   "categoria": "estado",
    "fontes": [
-    "Varginha Online"
+    "Click Guarulhos"
    ],
    "urgente": false,
    "assuntos": [],
-   "pontos": 5,
-   "hora": "14/11 10:38"
+   "pontos": 3,
+   "hora": "14/11 15:48"
+  },
+  {
+   "titulo": "Gatos miam mais para humanos que para outros gatos para resolver seus problemas; entenda - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmxpSGdzbHBneHEzME5DRDl1SWZXc0ZrT0VaaEo0V3o2TWJIV3NGQU5GVHIzTmxsRnBqQUkzRTlGOXVFbVpkeHk4QTlQM0NqWXBYSzk1YXZpdXlsUkthVlphUFJNNGNZeGk4OFN0eEd2TmFDcmU1cHBFQlRxMkdiRQ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794681180.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "14/11 15:33"
   },
   {
    "titulo": "Time São Paulo Paralímpico completa 15 anos com 157 atletas em 16 modalidades - Diário de São Paulo",
@@ -671,7 +754,7 @@
   },
   {
    "titulo": "Prazo para regularizar tarifas do Siga Fácil termina na segunda-feira (16) - Diário de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1ozNkd4Vm5kTDU1WmFzN2pnM2FtOENjX1R5VmNPNUxHanM0cW8wTU5GVzB3UmUyVktxVEVvODZaWkVTNEpKMGduVDM1bUVSWGFzMXgwMkFJcXNoNk03TW1RUlcxakVnV3h4TFpsXzhCZ1BrOTRqTmo1dWpGNVMxdDQ4b09QcFFUdm1tcF9ybUozQjM3QVV1X19mcG9VRlFublpWT29USjNkcTRlc3pwMTRmRkdkaGd1SDI0Z0dBNU8zTzTSAcgBQVVfeXFMTzhCcDItZXFGdkFyUmdvQlJmZjRmcTBlQmZ1alUtay1KYWFYSFduWkZZcTVLX3hrMDQ1S2Y3el9scGUyZ2VQNVpCNFZJXy1weXYwdkYxWE5WLWFJZFd2aU9icG1KbHRrVFlPaC1aS3FoV0RTOEs5QUpQMlNGY3ZFa1ZxLXQ4ZVpNZ05razhfV3RrVTNfTXNsbXVpRkViN2stZXRqYnlqc2ZmT0dQdjE5dnpRTGh4bXRsMUxRck96b2R1UE5tNzh5Xzk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEJwMi1lcUZ2QXJSZ29CUmZmNGZxMGVCZnVqVS1rLUphYVhIV25aRllxNUtfeGswNDVLZjd6X2xwZTJnZVA1WkI0VklfLXB5djB2RjFYTlYtYUlkV3ZpT2JwbUpsdGtUWU9oLVpLcWhXRFM4SzlBSlAyU0ZjdkVrVnEtdDhlWk1nTmtrOF9XdGtVM19Nc2xtdWlGRWI3ay1ldGpieWpzZmZPR1B2MTl2elFMaHhtdGwxTFFyT3pvZHVQTm03OHlfOdIByAFBVV95cUxPOEJwMi1lcUZ2QXJSZ29CUmZmNGZxMGVCZnVqVS1rLUphYVhIV25aRllxNUtfeGswNDVLZjd6X2xwZTJnZVA1WkI0VklfLXB5djB2RjFYTlYtYUlkV3ZpT2JwbUpsdGtUWU9oLVpLcWhXRFM4SzlBSlAyU0ZjdkVrVnEtdDhlWk1nTmtrOF9XdGtVM19Nc2xtdWlGRWI3ay1ldGpieWpzZmZPR1B2MTl2elFMaHhtdGwxTFFyT3pvZHVQTm03OHlfOQ?oc=5",
    "fonte": "Diário de São Paulo",
    "quando": 1794674349.0,
    "categoria": "estado",
@@ -738,20 +821,6 @@
    "assuntos": [],
    "pontos": 3,
    "hora": "14/11 12:07"
-  },
-  {
-   "titulo": "Domingo de feriado em SP terá ônibus grátis e festival com shows; veja a programação - ND Mais",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHRNb0pxMHoyN1Z5cy1KQ0o5OUFNcjY2cTFkemFHdGxQcWREZE9Lc1RXejNXOVZTNkYzRlgzSVpyXzNIRXRuZk53bEF1VDZWcVV0ZHFERUJfbGM0bjZMeGJwX1E0RVE3Y1VIOWxocDVwYjdibmJDMTR1Q19iWjFHZG9xQXBxbGdfUGZmRA?oc=5",
-   "fonte": "ND Mais",
-   "quando": 1794664816.0,
-   "categoria": "estado",
-   "fontes": [
-    "ND Mais"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "14/11 11:00"
   }
  ]
 }
