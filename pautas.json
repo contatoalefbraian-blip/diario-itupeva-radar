@@ -1,5 +1,5 @@
 {
- "gerado": "15/11/2026 07:26",
+ "gerado": "15/11/2026 08:14",
  "desde": "14/11/2026 16:35",
  "pautas": [
   {
@@ -30,14 +30,13 @@
    "quando": 1794736860.0,
    "categoria": "itupeva",
    "fontes": [
-    "agenciasp.sp.gov.br",
-    "www.agenciasp.sp.gov.br"
+    "agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [
     "servico"
    ],
-   "pontos": 10,
+   "pontos": 9,
    "hora": "15/11 07:01",
    "foto": "61bb1dc6f1ad.jpg",
    "credito": "Foto: agenciasp.sp.gov.br",
@@ -128,6 +127,103 @@
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1067",
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/14/5a-edicao-do-prefeitura-na-area-leva-servicos-oportunidades-de-emprego-e-saude-aos-moradores-do-santa-gertrudes/"
+  },
+  {
+   "titulo": "Desgaste com voz faz Lula cancelar declarações nas Filipinas - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFdTU0FoLWNIWUFqSjY3UXZXWXBUNldsTVIxYlkyM3J5cTZHRDVfMnhaZ3pSWTJWdmFOcTlCSUR2QnNKSzFlUnRMLW9MbHI0YTlNMFN4N0d3cVd6XzNNMlpuZFRlYVQ5UElnd0dQejNKVTlrSHJOVVpKQ0VYWDBsR0xGMi1ySlVMOUpuT0xiMEdITE52?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794684916.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 9,
+   "hora": "14/11 16:35",
+   "foto": "cbbc4e5ed733.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "materia_url": "https://jr.jor.br/2026/11/14/desgaste-com-voz-faz-lula-cancelar-declaracoes-nas-filipinas/"
+  },
+  {
+   "titulo": "Jundiaí avança em força-tarefa para enfrentar eventos climáticos extremos como o El Niño - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTlHdk1ucFlmTnFadjJvZ01lQ2FuWnJhM2s5WTNxdmIzVjNEVC1HdW5fTXpMOG8tMDM4RmlReXN6X2s0OHhIZS1uRHNYRHZfZXVwY1N2aVNkNFhlSHlvRFhWUWdKVjVrcmdMaHQ2YTNEaEEzMkpEVjFVV1lMbTRrVm1oa1p1VFZSajkxU0QyaU1zaXFxRjVkczZUQmFZWGt0V0dUWjZEWHg4R2VkWFFGaGhhX29feEowSktQSTRBZXpQYlM5RnRuVmNpUUpYem94cE9PLVhuMXRfQ2p3blRGeXJpbFh4WDA3?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794740400.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "15/11 08:00",
+   "foto": "5cfbbc196ad7.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/15/jundiai-avanca-em-forca-tarefa-para-enfrentar-eventos-climaticos-extremos-como-o-el-nino/?apenas_conteudo=S"
+  },
+  {
+   "titulo": "Proclamação da República: 23 dos 39 presidentes do Brasil batizam vias e praças em Sorocaba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZzJGVTZiQ1IxWFNYR0xpV0NFclFhNXJ0VTdtcXA5c1FROW1sYTVUWldCVWY1QXFMZzVyT2tJa1VaLXJBWE5TR1dWeTN0cW5LMkxoVE5hVUxMY0JhQnE1clA4dzRxWnJiQnNmUTBtZTB3ZmpyOVY3UmtKdVF2Rl9BSzU4WXA2bGU1STBBX2tXZGpkbkdyU25OTGM4YTE2VnpJRWxMaENaZTZSX3dvQ0QzemJOcldzV3E4OTU1VlhOOG4tU1VHOHl6YTI3bG9GMW5CZ1pwdVFXZUVGZFlKZnNXaU1lWFVQMV9SNWNabdIB-wFBVV95cUxNWVBlRWFrTEhrVDN3YThFalhCSTVaUklyaXJaQXQ5OXExV3hHQVcxN1dXN0JSY2ZuQUkwLWlUNVpIUUg4amNvWTJKUkY3RFFCc1RGZ1dPSDJ0YTJPSXRYUkNLZ0xscFdfVC1tdjZTbnZualY5dUNfc0s2SEZGZHVhTWpJTlZhLU41cDNBSE9RTVRNcHNRZlRTcERRZ01hRU5peEVMM2VRcHgtYjFrUE9yXzgzUUFTbUtXWGlVcDhFejJTMFFrbHNNb04yNXRYbFJkRjZCR1UyMWs1WEROcExNZVN5NWdhQVA3dFN6Q2RGeWpQY3VYdmVtTW5GYw?oc=5",
+   "fonte": "G1",
+   "quando": 1794740400.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "15/11 08:00",
+   "foto": "fd98e9e93d56.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/proclamacao-da-republica-23-dos-39-presidentes-do-brasil-batizam-vias-e-pracas-em-sorocaba.ghtml"
+  },
+  {
+   "titulo": "Super El Niño prejudica produção e atrasa plantio na região de Itapetininga - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFI1N2FTdGdqUGVOcWVBSjJISWx5czNPX3ZqTkVCTkJYYnZjcGFtNURqZE51aWdhYzh1ZGxUajY1ZDkyU0x6WXpRNVN5MWRlSUhHVmNBMTBEZHRBRUNSTm9HSXJ5RDNObjFjZ3c2TUFrWEZVVUNucExDVEpudHVfZlF5LUpTQkNyRTM2aUVhTTYzWVdhWC16T2NHQjFUeGlld25IOHFscUQ4U25ZTlcwOGVrQXdjYXFWdk4wLXRhMVUwYkdHRFcwdkFVWjhjSXI5YnpFaVFQOVk5SzgxRHRVUXZOcFNYMkx10gH3AUFVX3lxTE8zd2RnUDhROTMzMnJVV2lpYmZOcXdWdC1iY1J4SWViTnlfYm0zVVB1cGdqM3dGSkNrbmtCTjlQU0x5VHR4U3RzYUIwTE94aTZ5cTNBdFN1SlNxeU4yamdNWFRkX2VDNkFxVi1iZGYzTThHOGJUWWVKNmxzM0FXVXp6Y2tUUjVGbkl6TkR1b2dteFB3V1A2elpzXzBjdzBiclV0UG9KRDJaMmVoMTVBdlVCU3dMMktsVFNibjl0RnE2TE5WSFZKNHBDemNqWGZSQzBuNjJtMzdRd3FBS3Q5Zm5zX0lWTFFVanlQX3FvbmFMank5a3c1MW8?oc=5",
+   "fonte": "G1",
+   "quando": 1794738600.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "15/11 07:30",
+   "foto": "38e84023a4fe.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/11/15/super-el-nino-prejudica-producao-e-atrasa-plantio-na-regiao-de-itapetininga.ghtml"
+  },
+  {
+   "titulo": "Produção artesanal de carnes curadas e defumadas ganha espaço e impulsiona negócios no interior de SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaDZkd0pqUUVPSXRQQjVTb2FqeHphbjBtcjk3Y0JnRTFFNjJ1T0hCTkx0NXlTQkM0MWZMemlNYWlHSWtRZUR3VkVHc0p1ODRGNmx3SGFQTUxUdHVjcG0zUHlCajNiUlpYUTVVRVFxSF9GX0pJS2JUM3k3ejA1WDR4S2xFQ3RtVXp4LWEyanlzUERGeVhaWU1JTzlpX2tDWTM1SU03RlVUWnZmNUpFY3FLR2FSeDdjb3dJekt0Q2FoN2JXcEhYYTZ0ek82ZTJoeE0wWlBkczdiRE9BX2tjR1hPR0JZX2liR0hJdFRyeGVlWmh6N040NWFjTVAtTmVOem56NGRaU2YteVJ2eDTSAZoCQVVfeXFMTVZDWml0YVVmWmh5MENsVjRuYXdCQkpBbEFOYUFMUi1MOVVKTXlKRjNkelprYlFDclE2SE1XcGVaN2V1ZllZTVF4Rmo4OVBrc3dfLWptWGFJc1hXNFpCZVNCcENrYTFncUxKc1dVWk9ta2pmZ1E4SjdJYmtDQkVrdW44a2M5c09FenlSeVNKc1Z6Q05SVGpER3VjckhjX2QwRExwLThnSE1QSXV2YnNoclZTRURNempRdUVuRS1kcUxsVTRSdnpNSEpzZE44MXdUVklMQ2JBTkN3dzJxWjhsRDhYTkVNUGc1ZzcxdzEzcUpaOXZwQTJYZ0dFSEhiVEQ5N1RhU25fOV9pUEZtekhpRUNEVnZJMG9LVzR3?oc=5",
+   "fonte": "G1",
+   "quando": 1794738600.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "15/11 07:30",
+   "foto": "6fba3fad5c99.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/11/15/producao-artesanal-de-carnes-curadas-e-defumadas-ganha-espaco-e-impulsiona-negocios-no-interior-de-sp.ghtml"
   },
   {
    "titulo": "Eleições 2026 - Resultado em Várzea Paulista - G1",
@@ -252,25 +348,6 @@
    "materia_url": "https://www.avozjundiai.com/2026/11/motorista-bebado-tenta-escapar-de-blitz.html"
   },
   {
-   "titulo": "Bombeiros combatem focos de incêndio em fábrica que explodiu em Salto - G1",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZFRUZzRJUUhSbXVPMGZPeGFMc3BlMm1LanhycktWXzc3dlhhaWNhT2VqaERyaFR4bmRLdHZDV01tckVaMG0tVlhreUszQUlKdHlvT3o4ZHQ2ZTdGckMzWEpYR3BaWnlmOVRnRUttNnRRVG10X1A2ZzRmQWNaYlJPOW9ILUM4Y3NBMzZXRzgzWjhCa0tZbmxSbTcyMm1QYXBaVzNtWGJnUktqNlBGNE9yTXVfVEYwZ2wwVGtyVkkzMklCekpYMXpmZ3lUcjhSM2VfZVZqbjhxWVYyckdFVlZrQTBKdmVzQVQ4WU9PYzdUVHpLQdIBgAJBVV95cUxQSFlNSzRCZmZvZXNDRHZaMnBBcGNnUnRNSkw2bXhpUXNVOWQyQzQ3ZmtqT1FVN1NsRHBkMU84UFFydlN5ZGhXYlgyZ3N3d0dOcldPLW1WNS1LcWFCb1RBUzc0WTllVEJkQUpjZ19oYk9RZTYxMWNOX2ZLZndMNE9vcTlkZUpEVTc2VjRTNzZZOEw3VXU5eEpEVVBBMGdxV2xQQm8zX05DenRzckxocEs3RkZTOXdMb3VielE1bE5jdFcxZUlyQXBWNXJYazkxSWdsck5xM2hreUxHMWRFUFFmanlEemQ4Vlg0dXl0cXdqYWZTcGxROU9UdjNhRk1YMkJL?oc=5",
-   "fonte": "G1",
-   "quando": 1794696798.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "14/11 19:53",
-   "foto": "b30637c54ddd.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/bombeiros-combatem-focos-de-incendio-em-fabrica-que-explodiu-em-salto-15189316.ghtml"
-  },
-  {
    "titulo": "Sorocaba vence o Atlântico e larga na frente na semifinal da Liga Futsal - G1",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUEE4SUlzemdQeGpHT0I1X3lFZm9ZWVEzY3RhRDRsZmpRLUpMajByVW5iclJ5MFlEazhFa1BEdkQzV0JfdF9MTjg4dmdYSTlVdEc1bWRYV1lta0ZUMHFVSFljT3Q5dlJpUFMyakJsMWVtUmpWS2s0NGZ0UDVPR2ZCOElHSEF1Wng4LUZ5TllXVWE4d0ZWZHdVSzEtU0ZYbXRaR0J1Sl95M200aVpGY3U5X3pMMDVVM3NBeUtGVGpqTjJUZjBSWDBTMGViQVhneGNOSF9uWTlrVmJiRmx0b2I5N0FrOG5IZlRYSVFPaklMV2hoeXNQRGfSAYQCQVVfeXFMTTBXZGhlelY0RWU3Y2YzRnpqQzI0WFhzZTBUa1lBMllfUERJTXREU1hQRldIMzhYRnN6a3laRHlrY1ZBLVRPSGY0LVU1cE96NEVpYUFtOUpiMHBuR0ZJUC1HQTVQVVhPNGxrbzdwX3ZxR0FsT1U5aWtqTEltZFJlWnVYSExtSmFZcUxjazd6UlJaQUdGUlJ5TUE5SUlkSHowZHVmcUhtWUxIdVltTE50UXB3WnktVjBxVzFMZzM0Q3g3cW9JOVBDZGd4UVhhU0RhaWlFVVZscDZpbm5tdmJyaXRyX3Rma3FjdkNxMnFUb2t4YTRsRWdmamt1T1FNRmdOSzhGZnk?oc=5",
    "fonte": "G1",
@@ -388,25 +465,91 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/briga-familiar-termina-com-casa-em-chamas-e-prisao-de-procurado-pela-justica-em-sorocaba.ghtml"
   },
   {
-   "titulo": "Desgaste com voz faz Lula cancelar declarações nas Filipinas - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFdTU0FoLWNIWUFqSjY3UXZXWXBUNldsTVIxYlkyM3J5cTZHRDVfMnhaZ3pSWTJWdmFOcTlCSUR2QnNKSzFlUnRMLW9MbHI0YTlNMFN4N0d3cVd6XzNNMlpuZFRlYVQ5UElnd0dQejNKVTlrSHJOVVpKQ0VYWDBsR0xGMi1ySlVMOUpuT0xiMEdITE52?oc=5",
+   "titulo": "Temporais ameaçam o Brasil neste domingo; veja regiões com risco de chuva forte - IstoÉ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamZfNTlzaWV0NTRjTGc1SXM5Mzc2bV9JQUV4OE5RQkNnOU1MRHhkMGhMM1p0bEplbDN6MHl3ZlN2MHVKQmpiTElnbkduQkNGZjR2ejIzVnJ4RTItbEJfZXliT0RUOUhYVlM0T0ZjaVNkRnFKY0xEVEZlZ0phU1lkN0NR?oc=5",
+   "fonte": "IstoÉ",
+   "quando": 1794740881.0,
+   "categoria": "estado",
+   "fontes": [
+    "IstoÉ"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "15/11 08:08",
+   "foto": "23b816b20bdb.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "DESPEDIDAS - 15.11.26 - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00cFJYN3N4aXpGVUJndXdzYTNPZVhMRGNxa1pJT3ZSRlo1SWxaZXNwT1NwUGlwWWdpM1VlZFZzVVhjUl80TVJ3VTBLVEE0UFAtVEhkdnFla1dPQjdqV3c?oc=5",
    "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794684916.0,
+   "quando": 1794740596.0,
    "categoria": "regiao",
    "fontes": [
     "JORNAL DA REGIÃO"
    ],
    "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "15/11 08:03",
+   "foto": "16e46dce656c.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1412x785",
+   "materia_url": "https://jr.jor.br/2026/11/15/despedidas-15-11-26/"
+  },
+  {
+   "titulo": "Previsão do tempo para domingo (15), em SP: instabilidades aumentam - Diário de Suzano",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTJITG1MWDloZFVFYUNRdjdXTF8tcnh3aTBCYnQ5SkJxamhiaTBKTThlaVNmYk5BLUZzb2VuSUtjRld2b3ZkX2tFa01wMzBZWWNINkpnY2VoNDRwc1JwWEJzMW5kMXRBWWtzM2s4Q2VaTnBRbHVBVG5vekhyOVphZGM3cEVhRHpMZmhPYl85aGVBNVN0OTNSdExDcWI3TVlTWjhkaXlac1NKcFNKbUYzdDd3R2ZkNGsybmJOWQ?oc=5",
+   "fonte": "Diário de Suzano",
+   "quando": 1794740400.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário de Suzano"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "15/11 08:00"
+  },
+  {
+   "titulo": "Cashback da reforma tributária começa em 2027 para 70 milhões; veja regras - Diário do Centro do Mundo",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFVkR3ZQU19sakpGWTlrWk1ocUtIcW94QjRZdjNBR1ZwN25kbF8zd21LMlZ5djZxN2prLVRRNXctMWRjcW01ZFQzOWxOV2RIdVBPbkd0TXNvTk5CWGF5QTdIUE8zR2J5V2RyZjlBY3VTMEt0Ni13X3NGeWVRMVRKanJDd3JnOHhtR3MtTGRWcmJjZw?oc=5",
+   "fonte": "Diário do Centro do Mundo",
+   "quando": 1794738840.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário do Centro do Mundo"
+   ],
+   "urgente": false,
    "assuntos": [
     "politica"
    ],
-   "pontos": 7,
-   "hora": "14/11 16:35",
-   "foto": "cbbc4e5ed733.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/14/desgaste-com-voz-faz-lula-cancelar-declaracoes-nas-filipinas/"
+   "pontos": 5,
+   "hora": "15/11 07:34"
+  },
+  {
+   "titulo": "Resumo do Dia: AGU no STF, hacker no Tesouro e Lula com juros altos: veja os destaques do dia - bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWRFRUw0MlZUZ3ZZdFBjb0hGR3BkVERmbHpOV29BN3l4QVZqLXo3cnpYVG01Y005eFlRS2dOYjQ3OVJ2Qm1Iclg2ZWRTMVc2VGRweFdtdHk4a1ZGWmZ1VkUtb0lXa2hmQjVjUlBXMFlMc3Q1cmZXczZVbXg1emdHNVdoZ3hneDZ4UmZ6RVlhNHNva0ZQVFR0ZTVnUWRuTUY1TGVzY3FINTctRngyWHd2eE5KdVQ0R29oQ1RzU1c0ODRsakZVbmdGazNob3JvOHppWXRNWGFTTFY?oc=5",
+   "fonte": "bra1.com.br",
+   "quando": 1794738840.0,
+   "categoria": "brasil",
+   "fontes": [
+    "bra1.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 07:34"
   },
   {
    "titulo": "'Cashback' da reforma tributária começa a devolver parte dos impostos em janeiro; veja quem tem direito - Jornal Correio",
@@ -422,12 +565,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 07:05",
-   "foto": "c65618b9fa2d.jpg",
-   "credito": "Foto: Jornal Correio",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1000x564",
-   "materia_url": "https://www.correio24horas.com.br/brasil/cashback-da-reforma-tributaria-comeca-a-devolver-parte-dos-impostos-em-janeiro-veja-quem-tem-direito-1126"
+   "hora": "15/11 07:05"
+  },
+  {
+   "titulo": "Lula mira expansão estratégica e quer dobrar comércio com bloco asiático - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdExuRXdMVDd1NEdxYTdzUVptaW1NT0lwTDA4cUVJMzlpSW5oLTBGdXJTQU9xTXQ0Z3RWNmN2akNxOFA5Q2JsZV9yVkU3dVdUWUJVdG1YM1hCeDJfcFFKVC1qR1lsSGlXV1lKVVo0cTN4c0tiWGpaTmRUOWIyS0lkR3VQVlpvY0RMOW1Db3lEalhEck8tSkdqUG13dVFEVEhoeUN4WHBBcnNVd19EMlBtWTBZVG5PTElSWnc?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1794734351.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 06:19"
   },
   {
    "titulo": "Congresso rebate Dino e leva disputa sobre a 6×1 ao plenário do STF - Ver-o-Fato",
@@ -443,12 +597,21 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 06:03",
-   "foto": "427df8c01566.jpg",
-   "credito": "Foto: Ver-o-Fato",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "materia_url": "https://ver-o-fato.com.br/congresso-rebate-dino-e-leva-disputa-sobre-a-6x1-ao-plenario-do-stf/"
+   "hora": "15/11 06:03"
+  },
+  {
+   "titulo": "JJ: De Jundiaí à Flórida: Ana Ju busca espaço nos EUA - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbS1meGdFWjNxbGlNc056d0xQbXo1azd6RHpkcXJjeWJqQnppTWc0X0tXeDBCcExkYnhGTG9zMlBWdEhwbkpzTTd2cUdKRGxETjNNYy1mMVBlNUFLT2EtT2d3NmVSY3NLWWw1ZWUtN2JseWZYUC1Pd0IxWXdBcW5hNzNEemdxdW16bWlSMUZRTVlpVW1CQzlIQnFPMmtIb0k3QW05OXNmSTBVakZG?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794733200.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "15/11 06:00"
   },
   {
    "titulo": "Vitrine da Dança: Passaporte para a Arte – Projeto Up - Cultura Jundiaí",
@@ -462,12 +625,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "15/11 05:44",
-   "foto": "9f053aa326e6.jpg",
-   "credito": "Foto: Cultura Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1128x635",
-   "materia_url": "https://cultura.jundiai.sp.gov.br/agenda-cultural/vitrine-da-danca-passaporte-para-a-arte-projeto-up/"
+   "hora": "15/11 05:44"
   },
   {
    "titulo": "PSol vai ao STF contra demissões em farmácia popular após lei de Tarcísio - Metrópoles",
@@ -483,11 +641,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 04:30",
-   "foto": "5f9b5e0edad3.jpg",
-   "credito": "Imagem ilustrativa: Federação Paulista de Futebol / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1064"
+   "hora": "15/11 04:30"
   },
   {
    "titulo": "Senado terá 54 votos pró-impeachment no STF, mas conta não fecha - TV Sim Brasil",
@@ -503,12 +657,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 04:03",
-   "foto": "186a21ad249b.jpg",
-   "credito": "Foto: TV Sim Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "materia_url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/senado-tera-54-votos-pro-impeachment-stf-conta-nao-fecha"
+   "hora": "15/11 04:03"
   },
   {
    "titulo": "Lula afunila lista dos nomes para ministério - Correio Braziliense",
@@ -601,6 +750,22 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 00:33"
+  },
+  {
+   "titulo": "Proclamação da República foi golpe de Estado? Historiadora explica processo no Brasil - O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLUY0cmFaZFVqeXF0ZEUwdE5qRFFVVUt3MGh4VllGU29Kd0VGMWc0UlN1aDQ4cFJ3Rm81ZW5GX0s3QlpjaEs1MkxHRGJJWm05NkoyRDRnYU0xa3ZvNGZkaDFuRUNyREU3cUtfZmtRQWYzNEVKMVZOcHJ6VWliZy15Tkx1RUdwcmJKRlJSYWJQMkM3SFNlTnZlN0hhWW9SUDY0cU5zSjA0YS1IM2dveW1sd0R1N3M4M0tOMklmZ1RVQnF3V2g0LW5wVHQ1LW5GTmptaVlSVXdmY1HSAecBQVVfeXFMTUdqTXV1NGcwWFNDd3haUVRscndZa0VXekdtWUVPNmJFd0V6RXNkQlhMUGQ4LTVuMWc2ejNiTEhwd0szejlVZHhGdUZ2TGxnWk9QNFh6TzUzR3J2c3N3cjBGTGlCU21VUWVEdmc4WFdtUHhNSnV6TU1mdmxhU2lBWjMyUkVXcGVDYWZnSlR3VWNMZjdxS0R4QlVZZVlfelJpU0RpemxJUDdqWWxYNW1wTFVUeUVINjlVeWdvNzMxWERpTnJhMWRLalJlcTdSaXBzSGozbDBvbzIzRk1uMkxsTkUwZmZHbGF3?oc=5",
+   "fonte": "O GLOBO",
+   "quando": 1794711600.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O GLOBO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "15/11 00:00"
   },
   {
    "titulo": "Lotofácil 3829: aposta de Jundiaí leva R$ 1,6 milhões; veja os números sorteados - bra1.com.br",
@@ -789,22 +954,6 @@
    "hora": "14/11 19:41"
   },
   {
-   "titulo": "Chapa de Lula e Alckmin presta esclarecimentos ao TSE e defende confiabilidade das contas da campanha de 2026 - O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdkdXb25TLUxTSDg5cm54SURDa2RRTnp6Z25GR0szNkIwZzBRc0M5UkhCYXd1YzUwUU94RjZMUjFSdVU1S0g5eFE5Qzlyb1h4N05aUTdJbmFPSWtEQzY2SkZaMTJqcF9PVGdWaGhFanVmTEVqUEZUdERMYUZnYjNRbWd1RlY0ZVpYYkFTT21LdFRhazl0VDU5aFNVZkk0QXM3XzgzcFBMX1RQWFVtaUY1TmRVd09MV1U0OVJpekNCLUNzTk9CVWVGbTVxUnVOcVNXMGFlZFhzeExTVk5tMTRPaEdlc2pLMk8wd1lfQm55U2NSS3NHOC0wMW1KcW_SAYsCQVVfeXFMUGlnTXo4VzVjaTA3WjlmanEzVGROOWFxWnRHWjlHNHhRRjhQREVEanItWFdlWXQ2TWFRY2g2Nk9zNjZDQkNzbmladzUtRWZGUmswaW05VVNKS2lRZUdGSjVNLUI4UDFBOFRrVmtUbFFyMzhNUnQ3TjN2TmpfVEczYmU4U3JzQWw3OXJVTGpTR3MyTmRXdnVfRWx2TjdjNnl2czJiYkhMeWxMNkVJZkZHdDYxNmN0dG85QmhvWEVWZFNJQWJwUVpYZGQzaW42WEo2ckpkVGNyRERQQVE0MEFmbEU5SWRyUmtVTk5jOExvNTV6alNLVDd2d3RKLXFIdG1vYWhHM3ZpajRaNUVV?oc=5",
-   "fonte": "O GLOBO",
-   "quando": 1794695795.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O GLOBO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 19:36"
-  },
-  {
    "titulo": "Corte da Uva 2027 é eleita em cerimônia emocionante no Teatro Polytheama, em Jundiaí! - A Voz da Região",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFlFWTdyMU9WS1F3VGsxcmF3RjdNNHNTUm1XdENSRVN4M3YyeW85U293ZTFzekxNZmRvVUxNcFJjMnFUT3lWV2FrRHQwTHd6eUV3RnZzRnVXdEpMYnNQN1h6RGh3Ulo5b0NFVkhWVWlMUlRTaXJsVzhvOGxudW9Sdjk3LVRrcHM?oc=5",
    "fonte": "A Voz da Região",
@@ -831,38 +980,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "14/11 19:25"
-  },
-  {
-   "titulo": "Ala do PT defende ajuste fiscal com mais impostos - Poder360",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUNuNUFQVTI5X1FzRmZxUGxLbmMzVFhYN0E2MnpvUGxjQjZrUUo2cXJHNUpLUHVUWmxwaU9NSFU1Y0xVQmlsTExmU2NCLWtnbjhaM0pKQ3Z2ZGs5U3BFTGJ2N1pxdEVQRGlkelNnTGFnOEVTdlJxUzdWcW1xblVyM2VPNm5nSENxYnNkNU5hdnJoNjc2OHNSSGRR?oc=5",
-   "fonte": "Poder360",
-   "quando": 1794694355.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Poder360"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 19:12"
-  },
-  {
-   "titulo": "A armadilha do ajuste fiscal: por que o corte de gastos pode travar o Brasil - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWVmRURoRkExYktGckxvckY2ZVRablBXX3MwMEFwMWxLbFlBMHViVm1HZnhVVmhKdkRiQ0p5eV9Ldk5VZ1BhTEM5MHZCQnRQcW1wLW53anhPRk9nOTVFMldWd0V0eXhQZV9XakRzSzdGRzcycmw3dTJNVU93YlhXVk9CZnV5bHBLYWZxZlQ5M3E2TVFsRUh0TVJaaDVKZFJQLVFwWDRzMExrUl9OSUZ3RS1GMnAwQmRLTjBqMGR3?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1794694136.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 19:08"
   },
   {
    "titulo": "Disputas no PT e Centrão: Lula precisa superar impasses para novo governo - Metrópoles",
@@ -911,22 +1028,6 @@
    "hora": "14/11 18:57"
   },
   {
-   "titulo": "Fux leva julgamento sobre escala 6x1 para o plenário presencial do STF - OREPORTER.COM",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1BZOXRCOVVXXzJlV29ZVnk2OVdlOFVRazRkX3pUSEJoVDJSSzFXUlMzR3dUcHFQWDlPQnFWYkI0YUItaTRvcXdLTjRCSUpWUkJYSDNzUGJxR0hDaXVNczkxRndDbzFFSThPcHEwbWN4bktacVFoN0Nldmwya1lSbGVveVNxMTN2T2lB?oc=5",
-   "fonte": "OREPORTER.COM",
-   "quando": 1794693168.0,
-   "categoria": "brasil",
-   "fontes": [
-    "OREPORTER.COM"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 18:52"
-  },
-  {
    "titulo": "Novorizontino é campeão da Série B 2026 - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDg1VjNrdko3YUhlNm5rTVhVQUJnZWFrTDA1S0dIZ2tVUzM5RmJlaWE5ZmNGLVV5SkUzWUxGWnV4Z0NCaUk0MUFDQU4wakdkdzJqQ1JxT1pCaldWaEJRMU9xeVZMX3M3OHFPMGFpdDJMU1JVaDFQWnlJNE9KbHYtZThRWi1SSVZEY3lldC1YMA?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -957,22 +1058,6 @@
    "hora": "14/11 18:22"
   },
   {
-   "titulo": "Seu débito, governador: uma carta aberta a Tarcísio de Freitas - Nexo Jornal",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1ZtVXFPZ0xXR2FhZll0dmYxVmhFUnRhQ0tTSWxyZkhhcGxmWVI0WFNTUy1WQ3Fja3JDTG1JWTVSR19WMFF6UjdGcFN2eHc0U0lvNGZFcnYwM3V0S0R6dVB4dkpPTDVuMVFaOU9DaVVlMF94UGN0WjJJOXhmaGVZZXdCVm5JT19rTUk1enh2NXRkNWtXZXBfMGxuT1BsSEZsNThpSjA5b0hOOEk?oc=5",
-   "fonte": "Nexo Jornal",
-   "quando": 1794691182.0,
-   "categoria": "estado",
-   "fontes": [
-    "Nexo Jornal"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "14/11 18:19"
-  },
-  {
    "titulo": "Feriado de 15 de novembro terá atrações culturais e espaços com funcionamento diferenciado em Jundiaí - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZE9fRjVFSVpXX0F4WE45RUhVMGM2aWpuZVNtSDZ5R1V0UVdEclpkc1R6ZVpkT3VvSkFJbmFBVTVtVnZ6LVU5akxUU0JVb1ZXX0RsWWxObnlYV3dlMFNPTXpJR29ubG4zczlNRU9FUUE1d2RFbFRqVUFFUGtHN0RYUFgzV3hHLXA1c3Y3Wkl5WktZS3hDcG5SanBOUUFwZk0?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -985,20 +1070,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "14/11 17:43"
-  },
-  {
-   "titulo": "Prazo para regularizar tarifas do Siga Fácil termina nesta segunda-feira (16) - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUUxKVnQyeC02NXJjbnhsLXM0c0NHNW03VUFaaEQtLU5hYm9WQ3F2YTNtYkNjS2hvTVpuNHhSVTJ2MThKU1lYMWFRY0tWNGR2LUZrOUlRdjZ1YzdvZGM4TWxwYTJTNVBKQmJsQUxxNjFMdlJXTzNvLUVIQ0ktMmtzdA?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794736800.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 07:00"
   }
  ]
 }
