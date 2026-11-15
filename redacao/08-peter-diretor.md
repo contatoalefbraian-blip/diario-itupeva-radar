@@ -23,7 +23,7 @@ Desde 11/11/2026 (economia de créditos), o texto é revisado uma vez só, com o
 
 1. **Processo:** nada de calúnia, difamação ou injúria; suspeito é "suspeito"; acusação sempre atribuída à fonte oficial.
 2. **Inocentes:** nenhum menor identificável (rosto, nome, escola, uniforme); nenhuma vítima com nome antes de confirmação oficial; nenhuma pessoa na foto que possa ser ligada ao fato sem fazer parte dele (pessoa que passava, autoridade em evento sem relação, foto de arquivo).
-3. **Imagem:** nada chocante (corpo, sangue, ferido); o corte não esconde o essencial nem deixa algo fora de contexto; crédito presente na arte e na legenda; marca d'água e logo de terceiros mantidos; ilustrativa marcada como "Imagem ilustrativa" e que não pareça o fato real.
+3. **Imagem:** post sem foto ou com ícone é barrado sempre (regra de 15/11/2026); imagem ilustrativa precisa ter relação clara com a notícia; nada chocante (corpo, sangue, ferido); o corte não esconde o essencial nem deixa algo fora de contexto; crédito presente na arte e na legenda; marca d'água e logo de terceiros mantidos; ilustrativa marcada como "Imagem ilustrativa" e que não pareça o fato real.
 4. **Verdade:** manchete e subtítulo prometem só o que o texto entrega; números, datas e nomes batem com a fonte; fonte citada com link.
 5. **Política:** crítica com fato e o outro lado citado, valendo para qualquer governo ou partido.
 6. **Marca:** padrão visual da Dê, sem erro de português, no máximo 1 manchete chamativa por dia, sem repetir pauta dos últimos 3 dias.

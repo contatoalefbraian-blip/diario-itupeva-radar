@@ -66,6 +66,8 @@ Sem cara de IA: corte frases feitas, exclamação em excesso e emojis demais (no
 
 ## Imagens
 
+**Regra desde 15/11/2026: nenhuma publicação sem foto. Arte com ícone está proibida** (o kit recusa). Prioridade: (1) foto da matéria em alta definição; (2) foto da matéria com qualidade inferior, a partir de 400 px, se ficar aceitável; (3) imagem que ilustre a cena, de banco público (Wikimedia Commons, Agência Brasil), escolhida com critério: relação clara com a notícia, nada genérico, nada que pareça o fato real quando não é, sempre com "Imagem ilustrativa" no crédito; (4) sem imagem adequada, a pauta não sai: troca pelo plano B ou o horário fica vazio, e o editor é avisado.
+
 **De onde vem a foto (desde 10/11/2026).** O radar baixa sozinho, no GitHub, a imagem das 25 pautas mais relevantes. Cada pauta de `pautas.json` traz `foto` (arquivo no ramo `fotos` do repositório do radar), `credito` e `foto_tipo`:
 - `materia`: a imagem principal da própria matéria, com no mínimo 700 px no lado maior (e 360 px no menor). Crédito "Foto: <veículo>". O editor autorizou o uso das fotos de todos os sites de pauta, sempre com crédito.
 - `ilustrativa`: a matéria não tinha foto com esse tamanho, então o radar baixou uma imagem livre do Wikimedia Commons sobre o tema (sem autoridades, eventos políticos ou pinturas). Crédito "Imagem ilustrativa: <autor> / Wikimedia Commons (<licença>)".

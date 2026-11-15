@@ -244,6 +244,9 @@ def gerar(spec, out):
     if spec.get("tipo", "feed") == "card":
         return card(spec["manchete"], spec["sub"], out, spec.get("pagina"), spec.get("fonte"),
                     spec.get("urgente", False), spec.get("extra"))
+    if not spec.get("foto") and not spec.get("permitir_icone"):
+        raise SystemExit("SEM FOTO: desde 15/11/2026 nao publicamos arte com icone. Busque uma imagem "
+                         "(foto da materia, imagem do assunto ou banco publico) ou troque de pauta.")
     if spec.get("foto"):
         im = Image.open(spec["foto"])
         bg = photo_top(spec["foto"], spec.get("desce", 110)) if im.width > im.height * 0.9 else photo_bg(spec["foto"])

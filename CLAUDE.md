@@ -17,7 +17,7 @@ A issue foi aberta pelo radar (`radar.py`) com pistas captadas no Google Notíci
 6. Com a aprovação, a DÊ gera a arte de urgente (faixa vermelha):
    - `cp -r kit /tmp/kit && KIT=/tmp/kit bash /tmp/kit/setup.sh`
    - Foto: `git clone --depth 1 -b fotos https://github.com/contatoalefbraian-blip/diario-itupeva-radar /tmp/fotos`. Se a pauta em `pautas.json` tiver `foto`, use `/tmp/fotos/<foto>` e o `credito` dela (veja as regras de imagem em `redacao/06-de-redes-sociais.md`). A foto enviada pelo Alef tem prioridade.
-   - Grave /tmp/kit/spec.json: {"arquivo": "urgente.png", "manchete": "", "sub": "...", "urgente": true, "fonte": "Fonte: ...", e "foto": "caminho" com "credito": "..." ou "icone": "estrada" | "escudo" | "pin" | "info"}
+   - Grave /tmp/kit/spec.json: {"arquivo": "urgente.png", "manchete": "", "sub": "...", "urgente": true, "fonte": "Fonte: ...", "foto": "caminho" e "credito": "..."}. Sem foto não se publica (regra de 15/11/2026): sem foto da matéria, nem do Alef, faça o pedido de imagem do assunto (EDICAO.md, passo 5) e escolha uma ilustrativa com relação clara com o fato, marcada como "Imagem ilustrativa"
    - `cd /tmp/kit && KIT=/tmp/kit python3 arte.py spec.json`
    - Olhe a imagem antes de enviar. Entregue a arte e a legenda final ao Alef.
    - Com o "pode postar" do Alef: converta a arte para JPEG em `fila/AAAA-MM-DD-urgente-slug.jpg`, grave o .json da fila (formato no `EDICAO.md`, passo 7) com `"horario"` = agora e `"aprovado_por": "Alef"`, registre em `registro/historico.md` e faça commit só de `fila/` e `registro/`. O publicador posta em até 10 minutos.

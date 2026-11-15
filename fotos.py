@@ -99,10 +99,21 @@ def hd(im):
     return max(im.size) >= MIN_LONGO and min(im.size) >= MIN_CURTO
 
 
-def salvar(dados, nome):
+MIN_MATERIA = (400, 240)  # foto da propria materia: aceita qualidade inferior, se nao houver melhor
+
+
+def qualidade(tam):
+    lado = max(tam)
+    return "hd" if lado >= 1280 else ("media" if lado >= MIN_LONGO else "baixa")
+
+
+def salvar(dados, nome, minimo=None):
     im = Image.open(io.BytesIO(dados))
     im.load()
-    if not hd(im):
+    if minimo and (max(im.size) < minimo[0] or min(im.size) < minimo[1]):
+        print("  pequena demais:", im.size)
+        return None
+    if not minimo and not hd(im):
         print("  abaixo de HD:", im.size)
         return None
     im = im.convert("RGB")
@@ -126,15 +137,22 @@ def foto_materia(p, nome):
         print("  imagens:", len(cands), cands[:2])
     except Exception as e:
         print("  pagina:", str(e)[:120]); return None
+    # baixa as candidatas e fica com a de maior resolucao (prioridade para HD)
+    melhor = None
     for u in cands[:6]:
         try:
             dados, _ = get(u)
-            tam = salvar(dados, nome)
-            if tam:
-                return {"foto": nome, "credito": f"Foto: {p['fonte'] or urllib.parse.urlparse(real).netloc}",
-                        "foto_tipo": "materia", "foto_tamanho": tam, "materia_url": real}
+            im = Image.open(io.BytesIO(dados)); im.load()
+            if not melhor or im.size[0] * im.size[1] > melhor[1][0] * melhor[1][1]:
+                melhor = (dados, im.size)
         except Exception as e:
             print("  imagem:", str(e)[:120])
+    if melhor:
+        tam = salvar(melhor[0], nome, MIN_MATERIA)
+        if tam:
+            return {"foto": nome, "credito": f"Foto: {p['fonte'] or urllib.parse.urlparse(real).netloc}",
+                    "foto_tipo": "materia", "foto_tamanho": tam, "foto_qualidade": qualidade(melhor[1]),
+                    "materia_url": real}
     return None
 
 
@@ -204,7 +222,7 @@ def main():
     usadas = {v.get("url_ilustrativa") for v in indice.values() if v}
     novas, manter = 0, {}
     for p in topo:
-        chave = hashlib.sha1(b"v5" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
+        chave = hashlib.sha1(b"v6" + re.sub(r"\s+-\s+[^-]+$", "", p["titulo"]).lower().encode()).hexdigest()[:12]
         if chave in indice:
             info = indice[chave]
         elif novas < NOVAS_MAX:
@@ -220,7 +238,7 @@ def main():
             continue
         manter[chave] = info
         if info.get("foto"):
-            p.update({k: v for k, v in info.items() if k in ("foto", "credito", "foto_tipo", "foto_tamanho", "materia_url")})
+            p.update({k: v for k, v in info.items() if k in ("foto", "credito", "foto_tipo", "foto_tamanho", "foto_qualidade", "materia_url")})
     # remove imagens de pautas que sairam da lista
     referenciadas = {i.get("foto") for i in manter.values() if i}
     for f in os.listdir(PASTA):
