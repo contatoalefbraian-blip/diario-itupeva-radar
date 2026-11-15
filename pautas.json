@@ -1,29 +1,7 @@
 {
- "gerado": "15/11/2026 10:47",
- "desde": "15/11/2026 07:35",
+ "gerado": "15/11/2026 11:39",
+ "desde": "15/11/2026 10:35",
  "pautas": [
-  {
-   "titulo": "Pedreiro denuncia golpe após deixar celular em assistência técnica - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWYtSTl1TG8wT2tQZ3BTSFhwcU9pNFFMdmF2a21XbFNYem1FaGExOFlQUC1tT1JucC1qLXdtN2FsYjB0SFdJbGg0c2dBTjlpS2JtTjNSRTR6eHVSTVBZUXVFUFBzcThkXzlTLVlBbDhYNy1xanlDMjBFbjJuVUY4QU5Ic2V2V0dNQy0wNzRyZWNGLTNka1hnQzZHazI?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794746628.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica",
-    "seguranca"
-   ],
-   "pontos": 11,
-   "hora": "15/11 09:43",
-   "foto": "4106810704b2.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/15/pedreiro-denuncia-golpe-apos-deixar-celular-em-assistencia-tecnica/"
-  },
   {
    "titulo": "5ª edição do Prefeitura na Área leva serviços, oportunidades de emprego e saúde aos moradores do Santa Gertrudes - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzFmVnZtbUVZaFIwVWUxNzlzNGdUVlRSOGNHTTZDMHp4eTB3RGVLeTZvemgwX283WEY5YlFkaHo1SWZNdWN3ZEN2QkpWTUg5YmZZTkY0WE15bHh0RFhITlBDREVrSlg1bnBSdmlUVUw2SzNyQlN4Z3JRLUhMVzJqbkdQdG82NWhnY1FRVE43SWU4S0RUSFE?oc=5",
@@ -46,207 +24,50 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/prefeitura-na-area-santa-gertrudes-jundiai/"
   },
   {
-   "titulo": "Prefeitura de Itupeva avança em quatro programas habitacionais e amplia perspectivas de acesso à moradia - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmlRelBRMFluN1RpbzJpUmZpYmthY2MtbnQzNmlHd3VYWVNHWEpvblJ1cEU1YVBITEQxdU43ODNKckI2cFFiTDM4aG9SQm5fZnBvSDYzNUtyNjcwYVZQMlFEM2tkZUhOWG9oOVFWSlZWWFQxMnVlTXpZMGhlMkxtNjJVVU14QXlGRlVLNkRYalBLQW9uYWc?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794745540.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura"
-   ],
-   "pontos": 9,
-   "hora": "15/11 09:25",
-   "foto": "294766106e13.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/itupeva/prefeitura-itupeva-programas-habitacionais/"
-  },
-  {
-   "titulo": "Motorista embriagado é preso após bater em carro estacionado - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHYzUGxqZUVSY2JCVWVVVER4MFlUbXpjVjlOaUNyYzV2dEMtc2g2TG5IakVDOWY4WFI3eGl5QkVWMkxXTmVIOTg5RGo2aEdESlhyR0xxUnlURzByMXVlQkgxT3FhQWgxZ09DX2JLd0RzTUNRUkh4S3pCTjlHM0FSZjRVVlAyVW9NWF9vRTJwY0ZYSUdu?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794745509.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 9,
-   "hora": "15/11 09:25",
-   "foto": "0b6ab1d29248.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "materia_url": "https://jr.jor.br/2026/11/15/motorista-embriagado-e-preso-apos-bater-em-carro-estacionado/"
-  },
-  {
-   "titulo": "Homem é preso após agredir e ameaçar a esposa de morte - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM1Z3dldENkR3MTVDMjRMZlhMaldkSThfLXpGSjNGM3ZNbGFLWEFwRjQ4dm91U3pNWDlYcVVucGRIY2FiMzVIeWRSWUJkQzlQR2J0WVJxMHRaVkxlWmJWVHVnYTlDNVpwTmtQem83ZFpYZ3dfZGlQSDRNdWVaUlRFX2hmWk1SbXNoZE15MQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794745310.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 9,
-   "hora": "15/11 09:21",
-   "foto": "0bb106ebc6cb.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "materia_url": "https://jr.jor.br/2026/11/15/homem-e-preso-apos-agredir-e-ameacar-a-esposa-de-morte/"
-  },
-  {
-   "titulo": "Último resultado da Lotofácil 3829 (sexta-feira, 13/11): aposta de Jundiai (SP) leva R$ 1,64 milhão - Mix Vale",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckxvVHBYa2xwWThPNFlvSDc2b2MzdmtJUG9jTmRUaFJ6cjlyYnZ4T3ktaGFoVEZ4eDUyMTlqNW9KdndMYkxQZzlyWm9ibjB0N0ZmcG5qY190dzNpSmhmcml4RDVpTlQtSmIzdjNrdllQaTlKMVNIYXN6WFZaTmlyYXMxb1ZlVG15LVIyOXUzZl9VMFFGZ3Q3SGZzUnNCSlRQdVlyME1mTTlaMmhzSXJ6RHlfbndYOEFaNWtGNU9DWVpveUJhcGljX3dR?oc=5",
-   "fonte": "Mix Vale",
-   "quando": 1794749768.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Mix Vale"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "15/11 10:36",
-   "foto": "4cd91376da70.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
-  },
-  {
-   "titulo": "Jundiaí é premiada por boas práticas na gestão do esporte e valorização profissional - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVkJwY3hMZGNEWm9YOUtyOG1Mbjhjd3FNSEZfck5qRFdXSmdnd2k1SUFRS0ZvRzFPcTJ6QTBVSVdfdEFrYlJjbWpXX1NzQkhldmdEaGRvanBXdFd3MDZ1RlBBSVpjWXNGN2l0b05NSVFUalV0d1BweUM4WDl2ZUxIM0RPX3Nxb1VXS19ZUW5YQlFNYTVqUEVSOEFGTHVTVjI2bG15TlVRUk91bGZyZEFNa28tMnpaSkZTU1JlRDg4elVGNFp1RTJNa1VIYw?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794747600.0,
+   "titulo": "Exposição ‘Planeta Mania Steam’ com esculturas que despertam reflexões sobre sustentabilidade pode ser visitada até dia 27 no saguão da Prefeitura - SB Notícias",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQXNlU0RqUjNudlZ6dEZOZEhTbWFGdnNEZnNPMkk3NzJFVTYzZjc4bkt5MllzQ3ZkRVNabWFUWTJpUG1LWUJXZHFjVlY4aENjUXhtM3J4eVZTVW5nYk1USHlrN1dnSlBuUHdBcXVUWFZqS2tQSTZtNGx0NnBxazNNak1HUnJ1dmpxZjhDblBJV2lhV1VRRHQwM2dIX1E3bHZFc29icmt6S1hZRUdNUG1LRm56cDVMcjhJam5RVWhvalEwUjA4eDY3MTFtX2xNcU9GOVJzZ3VGMVVCRWtuc0gtX19tbFZmRDJCVURubkljbDVOZkpwZ3dGTklsTVIzT2piTW1sNzAwdG51UXdDTXd6N01Ubw?oc=5",
+   "fonte": "SB Notícias",
+   "quando": 1794752520.0,
    "categoria": "regiao",
    "fontes": [
-    "Prefeitura de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "15/11 10:00",
-   "foto": "892025039eb6.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "742x777",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/15/jundiai-e-premiada-por-boas-praticas-na-gestao-do-esporte-e-valorizacao-profissional/"
-  },
-  {
-   "titulo": "Equipe Bravo da PM em Itupeva faz quatro prisões, incluindo tentativa de estupro - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM19GVzY2LTFNU3hoenBuVS1kZGtHemVoTThvTmFGd0FVWlJYbS1SRGJMS0FTS29PU2FGWGpndEZmdGtJOGZEUFJfV1QwTDlWS2F2M2FLQkRoNUIyTkhaTWFoMzQ3c3c1Qjd0TXhQVTBoYXhFODZLZXJlQmlCQW91MzVIVHpFVFpXTEZ6aW1kTlZ5UWU3RndEcE5pbm91N2gwSXZPck4xVHc2akRpZkE?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794746161.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "15/11 09:36",
-   "foto": "d81bef5fee06.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "materia_url": "https://jr.jor.br/2026/11/15/equipe-bravo-da-pm-em-itupeva-faz-quatro-prisoes-incluindo-tentativa-de-estupro/"
-  },
-  {
-   "titulo": "Dia de Sorte 1348 tem prêmio estimado em R$ 650 mil neste domingo; veja horário e como jogar - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXplZzBqcGNQcmNseXBtLUpmU3pJajlqc3pXUHNGeVNrQ24taEJhNWc5dkRnd3IxeHA4YUJGQnpCdnlTd2IxaXJSQjN3U3dHd2VaWk9YcDJ6d0VPMlpvYTBrVS1yd2xRWnhVaFRBSHZCQ25rVC1UT0k1am1jWVo3d0Nn?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794742833.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "15/11 08:40",
-   "foto": "350a7db1a7dc.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/sorteio-dia-de-sorte-concurso-1348/"
-  },
-  {
-   "titulo": "Lotofácil 3830 tem prêmio estimado em R$ 6 milhões neste domingo; veja como funciona - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sME5HSl9OUm43b2FGUGlTcEJ5YWdfZkVNMy1HOEpXdVFOeG8tWU50Y0ZIbFhYbkxoaUg2dzRUTTBxTHE4MmxfQXdSblJDZFFsM3Rtb2NWYm9CQWdlNE9mcms0QTI1SmRZdUtzeE11cjVUazhOUVN3dUR6Vld3Zw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794742713.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "15/11 08:38",
-   "foto": "d6dadba51003.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://tribunadejundiai.com.br/loterias/sorteio-lotofacil-concurso-3830/"
-  },
-  {
-   "titulo": "Coleta de lixo deve voltar ao normal nesta semana - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0ZNYnBVb2U5VnBocENOV3Rfem00d0xRWUQ1djV0dTRPbmlYZlBkaFl0Q3BxeUozeHRLYWxHbWVzaXRUajdOWnAyRHlpTkV2djhfak8yR1QtUmstM21IT3FuMGVKbXc4TUVrQVBoVXQwLUM1T01QTXBlLXl4dkJkY293dnFEdw?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794742136.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
+    "SB Notícias"
    ],
    "urgente": false,
    "assuntos": [
     "servico"
    ],
    "pontos": 7,
-   "hora": "15/11 08:28",
-   "foto": "588aa826cb31.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
+   "hora": "15/11 11:22",
+   "foto": "58c062ed580c.jpg",
+   "credito": "Foto: SB Notícias",
    "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "materia_url": "https://jr.jor.br/2026/11/15/coleta-de-lixo-deve-voltar-ao-normal-nesta-semana/"
+   "foto_tamanho": "1600x1200",
+   "materia_url": "https://sbnoticias.com.br/noticia/Exposicao-Planeta-Mania-Steam-com-esculturas-que-despertam-reflexoes-sobre-sustentabilidade-pode-ser-visitada-ate-dia-27-no-saguao-da-Prefeitura/233052"
   },
   {
-   "titulo": "Jundiaí avança em força-tarefa para enfrentar eventos climáticos extremos como o El Niño - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTlHdk1ucFlmTnFadjJvZ01lQ2FuWnJhM2s5WTNxdmIzVjNEVC1HdW5fTXpMOG8tMDM4RmlReXN6X2s0OHhIZS1uRHNYRHZfZXVwY1N2aVNkNFhlSHlvRFhWUWdKVjVrcmdMaHQ2YTNEaEEzMkpEVjFVV1lMbTRrVm1oa1p1VFZSajkxU0QyaU1zaXFxRjVkczZUQmFZWGt0V0dUWjZEWHg4R2VkWFFGaGhhX29feEowSktQSTRBZXpQYlM5RnRuVmNpUUpYem94cE9PLVhuMXRfQ2p3blRGeXJpbFh4WDA3?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794740400.0,
-   "categoria": "regiao",
+   "titulo": "Time Jundiaí conquista nove medalhas na 2ª etapa do Circuito Mirim de Natação em Araras - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUJNZERCaW1yV18xZ0RMRjByNV9Fa1R1bHVEZkg3dHVwR0FRNkxyY2RxZTVqaGxMNU5Nc2hJNnlOd043QnFKN1dwakFQd3ltQlo0aXpBS3NZODZ2SURob1IyMktEVXUxV0ppcmNLNTNOMkNWRE5uQlpvaHhYcTRaR1BTLVVsWkduSWZCdWNEMG56LTBWX0NXSUw5dENMM1MwaUw4UEQwQ2ZsYmpDd1BiWGpPNTdhdw?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794752409.0,
+   "categoria": "itupeva",
    "fontes": [
-    "Prefeitura de Jundiaí"
+    "Tribuna de Jundiaí"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "15/11 08:00",
-   "foto": "5cfbbc196ad7.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
+   "hora": "15/11 11:20",
+   "foto": "46b12d33e68d.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/15/jundiai-avanca-em-forca-tarefa-para-enfrentar-eventos-climaticos-extremos-como-o-el-nino/?apenas_conteudo=S"
+   "foto_tamanho": "1400x930",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/time-jundiai-natacao-conquista-nove-medalhas-circuito-mirim-araras/"
   },
   {
-   "titulo": "Proclamação da República: 23 dos 39 presidentes do Brasil batizam vias e praças em Sorocaba - G1",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZzJGVTZiQ1IxWFNYR0xpV0NFclFhNXJ0VTdtcXA5c1FROW1sYTVUWldCVWY1QXFMZzVyT2tJa1VaLXJBWE5TR1dWeTN0cW5LMkxoVE5hVUxMY0JhQnE1clA4dzRxWnJiQnNmUTBtZTB3ZmpyOVY3UmtKdVF2Rl9BSzU4WXA2bGU1STBBX2tXZGpkbkdyU25OTGM4YTE2VnpJRWxMaENaZTZSX3dvQ0QzemJOcldzV3E4OTU1VlhOOG4tU1VHOHl6YTI3bG9GMW5CZ1pwdVFXZUVGZFlKZnNXaU1lWFVQMV9SNWNabdIB-wFBVV95cUxNWVBlRWFrTEhrVDN3YThFalhCSTVaUklyaXJaQXQ5OXExV3hHQVcxN1dXN0JSY2ZuQUkwLWlUNVpIUUg4amNvWTJKUkY3RFFCc1RGZ1dPSDJ0YTJPSXRYUkNLZ0xscFdfVC1tdjZTbnZualY5dUNfc0s2SEZGZHVhTWpJTlZhLU41cDNBSE9RTVRNcHNRZlRTcERRZ01hRU5peEVMM2VRcHgtYjFrUE9yXzgzUUFTbUtXWGlVcDhFejJTMFFrbHNNb04yNXRYbFJkRjZCR1UyMWs1WEROcExNZVN5NWdhQVA3dFN6Q2RGeWpQY3VYdmVtTW5GYw?oc=5",
+   "titulo": "Bióloga capta imagens 'de cinema' da vida selvagem na Serra do Japi - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaFdTeWU2Tkl1WWw1eXFOTl9PcnRGVHlQV0dUZEI2QkxHdmFJQ3AzcWZVWFpmMjRlalAwTkNpUGQ2WW9mbDFKWnREMzBEYnI2YkhuZ0xmUk40ME9GbmdWVUQzVWtYb180dFNNYmFRWF9OUWpBN1h6RFNVZ0VObFJBaGQwZm9oWnZHTk5KVDY3V05hN092aHRFZHJubDRKWnFYalJPQjFCTDNfVjEzdGhxd1JSN2RXZ2VELXNRc0lXNU5LS0g3ejIxdGVqU2F1d3pnMExuTzJNYU9jdTZEZndTVTktUTdpWGFfU20yU2w4NFp5UU9BVV9vRQ?oc=5",
    "fonte": "G1",
-   "quando": 1794740400.0,
+   "quando": 1794751810.0,
    "categoria": "regiao",
    "fontes": [
     "G1"
@@ -254,12 +75,130 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "15/11 08:00",
-   "foto": "fd98e9e93d56.jpg",
+   "hora": "15/11 11:10",
+   "foto": "0a79a5ee516b.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/proclamacao-da-republica-23-dos-39-presidentes-do-brasil-batizam-vias-e-pracas-em-sorocaba.ghtml"
+   "foto_tamanho": "1280x700",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/fotos-com-camera-de-cinema-e-bastoes-de-luz-biologa-registra-animais-raros-a-noite-na-serra-do-japi.ghtml"
+  },
+  {
+   "titulo": "Saiba mais sobre MAIS - Página 1532 de 1532 - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBbmdrNU1fclRWMFd3LXNPcnlOMVk3eWZHUUUwX3hqdm5jSzhrTkdPc3hUa215Z0NtNVlFUWsyTlZUclV5RHRoemZocVpwTlp0TjNxWmVkRDhfQjg?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794751423.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "15/11 11:03",
+   "foto": "8b9609a40754.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "materia_url": "https://tribunadejundiai.com.br/mais/page/1532/"
+  },
+  {
+   "titulo": "Elo da Cultura transforma escolas de Jundiaí em palco para circo, teatro, dança e música - ABC Repórter",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlNMWGRuNkJIeU9yZVdwREdSeldFWDkxQVNrVUNuTVpxUng5QW4xQndTTVhUdFpmZGdRNzVpVkUtazdoRFNlUlFZejhjcUxSTkZlSUl3M1pxUGhwZWpaQjJIbFFsNDBTb0Z5UmtJWlRkMUZhTnMxbHZZVzZMek9Ta3h0My1ER2tDdUhGeUZnSGl6V2hrZ1BUR0twWW5xN3RZclB6a2VjelNuM2V4MlU3NjNBaEZ3U2I0b1V0Q191SGhCSFk?oc=5",
+   "fonte": "ABC Repórter",
+   "quando": 1794751343.0,
+   "categoria": "regiao",
+   "fontes": [
+    "ABC Repórter"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "15/11 11:02",
+   "foto": "6f6bb20dc403.jpg",
+   "credito": "Foto: ABC Repórter",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1261x840",
+   "materia_url": "https://abcreporter.com.br/2026/11/15/elo-da-cultura-transforma-escolas-de-jundiai-em-palco-para-circo-teatro-danca-e-musica/"
+  },
+  {
+   "titulo": "Fortes chuvas previstas para São Paulo neste domingo, alerta Defesa Civil - Metrô News Jornal",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXRJNnY0cGhzN1BxRzRzYzNqek9CU0pfOXZJSWJjMm9WcDlxaXltdWxzb1J3ZWlPa1FBd0hrUGdaQWIyX3RsYTVIb0YwRF9JR3ZaQU1yeEtuN1NGTnBmWmZsN3pvdGFBQjdtU3haN0FWVS16a3Bic2dRNGY2UkFvVXVGV0Z3ZTd2ZE52R2lFU3JfVElxUlFwaF9XTTAtRVE?oc=5",
+   "fonte": "Metrô News Jornal",
+   "quando": 1794751260.0,
+   "categoria": "estado",
+   "fontes": [
+    "Metrô News Jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "15/11 11:01",
+   "foto": "4ca718f01dc8.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Sem Ancelotti, quem comanda o Brasil? - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHB1bS01WHEzZGNINDd0T2hyUmlSRi1WNnVRNHIwV3pXNHBid1RaMnljSzdUWXdQb0hfOTFKcGQ1VTAwS3VPaDN0US1QOTU4MkxUSDhTRi1oc3RnRE94UEtRdGRncWtsS3BubXdOU0haZmFBVThzVENBejRSay1VMHJ6ZVB5cUswYkE?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794751245.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "15/11 11:00",
+   "foto": "b7e2b6362c52.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sem-ancelotti-quem-comanda-o-brasil/"
+  },
+  {
+   "titulo": "Imposto do pecado nos carros: o que muda, quem paga e quando começa a valer - Revista Fullpower",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IYXV5bmszUGRESnlGMHc3eXFhaEhjMXRVckxoTDlfSVNhajNEOUlEd1JnY0RKUVR5aVJacUstNkVtZGtNNDl4WURrdGFwWTYwU2NHbVdESU02b081YXBFMldnVURkZklHcThTWXNn?oc=5",
+   "fonte": "Revista Fullpower",
+   "quando": 1794751229.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Revista Fullpower"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 11:00",
+   "foto": "0bdc8c234a5a.jpg",
+   "credito": "Foto: Revista Fullpower",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x853",
+   "materia_url": "https://revistafullpower.com.br/imposto-do-pecado-nos-carros/"
+  },
+  {
+   "titulo": "Cerca de 70 milhões de pessoas começam a receber em janeiro ‘cashback’ da reforma tributária - MundoBA",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNempYcG54MTZROGdjUTFiVXB4cjN3WUZza2hxTDFWWEk4NjMwdVBqM0R3bEF1Q181YTV3YzFnay1FZERzY0hJdlplNDhvb0c1U1ZKTFlDdFNyNHFDa1JybkE4LURxempFem9GeFRGOXVEc3JnS3llWkZmREVtOXU5ZlpRUDRNeTNOSkVLVTdmRVZLLWV0R3ZOU0dWeGRxbTFpY3lZRTBQMVBOZnBaQ2x2UGNtQnZLcGtoRDVQZWhBZTU?oc=5",
+   "fonte": "MundoBA",
+   "quando": 1794751200.0,
+   "categoria": "brasil",
+   "fontes": [
+    "MundoBA"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 11:00",
+   "foto": "7594aea5d843.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
   },
   {
    "titulo": "'Cashback' da reforma tributária começa em janeiro e deve beneficiar 70 milhões de brasileiros - Rádio Metrópole",
@@ -283,474 +222,41 @@
    "materia_url": "https://www.metro1.com.br/noticias/economia/191442,cashback-da-reforma-tributaria-comeca-em-janeiro-e-deve-beneficiar-70-milhoes-de-brasileiros"
   },
   {
-   "titulo": "Fortes chuvas devem atingir estado de São Paulo neste domingo - Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWZEQV9nWEpKQXdpeDJ0NmJSODduODhpRHh1YU1xNzAxay1jMlN5NTBMNWl6clktbHIzUDluS2l2QlkxemM4ejZWM2RkSW81SEs2MzZkQjFzMEFhWlQwTGJJQ0hwVVduNXQ3QlZta21lcFp3SDdpcmtuOTE0cEZoLWxOaFZFWnV1QmRrQ2tuZXVYekVvRjhncWVSVy11eXRHZWdVdGd6R2JaOGM2aE53NjdZOUNaMXM?oc=5",
-   "fonte": "Agência Brasil",
-   "quando": 1794749640.0,
-   "categoria": "estado",
-   "fontes": [
-    "Agência Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "15/11 10:34",
-   "foto": "54fcc5cacee4.jpg",
-   "credito": "Foto: Agência Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x800",
-   "materia_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo"
-  },
-  {
-   "titulo": "Seleção volta aos treinos e Ancelotti ganha reforço - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUJwRkRxSUJ5ekZvai1qVm1zRjNobHVEWmg3V2NOOHRyaDZkemFlOFhkdW5MdDMzNC1zQ0l0VG5IYWZRTDVwWnRmMXNCb1ZMVUtnQXlLdVRwLVlMcW5sUGdVaEg3bEl4RWJ1QUFGVkpGM2ZENjl4eHd6Zk80aVRmU09OSXBFTEphclVpeW9EWGlHWDhUa0pTcjR4ODE3NDA?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794749584.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 10:33",
-   "foto": "ec6160f65030.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1113",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/selecao-volta-aos-treinos-e-ancelotti-ganha-reforco/"
-  },
-  {
-   "titulo": "Polícia Militar reforça segurança do Enem com mais de 3 mil policiais neste domingo - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0U4TDktX2tBVFp6WC1sU0JlS3JtbmlvWFRWcnYwaTFUZVEzUmJTdFFoZnBYYTU3ekZmeXhCbHNINUxUQVFrdTRJc01Tb1FacGpnSGtvZFB3MHBKcWxueHF6Q3UwcG8zRDVsSGd6LVJVSE1CRVZZQUdyNUVKOC10bkV0bHNreEJmUHcwNjhqZTBocGNaQlEwWUJfT213WGE5MzRGeW10dzVmemNsbkxIelpXNGc5bXVqV2VISmNHWWJPcUhRMXRKWVh3?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794748372.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "15/11 10:12",
-   "foto": "886c217fd710.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "materia_url": "https://www.agenciasp.sp.gov.br/sem-categoria/policia-militar-reforca-seguranca-do-enem-com-mais-de-3-mil-policiais-neste-domingo/"
-  },
-  {
-   "titulo": "Governo Lula adia gastos e evita corte estrutural, diz economista - Poder360",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUktleGhicXdXbkF5UUtQS0VpQkRybURnVFJVZ3J5Yk44ZGt6S1RVM190YmdfbkQ2WnRnLTBUbWJKQ3pFYlk3WlFJcEZEck1WdWJQSVBhN2d2Ml8wZG5mV0RKWHJGV0lyMnpjVEF6aEp3SUdRV1B5OG9WeHlQSlJaNktwcUxuLXhWR3ZLVURTa0hpLXJQa2RGQXNJY29Gay1Jb3VnX3hDMTg0ZHhW?oc=5",
-   "fonte": "Poder360",
-   "quando": 1794747718.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Poder360"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 10:01",
-   "foto": "2ec6b633bace.jpg",
-   "credito": "Foto: Poder360",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x853",
-   "materia_url": "https://www.poder360.com.br/poder-economia/governo-lula-adia-gastos-e-evita-corte-estrutural-diz-economista/"
-  },
-  {
-   "titulo": "Comprar roupas usadas virou tendência? Brechós ganham novos consumidores em Jundiaí; confira - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHdHajFVZW1oc3VsNU1TY0Z6b3p0c1hXWm1NYlBSY2ZKS0hmMzdrTjl3emMxbTF2NGJuUWtMRWIzNmxjYnNDWS1wMGZRS0U5bGVKb2hpU2swck0xY3dDQWE4U29jSmRZU2pVSmgtRFViTmtGQUZzRHhGazJldjUwdl9Yc1N1TndzeFJoUFQzcGNtVTY2dHF2cg?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794747600.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 10:00",
-   "foto": "cb15b3dfdbbb.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/brechos-ganham-novos-consumidores-em-jundiai/"
-  },
-  {
-   "titulo": "Painel: Governo Tarcísio estuda recriar pasta do Planejamento para acomodar aliada - Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEh6cVF0cjBDTGJFTG9scHFMWDNSckRtTFpEdDFxMlNQaHNKMjl3WlZkMUExQWNyMVhDcXg4VEE1SkpNYnpKTFpUUFUzaDZBd0hCakY3ejYyeUVpR1l3QURvVV9scmxCVndmSTZtSGJFWkxHWGpiei1TSTZvYjIyUWRfYlUzTTUzYWlNS0xGc3NaQi1rTHc0VkNXX09oRHo0N3g2VjkyTnlHOVRodHBZTUo0X1o0Z0xuNFMweUtmN3BhM3lLNlhmQlpPLTFrUQ?oc=5",
-   "fonte": "Folha de S.Paulo",
-   "quando": 1794747600.0,
-   "categoria": "estado",
-   "fontes": [
-    "Folha de S.Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 10:00",
-   "foto": "650d4a507561.jpg",
-   "credito": "Foto: Folha de S.Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-estuda-recriar-pasta-do-planejamento-para-acomodar-aliada.shtml"
-  },
-  {
-   "titulo": "DAE Jundiaí leva serviços à população na 5ª edição do Prefeitura na Área - DAE Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVo3cnNqbkt2YTRIZmxLcXdUMlp4am9zZ3JNQ1hDeXp0ZzJzYWcwTXBaTS1pMXh6TlM2NmRtSDduYXprVzIwckc3NjFwWF9UbmVGbjlMWUtjTVhlSkZkSmZNQ1Voa2lONHV3aVY5dDFVX0JkbzV4U1c1Y2xMVFpEdWktejFIdUVzdGllcHpXdnFSdHAxckxNU0VFbnF0LTIwcmZIWkdneGVaZ2c?oc=5",
-   "fonte": "DAE Jundiaí",
-   "quando": 1794747000.0,
-   "categoria": "regiao",
-   "fontes": [
-    "DAE Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 09:50",
-   "foto": "ca001e37a8c2.jpg",
-   "credito": "Foto: DAE Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x886",
-   "materia_url": "https://daejundiai.com.br/2026/11/dae-jundiai-leva-servicos-a-populacao-na-5a-edicao-do-prefeitura-na-area/"
-  },
-  {
-   "titulo": "Amprotabaco afirma que Imposto Seletivo sobre a cadeia do tabaco ameaça municípios e produtores - Folha do Mate",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkdZRFRzdW52M004RzJZQjNGcG1LSDczLW0wdDlkOG81N3ZScHBxWEU2OE96bzU3RnBwUmNyeFRtOFZGNU5FUlp2QlE2bEZHRHhQUklSSFFIRDNtNjhJanl1UEpZanAtTjlFTDVJU0hOU053b05ud2ZOR25ZQnBJaHdqVS1ORXhvY0E4anVVblBCVjY0alZwV0N5Z1dIWHBfaUpVSnhJR0RJX2dfSUZsN0sydEF5UG45WElQRFhFcGRZZDF3X2dWaQ?oc=5",
-   "fonte": "Folha do Mate",
-   "quando": 1794745703.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Folha do Mate"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 09:28",
-   "foto": "bac8ddb6e489.jpg",
-   "credito": "Foto: Folha do Mate",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "materia_url": "https://folhadomate.com/noticias/amprotabaco-afirma-que-imposto-seletivo-sobre-a-cadeia-do-tabaco-ameaca-municipios-e-produtores/"
-  },
-  {
-   "titulo": "Receita Federal exige atualização do CadÚnico para pagamento do cashback da reforma tributária em janeiro - Mix Vale",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0JUSlZ0eG4tS1MzWWtpQnVhckpmdDZEcnY2b3ZWd3NIU01jQXhzcmw4cUZvLWttY1E1WWpUUk9wUUs2SkZZSW42RUFRZ3Q0M2JJV3hjWmx5c3JPM1E2cjNXc1A3dUN4bHVabjhtSlFwMmg3STNtaVllVndycU53Z2I4QTd2eDN5dGU3UG1YZWx3TWlvQmI4S2lXMDkxQ3Y5VmVPVlcyMkdWNjQyaU9TMFNnOEVIcklWb21sMFVfeHQ5UWJyNmJKU3Q0ZjI0cUxZU2pwWnowcG1SQTFF?oc=5",
+   "titulo": "Último resultado da Lotofácil 3829 (sexta-feira, 13/11): aposta de Jundiai (SP) leva R$ 1,64 milhão - Mix Vale",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckxvVHBYa2xwWThPNFlvSDc2b2MzdmtJUG9jTmRUaFJ6cjlyYnZ4T3ktaGFoVEZ4eDUyMTlqNW9KdndMYkxQZzlyWm9ibjB0N0ZmcG5qY190dzNpSmhmcml4RDVpTlQtSmIzdjNrdllQaTlKMVNIYXN6WFZaTmlyYXMxb1ZlVG15LVIyOXUzZl9VMFFGZ3Q3SGZzUnNCSlRQdVlyME1mTTlaMmhzSXJ6RHlfbndYOEFaNWtGNU9DWVpveUJhcGljX3dR?oc=5",
    "fonte": "Mix Vale",
-   "quando": 1794745556.0,
-   "categoria": "brasil",
+   "quando": 1794749768.0,
+   "categoria": "regiao",
    "fontes": [
     "Mix Vale"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "15/11 09:25",
-   "foto": "c75092c38a6a.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "hora": "15/11 10:36",
+   "foto": "4cd91376da70.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "foto_tamanho": "1600x1195"
   },
   {
-   "titulo": "Santos (SP): Parada de Natal altera trânsito no domingo; veja interdições - Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUt4bDRvQ1JRWGFreWg2NGZnZl80VDctamMzb2ZFejR5WmhZeTRITlFUU1Ezc3hNQm1xd0ZuVzhiX0t0WXVibkFtMmFfTGd6Q3NzZlhya2tjSHFGTHBuc3VhRTc5R3JneTJFcFpjQmd1LXl1aXlzSEt3ZGxySHljb000ZEo1bkJ2Zm5IY0FpeFBGLXZ2XzA1TXg5WnB6U1hRTmhmTQ?oc=5",
-   "fonte": "Diário do Estado",
-   "quando": 1794744107.0,
+   "titulo": "Incêndio na Pyrozzar: veja estado de saúde dos feridos em Salto - www.band.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0paWkl0SlFqbFVKaEFEWTlLVTNBcGRMM3MwNHR2R1I2RTdmbklyNzFYb3VzbTRDOTBIVE9QM3ZsSWVQS1UwQXNLd3lMVUctQXZMZE1KaTQyak9nSTlnQXd0R0FXN2JXR25XUkdQOUxZbk1uanphYkpsa1FXaVRKTTdjTGxjMk1QOTBwVFQzOTdnUFpaY185Y3ZiOVRCd3c?oc=5",
+   "fonte": "www.band.com.br",
+   "quando": 1794752115.0,
    "categoria": "estado",
    "fontes": [
-    "Diário do Estado"
+    "www.band.com.br"
    ],
    "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 5,
-   "hora": "15/11 09:01",
-   "foto": "2e885ddbc8fc.jpg",
-   "credito": "Foto: Diário do Estado",
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "15/11 11:15",
+   "foto": "96522d948e5a.jpg",
+   "credito": "Foto: www.band.com.br",
    "foto_tipo": "materia",
-   "foto_tamanho": "984x738",
-   "materia_url": "https://diariodoestadogo.com.br/santos-sp-parada-de-natal-altera-transito-no-domingo-veja-interdicoes/"
-  },
-  {
-   "titulo": "Governo Federal cria incentivo fiscal para estimular reciclagem de veículos e reduzir impostos sobre modelos novos - Portal de Prefeitura",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTk5PRWdHX1d5NGswRlVrc2RjYTE0UFdpbHlLLWRFSjBLbkhzN0phYXhyaE82WUZBNGdWUk16Tm9TeVBPQXNiUGNuRlEyTmtLU05WUHVnbmhRd3VnSHdRT0g0ckZlOWhCSHZuR1czbHRFOXpHQ1pwd3NOUlBuRFY1T3NxNFM2dFIxbVJVRzlRN01BWThycmF6eTA0eFNySGhLNHJzdjRTT3VSRWYtTUd4YjlTSGNkTDcx?oc=5",
-   "fonte": "Portal de Prefeitura",
-   "quando": 1794744000.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal de Prefeitura"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 09:00",
-   "foto": "894cffec6054.jpg",
-   "credito": "Foto: Portal de Prefeitura",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "materia_url": "https://portaldeprefeitura.com.br/bastidores-da-politica/governo-federal-incentivo-fiscal-reciclagem-veiculos/636048/"
-  },
-  {
-   "titulo": "Domingo terá risco de tempestades em Jundiaí, com raios, ventos fortes e máxima de 27°C - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlpIRDdVUVpySDV1V2JNc0ZSM2EwTjViRTRrcTE2UDcxcmQ5WGZvbUV2WEFDZGYxQXlvUGZLR19MYzVRcWd1UlBqY2Rsb0JLZU9uVTk3VXdvZ29jelZ3MnllMlFqZURWRTZWWExMVjM4dktEekRxNWoxdGpHTWdxWXZrVnJad0h5UVBFcEZvTnBEMUlvOXVZZFB3?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794743938.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 08:58"
-  },
-  {
-   "titulo": "O vinho alemão busca seu lugar fora da garrafa azul - NeoFeed",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUxQODh1VFd3bWt6UG5hejhNajRoQi1LbGtDckFHRl90Y1h0QU9TNUlLYkRabUdSRkhKR2txa2xMdkNKQTRUWVBvLUhjZS1ZVkF4SXFETXZDemt0NmdsRmh1RUNrcVhoRDR5N0xHOEZmY2tRWHlCbzRlNVk0NW4yTENMV0RBMmYy?oc=5",
-   "fonte": "NeoFeed",
-   "quando": 1794743520.0,
-   "categoria": "regiao",
-   "fontes": [
-    "NeoFeed"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 08:52"
-  },
-  {
-   "titulo": "Ancelotti vive problema defensivo na Seleção Brasileira - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG9xRUNsUTlsbHFxMlJ1RVJPTHQ0dFNDQ1hjZE1tZnZiRWtvMHhBUmxBc3hCSkJsbjFxRG1zWlVmSkNpR28xTkkzeGpmUUJsOHJiUzU1XzM1Mm8tWlZwOUlmUGdHTllQV0p1b0F1ellOT2s4OExIRUY3TmdIazdGbXpWaDBNSWJGVW5vcjE1MVRpMmc2NzR0ZGMxZ0tUTXpyR3J4Rg?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794742661.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 08:37"
-  },
-  {
-   "titulo": "Com raízes em Jundiaí, jovem atleta conquista espaço no vôlei americano - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU09YSjU2ZUx3aFd1NFhRdDNkRkJlYlcwclQ5R09hR2lrLTg0azAydk1NTFpwclcxaDQxMmxsZHVTbWNsaVdHb0RETmY4Mk9DMDUybmpiR1VmRkRiOTNSbktHa3g0TVkwZlExcWtSQmRORUUya1d4eDRHY3dfSDdBMUpfQ3o4eTBOOWdteDJtc3ZwLW5ZSXRZQ2lR?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794742140.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 08:29"
-  },
-  {
-   "titulo": "Pneu importado vai ficar mais caro? Governo aumenta imposto de 16% para 30% - Últimas Notícias",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1YZXIzWjRveWpKazd2Z1gwYjFoTGptTndCRkFFZ2R0R3pDSjA1c0xmOFZwaUFNVkpMbmh5anhTamZKd2daS1BsRW1uV3JYckUtT0JUM3lHbmJ1UHpuUnV0X0hoWlJuNGw1RkNMYlRJeUJtaFY1VldadXcycTJxN1RhMGRsTHVvVnRWWTNtVU14Y0lMb1VvTllMVlBKbTdPWTVlWHVrdkNpSTJDemRMZ1R3?oc=5",
-   "fonte": "Últimas Notícias",
-   "quando": 1794741645.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Últimas Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 08:20"
-  },
-  {
-   "titulo": "Temporais ameaçam o Brasil neste domingo; veja regiões com risco de chuva forte - IstoÉ",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamZfNTlzaWV0NTRjTGc1SXM5Mzc2bV9JQUV4OE5RQkNnOU1MRHhkMGhMM1p0bEplbDN6MHl3ZlN2MHVKQmpiTElnbkduQkNGZjR2ejIzVnJ4RTItbEJfZXliT0RUOUhYVlM0T0ZjaVNkRnFKY0xEVEZlZ0phU1lkN0NR?oc=5",
-   "fonte": "IstoÉ",
-   "quando": 1794740881.0,
-   "categoria": "estado",
-   "fontes": [
-    "IstoÉ"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "15/11 08:08"
-  },
-  {
-   "titulo": "DESPEDIDAS - 15.11.26 - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00cFJYN3N4aXpGVUJndXdzYTNPZVhMRGNxa1pJT3ZSRlo1SWxaZXNwT1NwUGlwWWdpM1VlZFZzVVhjUl80TVJ3VTBLVEE0UFAtVEhkdnFla1dPQjdqV3c?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1794740596.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "15/11 08:03"
-  },
-  {
-   "titulo": "Previsão do tempo para domingo (15), em SP: instabilidades aumentam - Diário de Suzano",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTJITG1MWDloZFVFYUNRdjdXTF8tcnh3aTBCYnQ5SkJxamhiaTBKTThlaVNmYk5BLUZzb2VuSUtjRld2b3ZkX2tFa01wMzBZWWNINkpnY2VoNDRwc1JwWEJzMW5kMXRBWWtzM2s4Q2VaTnBRbHVBVG5vekhyOVphZGM3cEVhRHpMZmhPYl85aGVBNVN0OTNSdExDcWI3TVlTWjhkaXlac1NKcFNKbUYzdDd3R2ZkNGsybmJOWQ?oc=5",
-   "fonte": "Diário de Suzano",
-   "quando": 1794740400.0,
-   "categoria": "estado",
-   "fontes": [
-    "Diário de Suzano"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "15/11 08:00"
-  },
-  {
-   "titulo": "Alerta de chuva forte e temporais ameaçam o feriado no Interior de SP - ACidade ON",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOWRoeUFIcnhWSDBoRnAzRG1RVzdPQUhuNXRzLWFraHpxNm8yZWlTcDJTMkdmYVlrMm45aDFVRWNod3BiVTBaaFRiTzZfSktJS01EZmJCdDBNZVhRX2dYeVdUT09IZWF4TS01Q3dQTzB6c0xKX0lORjA3WU84a25ON0ZrVnY4dzkzSnJTelpUb1dpbVN5bnFBaWRSSXlwY1RTSGl4c0cwNDk3TTctLUJ2Q3kwWjh4Z9IBuwFBVV95cUxPdUFScEdNZjdwdEdxSndBNXpTRkhJWXgxRkJvTEUzU3dRY0t3QWRTLXZQd0lDdEdQR2FlT2RjSmJxMFd2VzB2dTl5UC14TG1KamJEdngwS3pXQmhRMnhDemtMYkdyY1NxMDZMcU9iNWxxLVRwWi1Fd1I0NzdJNE9LdS1JaVNKOVdzNTNUdkJqU2Q5STQ2OF9Vb2VJSEh1aXV4N3d1OWp3TVpIemRVNkZfZVVoc3JIeVNpM2Z3?oc=5",
-   "fonte": "ACidade ON",
-   "quando": 1794740400.0,
-   "categoria": "estado",
-   "fontes": [
-    "ACidade ON"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "15/11 08:00"
-  },
-  {
-   "titulo": "Governo do Estado de São Paulo oferece transporte metropolitano gratuito para estudantes neste domingo de Enem - Diário do Transporte",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSzJUUHhCMHZ1TmhSZGZnSW8wMGtad0lNM2htQjVCTXd0MnNPdGl0RW80NXlXenhxTEZOdXdoQlBMMFVtTjBPREhPV2NuS2x4UlZmYm5oWGdIY3ItNzRQQ0pMbDhfM2U1SXN3SnZaZUpyNncxeDFmeXg0VlZQQ2ZPV1VGV1Q1dkhNaEFOWWhjbTFKdGRUUjE1VXAySWt1MVlMazhlM1BLRUV4VmxVWEVOcnhUMXZ1Um1wSDFNMEJoNC1ISkRMM0NENHF5TnQ4aTFWRThFcl9hU0dKVWcwYm5HZnN1VW5qRDdzZ2R1NtIB8gFBVV95cUxPXzJiUy1ndU1sMERCcEdfWjNHZmMyZGdOSWFxS2VQX1ItY2UwRUFkanA5VF9wejU2X19teDdaNVZBQUZKczNlRjdpdC1HUnpEWDMwUkJFRkpzbU5MVU41UHRmMWU1ZkVsakVHRXpvLXR5b0hxc1VzcHRtYi1ndVJLOVFpWVIzdU5DNDdMS3k0OXNYWk5hVWJzdnRic3l6SGF2eUlzU19yNjlNVzVQWHM3M2lqc0VyM09lT2gyUHR2SmNoNkotZ0VrdWZtZUJzNUhvMG1RTFVxN2RZdzQ2MlVCaUdhWDktNVlrcEswN0x1Q1Bhdw?oc=5",
-   "fonte": "Diário do Transporte",
-   "quando": 1794747754.0,
-   "categoria": "estado",
-   "fontes": [
-    "Diário do Transporte"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 10:02"
-  },
-  {
-   "titulo": "Estado de São Paulo tem o maior número de casos de Mpox do país - Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUNyUTFwY0F1X3ptS3ZESGtEaWs2T3ltNy0zWkYyUVowTmdDY0NvSnI1SjJURk5Ob2VseFVpU2x2ZHpZNFhucFZxbnRHX1dJalFMX05HVDVUbUhKN29hT3hLeEM2T21vdEZfblhWUExzWlU4Tm5NdFZtTVVNdXRWZml4YWNVVnhmTkRQX21PQUpqWEZfR2ZBRFY5dDNJMVlEOHR4WUZ3c2FsR1BiTmVB?oc=5",
-   "fonte": "Rádio Itatiaia",
-   "quando": 1794747381.0,
-   "categoria": "estado",
-   "fontes": [
-    "Rádio Itatiaia"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:56"
-  },
-  {
-   "titulo": "Estado de São Paulo tem alerta para temporais neste domingo, 15; veja regiões com risco - Exame",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamRlejdwdWpxNmFmSWNIOWh4SDF4WENFNkZxOEVZbkdhVzJyVlZxM24tMko4NmNQcWJVYlBZbEhVemhIOG42UXBBUjdiNU01RDZBcWs5QWpzdjR1dGdvYVJJd3kzNUNYZnNKUHdrTHRHYThVNElhYWxiUmJsNll5S2x2ejFsSzhKSmdXUlROekUtMEZSS0RQQnVFSXh6ZmNsREt6ZnVZQVZlZjl0Unl6OQ?oc=5",
-   "fonte": "Exame",
-   "quando": 1794746671.0,
-   "categoria": "estado",
-   "fontes": [
-    "Exame"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:44"
-  },
-  {
-   "titulo": "Casos de Covid-19 caem em Atibaia em 2026, aponta levantamento - Portal Atibaia News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEw0czY4LW41UXFTcUI3T1ZyUGZERXlnUVpfcTJpM283eU9pWXhveDBOX1JPemdCMWZhY0NkcVBjdnBfU0RKUVFyOThQRDQzbUIxYldsdTQ0SEJKOEY3bUM1Z0xTSjNBQnJPNm9BdTliNHVPM2VNVWdRZ0diTHY3dy0wNW9xSkF1Rzlrbk1INjlPYVJGbE9oUU1tNVZtNWxyMjRBLXZXNFd3a0pwVktjaWwzSQ?oc=5",
-   "fonte": "Portal Atibaia News",
-   "quando": 1794746160.0,
-   "categoria": "estado",
-   "fontes": [
-    "Portal Atibaia News"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:36"
-  },
-  {
-   "titulo": "Compras por impulso como alívio de emoções causam ciclo vicioso e afetam a saúde mental, mostra estudo - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wY0dEMGVnLWkzck1Eb2RaVXdRYzA4cTBHU0lSZVFXYW52ZkxFNDVkRWlsTktfS0gxSGxHUy1vVUtWZzZnMUVpTlZRWjVQLVVYY3h6b1J2UXFUdW1oZ05mbUZ4UFp6S3B6LVFrZGVsdVYycUhmZ3lEVi1JRG11QQ?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794745560.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:26"
-  },
-  {
-   "titulo": "Defesa Civil alerta para temporais em todo o Estado de São Paulo neste domingo (15) - BS9",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2lVa0xoYzhQRzJJb0dqZWxTYkJqRHFBTEsycXI4Y1hPbmxPckRqaHhfNmNNdGJtbWJrUXV2REtVTjlIb1BVRjhUdmFzLXRpT05oU05VRzNsOUZWRmNDdHlLRGlKTlFmMHRyQ0QycUQ2aF9pcS1hRnk5TldSX0Z6OE1nc0ZqdTBKT0pZNW1aU2haWnJJQ1I0UUhhUkN1eWkwalo2THhGbnVrVWpHdkxXQnNSZDZEdDJ0Yi1BWnlaSWdsQUlobnc?oc=5",
-   "fonte": "BS9",
-   "quando": 1794744675.0,
-   "categoria": "estado",
-   "fontes": [
-    "BS9"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:11"
-  },
-  {
-   "titulo": "Governo de SP abre postos para facilitar renegociação de dívidas de moradia em duas cidades - www.bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEpjcEkwQ0dzaE51b1B2RFk0UjVwaW5YbU9IVUt2WWREUHFYRi1ZVlNaOXR1RkdTSGdpUTlWa1pqZjcwNW5qOURrdm5BNEtHdFQyM3JOMnpkY2dBV1A4ODBJT0FSM2lRRG5KR2c2S3ZUMkd6WHA5SWNOZ2Y5NEVrVGo4Rlg0dGhYYU1fdTBGaWwzLUhMbi1nZUVwejZJS1ZBMDllSVJQMGdub2JwejVoQVZTM0FLdVpXLUhFd1RlNzFhRDA5ZmhiRmpsVQ?oc=5",
-   "fonte": "www.bra1.com.br",
-   "quando": 1794744600.0,
-   "categoria": "estado",
-   "fontes": [
-    "www.bra1.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:10"
-  },
-  {
-   "titulo": "São Paulo tem alerta para temporais neste domingo com ventos de até 70 km/h e risco de granizo - ncnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoT3R2MUs0ZHdTYTF3UE8tV085UmUwQXRsRzYxOW5vQVNPRGlpNVh2ZXRMckNwMndtSW81cVFUXzk1bFYxSElhMV83eDNGYk5aclFiRG44bFp3ZFRGZFQ4Ry1qTGdMdEtLb0trR0xGVVJNeFdYdndVUFJVaWNTdw?oc=5",
-   "fonte": "ncnews.com.br",
-   "quando": 1794744256.0,
-   "categoria": "estado",
-   "fontes": [
-    "ncnews.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 09:04"
+   "foto_tamanho": "1282x728",
+   "materia_url": "https://www.band.com.br/nacional/sp/incendio-na-pyrozzar-veja-estado-de-saude-dos-feridos-em-salto"
   }
  ]
 }
