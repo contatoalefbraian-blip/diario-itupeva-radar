@@ -1,7 +1,29 @@
 {
- "gerado": "15/11/2026 15:17",
+ "gerado": "15/11/2026 16:14",
  "desde": "15/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "Homem é preso suspeito de tentar enforcar esposa, agredir filho mais velho e se trancar em casa com bebê - G1",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZ1VObHRtZDJ2cXNUenlMYVpjUkJFSl9LNllhUmRGQTlKTzNpV29EYVhpS2xtcVpuWXJERHVKdWxYbUdPRDBIb2daNUFOWFFTZ202Q2NPTmZiTWYyYzFXNU80WW1WVkxZV0dUSDRPTGNMdE9PWUVyX1o1TjB6SW9sSHJ5R0xuWXN2LWpzV0FqRWlXV3BoZS1IYVN1Nm5IbjhieHpRelFRQm1uNlZUZjVwWFJJU2lzeG1peE16UzF3WVRIWG9FanE0d1NfV3JuZlJYcFZTbDREYlV4R3pZSTNSMWRXOENQYUF2SmhqTFA0VEs1d2s1Vy02dHV4M3R6SzRES1RFTF9zSUktNGdp0gGMAkFVX3lxTE5nVU5sdG1kMnZxc1R6eUxhWmNSQkVKX0s2WWFSZEZBOUpPM2lXb0RhWGlLbG1xWm5ZckREdUp1bFhtR09EMEhvZ1o1QU5YUVNnbTZDY09OZmJNZjJjMVc1TzRZbVZWTFlXR1RINE9MY0x0T09ZRXJfWjVOMHpJb2xIcnlHTG5Zc3YtanNXQWpFaVdXcGhlLUhhU3U2bkhuOGJ4elF6UVFCbW42VlRmNXBYUklTaXN4bWl4TXpTMXdZVEhYb0VqcTR3U19Xcm5mUlhwVlNsNERiVXhHellJM1IxZFc4Q1BhQXZKaGpMUDRUSzV3azVXLTZ0dXgzdHpLNERLVEVMX3NJSS00Z2k?oc=5",
+   "fonte": "G1",
+   "quando": 1794762000.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "15/11 14:00",
+   "foto": "0a14653e4392.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1270x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/google/amp/sp/sorocaba-jundiai/noticia/2026/11/15/homem-e-preso-suspeito-de-tentar-enforcar-esposa-agredir-filho-mais-velho-e-se-trancar-em-casa-com-bebe.ghtml"
+  },
   {
    "titulo": "Falso delegado aplica golpe de R$ 150 mil em idosa de Jundiaí - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSW42ek9mOThyV0NsTTc2ejVrcEdMNnBDcllFMTNUWXQ5LUo1WGw1UFJqdzg5Y1ZRb3JlVjBqWWZEbmo4aE9WSXhvZ1RrZERweUVENnRjNm9rNGRPTEJmaS0yR1hLaVRKaENYelFSX2ctVVBSZ0M0QXBxT2k4elg4NmdGZ3I5aTBzd0taNkJXeHdzNlpD?oc=5",
@@ -17,10 +39,11 @@
    ],
    "pontos": 9,
    "hora": "15/11 13:50",
-   "foto": "dccf5628e266.jpg",
+   "foto": "ac129f0b571d.jpg",
    "credito": "Foto: JORNAL DA REGIÃO",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x631",
+   "foto_qualidade": "media",
    "materia_url": "https://jr.jor.br/2026/11/15/falso-delegado-aplica-golpe-de-r-150-mil-em-idosa-de-jundiai/"
   },
   {
@@ -38,11 +61,78 @@
    ],
    "pontos": 9,
    "hora": "15/11 10:36",
-   "foto": "822203d7f49a.jpg",
+   "foto": "dbe9af3c521a.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1400x930",
+   "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/prefeitura-na-area-santa-gertrudes-jundiai/"
+  },
+  {
+   "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação - G1",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQa19sZGpGSTZWMDZrVzktbjRfbjFQbGNNeUQ3WEJDVDliYmdIaWozR3VfdFAyUUVqX2dtV2h3ZW1id0JlMFRPU2JVREEyTlp3cW12WWhXNHh2UVpIZ2FCanNiVC1FdTJyZjJzVkpiRHZHN3JEY2dfdzZnXzhMMEpRMDg4RjdfeExKeVdDcEhGaTBCYTRLSWZqbGN3YmVhbllPYklPV1ozVVlTaFRoYVdoajJvTTQtNVZVT2x1bWd2TGp0VGtaT1VKQU9lWV93Szd3RUpnQTZTV3BibDJzSlRaaFc3YXhrTW4xUkFtUnhwN0tIbENBUmNxSUxXakJjUmNnQmE0NW9NVXg1MWs3SXBiRktsbGlyOGhaSUHSAagCQVVfeXFMTzJfenIyaXU2OUk1YWFFNlJrLWZIeG9ZUG5ZOGZFLXp4aDBqZlhyV2NBbkE1elh0OTdld2dCdm8zNXMxc2NjcmFZMEpzaGpEOFBZUno1dWh5eHhCVm91ZUk0MEptQzVsaVZSUEFvcTJNQlZKWmk5NVYzUEZoMDhOeHFZX3NHZ19acG9RWERJT1NwdHRlNWpsbGg1eUpxMU11MEdLYWRzb3lhTjVqeHF5Y3ZockM3WDZZcnl1Tk91QlRxVXUzZ0F0V1Jrcm5Ea29FbFlycU5RMG5VYTVJZUg2STFWZUZuSk9BMmRfcms2bEdFRmd2NVBUWlg4YVh2dHNaX1VQNWlURjNycGMyTTY0NXRkMEJIaXlPSHVfWGU5RWpOQ0lQWnZtWHo?oc=5",
+   "fonte": "G1",
+   "quando": 1794765717.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "15/11 15:01",
+   "foto": "59062ba670b8.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml"
+  },
+  {
+   "titulo": "BH registra chuva forte e granizo nesta tarde de domingo - G1",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzJ3VGZOV0VZb1dRdlVYR2UxdmtjN2JvUHQzV0U3dmRyTTdQaTFEUmxOLVVZWlNudkd6VUdwc2xfN196b0FPNEhHdGNBbGFsb29QOWZuWkxIYzdPeUM0ZWljY1ZLSUxiLWhUN2owU1B6eG5neDdaQzJPRDNrSkFjWVZFSTRxM0ZQdllOaEhIZjFrWTVpNTQtVDkzVG42WFFBXzFxcUIzOFRmcnNpbU5lQ3VEdmNiYlNORHfSAcgBQVVfeXFMTmJHeVFGOW9lZjdUc1Y0aDNIUzA0amdKWDJlZHZoU3Vma2ozMk5vektON3J5MENHeUxhMkxIVFdpUmNxa3V1eUJBN2d4NzBBbHdNNzhqV2U2Q0JYdFB4RFVkOTFmR2FDS0NoRGRVT0R0M3dYMUhyQklSVzJ5ZTUyVkJ2RjZHbXFqMlNuVzE4YjRYOFl2SzhKT2VDeEYtM2NHbnBTYnd4REZ3R25lRWJBbUpRbUlpVjFfUi1sUDB6MVMyWjhFaF9SR2w?oc=5",
+   "fonte": "G1",
+   "quando": 1794764280.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "15/11 14:38",
+   "foto": "862f0a0d2f63.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x859",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-registra-chuva-forte-e-granizo-nesta-tarde-de-domingo.ghtml"
+  },
+  {
+   "titulo": "Fundo Social de Solidariedade abre inscrições para Workshop de Panetone - TVTEC Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1dXRHFEaUZGd21QSkRWSDVGNW5xQm5MeU16Q190SVd0bEZKcVF6NC1nRlhhOUozVmo0VU04TGpiQkV4MXpwbFBHbkRiSzNERF8tc3JxSE5wVHEzWW96TzBrS0VRcmMzYlo0TU15RXRFdlJhejdZbmtVc1VlTkFiY2x4Q2M1MHM4ZExiUlJhQk9kUnJwVnRzc2dJQThtM3ItVjU4cE9QMkN4dzB1TDh0SDllT0RQdjQ?oc=5",
+   "fonte": "TVTEC Jundiaí",
+   "quando": 1794763440.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVTEC Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "15/11 14:24",
+   "foto": "8747b26518bc.jpg",
+   "credito": "Foto: TVTEC Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x960",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/15/fundo-social-de-solidariedade-abre-inscricoes-para-workshop-de-panetone/"
   },
   {
    "titulo": "Jundiaí é premiada por boas práticas na gestão do esporte e valorização profissional - Tribuna de Jundiaí",
@@ -57,32 +147,12 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "15/11 14:23",
-   "foto": "892025039eb6.jpg",
+   "foto": "2ac2b42bf90f.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1400x930",
+   "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-premiada-gestao-esporte-valorizacao-profissional/"
-  },
-  {
-   "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação - G1",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQa19sZGpGSTZWMDZrVzktbjRfbjFQbGNNeUQ3WEJDVDliYmdIaWozR3VfdFAyUUVqX2dtV2h3ZW1id0JlMFRPU2JVREEyTlp3cW12WWhXNHh2UVpIZ2FCanNiVC1FdTJyZjJzVkpiRHZHN3JEY2dfdzZnXzhMMEpRMDg4RjdfeExKeVdDcEhGaTBCYTRLSWZqbGN3YmVhbllPYklPV1ozVVlTaFRoYVdoajJvTTQtNVZVT2x1bWd2TGp0VGtaT1VKQU9lWV93Szd3RUpnQTZTV3BibDJzSlRaaFc3YXhrTW4xUkFtUnhwN0tIbENBUmNxSUxXakJjUmNnQmE0NW9NVXg1MWs3SXBiRktsbGlyOGhaSUHSAagCQVVfeXFMTzJfenIyaXU2OUk1YWFFNlJrLWZIeG9ZUG5ZOGZFLXp4aDBqZlhyV2NBbkE1elh0OTdld2dCdm8zNXMxc2NjcmFZMEpzaGpEOFBZUno1dWh5eHhCVm91ZUk0MEptQzVsaVZSUEFvcTJNQlZKWmk5NVYzUEZoMDhOeHFZX3NHZ19acG9RWERJT1NwdHRlNWpsbGg1eUpxMU11MEdLYWRzb3lhTjVqeHF5Y3ZockM3WDZZcnl1Tk91QlRxVXUzZ0F0V1Jrcm5Ea29FbFlycU5RMG5VYTVJZUg2STFWZUZuSk9BMmRfcms2bEdFRmd2NVBUWlg4YVh2dHNaX1VQNWlURjNycGMyTTY0NXRkMEJIaXlPSHVfWGU5RWpOQ0lQWnZtWHo?oc=5",
-   "fonte": "G1",
-   "quando": 1794759446.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 7,
-   "hora": "15/11 13:17",
-   "foto": "ecdb42edafb8.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "materia_url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml"
   },
   {
    "titulo": "Cashback da reforma tributária começa em 2027 e pode reduzir contas de luz, água e gás; veja quem recebe - Portal N1N",
@@ -100,32 +170,12 @@
    ],
    "pontos": 7,
    "hora": "15/11 12:46",
-   "foto": "53dd55bd88ee.jpg",
+   "foto": "d3c8e582a067.jpg",
    "credito": "Foto: Portal N1N",
    "foto_tipo": "materia",
    "foto_tamanho": "860x550",
+   "foto_qualidade": "media",
    "materia_url": "https://n1n.com.br/economia/119292/cashback-da-reforma-tributaria-comeca-em-2027-e-pode-reduzir-contas-de-luz-agua-e-gas-veja-quem-recebe/"
-  },
-  {
-   "titulo": "Guatemala decreta estado de emergência após ataque que matou deputado e três policiais - G1",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblZBTFIxc2lJOXlneEtHeXpXTTBNdUZnS0ZGTkFUMkU1dENYTWZFdEV5aEQ0dWVEekdTZmQwTWVFX19LY09wQ0UxRlFNNWRRbkxhNWNYelJ3Szc3OHFkaGwxRjR3RUNZTzNOLXJSNnk3WXUzcWdqNURMQ0JLQjl6bHZpVllpNzY0ZWJ0M2dCTGllUDE4UWJlNy1hRGlvMzBMQXkyT09EMXbSAbcBQVVfeXFMTWxqSUtDVXFZWE1ocEs0dEI4QWZTM0txZTQtM1ltWDV0QjZ0QThaYU96RldQa0FTU2JLRjYyQjh2R0FhalRLVDVQdURPV0xUdGJWVlNVRjJIVFdQdUE2NDI4eTM3dDZWMEs5QVN2dzdEZHdzNHhQMjV5RFRJaVlUOS1YSDNURVFCamMwZ0kwdjJOX1FTZDM1RVllQU9tU0lGdnZ5Y1BQbUZaWVJxU2dqNVNvTjRhU2hB?oc=5",
-   "fonte": "G1",
-   "quando": 1794757090.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "15/11 12:38",
-   "foto": "53c54236d33c.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x716",
-   "materia_url": "https://g1.globo.com/mundo/noticia/2026/11/15/guatemala-estado-emergencia-ataque-deputado-policiais.ghtml"
   },
   {
    "titulo": "Homem é executado a tiros na estrada do Pé do Morro - Olhar Itupeva",
@@ -140,10 +190,10 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "15/11 12:01",
-   "foto": "420a49100c33.jpg",
+   "foto": "ed007389727b.jpg",
    "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "foto_tamanho": "1195x1600"
   },
   {
    "titulo": "PAÇO faz 38 anos. Leia relato do então prefeito, André Benassi - Jornal Jundiaí Agora",
@@ -160,10 +210,10 @@
    ],
    "pontos": 7,
    "hora": "15/11 12:00",
-   "foto": "3cfbedf874e8.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto": "bd112a66e509.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "foto_tamanho": "1600x900"
   },
   {
    "titulo": "Jundiaí avança em força-tarefa para enfrentar eventos climáticos extremos como o El Niño - Tribuna de Jundiaí",
@@ -178,10 +228,11 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "15/11 11:56",
-   "foto": "5cfbbc196ad7.jpg",
+   "foto": "ca2693929518.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1400x930",
+   "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-forca-tarefa-eventos-climaticos-extremos-el-nino/"
   },
   {
@@ -199,10 +250,11 @@
    ],
    "pontos": 7,
    "hora": "15/11 11:43",
-   "foto": "79b852181eb7.jpg",
+   "foto": "9839c1a6888e.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1066",
+   "foto_qualidade": "hd",
    "materia_url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-cidades-alerta-chuva-tempestade-inmet-municipios-prova.ghtml"
   },
   {
@@ -220,10 +272,11 @@
    ],
    "pontos": 7,
    "hora": "15/11 11:22",
-   "foto": "58c062ed580c.jpg",
+   "foto": "b53f1be3952c.jpg",
    "credito": "Foto: SB Notícias",
    "foto_tipo": "materia",
    "foto_tamanho": "1600x1200",
+   "foto_qualidade": "hd",
    "materia_url": "https://sbnoticias.com.br/noticia/Exposicao-Planeta-Mania-Steam-com-esculturas-que-despertam-reflexoes-sobre-sustentabilidade-pode-ser-visitada-ate-dia-27-no-saguao-da-Prefeitura/233052"
   },
   {
@@ -239,10 +292,11 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "15/11 11:20",
-   "foto": "46b12d33e68d.jpg",
+   "foto": "4a2b5b0e0ba1.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1400x930",
+   "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/time-jundiai-natacao-conquista-nove-medalhas-circuito-mirim-araras/"
   },
   {
@@ -258,11 +312,76 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "15/11 11:10",
-   "foto": "0a79a5ee516b.jpg",
+   "foto": "2ac2dc56b6d4.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1280x700",
+   "foto_qualidade": "hd",
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/fotos-com-camera-de-cinema-e-bastoes-de-luz-biologa-registra-animais-raros-a-noite-na-serra-do-japi.ghtml"
+  },
+  {
+   "titulo": "Corinthians: Chances de queda à Série B caem - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHB2Z3ZOdGpYcV9EZ3lIWDFPLWF5VTQwU2VrZVVSejNGVDlBdG93UjhJQjU3eEdsbGdkZ05RVHBoNC1fRUVRNGpTN2t5M3pSTnBDVm9tM1lvSkEyckVEQldGS3FKc1l5QXIyNWNjd2ZkUk1lZEgzUjNkM1VuRV85NHNueFQ5REN4TzhqbEh0ZXRnbzMt?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794768771.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "15/11 15:52",
+   "foto": "a4e4b3ff3321.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/corinthians-chances-de-queda-a-serie-b-caem/"
+  },
+  {
+   "titulo": "\"Extremistas\" no Exército do Lula e ajuste fiscal: entenda discussão que circula nas redes - Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTItVUNzM2JOTVlIQWZnSUUzS0RfemRUNVVQTnNnckROTVYtUmFrRUVCOXFKQWxpQ0xZRjFuS1VJSVBqV1hHcjJOWmhRaFhvRHlLNmdBdkUtSExqM2NGclREdmxHNE1aSVg4ZUdDb25VTnpxWkkwck43LThzRzk5REtkUFp1elpCbEJrQWdsaVk0d0xuM2RWWDZXa1I1MlJMRFlGQmZrOHU2QnR3NkNMNHVyazlBSDlWUndlZlFOLTI1OGM?oc=5",
+   "fonte": "Gazeta de São Paulo",
+   "quando": 1794767653.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Gazeta de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 15:34",
+   "foto": "fdae55cfe812.jpg",
+   "credito": "Foto: Gazeta de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.gazetasp.com.br/politica/extremistas-no-exercito-do-lula-e-ajuste-fiscal-entenda-discussao-que-circula-nas-redes/"
+  },
+  {
+   "titulo": "PM Rodoviária apreende quase uma tonelada de maconha no interior de SP - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnVJMXJfaW1SclQzX2NmU3R6dS0xSVltYk1yQWYtUUpRb1hmNDg0dk9jWkhwSkpRVXhLT01xXzNMVTRKNFAweU5SemluQ0NsR1BWMktFbEQtV3NoTFl3ekVZZDhhZmNyQXZwNloyZExUMTNEUGtjSmJ4SklqMmVLdE5PeTBCaFRndnYwUTd0NS1aR2VtbDB5Wnlua1R4TjJKNlN3ajRIdw?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794767461.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "15/11 15:31",
+   "foto": "6e63f078f781.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "952x441",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.agenciasp.sp.gov.br/seguranca-publica/pm-rodoviaria-apreeende-quase-uma-tonelada-de-maconha/"
   },
   {
    "titulo": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’ - Estadão",
@@ -279,10 +398,11 @@
    ],
    "pontos": 5,
    "hora": "15/11 14:52",
-   "foto": "47963a51df69.jpg",
+   "foto": "9c59136e9a61.jpg",
    "credito": "Foto: Estadão",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
    "materia_url": "https://www.estadao.com.br/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco/"
   },
   {
@@ -298,10 +418,11 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 14:27",
-   "foto": "ad60addf7966.jpg",
+   "foto": "60fe2bd3d004.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1500x844",
+   "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-faz-trabalhos-de-bola-parada-na-data-fifa/"
   },
   {
@@ -317,10 +438,11 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 14:27",
-   "foto": "41fb2c9473f8.jpg",
+   "foto": "917027a9f5cb.jpg",
    "credito": "Foto: TVTEC Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1280x854",
+   "foto_qualidade": "hd",
    "materia_url": "https://tvtecjundiai.com.br/news/2026/11/15/corte-da-uva-2027-e-escolhida-em-noite-de-celebracao-no-teatro-polytheama/"
   },
   {
@@ -336,10 +458,11 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 14:11",
-   "foto": "b4432c910708.jpg",
+   "foto": "fe41aacebc66.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
    "foto_tamanho": "1024x683",
+   "foto_qualidade": "media",
    "materia_url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-divulga-lesao-de-piquerez/"
   },
   {
@@ -357,31 +480,12 @@
    ],
    "pontos": 5,
    "hora": "15/11 14:00",
-   "foto": "c77a11b6fffc.jpg",
+   "foto": "c0a2f097b005.jpg",
    "credito": "Foto: Farol da Bahia",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
    "materia_url": "https://www.faroldabahia.com.br/noticia/cashback-da-reforma-tributaria-passa-a-valer-em-janeiro-de-2027-veja-quem-tem-direito"
-  },
-  {
-   "titulo": "CBS a 11,3% preocupa indústria por risco de aumento tributário - Capital News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblFJcndVQ2ZEdlI2SUxUMnM0NE9DRDBpMVZadlBORV92d3ByNXZyeXNlTF9Da1pJcmtWUU16TnVrX3BfNGhsZzNaNXpLanpxQy01UVJVYWJ0c2UzQ3c2UHlZQzdjTkh5SHVaRHFRTGJtcUQ1OG5mRndDT21XNE5ZMG54ODFKU05Na3RVdmJZSXhJQ0xZMm0xWGwwU0J4eXJKMlU3YUQ5SUo0MTA?oc=5",
-   "fonte": "Capital News",
-   "quando": 1794761760.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Capital News"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 13:56",
-   "foto": "e6d3dd2a36c1.jpg",
-   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1018"
   },
   {
    "titulo": "Governo federal iniciará implementação de cashback na reforma tributária em 2027 - Portal VV8",
@@ -398,10 +502,11 @@
    ],
    "pontos": 5,
    "hora": "15/11 13:48",
-   "foto": "eed907bfde5b.jpg",
+   "foto": "fe813a8e8a8a.jpg",
    "credito": "Foto: Portal VV8",
    "foto_tipo": "materia",
    "foto_tamanho": "1000x666",
+   "foto_qualidade": "media",
    "materia_url": "https://portalvv8.com.br/noticia/85675/governo-federal-iniciara-implementacao-de-cashback-na-reforma-tributaria-em-2027"
   },
   {
@@ -419,10 +524,11 @@
    ],
    "pontos": 5,
    "hora": "15/11 13:39",
-   "foto": "73f73f4a5d15.jpg",
+   "foto": "92e9e5ae8638.jpg",
    "credito": "Foto: Região em Destake",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
    "materia_url": "https://regiaoemdestake.com.br/chuva-sao-carlos-ibate-domingo-15-novembro/"
   },
   {
@@ -439,11 +545,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 13:39",
-   "foto": "b772d620fb79.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "15/11 13:39"
   },
   {
    "titulo": "Entre o pecado e o alimento: o lugar do vinho no debate tributário brasileiro - Jornal Correio",
@@ -459,12 +561,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 13:00",
-   "foto": "affe65e79fcc.jpg",
-   "credito": "Foto: Jornal Correio",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1142",
-   "materia_url": "https://www.correio24horas.com.br/asteriscao/entre-o-pecado-e-o-alimento-o-lugar-do-vinho-no-debate-tributario-brasileiro-1126"
+   "hora": "15/11 13:00"
   },
   {
    "titulo": "Libertadores 2027 tem o Cruzeiro como classificado; veja todos - Tribuna de Jundiaí",
@@ -478,12 +575,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "15/11 12:56",
-   "foto": "ad94e10aaf93.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/libertadores-2027-tem-o-cruzeiro-como-classificado-veja-todos/"
+   "hora": "15/11 12:56"
   },
   {
    "titulo": "Um ex-agente do FBI roubou milhões e queria comprar um vinhedo em Portugal. - Portugal Resident",
@@ -497,11 +589,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "15/11 12:36",
-   "foto": "6da375626bd4.jpg",
-   "credito": "Imagem ilustrativa: enioprado / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x896"
+   "hora": "15/11 12:36"
   },
   {
    "titulo": "JJ: Mulher é retirada de casamento pelo ex e leva facada - sampi.net.br",
@@ -625,7 +713,7 @@
   },
   {
    "titulo": "Hopi Hari: Natal Mágico tem neve e entrada gratuita para crianças - iG Turismo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzdNM0xFX0VpeVlTUzBhTlFYV3BOM2wtb0R5akFndVVIT2NzZnhCSExfdHNPVC1EbHkyeUJpYWRJR3BCSU9pRl9zWVhtRmpnZ3VSSjdEX21FZnFuc0hzZnpKRWRyUkx2VC1XeW01MlFTM3NQbElCN3pwU214d3dheEVjQUJZVmxCeGcyVU5WdU5kZnl1ZWY3ZTdIOWtwMWp1V2cwZnFITWNjUjA1elVBZ9IBsAFBVV95cUxNUzdNM0xFX0VpeVlTUzBhTlFYV3BOM2wtb0R5akFndVVIT2NzZnhCSExfdHNPVC1EbHkyeUJpYWRJR3BCSU9pRl9zWVhtRmpnZ3VSSjdEX21FZnFuc0hzZnpKRWRyUkx2VC1XeW01MlFTM3NQbElCN3pwU214d3dheEVjQUJZVmxCeGcyVU5WdU5kZnl1ZWY3ZTdIOWtwMWp1V2cwZnFITWNjUjA1elVBZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTVaYW1XY0V4dXZIdElBRzNCbmFHX0ptMTktTGpRd3Z2WnBsNVozUWVsbm9NM2ZhZXdSOXdFY1FWMGlqZzlCeUpCQWlMNGFpRm15NndMa3FNLXlJZG52cnlqeEhtcUlYTHJCYlE5U2paQ1VNbHdyTlhoSm1IS0dwNkV5cmZibjgyZHA4VEtzbWUxSGI0dmZldTRxUm5aZ1ZIanVxdk9jYkxLS2PSAbABQVVfeXFMTVM3TTNMRV9FaXlZU1MwYU5RWFdwTjNsLW9EeWpBZ3VVSE9jc2Z4QkhMX3RzT1QtRGx5MnlCaWFkSUdwQklPaUZfc1lYbUZqZ2d1Uko3RF9tRWZxbnNIc2Z6SkVkclJMdlQtV3ltNTJRUzNzUGxJQjd6cFNteHd3YXhFY0FCWVZsQnhnMlVOVnVOZGZ5dWVmN2U3SDlrcDFqdVdnMGZxSE1jY1IwNXpVQWc?oc=5",
    "fonte": "iG Turismo",
    "quando": 1794753180.0,
    "categoria": "regiao",
@@ -758,6 +846,22 @@
    "hora": "15/11 11:00"
   },
   {
+   "titulo": "Fux interrompe julgamento e leva decisão sobre escala 5x2 ao plenário presencial do STF - Ric.com.br",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHNoZDdJempxTkZ4WFpCNS1IMWtpb0dhRmlhbklMQkkySmpkVFRSMnB3MjFXRTk1U1FSUjcxaFBLRTdHUWI4d2ZnaDJ4aWp1M1R4QmlJU2xWVW5wWFc4VmYzU3IwRmVIS3NRckM2M3dSbWtwR3ljcXU5OHpRR1Bnb2VtekpHbFdGQ1NvS1p3?oc=5",
+   "fonte": "Ric.com.br",
+   "quando": 1794750551.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Ric.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 10:49"
+  },
+  {
    "titulo": "Último resultado da Lotofácil 3829 (sexta-feira, 13/11): aposta de Jundiai (SP) leva R$ 1,64 milhão - Mix Vale",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckxvVHBYa2xwWThPNFlvSDc2b2MzdmtJUG9jTmRUaFJ6cjlyYnZ4T3ktaGFoVEZ4eDUyMTlqNW9KdndMYkxQZzlyWm9ibjB0N0ZmcG5qY190dzNpSmhmcml4RDVpTlQtSmIzdjNrdllQaTlKMVNIYXN6WFZaTmlyYXMxb1ZlVG15LVIyOXUzZl9VMFFGZ3Q3SGZzUnNCSlRQdVlyME1mTTlaMmhzSXJ6RHlfbndYOEFaNWtGNU9DWVpveUJhcGljX3dR?oc=5",
    "fonte": "Mix Vale",
@@ -770,6 +874,34 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 10:36"
+  },
+  {
+   "titulo": "Casos graves de covid-19 voltam a subir em cinco estados e no DF, alerta Fiocruz - Ao Vivo de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTZxa2hPWWZycFFtR29kVlZfbXptM3YyQk9scVNZOTk4NmxEQ0lGRVI0WkMwRHo3WW5EN1NKLVM0M1c3TUM1RVBNZHB0OW55WmplVGU2ODVGQTRHcFY1d2p6VTc5enU4aTJ0MUV3dWpXYkd6dzdyemw2LThiT3VwaTYzY093N05UZkdSZUlmRDZjOUxkVG5HUVN3NHpTTV9YVEtIOTNFNWgxby1qVThGeXNheTdHb2c?oc=5",
+   "fonte": "Ao Vivo de Brasília",
+   "quando": 1794768834.0,
+   "categoria": "estado",
+   "fontes": [
+    "Ao Vivo de Brasília"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "15/11 15:53"
+  },
+  {
+   "titulo": "Estudo identifica molécula com potencial de prevenir a perda de visão associada ao diabetes - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHZZajMxaDAzaEQ3WVFJVlY4NUY2SFg3RFREZUZaVDhZWXA5QlNpaGNXQmxjRjhLQU9BSWp5WXc1WWJudzUtcmpqVWxDNUJ4bngzS2tnZnoySlFaUnl5WklxWXQ3eW5IMnlCc09JajNkRTA3MllCaHdnbW9sNWk2RQ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794768120.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "15/11 15:42"
   },
   {
    "titulo": "Homem é encontrado amarrado e morto a tiros na zona sul de SP; caso é o 18º desde setembro - Estadão",
@@ -868,62 +1000,6 @@
    "assuntos": [],
    "pontos": 3,
    "hora": "15/11 12:44"
-  },
-  {
-   "titulo": "Pesquisa transforma chorume em fertilizante seguro para a agricultura - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81VS1GdlRjVl9UOUVpOWpfMDM2b3dMTmcwMVd3REhDR2xjZk9PSlNSbU13S2hzeGZEaHZSY1FHT2ZmYVR6Y3hJMlViQUJTNlQydGlXMzcxZFE4VGxvU1Z4UTNtbEp2UEV1TVdCMnNOeURrOS13TDlfdGx1T0Y?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794756031.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 12:20"
-  },
-  {
-   "titulo": "Governo de SP vai endurecer regras para destinação de lixo em grandes eventos - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbk0zTUlyemRXUC1KVDdPR2hrY0pKTFFtR2Zla2JrU2F6bWV1TWNKS3NncmhrRkJZM0FFcmI5eV9iZGd0aFpKZkdKWWFDMG9MMDl6dnZ3d28tVExKZkR0QnR6Ullmd01weE1xaS0wVC1ueXdsdjdGbldTYWhCMmYtRU9BMnk1bEowR0RCeXZlblBYcjZDWTQ4aVdLQ000THhvcElHRlZKbjU3WkpUY08ydTltbWk3bXA5RmoyRF9YYWZGRHlIeFQtcDRxM2ZhZWk10gHSAUFVX3lxTE91QmhubmFUbDBOLTdNenVtRWlYb3d2clp1TF9PTFQ5M0JfNEwyWjZwR2ZSU0RSbmg4dmV4dW5qSDZBVERnQVlsWkVCOVN1clkwV2o4bWxjS1hfUkJCZjBCMnNxeTBMTndlVjhNejNNcjlXUkJyT0ZxRzg0RDZtY2RYRXo2VXU2N3FwWV9MNWMzckducXdiUHROQ3F3a3JWa01Rc1NFekpxWmdKREdyTElnM1BWQjIzV3dXaU9sS0dpTTBXbndQY3ZzeTZnd2daT1NWdw?oc=5",
-   "fonte": "Estadão",
-   "quando": 1794754800.0,
-   "categoria": "estado",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 12:00"
-  },
-  {
-   "titulo": "Temporais com risco de granizo e rajadas de vento devem atingir São Paulo neste domingo - Gazeta News Guarulhos",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0pnM3VxVF9aYjlFNU01RFdTM1p4VFhScnpMRGVmZmxmMVVTV0tVZGVJeEZTNW05Yjk2UVlYSXFfcTF4bmlRU2tUTGc2OW14QTM0QUdKUDZ4b0xUOTNuZmpaUlJ4SWd1ZXhWTWZzSkU1YXRINnVxUGF5UWdxTUJFcHhDZWRpYklMdlJKaC03aGl3UXg4OGhoLWp5a1NkaHp4Mko4ZlNqU0htSnJ1RGNfeGVyUDJGZw?oc=5",
-   "fonte": "Gazeta News Guarulhos",
-   "quando": 1794753382.0,
-   "categoria": "estado",
-   "fontes": [
-    "Gazeta News Guarulhos"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 11:36"
-  },
-  {
-   "titulo": "Incêndio na Pyrozzar: veja estado de saúde dos feridos em Salto - Band",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0paWkl0SlFqbFVKaEFEWTlLVTNBcGRMM3MwNHR2R1I2RTdmbklyNzFYb3VzbTRDOTBIVE9QM3ZsSWVQS1UwQXNLd3lMVUctQXZMZE1KaTQyak9nSTlnQXd0R0FXN2JXR25XUkdQOUxZbk1uanphYkpsa1FXaVRKTTdjTGxjMk1QOTBwVFQzOTdnUFpaY185Y3ZiOVRCd3c?oc=5",
-   "fonte": "Band",
-   "quando": 1794752115.0,
-   "categoria": "estado",
-   "fontes": [
-    "Band"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 11:15"
   }
  ]
 }
