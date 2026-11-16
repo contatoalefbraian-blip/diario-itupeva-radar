@@ -1,5 +1,5 @@
 {
- "gerado": "15/11/2026 23:27",
+ "gerado": "16/11/2026 00:37",
  "desde": "15/11/2026 16:35",
  "pautas": [
   {
@@ -156,26 +156,6 @@
    "materia_url": "https://www.estadao.com.br/em-alta/sao-paulo/cidade-sao-paulo-estado-atencao-alagamentos-cge-npr/"
   },
   {
-   "titulo": "Batida entre carro e caminhão deixa dois mortos e um ferido em estado grave em Itaí - G1",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORW1Ca2pBTDZ2ZEd2NWdrRU4ya1JyU1UtbURGUTl5SXJkWG5LeEVfVTUyZ0R1OTJ1SndDVzFNb0hnZUF2a1NUQVR6T3d1Qk9TTTFwQUZseTMwZklOTUhJTmxSNlBKOTNTa01hbDJpVlJKZ3ZjTXI2SlZGNVl0ZzY5cVVwTDlqQjhMLW5YZnlSb29nUTJGMV9KQVhCbTFZN3FMT1U1LWdR0gGmAUFVX3lxTE5FbUJrakFMNnZkR3Y1Z2tFTjJrUnJTVS1tREZROXlJcmRYbkt4RV9VNTJnRHU5MnVKd0NXMU1vSGdlQXZrU1RBVHpPd3VCT1NNMXBBRmx5MzBmSU5NSElObFI2UEo5M1NrTWFsMmlWUkpndmNNcjZKVkY1WXRnNjlxVXBMOWpCOEwtblhmeVJvb2dRMkYxX0pBWEJtMVk3cUxPVTUtZ1E?oc=5",
-   "fonte": "G1",
-   "quando": 1794778634.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "15/11 18:37",
-   "foto": "1b5f3708717a.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1270x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://g1.globo.com/google/amp/sp/itapetininga-regiao/noticia/2026/11/15/batida-carro-e-caminhao.ghtml"
-  },
-  {
    "titulo": "Jundiaí (SP): Idosa perde R$ 150 mil em golpe; veja como ocorreu - Diário do Estado",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQW5aYW5POUNrT1hWZXYybGJjUkJQSkJIUk5WYnJZbFVleTFQOFFZRlU4TEdFeEo1WEpYZmFfNTdSd1dKU2htWWtWTFBtdmJBd2E0SWM0MjRKVjlJRHlrQ2NhU0dReDVHemNBMmRBOUIyNGhnOExoUVdRcFp3OFNlWEpMNGVMOFBnbllqeE5LX1NWTnI4X244?oc=5",
    "fonte": "Diário do Estado",
@@ -322,6 +302,28 @@
    "materia_url": "https://tribunadejundiai.com.br/economia/empregos/boa-supermercados-mutirao-140-vagas-jundiai-varzea-paulista/"
   },
   {
+   "titulo": "Detran-SP aderiu ao SNE e oferece 40% de desconto em multas de trânsito - Mix Vale",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3g3Rmp2dHVPdW5YMC1mYUlVSXhKSlRDVWMwUjQxRlpzbS0zS0hFTDRHRGoyTURtOXdIdHZiRUNJcmpHOUZJLW15MnZONXdsOUtRSVdsTzUwV3VhRkhBYzNHS2JUd2VhY1h6dWstTjg4REUtSk9pbmVhSFFPY1I3R2tUSmExaVhITXMwU0JpSVBiUGt4Wnh2bGlYWHJGc2Y1M01SQkZQb2pJSmdQRVE?oc=5",
+   "fonte": "Mix Vale",
+   "quando": 1794799015.0,
+   "categoria": "estado",
+   "fontes": [
+    "Mix Vale"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "16/11 00:16",
+   "foto": "d6209aa3c929.jpg",
+   "credito": "Foto: Mix Vale",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x855",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.mixvale.com.br/2026/11/16/detran-sp-aderiu-ao-sne-e-oferece-40-de-desconto-em-multas-de-transito/"
+  },
+  {
    "titulo": "Lula reúne ministros do STF para decidir vaga de Barroso - TV Sim Brasil",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVU0OVVuQlkxaGFEWVJ6Nl9qRi1sU0t6MVVpTXM2OHpySzZmR3g2Y0ZuVHo3WElRYlNJUzJtUTB5Z2VYNWY4RVh0al9xQVZLMEhWcFpWWFBZWmZINEMzb28ycmRuVUxicDFOOTRqRlRDMGgybjljSTVLQUdVcnZXTFktMEFDMUluWU5Oa2NFQW1zcVNJeFVTYVYzNElYYXExUUoya0pmNEJMZ0ZYalE?oc=5",
    "fonte": "TV Sim Brasil",
@@ -364,6 +366,28 @@
    "foto_tamanho": "1200x675",
    "foto_qualidade": "media",
    "materia_url": "https://www.gazetasp.com.br/brasil/capital-enfrentou-chuva-de-granizo-veja-o-que-causa-essa-precipitacao/"
+  },
+  {
+   "titulo": "Defesa Civil de SP emite 99 alertas de chuva forte para a Grande SP - Diário de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVQ2NjIxLUU2eGItSktTNnFFSll2eWtONEwyam5qQU1ZRmtNZUdRckZ3RTFkWmZCY3h1UGR2UUo1WnM3Uy10SE1CQnROblh4RWFXci1sRjB6UFlIamN1SlVnUFptTmNSS2VBVXFOMHdPOU9IbGgxLWd4dWEtbC11UnV0NFU4ZnM4NWFvRFZFeklVOEFudlVQUzdLakxsRGp3Ull6M2xndVc3TjVoWk1YX3lVMEVScWZTal9jUdIBwgFBVV95cUxPTGlZazVtUmtwUkl0YTlmRGl5ZktjTV9vRmo1bVFUYXlqT2hVcFp1R2piV0ZMMUF0X2xwVlZTWWxTakRuU2h4UTZIN00zRV9malpFTUpucnEzNVFEYjNlN09aeTlGQ0Niak9ueGtSeUxteVpYY2g5UDVranRacmVxUXd5RGNYSEZmUmk2N2tVQUpndGdkWlo5Ukc0NlR1U0JxNmZiQUJ5ckN0RGFyaUh1aWMxOGZVenJZd0tTVnFtTXVNUQ?oc=5",
+   "fonte": "Diário de São Paulo",
+   "quando": 1794791546.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "15/11 22:12",
+   "foto": "6b47ec32a463.jpg",
+   "credito": "Foto: Diário de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "980x551",
+   "foto_qualidade": "media",
+   "materia_url": "https://spdiario.com.br/noticias/noticias-de-sp/defesa-civil-de-sp-emite-99-alertas-de-chuva-forte-para-a-grande-sp.html"
   },
   {
    "titulo": "Durigan participará de sessão para debater alíquota da CBS - Jornal Primeira Página",
@@ -448,6 +472,26 @@
    "foto_tamanho": "1600x1064"
   },
   {
+   "titulo": "O ajuste fiscal não é incompatível com as promessas de campanha do quarto mandato de Luiz Inácio Lula da Silva (PT), afirmou o banqueiro André Esteves, presidente do conselho e principal sócio do BTG Pactual, nesta sexta-feira (13). O projeto de ajuste - Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CcWVJczFtSzBLdnJRMkwxMTBseC1RWGw2YmpKYTlaWTRYS3ZmZDJrZUxRYkFhWnVWU0VFX2t3N3VTOUhqU1M3Yy1YQlVkOXhXM3c?oc=5",
+   "fonte": "Instagram",
+   "quando": 1794787356.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Instagram"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 21:02",
+   "foto": "cf3439cd940f.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
    "titulo": "Aquidauana se mobiliza para doação de sangue e recuperação do jovem Davi - O Pantaneiro",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0k2Vm90RmlCYWwybmhNN3V2NHd5LTlBZnctb0FHcXltY1cwQ3o5Q2ltU1M2SUxYektQZXpjNG1vTDJIVlJqNXNNNVlrRGxiZHlhTjN0Njl2VEc1TXZUN2tCRHBNcFl0TG1NTllQeUpfc0NXSTRaU190a1NXWTl0bUhyUVdScDNrZ01tbDd3a05PVW1JUldwWlVxNGtuT1VBMW5WUURmbDUtdDd0cHFwWXA4UlY0SjdvWFJYSENxbFV3eTBxQ3BabDFB?oc=5",
    "fonte": "O Pantaneiro",
@@ -503,13 +547,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "15/11 20:32",
-   "foto": "fbdb02aa9034.jpg",
-   "credito": "Foto: Jornal Diário do Povo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://diario.dopovo.com.br/2026/11/15/defesa-civil-emite-99-alertas-de-chuva-em-sao-paulo/"
+   "hora": "15/11 20:32"
   },
   {
    "titulo": "CACB critica pacote fiscal e cobra corte de gastos públicos - Jornal do comércio do ceará",
@@ -525,13 +563,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 20:27",
-   "foto": "1a28299a9b79.jpg",
-   "credito": "Foto: Jornal do comércio do ceará",
-   "foto_tipo": "materia",
-   "foto_tamanho": "768x512",
-   "foto_qualidade": "media",
-   "materia_url": "https://jcce.com.br/cacb-critica-pacote-fiscal-e-cobra-corte-de-gastos-publicos/"
+   "hora": "15/11 20:27"
   },
   {
    "titulo": "Ajuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado pelo Senado - Folha Vitória",
@@ -810,22 +842,6 @@
    "hora": "15/11 18:58"
   },
   {
-   "titulo": "Chuva coloca São Paulo em estado de atenção para alagamentos por mais de duas horas - Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcktzZjJObUZYb3MwcktHR3JfMDFZRzJOenYtYmNLSW9iZ1VqTFRGSEEyR21tNVN3RWU2anFpM05pa0pQSUFlemM3bWVVSXB1RHMtT1JYcjhYZ3B1bmMycHZuSHRqbUtBVnZaTGZDbDdnYXM5Tk9aMUd1eXNvLXRNUjdnMDZzV3k0bU00Q3FZanVlR2c1U25XT2VneXBLbGxMMENhdG5KQW5GUXlhcThPYm5VV3FZdUdTSW1CcTZCUXJLaVk0U2c5YTNMc2txbUVWX3dzeE50dw?oc=5",
-   "fonte": "Folha de S.Paulo",
-   "quando": 1794779760.0,
-   "categoria": "estado",
-   "fontes": [
-    "Folha de S.Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "15/11 18:56"
-  },
-  {
    "titulo": "STF tem quatro votos para manter início da escala 5 x 2 em dezembro - A Tribuna RJ",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2IzMUl1Z2FCbWNqXzBfX3lMcmFHY3FqZ2hpSF9qRThZMmVsVEpkY2FpZzQzalNKNnhlQ3liNk5xWldyV1p2c3FUN2VTUmVVd1lRaHdRQzQwZWVSUEUwSGhsalJjRjFYaFF4OWdoV0JvNkk1MjBfdkpwaGZmNEVqVEVVWnZLSGphSDJsTXBDS0FsbUZjOURUVHhVWnM1dUdocHBz?oc=5",
    "fonte": "A Tribuna RJ",
@@ -886,22 +902,6 @@
    "hora": "15/11 18:15"
   },
   {
-   "titulo": "Clima para amanhã em São Paulo (16/11): veja previsão de chuva - GCMais",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGZGNW9YNy1DZzRSTVJFcXJDQzBJRFBCdHdtLVgzei1wZnNJUXM4YmZCektsaTZmS1hSVC0tZ05HSTFPUHdZYU85VEJxbGE5WlExM3JFQzNGVVpwbWpTRUNHeGl0N3Vxd1RyZnNFNzVoOENJZ3hFZ0FGSmNlX1gzYVhaZ1NyeEt3RFR4Y3M4RVpTVENzeXFRRVpuVGtMTnBscllN?oc=5",
-   "fonte": "GCMais",
-   "quando": 1794776400.0,
-   "categoria": "estado",
-   "fontes": [
-    "GCMais"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "15/11 18:00"
-  },
-  {
    "titulo": "Palmeiras espera ter Piquerez na final da Libertadores - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHRIRzQzVVptQTNnMWEydHVFTUs3T3ZnRXMyeVdLNkFKVnFISGd4V1Jycll2OUNvQ243d01pOXptaENlOGRubllNVjlMVXhMbGgxZTdfdmZmakx5T0Qxd2llOHpibTduSlJ5U3Q3MElHVFV1cDBvTDNfY3cyQ2Y1TWVHcXFlcV9rTnd4bFIxZE9WRjRFLWhFMDdMMHdUWVJNZ3pr?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -916,6 +916,22 @@
    "hora": "15/11 17:53"
   },
   {
+   "titulo": "Petista defende ajuste fiscal do Governo Lula e diz que a culpa é da esquerda “que não sabe votar” - Jornal Razão",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGd6QS1GMnBxZXB0VjB2VWVtd1k2czVRQzJYcVJRM1FDLVZ2SzlHcUJqSFVBQ3dHUnB4VDRvT08wNVVsS1l2ZzA5dUZuTEFUX2VMdkd5cWdMRFhPZlloeE9hMUR2RDJQY0xhWHZkVjFKaS13aUVEbmVxblg5WE9nemtPb0VsaEFZWnpMUGFlaW1BR0RZ?oc=5",
+   "fonte": "Jornal Razão",
+   "quando": 1794774924.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Razão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 17:35"
+  },
+  {
    "titulo": "Neymar nega caso com Virginia após matéria - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2toV1hON1hTYTlHN0RQSFRmSlo1N3BEYnFnb1FMNjVjS0Y1Y1NidjBIVk9GZDZpeHVoc3dXY0xpbU92Yl9zTzJCdEFydVp2d2FNMEFMS2lTcExfTVBra0ZBYVYtZG5keUZYWmt0RElXQm5ERWliR0Z2d09WeGQwQktvaUJRY3pYb044N0dCc01SNlU?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -928,38 +944,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 17:19"
-  },
-  {
-   "titulo": "Imposto Seletivo terá alíquota de 66,7% para cigarros em 2027 pela MP 1.399/2026 - Mix Vale",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1JCWDFNZXFlVFZ4ZkxMSmpsNTlxb1JhdFF2QkJ6UUhNRVhjaV9lV3Y2ZWtmLVo5a2NPZ0wyVkNYMW9CdVp6SW1VbEotbUkxVXJ2b2QxN0wxTm5qZEFzS1dHdjY4bGxsVVRJLXZ6LTFhelJiUkNkYWxEaXpXbHRpX0NMZ3pIRjJqWWs3WDZ3bXRKN1FQejJ1UUdOdEZ3aDJmMjgtbHFRM1p1WlR4?oc=5",
-   "fonte": "Mix Vale",
-   "quando": 1794772860.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Mix Vale"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 17:01"
-  },
-  {
-   "titulo": "Quais são os carros que devem escapar do Imposto Seletivo em 2027 - Correio de Minas",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVZ3M2JGazlzS3FJMC0xbFlWRngtc2JteG51ZTFMWTUzVUk1Mlc2Rmk3TURmX1lWUkFDQnQwUDJfMi1FR1hBcTY5d0YzajdSNkFBcFlVQ3VlTmV2T1U2blpXbTZsWklNMXdkS25YQVh5SjI5VXdNaE1YOW5sNm9IdGcyN0tLbU1PSDRyanhsaVJiazNxRkxfaDFFSFBWa2xnUWJzUTRQUDB3MTQ?oc=5",
-   "fonte": "Correio de Minas",
-   "quando": 1794772800.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Correio de Minas"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 17:00"
   },
   {
    "titulo": "JJ: Psicóloga perde R$ 150 mil para falso delegado e falso gerente - sampi.net.br",
