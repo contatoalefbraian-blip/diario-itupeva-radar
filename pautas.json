@@ -1,5 +1,5 @@
 {
- "gerado": "16/11/2026 18:44",
+ "gerado": "16/11/2026 19:31",
  "desde": "16/11/2026 16:35",
  "pautas": [
   {
@@ -9,11 +9,12 @@
    "quando": 1794862253.0,
    "categoria": "regiao",
    "fontes": [
-    "G1"
+    "G1",
+    "redeutv.com.br"
    ],
    "urgente": true,
    "assuntos": [],
-   "pontos": 12,
+   "pontos": 13,
    "hora": "16/11 17:50",
    "foto": "0c6a8c190f3c.jpg",
    "credito": "Foto: G1",
@@ -61,26 +62,117 @@
    "foto_tamanho": "1600x1200"
   },
   {
-   "titulo": "Vacinação em dia e medidas de proteção ajudam a reduzir riscos de doenças respiratórias - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDZHbUEtQzRpc1VmbVQtaWNVelZ6LVlQbmVWZVFxdUNzMXRCdGJtY183bHMxLU1OTE1YdEluZFpYZHB5a0VqVDZhcnBRU1NGLTBqa1pfcXR0NVkxeHJOYkFmLWNCS2prYU03NTYyTU5JOTZFMEZzOEx0Zl83STVyMzZCX1VNU0V4V05tQjJsalBJLXlDTHRwb3M2bzVsUUpiWU5ZMjNYUHlTRkFjbjBILWZia2RsQVVHZjNUdGEyd2NvanBkMTJLcjhycjZSWVU?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794859200.0,
-   "categoria": "regiao",
+   "titulo": "Edital publicado para Concurso de professores com ganhos de até R$ 6,3 mil - Imprensa 24h",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tcWVzeU1rNlFKbWU0a2hZMTdLXzJpNkx1MGZ1X3NUNVBONVJDN0ZwekZ5dV9GM0RvMXdLQkVZN0wyU2VpSjhGX1EySGItWmNBYUc4VGh3Q09nMHJORS1UdmxFR2VWelU?oc=5",
+   "fonte": "Imprensa 24h",
+   "quando": 1794862632.0,
+   "categoria": "itupeva",
    "fontes": [
-    "Prefeitura de Jundiaí"
+    "Imprensa 24h"
    ],
    "urgente": false,
    "assuntos": [
     "servico"
    ],
    "pontos": 9,
-   "hora": "16/11 17:00",
-   "foto": "7815af9b4fcb.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/16/vacinacao-em-dia-e-medidas-de-protecao-ajudam-a-reduzir-riscos-de-doencas-respiratorias/"
+   "hora": "16/11 17:57",
+   "foto": "118676c63c0f.jpg",
+   "credito": "Imagem ilustrativa: Ann Rosener / Wikimedia Commons (Public domain)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "844x1024"
+  },
+  {
+   "titulo": "JJ: 10ª Mostra de Circo, Ginástica e Dança acontece no domingo (22) - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTFVOWM5SHE2eF9SRS1OQ1B4SzRWODg4WWxhWFJxZ1I3VEhPak9oYnQyeUFXX3Zaai1xeGdISXpQRkNJMEJYN29UMFNtLVpTUnF5WU5RLXM1eHZsVUpsTV95QUVxNlpOUTlwYTFmdTBob3JfVHlINzZnU3pNSi1QMGUzU3dKU1dBVHNYNGJHTFNmYnRVbXFKTXRLYWF4UlpVVTBndEowdzQ3a0NQX3JERERWLUcwQml5YUF4UkVB?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794866922.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "16/11 19:08",
+   "foto": "a10fbea425fa.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Adolescente de 17 anos morre após cair de moto em pista molhada de ponte que liga cidades de MS - G1",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMHYybXhCbjNFa2tJUzZBRmt0Wmc5cHBLR1dMTmdBUm9ubDNEOExzZzBWXzBMck5GS01USW43dWRlcDJWOWRLNTVTZ3QweTVEOS1zU3lnUnV4UmcyQVhseWZPTW1lMFpYRWU4ZTZ5bmlaT1F2QXFqbkxpX0ZabGx4ZXNEb1E4dXZrdlFVaURyTUtTN3g0MFc4aWY5SnBIellzeXZJdXc2SVpjTmJNbkRvbHgwMzY1dlZkcFFqUTF2ano2a1Fod2hoVktCZEl1dHkwcjB3aDRVUUpJSE5vaVFhY0xnVWcxcTVlSEszMnp6bHdobmxpeGfSAYQCQVVfeXFMTzNfTWlzeUVzWDlET29qMC1MY2RfTGZLQ3k0bjgwaXhGN0k4TXphU2UyVkhEZktkeEhEUDVacFNjWXZRV3duSTd1aWJxcmduWXhWWDVWRTEtaHJBOU5iaDVPVDF5NS1udmZ5cVY1dTRjcXo4bExiT05VcnI4V0syYWdPbU1mT0RpUzVMblhkeF9Uc1U0QjUwd1NDOTdLQ1Q3em5yQXFncTRFOUpvYjRYckVfSHpacmtRb29KTC1LUWxaTnVmcVpTSUhzb1ZiVERFcE5LVWZoUFpiMVdjcFZYampDSlBpdmk5aDM3ZG5Ea1pRZDAyc3VFRk53MFNuMVl4eFpLcGs?oc=5",
+   "fonte": "G1",
+   "quando": 1794866151.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "16/11 18:55",
+   "foto": "6fe404773176.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "g1 em 1 minuto: adolescente é morto ao tentar defender mãe de agressão do padrasto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdEZ5eHlJWHBENmg1cEt2WlFvcXg2QUlGNFlaMGFBcjM3RmZ2bHEzR0RQRlVMYmNON01QSnVYTHg0eW1fYmx0WnNfdzRTMWxQV1lPQVhxV1I0RWxtVElLc0RhM3pIWjhmZE92Z2doZGRBc0RJOXkyb1F0bUVBQ0VpRWU0TlYtUWdJNzB2WGhtTGpUNGRjUmQtaXA2azJjZzNvQ1NVM1JmejU3clNsZXh2aU1GZGJ1OWRDak9IY3FMWjlHcnVUcWtPUG93ZUh4clJrMG04SWRjVEpOSEHSAeoBQVVfeXFMTUhjU0R1ZGNmOW5wWDExNjRlZnNQUVctLS1JZHFFVzdVTUJYa1BCZzhTb0FXRm1YbnpaaGlULXJHY2ZJNG45OVcyd191QVNPVmZ2QzM4MVRkcTdqWmQ2VXNSR05qeHNTRGRfVGRUM0t3LU1BTWdsbG9SUG91Zkp5M000bU5Ybk1SM2hDTG95WldXV1JFZlRXUmRXRks0VFpINzdraHozMEVldjNXRjNRYkx2T3VDN0lLTWs3TTVrMDhRdXQ5UDJIbXBxZEJyWl9vdmJHcE9IQ3k3V1RjaVpRQWRmNHNjX3doV1ln?oc=5",
+   "fonte": "G1",
+   "quando": 1794861539.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "16/11 17:38",
+   "foto": "fc1fe5fd53a1.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "g1 em 1 minuto: técnica criada em Rio Preto usa tecnologia para identificar pessoas mortas - G1",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkRaYWt0bUU3ZWNiMGVUZGRjQnU3amp4c1NVUEZ6bkNRejgza1dVTjVlNFpvQmF3VkZQNnFnYkZJVDZiUndNVmc3V0NRQ1ZLeDljTW9NcWdkS1ZPZk84dUxUVDc5VHBiNTh2RnNhTGxBa0FOQTVTNVVzQUFYQ2FyUWxBMVozVklUdlJsdG5PS1FyVmFnM0Y3bllZeF9JVWNjUEk2aUh4V1g5UXAzOEtwbHVScEpnT3NoaHBBQ0RKSHd2MEY1eEprT2poZTBPTVZXYXlVOFdjalV2S0cxRkxudFltaTdaZ9IB9AFBVV95cUxNcHhySzFzNEF6YzBBTlVHZ3Ntc3pvMDBCU1o0Q0RaWVpfcnpvbUFNMDVYbkxFX0pOVTdweERNSmVINXk0V1JZQ1hzTFg1MzZIekI1VkI2dVJ6c1BqdVppRmt0UW5INkxTVkIya3NKbUQtTFoxYzczQ2N4dFVVSC1Gbk1NZnExcnYyaFAxU0xROHQtWmNJc0c4R3VDRXFNRVBSTDh6Qmtjd3MyWXRGSHdhMGpaZ0NrU0ZXSzYwZWYyMWxFdDhiTElVLXBhemNyTklMVkdXbGhEaTZKdEFmZ1NPNEdMbEdvR0tRVHdBNHRmU2ptajlt?oc=5",
+   "fonte": "G1",
+   "quando": 1794861531.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "16/11 17:38",
+   "foto": "6bd3b065d9ad.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Alckmin avalia sete medidas para impulsionar eletromobilidade, incluindo consulta à Aneel sobre tributação da recarga - Cenário Energia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXdrdEpoN3hteEdldzNYNTdqREQ5RlVTUzNFc015VUxSS2xFalAyR3JxdEc1MHRCSHNfR2RHazdOd191UHVLN3FOM1dnU1hhRno0U2lrRFJKVnVXS1NDRGQ5NmNXWVlScEN1LTJnSjFDV3ZjQzQ0b3hESGdCZy1pd05SbmtKaE9wajg2cHZCa2drM09OUXQzWURmQQ?oc=5",
+   "fonte": "Cenário Energia",
+   "quando": 1794861142.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Cenário Energia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico",
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "16/11 17:32",
+   "foto": "0dfa505e9de3.jpg",
+   "credito": "Imagem ilustrativa: LEONARDO DASILVA / Wikimedia Commons (CC BY 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1024x768"
   },
   {
    "titulo": "Incêndio em fábrica de Salto começou após explosão de caminhão-tanque, dizem funcionários - G1",
@@ -126,6 +218,28 @@
    "materia_url": "https://www.estadao.com.br/em-alta/sao-paulo/cidade-sao-paulo-estado-atencao-alagamentos-cge-npr/"
   },
   {
+   "titulo": "Prefeitura reabre inscrições para o programa Fique em Dia até 26 de fevereiro de 2027 - Prefeitura de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0FwcmZRQnVmOU1YUmVKOUUzV3h4T0I5VXBjeGdPdGduNHhoMC1EVjYzV3RNVmJpYTlWV0tKVmlYaGlFTWJUUDNuWTAzbGVGWl9BNW93Z3g1Q2RhRklldlVWck5BSnV4ZnhDSGVmd3JpOVhGcGlFNWItd1dhV2ZJNm5ZWVh0eEJadlMtdVBBRXMtSndsOGRJM2FGaGFBVDlpX040bVNvT18xaVowbmRfY1MyaVdxMHRKNlYwRWF6S0JPVENhM3hYWUU3UQ?oc=5",
+   "fonte": "Prefeitura de São Paulo",
+   "quando": 1794858331.0,
+   "categoria": "estado",
+   "fontes": [
+    "Prefeitura de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "16/11 16:45",
+   "foto": "c14ba592edda.jpg",
+   "credito": "Foto: Prefeitura de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1050",
+   "foto_qualidade": "hd",
+   "materia_url": "https://prefeitura.sp.gov.br/w/prefeitura-reabre-inscri%C3%A7%C3%B5es-para-o-programa-fique-em-dia-at%C3%A9-26-de-fevereiro-de-2027"
+  },
+  {
    "titulo": "2º Encontro de Aviação Experimental em Itupeva 2026 - AeroJota",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpdzd3dFZOV0d6LWx5NkJVZFRxWFZiM01mTU51b0hpQm1NeGR2NmRPc050SnVSVHRtVmNWRVRXN3hhbEpQU3d2YnZCRlZBTGlCUDNDUXZsR3VxNEV5WUl4SzFNTmZ2SmJrd0ZUdVdhdzJwcGZ1czhF?oc=5",
    "fonte": "AeroJota",
@@ -146,62 +260,66 @@
    "materia_url": "https://aerojota.com.br/encontro-de-aviacao-experimental-em-itupeva/"
   },
   {
-   "titulo": "Festival Regional de Natação reúne cerca de 150 atletas de seis instituições no Complexo Aquático do Bolão - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMmY3SXR5X1o3czc0Vld0Y3FrWnRSNzBCc2pLWm1kanZXNS1PbXBJRWpDcFJkRUhkbFNFWEdjVGNObm1JTVgwTFJiMU1MWDhaTnRDLWotVVN0MUlDN0daaWFNT2xvTlEyNjkyS1dSV0xKazQyaXE1ZU5PN3Q3ZWNVaWZOMWVvazh6eXpoeTBMMHlfNmlaaWQ0ZFVrckJtYUhRMENTOEU0Q3BlWXk0UTdZZUtEMXdVOHFqVEFNMEtsS1k3TmZlMkpSN05qSFpIcUhjZWRkMG40OXZtLVlZYVg2MVAwV2FWdzFi?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1794857880.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "16/11 16:38",
-   "foto": "dac57ebcdfed.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
-  },
-  {
-   "titulo": "Por que o fim da escala 6x1, já aprovado em lei, trava no STF - TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2d6ZEdsMEhndTAtbVQyY25xd3pDcHdRM3l3QjA5TlRtRFU5N3VscmEwM3RBRTBmQnVaQ09qUGxDZGhyeFhUcHdaVGk1ZTljVU5nc2hrTm1QNUZxRzdOaFlXNVJTMjNhd0tVbk1nZ1F0ZFhFUW9iUktyWk1DZjMzWG9pZjlNaUNxZm5va1ZGRnpxR25nZEFTUTdmTWd0NWFwZ2F4Tnd1MnBkZXM?oc=5",
-   "fonte": "TV Sim Brasil",
-   "quando": 1794864660.0,
+   "titulo": "Sistema FAEP se opõe à tributação de 7,5% sobre títulos do agronegócio - boca.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzZ5VVBDQUpBZjF2SldIZS1qd0pXZWs5UGcwdDAzSG83Mk9DS0FUVHJaeFV1LWtMaVB3QlJ0R1pYMDgyNlFtN1hpbExTMnFQZTYyS2tQNzVlRGhMa1VXVHZQblVrSXBQOHJKWXVVa0Z1X3N2TXZFbHc4LWprbzdPNGMzX0w2MTk5Ym80MXdvSnIxZ09JRE1xcElhQy1kY3JxTlE?oc=5",
+   "fonte": "boca.com.br",
+   "quando": 1794866615.0,
    "categoria": "brasil",
    "fontes": [
-    "TV Sim Brasil"
+    "boca.com.br"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "16/11 18:31",
-   "foto": "326ba1ce0877.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "hora": "16/11 19:03",
+   "foto": "ca5f60ba4771.jpg",
+   "credito": "Foto: boca.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x533",
+   "foto_qualidade": "media",
+   "materia_url": "https://boca.com.br/agronegocio/sistema-faep-se-opoe-a-tributacao-de-75-sobre-titulos-do-agronegocio"
   },
   {
-   "titulo": "Falecimentos em Jundiaí nesta segunda-feira (16) - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFNHVC03eXduWThudml0ME5jemh3Wk5FNV9kRlotUkd6MW1tNjJjNzk3NE5FMHNMd2V5X2VFdUJNM3d0MXRiYnJ0dGlrTnY1OHZOSGN2b3pVRTZ2UGs2bFU0LTZKYzFQcUNvS1JMQ214cWhKQnF0d0h0OHZVVnIyNzVHcGlVQVRRaS1kb21fMWVYQy1x?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794864032.0,
+   "titulo": "Vinhedo (SP): indiciados por queda da Voepass pagam acordo; entenda as penas - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0M5WmR0ZFY4aml0ZEUySTNiV1V2QV9qRmFrYWxQUkV1b0kyYU9MSkJSaE5FdFdtQWFqbVJtVl8tajJjVmtja1UwdkUyamdpWXR3RHN4MTRISF9JMDFEYWczZDdJTjZXbjJZZVdnWXhuOWhTdlNpZDFCWkE2dmVZWXhjazhtNThjemUtd1pPLU90eUx1V19vM0pRbUpuZm5lZGh3N2I3ejc?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1794866441.0,
    "categoria": "regiao",
    "fontes": [
-    "Tribuna de Jundiaí"
+    "Diário do Estado"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "16/11 18:20",
-   "foto": "44b021085388.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
+   "hora": "16/11 19:00",
+   "foto": "9d44ab62bbcb.jpg",
+   "credito": "Foto: Diário do Estado",
    "foto_tipo": "materia",
-   "foto_tamanho": "1280x719",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/mais/minuto-de-silencio/falecimentos-em-jundiai-16-nov-26/"
+   "foto_tamanho": "984x554",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodoestadogo.com.br/vinhedo-sp-indiciados-por-queda-da-voepass-pagam-acordo-entenda-as-penas/"
+  },
+  {
+   "titulo": "Tarcísio faz aceno a Bolsonaro e diz que Lula 'comprou a eleição no cartão de crédito' - Terra",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbnVxbzhwQ01qRlJCb1JoZERIcEhxTVVqcThYX1dCdURpWmxFR3ZUYVQyZmFHMkFleFVFWFk1dnFXZHdVeHZSMHdxZWdiaWd5WGV5Yi0wcVhSbWxuZ2tqYW9pNklyZElCNHBQS1d6ZzBORVNDeTM2Q29kZWZuT1RlcFB4VGRjVWZqX3ZzSWZWQ1dZZ2lpQkh6MnpHeHNCbDlXbVVVMEY4QVZQblF0eXVxU0M1cVlIby1pWXp3MEJYaVAzLXhmWUQzNTJOMlEwZXc0NE1iekFMT1o2c0VvZ2QwVUh1TDZLR2NjS25jOUVfYmIzMXBkaUhFVjBsQ1FWSUI2VGV0Rndoek5YODd4?oc=5",
+   "fonte": "Terra",
+   "quando": 1794866340.0,
+   "categoria": "estado",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "16/11 18:59",
+   "foto": "1a6f8c340ee6.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1100"
   },
   {
    "titulo": "Ricardo Salles diz a aliados que manterá Coordenadoria LGBT no governo de São Paulo - Brasil 247",
@@ -264,26 +382,6 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3019086/cultura/2026/11/sessoes-gratuitas-da-11-mostra-de-cinema-chines"
   },
   {
-   "titulo": "Marcha da Consciência Negra leva luta antirracista às ruas de Jundiaí nesta sexta-feira (20) - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXFxRVIzelFrNFBFenFVM2Mzd3JidUdRUDRKc2xQZExnay1NZWo4M29TWFdfOWJyUkoydmhpaVVWSlpveXRuUlc5Mm1wTGpCSlNCNFVMNHJJRGg5THNpczVxRXVnWFdiSU5IYUc0LXVFUk8wMnZpZUNMdEVSazdoY3RKQjd1QlFQV0JuWTRpYngxUjA?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794862829.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "16/11 18:00",
-   "foto": "6da75705e5ed.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/marcha-da-consciencia-negra-jundiai-2026/"
-  },
-  {
    "titulo": "REUNIÃO: TCESP entrega relatório de auditoria para Secretário de Saúde - Tribunal de Contas do Estado de São Paulo",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUFEeFZqUUk1ZFJBZ25WcF9pUUNfLV83NDFaOWxMSzBqb1lGUk5rWXNlVlNIR01oQ1htM01ZV0FEcVZoZHdnOGd4eWxIcm8wSVloemlkaWJIM0VZUXBoR1g4LU9wb2NoLWRDMlNoVDdkTENXSGdCQ2d2TVNoMG4zVURteVg4ZkNyc05Fb25zcjNHcHFzSC14aHJnNjlOWGxWamhoRQ?oc=5",
    "fonte": "Tribunal de Contas do Estado de São Paulo",
@@ -324,6 +422,26 @@
    "foto_tamanho": "605x408",
    "foto_qualidade": "baixa",
    "materia_url": "https://www.bnamericas.com/pt/feature/teto-do-reidi-e-corte-de-incentivos-no-pacote-fiscal-elevam-riscos-para-energia-e-oleo-e-gas-avaliam-advogados"
+  },
+  {
+   "titulo": "Chuva provoca alagamentos e interrompe circulação de trens na Grande SP - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXpMYzV3OXBUQzlfaXFKSlJJLWlTVW82N0FpaHpsRklaX0twMXNfT1NXX0lKdEhaMWtkU2h5QUViODVRNEJpcUF5dTNZdXNRdGc2aE1BSEI1aURiTjF1WFFoY1FqWExOcWxhZFllUHpUQ0ZfbkNERC1hRzNDTkVxMExLcmJmUXF0LUMyZjRaX043RHB5MlE?oc=5",
+   "fonte": "Estadão",
+   "quando": 1794861370.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "16/11 17:36",
+   "foto": "ade08b75dec6.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
   },
   {
    "titulo": "Polícia Civil de SP prende dois suspeitos de homicídio na Zona Leste - agenciasp.sp.gov.br",
@@ -386,24 +504,6 @@
    "hora": "16/11 17:11"
   },
   {
-   "titulo": "Potência Preta em Jundiaí: de professora a empreendedora, Karine criou negócio inspirado no filho - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbW9TWC1qdVpuN2g2MTVwbE4yWmN5b3ZMUXlVUWVUX0JOM3dxMHpobHhNd19jalNtSEp6Z3dvMFVuUEY0UUllTkJHdEF3NXUyckRLV3lxcWhYRm1kbTloUkVTeV9RbjZBTDhwcUE1YnRaVDlGRGt0NWczQWk4bk52QmZzYkh1dTVyMGxOZlYwUzZBZHFTblpWTmk0dFVQQTEwejdQVUt5NUE1TlllRTZvUEZ4SFQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794859830.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "16/11 17:10",
-   "foto": "454921a2b3e4.jpg",
-   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
-  },
-  {
    "titulo": "Servidor público morre em acidente com moto niveladora em área rural - THMais",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVZyM0VUdUZveEd6Sm9RdWQ1RE1qY1pkNWhwZHRvOW05OFd4RjAxUVRIcEFMVHdDd2gwT1hNbHhmRFFqdkplRTRnMzFyWGNIS09pU3U1VGdmdVNDSXc2TVEzNXB0MnpTbTFNZFJvN0FrWEpIWEtqS1JhbE9ZeHBadU4xclk4NmYySmdjLXZhSmRMWmlXWjc0NXhzLWlTejdyLXlTb0plS3VvbmZSMjM0RUNPbmdQZ2FQWnhQTmhjWUJrc3pSeVE?oc=5",
    "fonte": "THMais",
@@ -415,51 +515,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "16/11 17:06",
-   "foto": "e952027db451.jpg",
-   "credito": "Imagem ilustrativa: Rodrigo de Almeida Fraga de Oliveira, cropped by uploader Mr / Wikimedia Commons (CC BY 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "766x499"
-  },
-  {
-   "titulo": "Encontro Fusca Clube Jundiaí reúne veículos clássicos - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGxwZDYtVndtbnJpdVUzbEtxRmlhUDJJVUQ1cXhXZm5MaUxDVGNQRGZLX2xiMDJQQzVqcFpyR0sxXzFHdVVaeER4ZXZ3VXdhY0x6RVF4SUtmci1mSzBfa0haeExsTDlWZ0wwejZIdndOSl93RXpWekFNNkRmaldIR3JKd3kzRkxqblFsY2lBaHM2c1hXZnh1eE1uYUZVaEo3X3QwaDNxOTgyVGVGSGNTdXhPcXM0V1NTd3hv?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794859307.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "16/11 17:01",
-   "foto": "c2455ead8f61.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3019050/cultura/2026/11/encontro-fusca-clube-jundiai-reune-veiculos-classicos"
-  },
-  {
-   "titulo": "JJ: De Olho nos Rios leva para escolas municipais Educação Ambiental - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjBhVkRuTmowcVFTUG5wemFHVHR0RVFOeUlEOW4yMENEN25sVjA3dUpMaS1PRFJ6MTFqM2JvS3NGVXcxQjlQUzlOQ01xbldWWHM4UWVoQ1U5VkxZRG8zVmZHZThDMnhkVXdMaXpPWW9yUUpQN1ZmSGJPblNrSm4yWjJTQ05OT2NJaVdTUU9HT2puRVgtTXhpZVFkZTBPNEs5VHR2eU1kY0JKNmhYenpmMVU5YnVZdTRhdlJ1eGNvb2ZYeTlu?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794859295.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "16/11 17:01",
-   "foto": "7d2bfbf5b861.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3019064/jundiai/2026/11/de-olho-nos-rios-leva-para-escolas-municipais-educacao-ambiental"
+   "hora": "16/11 17:06"
   },
   {
    "titulo": "Presidente da Comissão de Finanças defende ajuste fiscal de Lula e cobra apoio de parlamentares do PT - Brasil 247",
@@ -475,11 +531,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "16/11 17:01",
-   "foto": "87e598fda6e7.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "16/11 17:01"
   },
   {
    "titulo": "DAE Jundiaí reforça compromisso com a preservação ambiental por meio de estudo na região do Fumachi - DAE Jundiaí",
@@ -493,11 +545,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "16/11 17:00",
-   "foto": "b80a78f7d05a.jpg",
-   "credito": "Imagem ilustrativa: Juhanson / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x2408"
+   "hora": "16/11 17:00"
   },
   {
    "titulo": "Governo Lula legaliza pedalada fiscal e contorna LRF para abrir espaço a novos gastos - Guia do Investidor",
@@ -516,20 +564,6 @@
    "hora": "16/11 16:50"
   },
   {
-   "titulo": "Câmara de Jundiaí vota projeto para criar pontos de recarga de carros elétricos nesta terça (17) - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVlKYWJ5U0t1N1hJdnMyNkwzWE1Eb1Z0TmZlOTVmUWo5MkhEYV9YWVRLWlhHWHpENHJzSlNYZFJaa3EteklvZVY3dm1WVUc4RDBJcDhpMXZVRmlRbGxlWnVvZU1tZmJaVjl5QzllRzJhVFJkYTFzbjAzZFlycVk3ZlRibFp0X05NUUN1LUppQ2RDZGMycHpFMnN0VDYwNktHTEE?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794858608.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "16/11 16:50"
-  },
-  {
    "titulo": "Transparência – Capacitação Integridade na Prática (SGM) - Prefeitura de São Paulo",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTi1QemxOcUtBcWJJbUM3UTZSbnQ1VGhaeHNtOEE1Q1FMeTBYZzV5MEVHdDN0NDQxbEs2Qms2UXdpVV9sd1NnN1p1WnR0M19MSHNwanJGSC0ySmdHREhNMG9xWFZSZWNja0pkb2xwZnZDZHQwVWZmSGtYMG1aRXBVczZkeDVaVThpTWNaa195SkFBcHZFeU9NREZ3bklNNzl3Y0RZWVI4ZGdJbnNTRWlWdFRwZ3A5Q00?oc=5",
    "fonte": "Prefeitura de São Paulo",
@@ -542,22 +576,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "16/11 16:43"
-  },
-  {
-   "titulo": "Fux pede destaque; escala 6x1 será votada no plenário do STF - Extra Classe",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1p4ZWFTc1Jua2VobUVHV0F5YzZUYlI1WFpfWEMxSWhlbzJvUGEyY3pEQ0RLOFBlbU85UzhsRlo2eDN1eFZUSlFydU5pTzRrS3hZRGMycXoyMWN5cFZZZ3lRSzgyZURiZWVhZ0NwNl9wZWQ5ZWxjaG1UVE9DcTFVVGx4MkRIUmgzOGpkbjFuRmRrZV9QRzB3UlhyTTRnS0IzNVRmM2NjdFNNUVpJZ3hXTkxvanMyRWZVaEw4ZQ?oc=5",
-   "fonte": "Extra Classe",
-   "quando": 1794858092.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Extra Classe"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "16/11 16:41"
   },
   {
    "titulo": "Capital busca recursos no exterior para obras contra alagamentos - www.correiodamanha.com.br",
@@ -614,20 +632,6 @@
    "assuntos": [],
    "pontos": 3,
    "hora": "16/11 17:30"
-  },
-  {
-   "titulo": "Guarulhos reforça orientações sobre Mpox diante da ocorrência de casos no Estado de São Paulo - Portal Gazeta Regional",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjhaUjZaRDFDLTF4UzlPS19QZmROTzdXWEFrYlJvbFFSNkY2QmpTVzlrSWNhQkRoY1hRNWkwQ0ZaY2x2Um03ajl3NEZVREIxMEdNYzFncm1fcXR4SktnN2Y4N19DNTZnWkEtVTBoUlBiOGo4UjEwcDROOTNiNFlGLXZ4dkhvYWN2X2c?oc=5",
-   "fonte": "Portal Gazeta Regional",
-   "quando": 1794860112.0,
-   "categoria": "estado",
-   "fontes": [
-    "Portal Gazeta Regional"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "16/11 17:15"
   }
  ]
 }
