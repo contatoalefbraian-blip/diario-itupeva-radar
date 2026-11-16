@@ -1,5 +1,5 @@
 {
- "gerado": "15/11/2026 22:08",
+ "gerado": "15/11/2026 23:27",
  "desde": "15/11/2026 16:35",
  "pautas": [
   {
@@ -25,6 +25,28 @@
    "materia_url": "https://jr.jor.br/2026/11/15/dois-motociclistas-morrem-na-anhanguera-neste-domingo/"
   },
   {
+   "titulo": "Estação do Metrô de SP sofre vazamento durante temporal e Defesa Civil dispara alerta - Sobral Online",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmt6dEE0NzhyeXJ2SVFIZF9qcldBWERiWDROLWJVSDF2TDN4bk5yU3liQTNLT3NHUW02bHhUcEtSQUkxdDEydnhmaGNKZjY0ODNTOXowZTdmS0REbzZ2cFYyTm13MV9XUlBNdVFGOVpUTUlyNTI2U01wSzhMZEI4UWdVQ1ZBcDl3SnhqN2NJRERxWkg3ZXlN?oc=5",
+   "fonte": "Sobral Online",
+   "quando": 1794794118.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Sobral Online"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 9,
+   "hora": "15/11 22:55",
+   "foto": "a110e7161f8e.jpg",
+   "credito": "Foto: Sobral Online",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1376x768",
+   "foto_qualidade": "hd",
+   "materia_url": "https://sobralonline.com.br/chuva-forte-provoca-vazamento-no-teto-de-estacao-do-metro-de-sp/"
+  },
+  {
    "titulo": "Psicóloga perde mais de R$ 150 mil após cair em golpe de falso delegado e gerente de banco - G1",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVFiRHgxYS1UTGlhRFFwcTZPdkZDOG9PTEdpXzBvTTBXekYwTF8wWkVpWnFuUTZ5NHhKbjZ2TEZKeHdLME1sYUo4bUNDc3F5azhiTXBvQ3NwY2oyWERPSE5GTjNfUm9GbG9XTmN0SDFaX1BXTUd4VTNJcW9uSjdiT2hrcEpDekhuZWFhUGVLcmthODU5Z3ljZU5NdjBzUFlqRDFfVzU1eEhBTjVXZy1LRHpsMldyektHekVqSU5KSW1oWXczTXVnWG5TOHZjdlNvOW930gHiAUFVX3lxTE9kMml5SEZ1WTRwcjFuU2t3aWlyWkcwdWQyeVFIN0VuOTdid3BhbTVaemZPU0RpNjNkdzQ4Ukw0YzRsNXBFZG1wdlg0RXFNRUV5WE4yUjNNamxvcDJIV3dmTDlFZVB0VUd3UkFNMWt0cVE3VEd0eFBxd2NxVzZRczMwVGE0RlhDX0dXZ0N4LUFfck10ZG85RnVIME9nVFFXLUhFNDVpaC1YSjktQ1ozSnlYaFdfMlk1c0xBT3N3cHdKVjhkNm84TVFxU1N0ZVJvV2ozUVpXVnl4WWVjUi04Sm1zdGc?oc=5",
    "fonte": "G1",
@@ -47,8 +69,50 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/psicologa-perde-apos-cair-em-golpe-de-falso-delegado-e-gerente-de-banco.ghtml"
   },
   {
+   "titulo": "Chuva forte provoca vazamento no teto de estação do Metrô de SP. - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQams4SVF1VFU3cXg1a1ZocHRiN3pOVkVxTFV6bGxPelRuTFdjVXZHeGI5R25KZEhZSmVhbU9YNWh3NFNuUm9taHpLV0NXbUhCUzdmclN2cjlXSkprLUMzdllwT2hBSjI2MlVkSEwyZ1dnNkpXcnN6UTF2ZWlHV28xaFlMeHI2bm9idTVmTVpUckZpVUlNbW9hVkNCWUo3RnV3Z1k5eWxyOWIyTVV2YkE?oc=5",
+   "fonte": "Metrópoles",
+   "quando": 1794791700.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Metrópoles"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "15/11 22:15",
+   "foto": "950a773dc480.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Defesa Civil alerta para chuva severa em SP e vazamento atinge estação Barra Funda - diarioesp.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkRRQ0l2NTVpTnlNVFFWQmVHTGV5Tk1QR3BITGR6NkdRWUQyU3dHOW1xdEd0bmNCZ3Z3QU5wTkN4MjhLMnViQm9LcllMSkRudEw1VnJWVWdZaFRoZmJCcjdyTzNWOVFKOWpLQW5sVEgzWGpfLV9DQXJCelpJaTJqN3dyLWhCUDlqZ3JFbEVNajdFRGhkcVhudldKN1hsNkh2dzVYUmU4djdJaFhHbmk4WXAwYXdieUpRckhzM0ZvUGNxSVZIUk0zRUU1THpjV2FnY0ZF?oc=5",
+   "fonte": "diarioesp.com.br",
+   "quando": 1794791700.0,
+   "categoria": "regiao",
+   "fontes": [
+    "diarioesp.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "15/11 22:15",
+   "foto": "5971923d9125.jpg",
+   "credito": "Foto: diarioesp.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.diarioesp.com.br/sao-paulo/2026/11/15/defesa-civil-alerta-para-chuva-severa-em-sp-e-vazamento-atinge-estacao-barra-funda.html"
+  },
+  {
    "titulo": "Chuva alaga ruas de SP e provoca transbordamento de córrego na Zona Leste; vídeos mostram estragos - G1",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlRaRFhTOXp3b2FqT0tuUEdtRXN3OFEyNU5pdWRpcWFxX3dyTkZMMTY5LVp5d3ZqSnFLUU14eVF1dmR2Zm5hVE1ReDRqOGVNQ0ZYdmtiQnpKcnd3cE85U2RtVHZTSGxYcVEtVjdNZ2QxM3lRVGVtbWlzTkFaRTVmeEpYVlNaSTdEMVNQTVVISXVPY09SMXZmWE1sREJ2b1JydGsxSGkzdTRNRV9ZSVd1ZU5sYVpiTmlVNklUSnhHcnlnQXRXSUppdjZJN3J0Vk90d3BUOXhjOER2SlJ3Y2hQRC1mYlJOWEFzMlg2cNIB-wFBVV95cUxOLXplRVVMV08yWGFhWGJWNnk2MVpqOFJIX2Fkd2RNeGlPS3EwYzVzWk93T2MxZE9NX0xsU0hwMW1qVDh3enBEUUF0cW91ZFhtSGxyRG0zakQ3UDZLZlBLT2JhVmZSX0JaREZlUjRWUmZQck1OS0FOODV4Wm91bU80SW9WVVdLcUN6WldaMEVqRXNNZE5Rc1ozNm84Y0JxTW1hQW5uUTlrUWFid24yZFhYeTJnT1VLVXk3S3k0Y1RlMmhIWmo1Z1MwOGhIN1B2T2lFVno3eXFKbHd4NGdvaHlqRFZPeHEydE42RF8yVm4wX3RxN09OUEhMbzIzaw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXplRVVMV08yWGFhWGJWNnk2MVpqOFJIX2Fkd2RNeGlPS3EwYzVzWk93T2MxZE9NX0xsU0hwMW1qVDh3enBEUUF0cW91ZFhtSGxyRG0zakQ3UDZLZlBLT2JhVmZSX0JaREZlUjRWUmZQck1OS0FOODV4Wm91bU80SW9WVVdLcUN6WldaMEVqRXNNZE5Rc1ozNm84Y0JxTW1hQW5uUTlrUWFid24yZFhYeTJnT1VLVXk3S3k0Y1RlMmhIWmo1Z1MwOGhIN1B2T2lFVno3eXFKbHd4NGdvaHlqRFZPeHEydE42RF8yVm4wX3RxN09OUEhMbzIza9IB-wFBVV95cUxOLXplRVVMV08yWGFhWGJWNnk2MVpqOFJIX2Fkd2RNeGlPS3EwYzVzWk93T2MxZE9NX0xsU0hwMW1qVDh3enBEUUF0cW91ZFhtSGxyRG0zakQ3UDZLZlBLT2JhVmZSX0JaREZlUjRWUmZQck1OS0FOODV4Wm91bU80SW9WVVdLcUN6WldaMEVqRXNNZE5Rc1ozNm84Y0JxTW1hQW5uUTlrUWFid24yZFhYeTJnT1VLVXk3S3k0Y1RlMmhIWmo1Z1MwOGhIN1B2T2lFVno3eXFKbHd4NGdvaHlqRFZPeHEydE42RF8yVm4wX3RxN09OUEhMbzIzaw?oc=5",
    "fonte": "G1",
    "quando": 1794788692.0,
    "categoria": "estado",
@@ -258,6 +322,50 @@
    "materia_url": "https://tribunadejundiai.com.br/economia/empregos/boa-supermercados-mutirao-140-vagas-jundiai-varzea-paulista/"
   },
   {
+   "titulo": "Lula reúne ministros do STF para decidir vaga de Barroso - TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVU0OVVuQlkxaGFEWVJ6Nl9qRi1sU0t6MVVpTXM2OHpySzZmR3g2Y0ZuVHo3WElRYlNJUzJtUTB5Z2VYNWY4RVh0al9xQVZLMEhWcFpWWFBZWmZINEMzb28ycmRuVUxicDFOOTRqRlRDMGgybjljSTVLQUdVcnZXTFktMEFDMUluWU5Oa2NFQW1zcVNJeFVTYVYzNElYYXExUUoya0pmNEJMZ0ZYalE?oc=5",
+   "fonte": "TV Sim Brasil",
+   "quando": 1794795180.0,
+   "categoria": "brasil",
+   "fontes": [
+    "TV Sim Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 23:13",
+   "foto": "f6b0e17eabba.jpg",
+   "credito": "Foto: TV Sim Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/lula-reune-4-ministros-stf-decidir-vaga-barroso"
+  },
+  {
+   "titulo": "Capital enfrentou chuva de granizo: veja o que causa essa precipitação - Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmk0M0pUUmo3bTlqbVRaOVZoem02QnZDMmtKbF8yNHFFN3IzNWZLS1hJb3VqcXFVcGxKNkpCdnZZYktYYUpoazNnSTNQclZVbkxwZndKaG9NeGRPY2FXdmFnRElnTi1JN081ZFROUTBKTzVPTWpXeWk3Q1dCWG1WNEg3Q2o5QzJkOHBZVmdqWXY1R25wMHZ4Q0E1VTZPYU1QSFR2VWhhdnU?oc=5",
+   "fonte": "Gazeta de São Paulo",
+   "quando": 1794794400.0,
+   "categoria": "estado",
+   "fontes": [
+    "Gazeta de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "15/11 23:00",
+   "foto": "e3789f0b7f72.jpg",
+   "credito": "Foto: Gazeta de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.gazetasp.com.br/brasil/capital-enfrentou-chuva-de-granizo-veja-o-que-causa-essa-precipitacao/"
+  },
+  {
    "titulo": "Durigan participará de sessão para debater alíquota da CBS - Jornal Primeira Página",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2w1dmwtVmYtZUprTGQ0MnBkT1BJMVBoclRrY3dhTGduek10dUhTeFR0c3NhZ2dOMThXTGFqeEFLSFRsRV9aM1Y3TC0tNGp4Y0JlVUNCZVFCTk42ZnZ4Vm11bVBkQVd3TTVLRXM2dzFxVS10R29XbVZzNXpYak1WZGdZZkNyam9FQlo0X2J5anVoa2c5NUw0YnB4MmhFSG5aUVRJ?oc=5",
    "fonte": "Jornal Primeira Página",
@@ -439,13 +547,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 20:13",
-   "foto": "eb811d04f9cb.jpg",
-   "credito": "Foto: Folha Vitória",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1320x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.folhavitoria.com.br/politica/ajuste-fiscal-entenda-ponto-a-ponto-o-projeto-do-governo-aprovado-no-senado/"
+   "hora": "15/11 20:13"
+  },
+  {
+   "titulo": "Pra começar a semana: Fux trava a escala 6x1 no STF; Senado fecha o ajuste fiscal - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkt4NEVCcDBYaUVIMElkM09QNW80RmRVSGlWak1MQkJmMlNuVTdEbGsyOHh6MW5abk5iSGF2VmNwSU5KeU1sMEpJVHc5OVBlMmdYQ0hwX2VJTy1nTTZ5eWlXUWtNTENzUUxoa0Izb2RpV1hjb1RxMFVqX09yZV9hUjc4RjVlek1jUGJWVFJkaHBGRjNkZEtQSEpZc3RJQUY5cWlOWjgwUUxRanBtZW9XdWt2RFh3cXhDOFktVWZhbE83dUJ4WEg4cTVDNA?oc=5",
+   "fonte": "UOL Notícias",
+   "quando": 1794784397.0,
+   "categoria": "brasil",
+   "fontes": [
+    "UOL Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "15/11 20:13"
   },
   {
    "titulo": "Câmara dos EUA aprova por 392 votos a 18 projeto para acabar com desconto na aposentadoria de 59 mil veteranos feridos em combate, e decisão agora depende do Senado - Revista Sociedade Militar",
@@ -477,13 +595,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 20:00",
-   "foto": "cdb6b6f62fe3.jpg",
-   "credito": "Foto: Por Dentro de Tudo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "449x300",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://pordentrodetudo.com.br/ministro-flavio-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/"
+   "hora": "15/11 20:00"
   },
   {
    "titulo": "Alckmin defende ajuste fiscal do governo Lula: \"Preserva os mais pobres\" - Revista Fórum",
@@ -499,13 +611,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 19:58",
-   "foto": "15293602673b.jpg",
-   "credito": "Foto: Revista Fórum",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1200",
-   "foto_qualidade": "hd",
-   "materia_url": "https://revistaforum.com.br/politica/alckmin-defende-ajuste-fiscal/"
+   "hora": "15/11 19:58"
   },
   {
    "titulo": "Hopi Hari: Natal Mágico tem neve e entrada gratuita para crianças - Prensa Mercosur",
@@ -519,13 +625,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "15/11 19:58",
-   "foto": "1d78dfd437a3.jpg",
-   "credito": "Foto: Prensa Mercosur",
-   "foto_tipo": "materia",
-   "foto_tamanho": "652x408",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://prensamercosur.org/2026/11/15/hopi-hari-natal-magico-tem-neve-e-entrada-gratuita-para-criancas/"
+   "hora": "15/11 19:58"
   },
   {
    "titulo": "Chuva coloca São Paulo em estado de atenção para alagamentos - Portal ABC do ABC",
@@ -742,22 +842,6 @@
    "hora": "15/11 18:35"
   },
   {
-   "titulo": "Balaio do Kotscho: Aclamado líder mundial, Lula volta de viagem com problemas no PT - UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeFl2MjRRVUZqZWRQb1Q3bm9sQ1psREJwM1NkdmpKTV9pWFR4R2tiWFFxQlo0SlRyVXpVR1llUl9SOVJ6MmZUWWFNSktZMDdiNnBYNGN4X2ZGbzRYU0s5Q1N1QWJaeEl5UzNBd0NoT3UwZWY1b0NIa18wRmJvYVFGZndvZVotSmF4QWFhNmRtUFlPdW5JbUJFYWV5OTlKbEp2dEFuNDc3bXN4VlZYYWpCQmxfMmhQTDBFY2lXblZhN1RfWG1nUGFNaEY4QVA?oc=5",
-   "fonte": "UOL Notícias",
-   "quando": 1794778147.0,
-   "categoria": "brasil",
-   "fontes": [
-    "UOL Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "15/11 18:29"
-  },
-  {
    "titulo": "Entre despedidas e boas-vindas, igreja celebra nova etapa da missão - Notícias Adventistas",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjZuSXpRR2lyeHl2UGl4dmRhdXdGQUxEMDZYRUhTYWVxZTNLd2ZGQmdUbGJHNEs4VllsZE9vYkNwQUVfTWE5UWxJUGR3VVpqWTNpTmU0YlhkSVpwcmdLWkJiR3owYm1OTzZwUWM0ZU5hdG1Kbi14U1ItdWtDVm9SS3hXS3N1QQ?oc=5",
    "fonte": "Notícias Adventistas",
@@ -862,20 +946,20 @@
    "hora": "15/11 17:01"
   },
   {
-   "titulo": "Nome para Fazenda importa menos que ministro poder dizer ‘não’ a Lula, diz analista - VEJA",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXgtcXZaVXY1WE1BQ29qSHdBMEJnbWlGVHZPeEQ0QlA5ZmRRS1Y4a2JQSnBPUWJ0VXVhU0pjcUc4azdHb3l0ay1yc0Y5eVJQUjg4c1B4ajNPaFp3eVlCbldBcVZLNHhOTlNNWEoza2tOaVNQcnhISlhuc0tYX3M2Vzg1MXNpN3VHc3hpWUM5VlUwR25TbkZXdTljVEU1WjdkZGFmLWNxVzIzTzVUVFZmMTRiUnZzd2c?oc=5",
-   "fonte": "VEJA",
-   "quando": 1794772266.0,
+   "titulo": "Quais são os carros que devem escapar do Imposto Seletivo em 2027 - Correio de Minas",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVZ3M2JGazlzS3FJMC0xbFlWRngtc2JteG51ZTFMWTUzVUk1Mlc2Rmk3TURmX1lWUkFDQnQwUDJfMi1FR1hBcTY5d0YzajdSNkFBcFlVQ3VlTmV2T1U2blpXbTZsWklNMXdkS25YQVh5SjI5VXdNaE1YOW5sNm9IdGcyN0tLbU1PSDRyanhsaVJiazNxRkxfaDFFSFBWa2xnUWJzUTRQUDB3MTQ?oc=5",
+   "fonte": "Correio de Minas",
+   "quando": 1794772800.0,
    "categoria": "brasil",
    "fontes": [
-    "VEJA"
+    "Correio de Minas"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "15/11 16:51"
+   "hora": "15/11 17:00"
   },
   {
    "titulo": "JJ: Psicóloga perde R$ 150 mil para falso delegado e falso gerente - sampi.net.br",
@@ -890,20 +974,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "15/11 16:46"
-  },
-  {
-   "titulo": "Médicos da rede municipal de SP entram em estado de greve contra cortes na gestão Nunes - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzlRVm82M3pOVjZJMnJsN1h5RUJoblcyc3M0ZHN3U2R0eXIwTjFTelFLeTBJbHFNamk3VHlzRVc2TU5Tb2FRa3hhbm1femtzLUFGYVplaDdfUFJxZjlXTE5UV2pScFBwRGttVlAyaWRVNV9wb0UtQzBlLXJfOXg4dnJpaXRPamZqeGdfVWVEOTZybXFNMU9wY0o2NzVxNm9tTWItTTZtTlFFT2RKTGVfR2NSbHduVnVNekh3R3VtaTRZajVWU09DVERDVlFkdw?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1794786836.0,
-   "categoria": "estado",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "15/11 20:53"
   }
  ]
 }
