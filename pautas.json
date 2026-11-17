@@ -1,168 +1,7 @@
 {
- "gerado": "17/11/2026 18:41",
+ "gerado": "17/11/2026 18:47",
  "desde": "17/11/2026 16:35",
  "pautas": [
-  {
-   "titulo": "Curso Professor de Música — Prefeitura de Itupeva - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-musica",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950104.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 18:15",
-   "foto": "856bd3ee3383.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-musica"
-  },
-  {
-   "titulo": "Curso Professor de Educação Física — Prefeitura de Itupeva - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-educacao-fisica",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950104.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 18:15",
-   "foto": "4f45b04f5933.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-educacao-fisica"
-  },
-  {
-   "titulo": "Curso Professor de Filosofia — Prefeitura de Itupeva - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-filosofia",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950104.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 18:15",
-   "foto": "fa3ff5595186.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-filosofia"
-  },
-  {
-   "titulo": "Curso Professor de EJA — Prefeitura de Itupeva SP - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-educacao-de-jovens-e-adultos",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950103.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 18:15",
-   "foto": "8138ca432314.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-educacao-de-jovens-e-adultos"
-  },
-  {
-   "titulo": "Curso Professor Desenvolvimento Infantil — Prefeitura de Itupeva - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-desenvolvimento-infantil",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950101.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 18:15",
-   "foto": "6858cac98b5a.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-desenvolvimento-infantil"
-  },
-  {
-   "titulo": "Curso PEB Ensino Fundamental — Prefeitura de Itupeva - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-ensino-fundamental",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950099.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 18:14",
-   "foto": "1db1ee4a8d4b.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-ensino-fundamental"
-  },
-  {
-   "titulo": "Prefeitura de Itupeva (SP) lança edital com vagas de até R$ 6 mil - IDEA Blog",
-   "link": "https://ideablog.com.br/2026/11/17/prefeitura-de-itupeva-sp-lanca-edital-com-vagas-de-ate-r-6-mil/",
-   "fonte": "ideablog.com.br",
-   "quando": 1794948077.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "ideablog.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura",
-    "servico"
-   ],
-   "pontos": 11,
-   "hora": "17/11 17:41",
-   "foto": "8839806fb301.jpg",
-   "credito": "Foto: ideablog.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://ideablog.com.br/2026/11/17/prefeitura-de-itupeva-sp-lanca-edital-com-vagas-de-ate-r-6-mil/"
-  },
   {
    "titulo": "Prefeitura de Itupeva SP abre concurso com 33 vagas para professores na área da Educação",
    "link": "https://folha.qconcursos.com/n/prefeitura-de-itupeva-sp-abre-concurso-com-33-vagas-para-professores-na-area-da-educacao",
@@ -208,6 +47,28 @@
    "materia_url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-processo-seletivo-para-professores"
   },
   {
+   "titulo": "Concurso Pilar do Sul (SP): 6 vagas e cadastro de reserva, salários até R$ 6.593 e inscrição até 28/12 - Meu Preparatório",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1R0WmF3aU9mRk8zX09ySHJNM3UxVU9tdVMwVFdzQTJMT1piRkZ6a3NwWWJkRFZPaV94cGJNbzBicXdwaDlLX2VFZUloTFNCRXptVkdLb215eDEwSlVYam5KRksxV1JnS1ZYRW9QQUpBT2ZBaWRMT3cxZFB6Y09YT1dRd0JRUDk4VDZWbTRxZE1kYV9SOXhEOUlEVHdTRy1USXVtdWtBWnlpbDRhUXVXZGtBUmRhRWJCWndKci1ia2V2eUg2bk5JZmZBRnZpd2tOUEE?oc=5",
+   "fonte": "Meu Preparatório",
+   "quando": 1794951943.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Meu Preparatório"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "17/11 18:45",
+   "foto": "81939d4934c2.jpg",
+   "credito": "Foto: Meu Preparatório",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://noticias.meupreparatorio.com.br/concursos/concurso-prefeitura-pilar-do-sul-sp-2026-6-vagas-cadastro-reserva-inscricoes-ate-28-12"
+  },
+  {
    "titulo": "Vacina contra a Covid-19 está disponível em todas as UBSs e Clínicas da Família de Jundiaí; veja quem deve se imunizar - Prefeitura de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdjZGSEtDYWpDVjRTUTZOQjZnT0hWa1Uta3pXTnJTQVVlNUNnaGxMYWRuSEVGWW00RjRKY1JTQzBJU3cyQUNySkl1dDl0WVFyUzREQWxyaGtKSm1ZTjkzSV9ZZE0ybTVBUGJTUW9ha1hUNEFIOE9QVHpkM3F2U2tSN2F2NnJTU3VaVE1mcFVmczVudWVKeFFrR09NakZPS0RLTjVrcnFqcDI2NjJXdW11Y3NnY0VxMWEzNjZZQXIzZGU4aU5sRGluckdWemM3RnR5b25ZXy1EaTdVa1hucjhoMUJTLUx5d0ltLUJmWjhXdW5LRjd1US13?oc=5",
    "fonte": "Prefeitura de Jundiaí",
@@ -230,72 +91,6 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/17/vacina-contra-a-covid-19-esta-disponivel-em-todas-as-ubss-e-clinicas-da-familia-de-jundiai-veja-quem-deve-se-imunizar/"
   },
   {
-   "titulo": "Curso Professor Educação Infantil — Itupeva/SP - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-educacao-infantil-2",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950103.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 9,
-   "hora": "17/11 18:15",
-   "foto": "b61e54116dbb.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-educacao-infantil-2"
-  },
-  {
-   "titulo": "Curso Professor de Educação Básica Informática — Itupeva - Aprova Concursos",
-   "link": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-informatica",
-   "fonte": "aprovaconcursos.com.br",
-   "quando": 1794950102.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "aprovaconcursos.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 9,
-   "hora": "17/11 18:15",
-   "foto": "bebe1f1eb909.jpg",
-   "credito": "Foto: aprovaconcursos.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1376x768",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.aprovaconcursos.com.br/concursos/prefeitura-municipal-de-itupeva-sp-secretaria-de-gestao-publica/professor-de-educacao-basica-informatica"
-  },
-  {
-   "titulo": "Concurso Câmara de Ibiúna (SP): 2 vagas, inscrições até 23/11 e prova em 06/12",
-   "link": "https://noticias.meupreparatorio.com.br/concursos/concurso-camara-ibiuna-sp-2026-2-vagas-inscricoes-prorrogadas-ate-23-11",
-   "fonte": "noticias.meupreparatorio.com.br",
-   "quando": 1794948123.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "noticias.meupreparatorio.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 9,
-   "hora": "17/11 17:42",
-   "foto": "81b6c8b7468c.jpg",
-   "credito": "Foto: noticias.meupreparatorio.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://noticias.meupreparatorio.com.br/concursos/concurso-camara-ibiuna-sp-2026-2-vagas-inscricoes-prorrogadas-ate-23-11"
-  },
-  {
    "titulo": "ITUPEVA PREPARA MOSTRA DE CIRCO, GINÁSTICA E DANÇA Talento, movimento e ...",
    "link": "https://www.facebook.com/CoisasdeItupeva/posts/itupeva-prepara-mostra-de-circo-gin%C3%A1stica-e-dan%C3%A7a-talento-movimento-e-inclus%C3%A3o-v/1631362675675775/",
    "fonte": "facebook.com",
@@ -312,26 +107,6 @@
    "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1195"
-  },
-  {
-   "titulo": "Mostra de Circo, Ginástica e Dança de Itupeva será no domingo - Novo Dia Notícias",
-   "link": "https://novodianoticias.com.br/2026/11/mostra-de-circo-ginastica-e-danca-de-itupeva-sera-no-domingo/",
-   "fonte": "novodianoticias.com.br",
-   "quando": 1794950139.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "novodianoticias.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "17/11 18:15",
-   "foto": "b558ad7c12f2.jpg",
-   "credito": "Foto: novodianoticias.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "696x522",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://novodianoticias.com.br/2026/11/mostra-de-circo-ginastica-e-danca-de-itupeva-sera-no-domingo/"
   },
   {
    "titulo": "JJ: 2,5 mil vagas em cursos gratuitos com inscrições até está terça - sampi.net.br",
@@ -529,6 +304,44 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3019345/jundiai/2026/11/cpfl-flagra-gato-com-desvio-de-energia-em-restaurantes"
   },
   {
+   "titulo": "Fhoresp questiona imposto sobre cigarros e alerta para avanço do mercado ilegal - Surgiu",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTG9KN3h2SnRhdXhQcnA0RUNod0xzNzQ3eXgydXkwNk5DZXJlNE55cjNyQ0tqSC1EeGl4aTE5aFI5LXBGWmpjdUowZmZGZTFUWlJ0ZVp1WkdBeklIYm9uZ0pqRXl6X09lTXpWakxPNnRjZHhkdXlIMEdVRktybjNrQ3h5NWVnQnVveFZvVzFSMjRZcXFuNVlva3loNGNUdURzS3hBZzFtOWRyV1kzbDU4am5Qbw?oc=5",
+   "fonte": "Surgiu",
+   "quando": 1794951540.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Surgiu"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 18:39"
+  },
+  {
+   "titulo": "Free flow começa em 1º de dezembro no Sistema Anchieta-Imigrantes e terá cobrança de R$ 20,30 por sentido - Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHNPRmRaRDdwaFJ4RkJ3aklwd201LVhIR2NWblVmdVVaNk9kWHhnek5PVFl6WGYxT2ZKR09BNTZtZ1drVERrM2p5U21nOVdndmktY2Uyc0F3VzhwdHRWRlExZjcyU2VGbTNHN1JFMW5RTGhWZE9qWVZCSnJYLUFfRkxja1d0c2ZvWVdLeUhWay1RZW9fc2FlTnRDNk1wVGFIREhFanU3Tlk4RE9Ndk5wTTl6bUs2X2NTLTN5ZXZXdEQ0ODFuV1NreUUyOVJSUVkwcHZEQURB?oc=5",
+   "fonte": "Gazeta de São Paulo",
+   "quando": 1794951432.0,
+   "categoria": "estado",
+   "fontes": [
+    "Gazeta de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "17/11 18:37",
+   "foto": "c07b4d0c0320.jpg",
+   "credito": "Foto: Gazeta de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.gazetasp.com.br/brasil/free-flow-comeca-em-1o-de-dezembro-no-sistema-anchieta-imigrantes-e-tera-cobranca-de-r-2030-por-sentido/"
+  },
+  {
    "titulo": "Pacote de ajuste fiscal do governo divide economistas entre corte de gastos e aumento de impostos - News Rondônia",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEk3MGE0aFdDUlIyc3pSVm5KZHl0Q2h2Y3Mtek1KbUJjd1MwdTlQZnpzU1Z4aEVaRHlET2w0UUZ1S0tONDJ3RHNFeENnbVRVMFY3TU4xUmlrN0lRZEFXZ3lWZjVjWXNvWWhlMHdZSDgwMmhVWW1xUDkzNk5LLXEwVmlucWRhVDhQSHRmZjdPUTdhWlJFZ29WbWczUmJnRHlTR2FOV0ptN0lGZU4tV3N2cEJDbnF6NGl1WHBfckozSllXa3ZnOVNERWkta2J2cWs4MWIxMDN1VGtHaGxhbG1j?oc=5",
    "fonte": "News Rondônia",
@@ -551,18 +364,70 @@
    "materia_url": "https://newsrondonia.com.br/economia/2026/11/17/pacote-de-ajuste-fiscal-do-governo-divide-economistas-entre-corte-de-gastos-e-aumento-de-impostos/"
   },
   {
-   "titulo": "Festival de Ginástica Artística será no Ginásio CEIL Centro - Novo Dia Notícias",
-   "link": "https://novodianoticias.com.br/2026/11/festival-de-ginastica-artistica-sera-no-ginasio-ceil-centro/",
-   "fonte": "novodianoticias.com.br",
-   "quando": 1794950141.0,
-   "categoria": "regiao",
+   "titulo": "Imposto seletivo de 2027 encarece carro a diesel e poupa compacto sustentável - O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUphOW80el9Ra05VVzRrRWRLRFhFMzRRdmMwa2ZROTdveTdXSy1UNlpSNURPRWQ3OW1qcmpDWFY3OWlnTFBQS0lPcDlkdU1PNGtuOHZjbHVhRW5Gbl94aFEwU1l4VXJfNTlrRlpYQVNfSHlXR1FkRklfWHgyNXpuUDcyaWNjWGV2YkVyWWs1eHktaTIxZ1hFbk5GNXlpd2VJRVltNy1WaFR2YkpGWUdPNFkwOFZvbXfSAbwBQVVfeXFMTXFQd2ZTOEZpREdLNk5FYXBCVmdENFlvbVJtWGhUSjQ3aWJSWENydkZ2emEzV1pOay1zTlBXVHpLZEtNSmJDZklUNHhHRnktcGNYaVNnMmxDeUlMRUM3VU0xUjBhWUhVVTBBazl1VXg0eTBWTTVaNGtqVkd1TUNRNU1WejVmaWlobnlPQ2VvSV9Dc2tTVzg3eFJySlFZS2lhWXBUTVNMWjdLbW5Ka24zbDJuTGNKWnQtX0tPSXI?oc=5",
+   "fonte": "O Cafezinho",
+   "quando": 1794950700.0,
+   "categoria": "brasil",
    "fontes": [
-    "novodianoticias.com.br"
+    "O Cafezinho"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "politica"
+   ],
    "pontos": 5,
-   "hora": "17/11 18:15"
+   "hora": "17/11 18:25",
+   "foto": "09b1644a6406.jpg",
+   "credito": "Foto: O Cafezinho",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x853",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.ocafezinho.com/2026-11-17/imposto-seletivo-de-2027-encarece-carro-a-diesel-e-poupa-compacto-sustentavel/"
+  },
+  {
+   "titulo": "Governo defende alíquota efetiva de 8,5% e transparência em renúncias fiscais na CAE - Atitude Tocantins",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRC02bGg3WWhzcjdjSmRUYzcxanVSU3NTbnNwYWtJRzcycHdVYVlLZzdpa1FJWm81ZThBSDZybDdvMlNUSF9ibXZnS01qRU1PajBOMWYza1E3cnJjamJaZFJUdmtDVWg1OXYwZzBIeEhpcFNXZ01HMEFNcFJlZ0s3U09pZDNSdkdfRlBPV3k2TFVZY0xSSGFIQUNxVWlJQ0NCR1h3cHVkYnJCWHdRT3FFVG45MElOdTFHTXBWVjlKTlpWMW8?oc=5",
+   "fonte": "Atitude Tocantins",
+   "quando": 1794950439.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Atitude Tocantins"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 18:20",
+   "foto": "d78dbb19e368.jpg",
+   "credito": "Foto: Atitude Tocantins",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1536x864",
+   "foto_qualidade": "hd",
+   "materia_url": "https://atitudeto.com.br/negocio/economia/governo-defende-aliquota-efetiva-de-85-e-transparencia-em-renuncias-fiscais-na-cae/"
+  },
+  {
+   "titulo": "Tarcísio de Freitas anuncia novo secretário e confirma permanência de outros três e da procuradora-geral do Estado - Jornal Digital da Região Oeste",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUpFeWlzTS1QMUJWcVJaUXlsczVSa29oZGNSQ1o2S2lFZzY4ZU1MZkRPMFB1ZVBqQ1o2QlJRaDJuUXN6VUtFenlXYzRwV0ZxUzNIU2JSOWVnRldweDc1aUtBZVRHMUhwWkJIb3FoVkNYNDMtSEtpYWVRRTR5eHpKNVU2YVBEcWkzWVlZUWE5OFFxR0JQaGpJQXNFUFREWFExWVk3Ym15aGhxY0ZNN3R6WkNIRW9BUmxwWkhacWVSeGo5Z0hkUGNjNlpJYUoxbnVmWlZ0bXJyLVpqSHNqeGd1LTlqZGFNSlZOVlZEM09R?oc=5",
+   "fonte": "Jornal Digital da Região Oeste",
+   "quando": 1794950105.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Digital da Região Oeste"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 18:15",
+   "foto": "13f4873e47cc.jpg",
+   "credito": "Foto: Jornal Digital da Região Oeste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1024x620",
+   "foto_qualidade": "media",
+   "materia_url": "https://jornaldigitaldaregiaooeste.com.br/tarcisio-de-freitas-anuncia-novo-secretario-e-confirma-permanencia-de-outros-tres-e-da-procuradora-geral-do-estado/"
   },
   {
    "titulo": "Motta e Alcolumbre pressionam por decisão do STF sobre redução de penas ainda em 2026 - A Crítica de Campo Grande",
@@ -578,7 +443,13 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 18:15"
+   "hora": "17/11 18:15",
+   "foto": "0ccfaebbe84f.jpg",
+   "credito": "Foto: A Crítica de Campo Grande",
+   "foto_tipo": "materia",
+   "foto_tamanho": "929x613",
+   "foto_qualidade": "media",
+   "materia_url": "https://acritica.net/politica/motta-alcolumbre-stf-lei-dosimetria/"
   },
   {
    "titulo": "Expansão Urbana será debatida em audiência pública em Jundiaí - Rápido no Ar",
@@ -592,7 +463,13 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 18:14"
+   "hora": "17/11 18:14",
+   "foto": "c115530c4edf.jpg",
+   "credito": "Foto: Rápido no Ar",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1230x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://rapidonoar.com.br/expansao-urbana-sera-debatida-em-audiencia-publica-em-jundiai/"
   },
   {
    "titulo": "Combate ao comércio irregular, barulho e descarte de lixo: Campo Limpo Paulista amplia ...",
@@ -606,7 +483,35 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 18:14"
+   "hora": "17/11 18:14",
+   "foto": "cf66054a6183.jpg",
+   "credito": "Foto: tribunadejundiai.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1400x930",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/campo-limpo-paulista/guarda-municipal-campo-limpo-paulista-amplia-fiscalizacao/"
+  },
+  {
+   "titulo": "Pedágio free flow da Anchieta-Imigrantes começa a operar em 1º de dezembro - CBN",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVRJSU5tS1NHSmdlQjJaVndZeEdfRngtR1F3QkdFN3B2U0k2LTNHek5tbVMyLWJ4ZUtMcmktemw4TnE5V0JoZFFBUjctci1FLWM1aHJvb0xkb3ZvLVFtLWJzaFk0d1dBWVBoYTRXZ2swemt1bVQ1TVVocFI4dFRoNC1wZG5sYm9ubVhXRkZ2RXVfczhnRDYxR1pIZEtMRnZFUTFkT3BVWmxiMGx2ZFdqVkpGTmhrM3RBaF9UcXZHVDBTR0xhVWlhamhQSdIB2gFBVV95cUxNcEc0UFNWRTRUcU5RYkR6VTROTmpnUkgtY1FBZWtQSG1nUmpVUEJWOHhoUXA0eVUwbldnOFNWRkt3dzZTS1pKNFVLVWFkMmtzbXpuUDBnNnk4QVFQTTZvQ0Uxem1tTENMVGRIVlp3ZjI0QmZadk9qejlLYXpWbnZubndwenhsS3ZuTXFoRUllczJSZVVNaU1qZVVueS1sWEVrN2swUWRvRGFIRjdydVNSY0lhek5vaVppdHl5TDJ5ckZodGZUbGZ1eDBJakNEQnRDcTNYZ1hSaFFfZw?oc=5",
+   "fonte": "CBN",
+   "quando": 1794949817.0,
+   "categoria": "estado",
+   "fontes": [
+    "CBN"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "17/11 18:10",
+   "foto": "4a1f0731d0ee.jpg",
+   "credito": "Foto: CBN",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://cbn.globo.com/sao-paulo/noticia/2026/11/17/pedagio-free-flow-da-anchieta-imigrantes-comeca-a-operar-em-1o-de-dezembro.ghtml"
   },
   {
    "titulo": "Governo de MT revoga licitação de R$ 10,2 bi e reavalia concessão de cinco rodovias - MT Econômico",
@@ -622,7 +527,13 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "17/11 18:09"
+   "hora": "17/11 18:09",
+   "foto": "92cc55b04e7d.jpg",
+   "credito": "Foto: MT Econômico",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://matogrossoeconomico.com.br/politica-mato-grosso/governo-de-mt-revoga-licitacao-de-r-102-bi-e-reavalia-concessao-de-cinco-rodovias/"
   },
   {
    "titulo": "Pedágio free flow começa a funcionar nas rodovias Imigrantes e Anchieta em 1º de dezembro; veja detalhes - A Tribuna",
@@ -703,6 +614,22 @@
    "hora": "17/11 17:42"
   },
   {
+   "titulo": "Reforma tributária pode ter pequeno impacto na inflação, mas governo descarta adiamento - Tribuna de Minas",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3lFdm1UWjRqUnUzQ1luSHotTFJoZjMwd3Bld3RobXdPYkl5a1FtMXdCNFdSVTJsZ3c3dkxjZlFDZWJNSW9Gd0hieVV2SE1nMDlzeG14bUQwMEgzYWtlcm9IU29ObkJWdEF2dlBYdjg0OEhRcTFFcGhaNkdjbEFGbzVVLVZTOEt6VXRlWG5vR3N6R2lqTURBbGVFVGFpODNpOVRmOWplTVpvYk9rLXAxeGROU2g2d21PRWJWenpCUUEyNWpfMWpCb1dfU2d1NnpLT01WQk9CWDFJRXNIMFN6aEZUNHd4UkdBVE5Gbg?oc=5",
+   "fonte": "Tribuna de Minas",
+   "quando": 1794947937.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Tribuna de Minas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 17:38"
+  },
+  {
    "titulo": "debotuca: Covid-19 volta a subir em SP; veja quem deve tomar a vacina - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1ZRZmpHNU9pdnEybHdTZ09JUDI0NF8zTlFoSmlKb3ZEci1nYkNJdG5EcXA4dXpaSVZwM0pxVFctMmJza2JhcUhId0tDbVZaajI0OFJ2ald5TnF3ZEtEMUhTZWtrRE5jRUJJdnQxQUg2N0JESjN2VGJMSzAwbVVYOTE4VDIweFdHMC1Qc1dSWjBxYkVtZ1BEa1luZGtlcDlqejhFbUVHVThsalFfTmJTdG5BUUhqSnZVNmc?oc=5",
    "fonte": "sampi.net.br",
@@ -781,6 +708,38 @@
    "hora": "17/11 17:05"
   },
   {
+   "titulo": "Painel: Líder do governo no Congresso apresenta projeto para taxar big techs - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFdBaXRVVnc2RHZmbVdnT2hMQ0JEbnpfSmg4R2o4QUZnQXEwem5VQ2ZGLUpNaU9BUnZsR0doUllLSi16d1FOXzgxbEwxRWZ5cFJ1cEhDLXhnbndBOEk4Zjhvd3R4bVZaSVY1aUIxem1pQUJzZmtCU1l2ekZFek90aUpjeFltenZhNm5Qa3dmcGM2V3ZBazRnRmlSRmVNSUI1SFJyWDZEc3BkZFJNN0dCckd2aHhtaXFHNFJNaEFUYm9tVmwzZnc?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1794945600.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Folha de S.Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 17:00"
+  },
+  {
+   "titulo": "17/11/2026 - Dia Nacional de Combate à Tuberculose: SP supera meta com cobertura de 92,11% da vacina BCG - Secretaria de Estado da Saúde SP",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONE9laFpZcE5mVXVRTXgyMldLU1ZSanBwUkh2Zm5LaFBMREJYSUc0ZmpxWHJzQ015WkdUdWtjUGVwbV9rNExsdm9hYUZNa3hObWMycmNPeTBhek1lQ0RORXNBSUNhWjFjclNKWFYyMXhwTDJDajlGVWRSRUxXTnRpekx4WC0yYjVMOHFTUkxQcmNHdWdUT2JvdHVla19BSUtNa0ZZNWV6VzllZzhMZ2x4dkYyUEl3ZUc0Z0VuMHlhN1FjZWdHWGpfZ0tqZmhURFA0UlpVMmxmcnB4eFVxLVI3NG5tM2I2N2pFUkw5MGxkSTI1V0kyM0hwNjgyVQ?oc=5",
+   "fonte": "Secretaria de Estado da Saúde SP",
+   "quando": 1794944670.0,
+   "categoria": "estado",
+   "fontes": [
+    "Secretaria de Estado da Saúde SP"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "17/11 16:44"
+  },
+  {
    "titulo": "Painel: Tarcísio anuncia permanência de secretária de Comunicação e procuradora-geral do Estado - Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUW9tWFZCX21lbHR0Qk40NC1OTjNxYVJDTHF0XzhaWXZ0dW1yUkNCVTVIQ1ZKVktydkhvenZGdzBnZmN4YUh4UUdjSnFfYmN6elRkV2FNYWFScHlkWFFDczdQanF6ZWVidHM5cFdMZE5RMnBBdUhTblY4TFExQlh1amFOMlNZZEdKMFduYTVKbmxDMWk3YmdyaXZSSnBienhMYmFYS1RmOTdISU9KS2RuT3NWX2R2Wkk3WW9pM19CNU9oMDFhQkpqMVBqdk5yNWhzX3BydmpVN25QOU5MRmU0?oc=5",
    "fonte": "Folha de S.Paulo",
@@ -811,34 +770,6 @@
    ],
    "pontos": 5,
    "hora": "17/11 16:42"
-  },
-  {
-   "titulo": "Ameaçados de pejotização, médicos cobram respostas da gestão Nunes e decretam estado de greve - Brasil de Fato",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVFhUVI4UmNEY193ZlZIVnFfVXF2c0t3RTd5SGFJNzc5VHN6Vm1KQWo3RDBweEZxZ3hPakdaUlNJdmxJbFRDZHljc2xKSEJVeDhoUWNvdkstc2E2TENxU3d3MzAxcWF4M29ubTRzTHlzc3hhT2FkR0FDNEZSNWc2M3BzejF1eUZiVUpuNFI4MklVeVJxampBZFY5cnJWWURSZm0xVDJYUlRJQTkzaVB1WGVTdU5qZlNMWTJvYk1CTklxaFd6ZDk0?oc=5",
-   "fonte": "Brasil de Fato",
-   "quando": 1794946620.0,
-   "categoria": "estado",
-   "fontes": [
-    "Brasil de Fato"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "17/11 17:17"
-  },
-  {
-   "titulo": "Prefeitura de São Paulo reabre renegociação de dívidas com até 95% de desconto - Exame",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0V2MFAwRVkwcHU0SnN0Y1JPSkItTHhseGY5clZKWkJoeXZEUFZXSnVSMTliLTZtQTR6NGdoZGJGaXZmWDBqWEI0RVNQd3JkNXNGamhnRkRKUVYySXcxamF6TF8zTlpMMnBIV3AzRFRUa3JBbjE4c2g1TE9PMHp3WXd6U1dNVVF0WDhBeXRGM0tzMWRzVXhlNkRlUTgxVFJIQ3YxNnNn?oc=5",
-   "fonte": "Exame",
-   "quando": 1794945632.0,
-   "categoria": "estado",
-   "fontes": [
-    "Exame"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "17/11 17:00"
   }
  ]
 }
