@@ -28,6 +28,12 @@ BUSCAS = [  # (consulta, categoria)
     ("Câmara dos Deputados OR Senado aprova OR STF decide", "brasil"),
     ("", "brasil"),  # destaques do Google Noticias Brasil
 ]
+# Feeds oficiais das prefeituras (sites que nao aparecem no Google Noticias). So os que aceitam leitura
+# automatica: em 17/11/2026, Itupeva, Louveira, Cabreuva, Campo Limpo Paulista e Jarinu recusam (403)
+# e nao sao contornados. (url, categoria, nome da fonte)
+FEEDS_OFICIAIS = [
+    ("https://jundiai.sp.gov.br/noticias/feed/", "regiao", "Prefeitura de Jundiaí"),
+]
 PESO = {"itupeva": 3, "regiao": 2, "estado": 1, "brasil": 1}
 LOCAIS = ["itupeva", "jundiai", "louveira", "cabreuva", "jarinu", "vinhedo", "varzea paulista",
           "campo limpo paulista", "bandeirantes", "anhanguera", "dom gabriel"]
@@ -72,12 +78,18 @@ def ler_feed(q):
         return r.read()
 
 
-def itens(xml_bytes):
+def ler_url(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "DiarioItupevaRadar/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read()
+
+
+def itens(xml_bytes, fonte_padrao=""):
     raiz = ET.fromstring(xml_bytes)
     for it in raiz.iter("item"):
         titulo = (it.findtext("title") or "").strip()
         link = (it.findtext("link") or "").strip()
-        fonte = (it.findtext("source") or "").strip()
+        fonte = (it.findtext("source") or "").strip() or fonte_padrao
         try:
             quando = parsedate_to_datetime(it.findtext("pubDate")).timestamp()
         except Exception:
@@ -125,16 +137,21 @@ def main(xml_teste=None):
     vistos = json.load(open(ESTADO)) if os.path.exists(ESTADO) else {}
     agora = time.time()
     janela = 0 if xml_teste else inicio_janela(agora)
-    feeds = [(xml_teste, "itupeva")] if xml_teste else []
+    feeds = [(xml_teste, "itupeva", "")] if xml_teste else []
     if not xml_teste:
         for q, cat in BUSCAS:
             try:
-                feeds.append((ler_feed(q), cat))
+                feeds.append((ler_feed(q), cat, ""))
             except Exception as e:
                 print("falha no feed:", q, e)
+        for url, cat, nome in FEEDS_OFICIAIS:
+            try:
+                feeds.append((ler_url(url), cat, nome))
+            except Exception as e:
+                print("falha no feed oficial:", nome, e)
     pautas = {}
-    for xb, cat in feeds:
-        for i in itens(xb):
+    for xb, cat, nome in feeds:
+        for i in itens(xb, nome):
             if any(x in norm(i["fonte"]) for x in IGNORAR):
                 continue
             if i["quando"] < janela and not (eh_urgente(i["titulo"]) and agora - i["quando"] <= JANELA_HORAS * 3600):
