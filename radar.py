@@ -40,6 +40,12 @@ FEEDS_OFICIAIS = [
     ("https://www.google.com/alerts/feeds/15379187071713204985/9171094383665045425", "regiao", ""),    # "Prefeitura de Cabreúva"
     ("https://www.google.com/alerts/feeds/15379187071713204985/15893226086898182290", "regiao", ""),   # "Prefeitura de Campo Limpo Paulista"
     ("https://www.google.com/alerts/feeds/15379187071713204985/3066979184139052867", "regiao", ""),    # "Prefeitura de Jarinu"
+    # os mesmos municipios, so o que sai no proprio site da prefeitura
+    ("https://www.google.com/alerts/feeds/15379187071713204985/8460752825947769775", "itupeva", "Prefeitura de Itupeva"),    # site:itupeva.sp.gov.br
+    ("https://www.google.com/alerts/feeds/15379187071713204985/12269723186349176403", "regiao", "Prefeitura de Louveira"),    # site:louveira.sp.gov.br
+    ("https://www.google.com/alerts/feeds/15379187071713204985/13905411093742048813", "regiao", "Prefeitura de Cabreúva"),    # site:cabreuva.sp.gov.br
+    ("https://www.google.com/alerts/feeds/15379187071713204985/9222473183842410541", "regiao", "Prefeitura de Campo Limpo Paulista"),  # site:campolimpopaulista.sp.gov.br
+    ("https://www.google.com/alerts/feeds/15379187071713204985/7981437324247305373", "regiao", "Prefeitura de Jarinu"),     # site:jarinu.sp.gov.br
 ]
 PESO = {"itupeva": 3, "regiao": 2, "estado": 1, "brasil": 1}
 LOCAIS = ["itupeva", "jundiai", "louveira", "cabreuva", "jarinu", "vinhedo", "varzea paulista",
