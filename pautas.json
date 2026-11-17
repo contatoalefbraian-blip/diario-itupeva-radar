@@ -1,7 +1,92 @@
 {
- "gerado": "17/11/2026 12:22",
+ "gerado": "17/11/2026 13:29",
  "desde": "17/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "Quatro investigados por acidente da Voepass em Vinhedo, SP, confessam crime - G1",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQXzA1aVlnSFhPZ3VYbnFjUUpvVDI2TG9sSS1HNFVtR1htUW85NFRyeVhWYlZnMDNmdVNhN2VrUDhxLXBsQ0J5Y2NWYjJFNENNblpTa3ZYOE9IOHV3MFZjemptVEwxa2c3OUxGRmlvOGN0Mm90bEI3c3NtOWtka1VpVk9melhPUVBESWE3ZC10Wi1BN2FKWlRROGstZXlUWUtRQ3JGSnJjd2kyMXowbWxiWXRGMEVtb2gtVkU5clVCcE1oUFRlUDZzMWJ3YnBGUmlxQkw1aFFxcHBDa2xyamg4S21YUnVXaU1GdWY0elJweVliNVFYM3VCbG1mT1Myaklf?oc=5",
+   "fonte": "G1",
+   "quando": 1794929748.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 12,
+   "hora": "17/11 12:35",
+   "foto": "27685d492cb5.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/ribeirao-preto-franca/videos-jornal-da-eptv-1-edicao/video/quatro-investigados-por-acidente-da-voepass-em-vinhedo-sp-confessam-crime-15199627.ghtml"
+  },
+  {
+   "titulo": "Prefeitura de Itupeva (SP) lança edital com vagas de até R$ 6 mil - Concursos no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUs0VFNpWGY4Mzg0dlBScGJtM2ktemNQbGYwb2VwQlhqaHlUOERITUZfV05oNmhXVGswbFNLTXNWa0p5NG9UbVRhdU9zdjVacHdmTWsyemtIZ2VhYVc0QXd2MnBPRGZCN0Y1WUotV2FVSXFtX011aGRISmF3VWdWcDJHVmlNTzFxaHB3NnVxN1QwMUlWNnBmcjVGd095VW9Nb1BJX0pTa2lSWWVvS09ETlVQeEFFV1Ni?oc=5",
+   "fonte": "Concursos no Brasil",
+   "quando": 1794931728.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Concursos no Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura",
+    "servico"
+   ],
+   "pontos": 11,
+   "hora": "17/11 13:08",
+   "foto": "8839806fb301.jpg",
+   "credito": "Foto: Concursos no Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1536x1024",
+   "foto_qualidade": "hd",
+   "materia_url": "https://concursosnobrasil.com/concursos/sp/2026/11/17/prefeitura-de-itupeva-sp-lanca-edital-com-vagas-de-ate-r-6-mil/"
+  },
+  {
+   "titulo": "Morre Clovis Bevilacqua, dentista e um dos fundadores da APCD Jundiaí - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3J4QnBERGhNWDdpMVhYYjQzZWZZWkg4LUFWMVJCRy1rR1I5dGlpWmw3UjgzSmZ5OFp4cVAySTVLUXlCakd6VENRVTN4Smp4Q2lnSlBCZUp5XzU1RjRyejhQeDhOQ25OSjJfQzdMUHJMSER3dmhDTlNLbDFCemdmVnV3UWZFakVtX00yZC1Ra1NNOU9XbWxhVzZfSGw2U00?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794931182.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 10,
+   "hora": "17/11 12:59",
+   "foto": "53cbf1e29a94.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/17/morre-clovis-bevilacqua-dentista-e-um-dos-fundadores-da-apcd-jundiai/"
+  },
+  {
+   "titulo": "Dupla é presa suspeita de aplicar golpes contra idosos em agências bancárias de Jundiaí - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY0F4eUJkOWtjVmZMc04ydEFtV2N5NzZhX3JFcDRVM0NsQUhvUl9GZGVsd3ZLb3pVSElOUWJnejBJQUVMTk5lSWJ5X3JqTjY1QjN1WnZMY2dYcEU4anlDOEhLUk55VnJodVhkaG1Lb0hkN290S1E5ZjBsQ2ctUmVaUFF2elZBQzBzcXA2LVBmWXNvTGxjR3NUOG4wTUxHU3hDUzRmUVJld0ROTjhWZDd5cmE4UGJCd0IwZlBENVFyYm0zaWZlbDVWNVpNSkhsV0hLbXR4UGRpMGlpeFJPVHY3cl9YanZOQVFF0gH3AUFVX3lxTE5jZG1HSFNYTE01UzBBSE1Bb2dGQlZVNk5SQ1laN3YwNEtHOGFfTER1TGNiT0Iwbl9CWGFDQlZnUE0tdlBMdGVvblZ3UkpKN1lRNE55WkRUcWhzZjNxUmg5djhLMVhUMHFEWElyMkpJUHNiazU4blhSNUxlZ2pnV2ZPRW4zMWxJdmJYaktDY2xYTDByQ3FqNWdENmNiWUNLUWVjNVk4R0s3SDlVNDFwb2ozazEwd01nLU8xajR0TWdLUUg2TFQ3ZlpRM1l6UHVlZUVNOTV6V1Q4SjBQZmJYS0I4RHl3M19vLVNKNkN0SGdvSEZUWTFCY00?oc=5",
+   "fonte": "G1",
+   "quando": 1794931260.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "17/11 13:01",
+   "foto": "9223a8fa30ac.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x700",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/17/dupla-e-presa-suspeita-de-aplicar-golpes-contra-idosos-em-agencias-bancarias-de-jundiai.ghtml"
+  },
   {
    "titulo": "Atropelamento deixa ferido e causa lentidão na Rodovia Castelinho em Sorocaba - G1",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3IxUWk1V1VPYnRHSWtNLWxudkJxOVk3R0xfT2sxeHJBNTF2TF92Q0lBUVM0VENneUFfaVNCS1kyaGVNM25adlVTNWxFRXMzaWZsWlFnZ3k0ZHlRZW51TWdmbTA5Y3FYa2tpZndvNVFwWmJCTDFRcW1CVE9HTGpELTZNNklHS0ltN3I4SVVQa0xVLTc3MjltOXF5clJRemlfb0ktbmJqSkxyS29abEFxNzN4MNIBwgFBVV95cUxQaVllWHhBNWJ0OGlVUGozMjFNYUdHeGlKVFpLdmk3VGtZS1R1RlV5Ymg3RV9yVmgzaGpvTzdtOElQVENSVWpkdWlxV3ZoT2d5bjF1MlpQa3BxQWJoOUUtZldfZW5oTDRTc1pIaUliZ0JTaWVWdEk0NTNoRFdIdXFpQm1RWjF2bUhtSEJZYXVHLTZWTzR6TjJTc2tHU1R2U1JrUnd1MjlURXE2cEpQUG10eDJva1hEV1VpblBPWjFfMTVGQQ?oc=5",
@@ -45,6 +130,28 @@
    "foto_tamanho": "1600x1131",
    "foto_qualidade": "hd",
    "materia_url": "https://portal.varzeapaulista.sp.gov.br/2026/11/17/varzea-paulista-abre-inscricoes-para-curso-gratuito-de-funilaria-de-brilho-martelinho-2/"
+  },
+  {
+   "titulo": "JJ: Mulher é roubada e suspeito é preso após lutar com GMs no ônibus - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2dmOVA4SmtuYXVDQWhvZExpSXV1UHB4eXhuX2s1QnRXWUNDeHBoMlZxYmVBSFp6XzJuZF9ibEJIenZWaXZvZ1otZzdDR0xxUFJoTnE0TEF5NFJDRVE0UlM0dzRFQV9aZnN6QzBxV3k5VERmc1pDdnpHb01XbGdzUnpiUkNxVVN4SlJTUGh2RmRSUVllcFBXcWllSW1JZXBSTTk4dnNORE82TGgwNG9FQUxkdnFaMVVGWlBYN2JJeFA1c1ZK?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794928733.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "17/11 12:18",
+   "foto": "6d107ecafe4e.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019263/policia/2026/11/mulher-e-roubada-e-suspeito-e-preso-apos-lutar-com-gms-no-onibus"
   },
   {
    "titulo": "Não queremos prejudicar empresas com reforma tributária, diz Durigan - Poder360",
@@ -176,6 +283,274 @@
    "materia_url": "https://louveira.sp.gov.br/conteudo/equipe-de-volei-de-louveira-vence-de-virada-o-primeiro-jogo-da-final-da-liga-de-sorocaba-sub-21"
   },
   {
+   "titulo": "JJ: OAB Jundiaí promove sessão em celebração à Consciência Negra - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeHFYd0ZySThPNGE1cFpOQkhZQUV6YjMzZVM5WDZUUFdrZm9YYUJhTWNveUVNaE5ycGJGX1dWQVA3VDhZUzZwejN4MXdVcVdha1hMWGoxX0JRMXBfRjA2aWZrUkdZb21Jc1RFc1VOUFlyeDB5dGd3d1YxbUxzZGdCc2JBamFHLTRfYzN4RXg4eUhZUUd3VE9FYUNmb09INWJOVm40aGJCQWRqWE8tazJ0WEFyWXE0QVBPdkVfekdDSQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794932619.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 13:23",
+   "foto": "4ed5ba0d971a.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019277/cultura/2026/11/oab-jundiai-promove-sessao-em-celebracao-a-consciencia-negra"
+  },
+  {
+   "titulo": "Carnaval 2027: União da Vila Rio Branco vai revelar novo enredo em evento gratuito em Jundiaí - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanU3bnJBRkdRYXByX3l2OElEX09CdldqaGVnV2RPXy1abFVJaHZPeDFZZ3pHdE1Pc2N0azlEZlFnSlJaS2UwRFFEbnVaVjBRZ1dtcHZ3bE9BZXhQZ0VzMTlxaWpWbHhyQWZzdXNXdzJ2bjZ4eW1xY2hESmdtdVBzUVRneWIwT0h6Q1FidGdOQ1g4d3JPMHVISjd1VlFobUMyM2dDTUtIQ0JPYTlTYk9Z?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794932452.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 13:20",
+   "foto": "26c6bb6d8554.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/uniao-vila-rio-branco-lancamento-enredo-carnaval-2027-jundiai/"
+  },
+  {
+   "titulo": "Governo Lula articula votação rápida de ajuste fiscal na Câmara sem mudanças - www.plantaobrasil.net",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmJpaU81NGx3VkJUVlcxQWVJTzFUSUxhRC16QmlkTFloQS1SNXVXNE1iV0p2SktKZmtHRnBncDlNNGhzY1EtYzMzN0pldGlxZHo5ekxUYllJZGI3ZFM3UHRXb2t4R0x5WHJwX0FkUUZwRGJSZVg1WlF6SnRHaEtuTUN3VlhGQ0RZdTRDR2loYWwxSjI4SE01Y1MxQ2ZjY05NZGFCSEJWRlhfemdWV281aXgzVkV4M2VyTTBsR3pYcw?oc=5",
+   "fonte": "www.plantaobrasil.net",
+   "quando": 1794932385.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.plantaobrasil.net"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 13:19",
+   "foto": "eec7b35cf084.jpg",
+   "credito": "Foto: www.plantaobrasil.net",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x801",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164015-governo-lula-articula-votacao-rapida-de-ajuste-fiscal-na-camara-sem-mudancas"
+  },
+  {
+   "titulo": "Antena 10 FM - Antena 10 FM",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYnJObGJVenRVUm9jSW1qbUttcEdmclhDYkNrSlZMRDJtOFNYWmJQdk9acEZscDlCamE5dXlyVjNjVTF6ZzRPWURjZ1p3NF9HQUl0ZFd5V3lPRDcxMTVraVo3TllHYVdYT1hfejluSXhUZFJQYkY5eHRjbmM1NktjNURWdnpEc0Y3NEFObjQ2amhwZHZoVnZhWEFueUVNSmZaeUsxMjdJWjhXTEpFVXFvVnY5cm9ObnJiUzB0U0k4Ulk3Z0toUHdta2ZLWDlhQmptdUE?oc=5",
+   "fonte": "Antena 10 FM",
+   "quando": 1794932015.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Antena 10 FM"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 13:13",
+   "foto": "00ab232d9a32.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "STF abre prazo para Congresso se manifestar sobre o fim da escala 6x1 - www.plantaobrasil.net",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTE0WTFxRmVveXEzeHFGVE03OFZFbG0zemV6MTNJbmx3cWtrLVpJM3V5RWc4eUpGUHlPRG9zMmdCR19VWVc1U0hLMGhxTWNtZTM1bGFaaC1rWTFadXBtNW5nS3RGbjNBTlVPUDhqWFlCYUFwaTREOGdyNktycVQ1VnY0QlJRWVdwS0pGWm0tUjBHV3FiT2Q4LTVjSEpKTmRfLU9QbnBOVmlla0ItMlF4YkpJWkNWZw?oc=5",
+   "fonte": "www.plantaobrasil.net",
+   "quando": 1794931783.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.plantaobrasil.net"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 13:09",
+   "foto": "0c4131539a45.jpg",
+   "credito": "Foto: www.plantaobrasil.net",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x801",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164012-stf-abre-prazo-para-congresso-se-manifestar-sobre-o-fim-da-escala-6x1"
+  },
+  {
+   "titulo": "Dino decide levar discussão sobre jornada 5x2 ao plenário do STF - D24AM",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTdiNHVtcGprdTNjNGMzZDQxQ1Z1eWtxRGlfN1RoMlhWR0RHdkwxeGJ1SG8xRnV4aC15SmZGTks0dXFVdkxMWkxTckZqNUdZOXMzc2FNM240N1RuM1QxNTJWOUh6ZmVkdWxwQkhtd3BuQm8ydjIwMzRwNE94WUdCOVRzdFYtdmh0WFdMU09GNEtoU1dVSkRv?oc=5",
+   "fonte": "D24AM",
+   "quando": 1794931319.0,
+   "categoria": "brasil",
+   "fontes": [
+    "D24AM"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 13:01",
+   "foto": "f31d6b7e45dc.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
+  },
+  {
+   "titulo": "Estado de SP supera meta de vacinação com BCG e reforça alertas no Dia Nacional de Combate à Tuberculose - Região Noroeste",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQlpybjg0aFZwLW9Wc1FfUkt0b0tlMndxYW5QYXd4bmZrR3BaMzRwX3RsXzBYRm9VeWlfT1hoMTNtYWp0YjR2aDUzRmxlZ01qSWI3OE9KWm1raG91aEZDRHlLR2V0LUNfU0c0LU05OURBT2ktUk9zM3E3NDZuekFPYzNkWm1JLWJZMTBGWnFwMTNFOEttWW5NSTRMVWhLc3NPRFppYkx5MlNGa0JWbkVoZzQ4RlVRVUZub3gzSGlkZGphNnBFMUdmVDhiVFc?oc=5",
+   "fonte": "Região Noroeste",
+   "quando": 1794931200.0,
+   "categoria": "estado",
+   "fontes": [
+    "Região Noroeste"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "17/11 13:00",
+   "foto": "224fd5115d54.jpg",
+   "credito": "Foto: Região Noroeste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "foto_qualidade": "hd",
+   "materia_url": "https://regiaonoroeste.com/estado-de-sp-supera-meta-de-vacinacao-com-bcg-e-reforca-alertas-no-dia-nacional-de-combate-a-tuberculose/"
+  },
+  {
+   "titulo": "Durigan defende corte de gastos e fim de privilégios: “Não há caminho mágico” - O Antagonista",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHBoYmFvSE1IazBjVUU3WTF1cUs0WW5YSXktZW9lQU9KaUNvU05CcEthNDZwNS04T3ZRNkxzOXZWWnlhZ1hDS0hXQ29CelVGVHFBN0JYdUdDdDA4N0dGdk9LeFg5enk4SkdjTEhNd1B4eGxtZnZBZURXcGljRk9VNXpxOU5UVGktbmpTOUdvSF9YODJaUVdQQ1RIeTlxVHBVQjNINExfODg4NVhIU1k3aDFB?oc=5",
+   "fonte": "O Antagonista",
+   "quando": 1794931080.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O Antagonista"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 12:58",
+   "foto": "0f59780e8b3e.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Dino levará ao plenário do STF decisão sobre escala 5x2 e mantém transição para dezembro - Jornal da Nova",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFA5TVlWUldhSi0xcjk3ZWhOY3hRSG1fV3FwcXhmcTRtek9uUl9vdjFWNXppYXlRT0N2bm9WYkxjWlhJRFUySENETEVuWENNVWg2RHJUT25kaWctVHQ2RDZlVUNraDRZUHVfTHZJVUZrQVZNTVFJUE9pcjVjcl9fMDhDcmhfb3NCZUZNNVY1azdJWmk1MUJBU0E0aVFmeE1XX1cxS0N1SUxEcjFZMFFwTjZ5Yk1LWDUzMHhaeG55enVhMDNpTG12THdKOA?oc=5",
+   "fonte": "Jornal da Nova",
+   "quando": 1794930000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal da Nova"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 12:40",
+   "foto": "95ab9c69ee10.jpg",
+   "credito": "Foto: Jornal da Nova",
+   "foto_tipo": "materia",
+   "foto_tamanho": "818x532",
+   "foto_qualidade": "media",
+   "materia_url": "https://jornaldanova.com.br/noticia/476832/dino-levara-ao-plenario-do-stf-decisao-sobre-escala-5x2-e-mantem-transicao-para-dezembro"
+  },
+  {
+   "titulo": "Governo descarta adiamento da reforma tributária e aponta benefícios ao agronegócio - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdTNtUVptOG54T3hReENWSHY1eVhIVEd5a0hPZEQ1VFg4cU5Za1VTbzZFMkdFSDhpN1NTN0pvWVFPUWo5eFJmV05aclhkaWhxb1gzLVJqbXlueDcwS2I1bVFsaUw2NTlGaW1idEFMUFhvUG9nek04RF9GUDRrNGNkdzcwbHdkcWdKZHZxN080bXFndXhkMFBfWlR3MDh5dmZVaVV3QndkdUN3STZyQlJyeFBVamdscEtPZmRGMmJLQlNmbUdvZVBRTg?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1794929969.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 12:39",
+   "foto": "76bf36422c73.jpg",
+   "credito": "Foto: Plantão Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164003-governo-descarta-adiamento-da-reforma-tributaria-e-aponta-beneficios-ao-agronegocio"
+  },
+  {
+   "titulo": "FIM DA ESCALA 6X1: Dino levará ao plenário do STF decisão definitiva sobre jornada 5×2 - Blog do BG",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2VuNndrY0l5aEZYQXZ0Ylh1dDFKdVNVRlpzUlNQeE5neUdkWWM1amxIeUMtbGdhRmhFejRRZENaaHhONEhPeUZ5Z3dHZEo0MFJPYU11dnUtRW5GZmtweFpGUy1PWUpQRXFTQTVCaGR6R3FnbVJMSXQ4S2ZEalU4eUpSUnhYQU1qUEFXNm1MMWNsZ1VoRVlHTEtYRUhBdFFNbFIyc01TdzJFZEl5LTVFcV8yS2Y?oc=5",
+   "fonte": "Blog do BG",
+   "quando": 1794929548.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Blog do BG"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 12:32",
+   "foto": "24554050096d.jpg",
+   "credito": "Foto: Blog do BG",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.blogdobg.com.br/fim-da-escala-6x1-dino-levara-ao-plenario-do-stf-decisao-definitiva-sobre-jornada-5x2/"
+  },
+  {
+   "titulo": "Ministro Dario Durigan explica no Senado alíquota de 11,3% da CBS, enquanto indústria e OAB pressionam por adiamento da reforma tributária - Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMWtfRjJ0MlZXS01PNkZuWE9XMTZZWFVFWHFfbENuaWM5NER1by15cndrUHJ2U0VyRGxVbEcxLWFFWWNBdUxwaXhYZ0MycUtRZ0hzRFVUai1aTlRib1Z4Wkd3MkVHdFJrVGVtNWttdVlZWlpBNlNWRGNYYU1kekpZSTJXOGpWQ1MwMzJjeDhDa041N3BwWDZwMTB4MlR6QU9PeldBVnhQRXQ3M0NINzZLSmJITlNmV3luS3VHWk5GaVZBaE9mamlZWktONXlvWlVmYmlCeFdYWEl2dUZtQlE2WERYeklzX0dzLVFqTjM0QnpjSDZFMWFCS25ObEJQN2tqaVZRTkNQNGI?oc=5",
+   "fonte": "Jornal Grande Bahia",
+   "quando": 1794929443.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Grande Bahia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 12:30",
+   "foto": "c0f28cfff410.jpg",
+   "credito": "Foto: Jornal Grande Bahia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://jornalgrandebahia.com.br/2026/11/ministro-dario-durigan-explica-no-senado-aliquota-de-113-da-cbs-enquanto-industria-e-oab-pressionam-por-adiamento-da-reforma-tributaria/"
+  },
+  {
+   "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé - Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlBvUEItYktnTkhJTDlORS1xVGtzMjJUT01HbFFra2lVYkRRQVE0a000N1diUGJoV2FLbGZ5UnoyenZSaWRMSjJrd2tuUUN1NEJFNjMyQnR6SmZRdThEZXVKZVkwWVFfMUVwbW1XTkVCVjZRSHlpLVF4ZnAxdlgzaHRBZHAyUUN6Wm9pWFR6Q2xzUFh5d2NWZlpoaGpuZFJiVkFDb0k2cUdoQl9PV25xVVpibENUbWJY?oc=5",
+   "fonte": "Agência Brasil",
+   "quando": 1794929400.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agência Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 12:30"
+  },
+  {
    "titulo": "Dino leva ao plenário ações sobre o fim da 6x1 e pede manifestações do Congresso, AGU e PGR - Jurinews",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMnFXalI5dGt3aW1YZG1zNEROWnNlTzJ5enhXTzNpdVZ2UVNCdjdGb2pqUzVHVklsbDIzWGp0VzlYRDFENlU5RTY4MUR2VjlZa1o4RjVjRXY1OGROWi1yUTZBaTJEWHRzN3EtRjJxbVdDQlpXMWxKLU80TmN5dTMwVTdsYThRLWNhRmhfbWR5QU9nejlWajNvSG5mMzNjamZ5SHI2NGZWTVNSQ1Q1MXVtX2FOWVpkTHBxRWdCLWs2eGRYRklzdE9Sa0F4WXVKNzM0YS1IY1k1Q2JScnFaRmc?oc=5",
    "fonte": "Jurinews",
@@ -189,13 +564,21 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 12:18",
-   "foto": "dd3ea3dea9d4.jpg",
-   "credito": "Foto: Jurinews",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x628",
-   "foto_qualidade": "media",
-   "materia_url": "https://jurinews.com.br/stf-noticias/dino-leva-ao-plenario-presencial-acoes-sobre-o-fim-da-escala-6x1-e-pede-manifestacoes-do-congresso-agu-e-pgr"
+   "hora": "17/11 12:18"
+  },
+  {
+   "titulo": "Combate ao comércio irregular, barulho e descarte de lixo: Campo Limpo Paulista amplia papel da Guarda Municipal - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkQ4c3RQbE11SlJfaWZoS1VxZThkY3llX1F6bzJNOWFteGxqalFJRHFENzI0czBrbW8xckFhY3VxeG5IUnlHejVXa1RLVTZwT1JoUm41VVZiVWhuakh1LUZlemNWZWFjeE5lNG1BOEdaY3dBOEdMNHRhX1IxTF9rU1NVNlBJRnEzb3BhTUtzRmdQSXhkMjBONDRMcFNSdEE5a01yLWdZUklpT1dXMTY3VE9YUzl4SUVLMjFz?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1794928329.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 12:12"
   },
   {
    "titulo": "Covid-19: quem deve tomar a vacina? Quais sintomas? Tire suas dúvidas - agenciasp.sp.gov.br",
@@ -211,13 +594,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "17/11 12:11",
-   "foto": "276afa2865d6.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "930x620",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.agenciasp.sp.gov.br/saude/quem-deve-tomar-a-vacina-da-covid-19/"
+   "hora": "17/11 12:11"
   },
   {
    "titulo": "TCU e governo culpam Congresso por imposto alto no consumo - SBT News",
@@ -233,13 +610,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 12:05",
-   "foto": "67aa434bf7cc.jpg",
-   "credito": "Foto: SBT News",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1170x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://sbtnews.sbt.com.br/noticia/economia/tcu-e-governo-culpam-congresso-por-imposto-alto-no-consumo"
+   "hora": "17/11 12:05"
   },
   {
    "titulo": "Potência Preta em Jundiaí: de menina curiosa na cozinha da mãe, Sandra é hoje confeiteira dona do próprio negócio - Tribuna de Jundiaí",
@@ -253,35 +624,35 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 12:05",
-   "foto": "d135a5fc60f4.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/economia/empreenda/potencia-preta-em-jundiai-sandra/"
+   "hora": "17/11 12:05"
   },
   {
-   "titulo": "Dino leva regras do fim da escala 6x1 a julgamento final no STF e dá cinco dias para Congresso se manifestar - Correio Regional",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWWZ0Rm43V0hMZl9PTnNoVVdyenphc0Vud1FsMFNBS3c3bUs4d1V2ODh1eGc5SVdRcVhKT2YyQUx6bkpUUnVOVXpJMlZBRU1aWVZSa1QxUndzd2FXTlNQOHlmWGFkVnBsN2dhazNRZFZvcUFqcEYyOWUwcTVhR1gyWHFUNnlweVc3aXpHaS1SY0JMa2w1dUo4QmZMNGRYMUlLZkdfYlY2S0Y1SnhuaF93UTE2dnJlR0k4VGxqN3IyM0x2LXltbjAxVjU3S3pobWFUUmI3SzNGNDFLdEhJZzlWcjZ3?oc=5",
-   "fonte": "Correio Regional",
+   "titulo": "Moto furtada em Jundiaí é recuperada no Parque Vitória, em Franco da Rocha - Conexão Juquery",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV292dENKU3JJa0FoWkhObTR4VGpJZktLQ2RHYzhMWkNPajZhQ2NTSTB0Qk9NUDdpSEMzQVYzMnVUZlkwT19Pa3JOZmpXU2NWVnlHWDVOSjk2cXhXWjc3S1dEOFBVM0k0Z2FPN0pmaUJ1WlR0enhxSG4zay10dUJhZW1TVDZKc3F4Tm9zcDJiS2s4M3JJRFhKLTBZcFc3TTJmTlZ0dDVocFhYQXJFb3pmTw?oc=5",
+   "fonte": "Conexão Juquery",
    "quando": 1794927600.0,
-   "categoria": "brasil",
+   "categoria": "regiao",
    "fontes": [
-    "Correio Regional"
+    "Conexão Juquery"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 12:00",
-   "foto": "b6df2a501267.jpg",
-   "credito": "Foto: Correio Regional",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://correioregional.net/2026/11/17/dino-leva-regras-do-fim-da-escala-6x1-a-julgamento-final-no-stf-e-da-cinco-dias-para-congresso-se-manifestar/"
+   "hora": "17/11 12:00"
+  },
+  {
+   "titulo": "Prefeitura de Mogi busca melhorias e fortalece ações de inclusão para servidores com deficiência - Prefeitura de Mogi das Cruzes -",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUlUzWUF2WnB5Vi10bU5lUXl5RGl5M2h1RkFENXFBMnc4VnpSS0EzbmpSOG5LbTBTVlZ1dnRLX2VveDdWSnF5UlQzajVvcDFSQ0pmb2xkRGJMMF9UVkJQZkMwRnp5OGUzQS1QSm1jWVhlNHRYYWZfYXhKbl9id0prX1dmMTNiQ01Gbng5WVM4NkxzY1kxMDc2ZVFLSWRRMlR2SFQwU1ZLS2JEclh1b2FtQXdDNnpsX2ZCem5Sd3RPN1NSQUtQOFh4VjNId0g1SXNrZkVMbWFRTEx4TEktN19Bb21DamlVYTZmYXBrT0hYOVI3UTByemtfelRiOGJRWC1fWjZOYWVBMlJ4V0oybDRsbU5VTTdsQlk4b2M3YVBsejRkdU5WWkdtc1lRWmY?oc=5",
+   "fonte": "Prefeitura de Mogi das Cruzes -",
+   "quando": 1794927516.0,
+   "categoria": "estado",
+   "fontes": [
+    "Prefeitura de Mogi das Cruzes -"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 11:58"
   },
   {
    "titulo": "Filha homenageia Pedro do Couto após falecimento em Cabreúva - Portal da Cidade - Cabreúva / SP",
@@ -295,13 +666,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 11:53",
-   "foto": "3084e7a05a00.jpg",
-   "credito": "Foto: Portal da Cidade - Cabreúva / SP",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://cabreuva.portaldacidade.com/noticias/cidade/filha-homenageia-pedro-do-couto-apos-falecimento-em-cabreuva-5254"
+   "hora": "17/11 11:53"
   },
   {
    "titulo": "Dino levará ao plenário do STF decisão definitiva sobre transição da escala 6x1 para 5x2 - TVT News",
@@ -317,11 +682,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 11:50",
-   "foto": "ab4f8391951b.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "17/11 11:50"
   },
   {
    "titulo": "Secretaria Municipal de Saúde de Vinhedo realiza ação sobre diabetes gestacional - Portal VV8",
@@ -335,11 +696,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 11:39",
-   "foto": "c771d21026cf.jpg",
-   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1018"
+   "hora": "17/11 11:39"
   },
   {
    "titulo": "Alíquota da CBS em 11,3%: TCU aponta peso de exceções parlamentares - Plantão Brasil",
@@ -355,35 +712,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 11:39",
-   "foto": "78023f87c689.jpg",
-   "credito": "Foto: Plantão Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/163994-aliquota-da-cbs-em-11-3-tcu-aponta-peso-de-excecoes-parlamentares"
-  },
-  {
-   "titulo": "Dino levará ao plenário do STF julgamento definitivo sobre regras do fim da escala 6x1 - Portal Tela",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0NyQUl1N0huaHRodVNnb1FnTFQ2RGJsemtzZ1hKT3VWb1Jmc2d3Wnp1VUJiNGZTTnN0QjJPNzUxcGZocEY3UDRFRVA1dHdaSUpsNGxfcHBkVHpNRWJ0RC1yYnB4dzR4MW04bjBIX3l4ZlJJeEl3ZUpUblo3dVg1ZkJvWVRKS0hIRUNDUWtiZEg?oc=5",
-   "fonte": "Portal Tela",
-   "quando": 1794925874.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal Tela"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 11:31",
-   "foto": "a767761458d2.jpg",
-   "credito": "Foto: Portal Tela",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.portaltela.com/politica/2026/11/17/dino-plenario-stf-regras-fim-escala-6x1/"
+   "hora": "17/11 11:39"
   },
   {
    "titulo": "Governo de SP prorroga até 4 de dezembro consulta para modernizar contratos de concessão e PPPs - VEJA",
@@ -399,13 +728,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "17/11 11:30",
-   "foto": "6bfa94556020.jpg",
-   "credito": "Foto: VEJA",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://veja.abril.com.br/brasil/governo-de-sp-prorroga-ate-4-de-dezembro-consulta-para-modernizar-contratos-de-concessao-e-ppps/"
+   "hora": "17/11 11:30"
   },
   {
    "titulo": "Último dia: Qualifica SP oferece mais de 2,5 mil vagas em cursos gratuitos com inscrições até esta terça (17) - agenciasp.sp.gov.br",
@@ -421,13 +744,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "17/11 11:27",
-   "foto": "119f3b4691d2.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/desenvolvimento/qualifica-sp-25-mil-vagas/"
+   "hora": "17/11 11:27"
   },
   {
    "titulo": "São Paulo Supera Meta de Vacinação BCG e Reforça Combate à Tuberculose - Jornal Digital da Região Oeste",
@@ -443,11 +760,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "17/11 11:26",
-   "foto": "b6fbafd3bb6f.jpg",
-   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1301"
+   "hora": "17/11 11:26"
   },
   {
    "titulo": "Dia Nacional de Combate à Tuberculose: SP supera meta com cobertura de 92,11% da vacina BCG - agenciasp.sp.gov.br",
@@ -463,33 +776,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "17/11 11:22",
-   "foto": "e59e6ab5737b.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/saude/tuberculose-sp-92-da-vacina/"
-  },
-  {
-   "titulo": "Prefeitura de Mogi busca melhorias e fortalece ações de inclusão para servidores com deficiência - Prefeitura de Mogi das Cruzes -",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVU9ZWlJmdS1wM3hFWENFVFFXZWxwbFprUFRlSG9UVU1la3g3QTZXQVNiOHZsWjlaMDhXZ3NfVHVkT0xQUExvalloSGpYVE4zYklDbzc3WXNoMzllaExpczZaQ0tCWmg4T3k5SzVhU003aDUyUUtLczBsVmphLXN2UVhDN0VhSjE1UEJ4WTkwY21acHNOcjlTdU40b2YwLXl3eHpqbVg1dUg1M0ZBM2dvbDFPUS1oS0FvUGRPUUJlU0NTUzBJd3NUeU1NRmZVNmp1akNDc204LVNkejhNanNBVmRwY3BiY0t4QXNFMQ?oc=5",
-   "fonte": "Prefeitura de Mogi das Cruzes -",
-   "quando": 1794925245.0,
-   "categoria": "estado",
-   "fontes": [
-    "Prefeitura de Mogi das Cruzes -"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "17/11 11:20",
-   "foto": "70812e7401ec.jpg",
-   "credito": "Foto: Prefeitura de Mogi das Cruzes -",
-   "foto_tipo": "materia",
-   "foto_tamanho": "847x491",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.mogidascruzes.sp.gov.br/pagina/gabinete/noticia/prefeitura-de-mogi-busca-melhorias-e-fortalece-acoes-de-inclusao-para-servidores-com-deficiencia"
+   "hora": "17/11 11:22"
   },
   {
    "titulo": "JJ: Jundiaí oferece palestra gratuita sobre estratégias de vendas - sampi.net.br",
@@ -503,13 +790,23 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 11:15",
-   "foto": "e4e700509943.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3019243/jundiai/2026/11/jundiai-oferece-palestra-gratuita-sobre-estrategias-de-vendas"
+   "hora": "17/11 11:15"
+  },
+  {
+   "titulo": "Extrema direita Bolsonarismo faz demagogia contra ajuste fiscal de Lula, mas o que querem é passar a boiada dos cortes - Esquerda Diário",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUVzck4wTk5tcVl2eWs3bGQ4cHM5MUtXX3ZLcTJEV1EzTElNSkFlN2VZRXU0TjQ4WTBTejREUmVSZE1YN1NDT1dxMkl5UVljeTM2Vkdhc1R2bVJyWjNGUk9yRXNtREtIV2JCZEJyRExzMk1tVWEwdnlrSXEySlBETnNnTlp1UlhQWlhrSDhlaTFyRXB5a1JILTF3V01xRl9wS3pjVnlYVXNURmNESEFmb08xOVVPelhmX1FlZmVFYXRIdVpfZzR3?oc=5",
+   "fonte": "Esquerda Diário",
+   "quando": 1794924765.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Esquerda Diário"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 11:12"
   },
   {
    "titulo": "Estado de SP tem 1,2 mil vagas de emprego no setor de limpeza nesta semana; confira - agenciasp.sp.gov.br",
@@ -525,29 +822,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "17/11 11:12",
-   "foto": "3bff7085a6c5.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/desenvolvimento/sp-12-mil-vagas-limpeza/"
-  },
-  {
-   "titulo": "Dino levará ao plenário do STF decisão sobre implementação da escala 5x2 - www.tragora.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHJsN2JJRnhtTDZkdFYtRlVJTTF1OG1xNnBFMC0wYWFnMUZqWGc1eEFlTmdJOHpiZHJBdnF1XzZJck5BdG45QmhpbDhmb0lUSFNuZGNhOTR6NXMzNElOTDIteVZkRW9icmdJTnp1WHFxNUp1YnpBNXJ5V0R6ZW1aNFUxcFNNa1dJU3RwV0pBYkUyai02WUNiM2FEVmNnLTBERXc?oc=5",
-   "fonte": "www.tragora.com.br",
-   "quando": 1794924568.0,
-   "categoria": "brasil",
-   "fontes": [
-    "www.tragora.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 11:09"
+   "hora": "17/11 11:12"
   },
   {
    "titulo": "Servidor de Vinhedo morre aos 67 anos após ser atropelado durante trabalho - www.band.com.br",
@@ -612,38 +887,6 @@
    "hora": "17/11 11:03"
   },
   {
-   "titulo": "Dino leva regras da escala 5x2 ao plenário do STF para decisão final - Rádio Metrópole",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR19pMHlPN0I2X1VITjlHekZQUm1WNTVSOWxINUNJTFEtTHF2elZNQkFXQ0JmVTMwa0UwS0pKYTFHT2NCUG95eTRpRkJXVXF3VDZnX3RWNldDSWNicUd2b0htcFpsOWZMMGRWVy1qckdHREVrNVNHU1M0dU0wTkhUNUtWWGZhbDlsN2VqR0ZwNF9LV2VDcVhZV0ZoV2FIM0ZIeEFJREI1SmNOVjBSR2R0VlZoZnBIbk5RV280?oc=5",
-   "fonte": "Rádio Metrópole",
-   "quando": 1794924180.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Rádio Metrópole"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 11:03"
-  },
-  {
-   "titulo": "Dino dá 9 dias para manifestações antes de levar fim da escala 6×1 ao plenário do STF - InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeU9rNlpsYWFPSkRWSHVBWWVLMWMwZkIycU4xRVZ3bml6Rm1WRnB1clhidGhaZUpIcmhpc3BHVTY2bWJLaEhFekV0STVSY1ZvTVJNeVlRRDZ5eE9ENjIxQ2hvSXdEUF9UUFVsWWg1VDF0UXZKcm0wVm45ZGxTNTg0cl94MlMzdnFhSmlvZXdqMFBYekt1UC1VdmlpYU9zNkFiNkJlaE83aGxQTTJKeHdVeG9LSW5zR0NacnFRcy1xcm84UdIBxwFBVV95cUxQSGhSNXdaWkJtTjBmeVdjSGV4UmRmZnZWV09GZ2Y1WEFocklVLWVrWVktbU8tcHVTNUNzRXgybnladUJLWS1iY0UzeTMtNDl6ZEFBeENNaDhrRDc1UHk4NlFPVHJhZGd2MHJWdlRuUTQyNmNZZjZ6cVQ2eE85c2JfSHRsYkRXaXI0blV0VnV5SEplSXJzc0h4SmxaTkd0Vko4cUFBZVdmcDhsNDhaOEdWbmhCVklWQjZCZWw1WUg2TkhmT202cDBB?oc=5",
-   "fonte": "InfoMoney",
-   "quando": 1794924000.0,
-   "categoria": "brasil",
-   "fontes": [
-    "InfoMoney"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 11:00"
-  },
-  {
    "titulo": "Natal sobre trilhos: viagem a Paranapiacaba tem programação especial e encontro com o Papai Noel - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNelAxXzFncWM0eWlSU0RHcmk2eHc2dHlmUTNOOW5vblhpUjkzaWZ3OXU4TUphNERDUjBtUjV0YzY4Y0pVaU9PZ2R1QVRVcTJtekl5OFRHQjlpc2xadHF1RmxDMFQ5blZNWm00NXZ1RFBNdjRXVnNoNGZwMnhlOG9ZZENRaFA?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -658,74 +901,10 @@
    "hora": "17/11 10:50"
   },
   {
-   "titulo": "Dino decide julgar todas ações que questionam escala 5×2 no plenário do STF - Agenda do Poder",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUtpR2c2RHFTVDRSV3ZqLS1iZFU3cGUwdWtYYTVDR2l0dVhxZE54dV84ZmJpa1VzNmx0amJtSDhlV3NreGtpUnNPOHJ0TWhTaFd2azRWTFMzYmFEeW1Tb1l4ZnNhVGpfVGN3UGlMWk1aWi1qNnlObmVDSkNJWlJBYU9TQ2VwNVZOcmVucEttWFJfbHNRV3V1Z0gzcklzanRHWWNLMC1rWWg?oc=5",
-   "fonte": "Agenda do Poder",
-   "quando": 1794923400.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Agenda do Poder"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 10:50"
-  },
-  {
-   "titulo": "FIM DA ESCALA 6X1: Dino levará ao plenário do STF decisão definitiva sobre jornada 5×2 - Blog do BG",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2VuNndrY0l5aEZYQXZ0Ylh1dDFKdVNVRlpzUlNQeE5neUdkWWM1amxIeUMtbGdhRmhFejRRZENaaHhONEhPeUZ5Z3dHZEo0MFJPYU11dnUtRW5GZmtweFpGUy1PWUpQRXFTQTVCaGR6R3FnbVJMSXQ4S2ZEalU4eUpSUnhYQU1qUEFXNm1MMWNsZ1VoRVlHTEtYRUhBdFFNbFIyc01TdzJFZEl5LTVFcV8yS2Y?oc=5",
-   "fonte": "Blog do BG",
-   "quando": 1794923369.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Blog do BG"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 10:49"
-  },
-  {
-   "titulo": "Dino determina que decisão sobre escala 5x2 seja debatida no plenário do STF - Bnews",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUN1VGpWVEZLaUpCRFFuMmdZLU5GaDYxSE1ZcW5xZ1VoQ2pfVmNpOGx6NTJsZ0VHd2xGWEtlV3B3cUJvNjNnZzJnYy1ZRzdDUnpQOUZvVmpwZmRUeGdNWVBQdmxONml2ZXEtYkt4WUVtRGJHUGJ5RDVQb1VkSnNTdVlMeVNlOURKR3dZSUFyeWtzTWpDdDdOeXExTVdNbWpxT0MwbGxJaDRyTDNZQlo4dWhiRjBJa0pza3lhMXhQZlZuc2dLOHhKcFZ6VzhSN21SOXVr0gHYAUFVX3lxTFBlTGlrcmZFdnozSEdUZXZUSExqbVR4RjdnZ19KU0FMU2FSaVdJRmdZRWZWb2tkTmpUNTF0ZW5QZWdDaUF1aE5RQ0ZlQXowc3JRT1JTY0tiYUJrTzFxLUZpZUhsMnN5S29ET2VINWtxYS1kdFdTVVcxamZTOHlkMXlEUktWTGtWOGU4WWR3Ty1jRDYxU0VQVkw3SWhFQWJDTzVlTi14S1VOTzhRSXZiQ1FXUlpRSHN2M0dURzFDTE9LQ1Jtb1NHUmtLaXI0S1p2clhENUNKUzUtXw?oc=5",
-   "fonte": "Bnews",
-   "quando": 1794923133.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Bnews"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 10:45"
-  },
-  {
-   "titulo": "Flávio Dino levará regras da escala 5x2 ao plenário do STF para decisão definitiva - Portal do Casé",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTGQzZ3o4eV80dTJUc0hJTkxGUFVOZ25GZUVjSFFUVHZJQlFwZnBENHFMcjhlc3RINUlyRlZVVDQxSDFEdktPR3llVFlOaXdvQ21na0d3a0R5VWNSak9pOXlMOHY4N0VtTEpKLTVYdGRtcnJwRlBWVVRROXpGdkZWNllFbmV1QzQ5SHNBd1lFcHJlWE83VHhSUEdYVjVmT053T2l1dkUtR2tKNDNkXzR5czVTZTZlX0tNUEt2UGdHeFlJTjAtN21SMUpES3dUWk01UVZabA?oc=5",
-   "fonte": "Portal do Casé",
-   "quando": 1794922966.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal do Casé"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 10:42"
-  },
-  {
    "titulo": "Prefeitura de Vinhedo divulga finalistas para a Corte da 63ª Festa da Uva e 15ª Festa do Vinho - Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTklDb0VQQjluR25WQ3EyS3JjQlZiQktON3cza3N3OWotb09SR3c3NnJLRDRQZC1SX2xCaWp6NjNzWG90Q3JlN0tMazRRSWhWMmZUX1hHZ295YmlWSHd5SDhBMF9QeUFzMGloR3g1LUNwN1g0Y1ZKRWNhUXJLTjM2V3p4aHlwV3NPRmhMY0NzTHhQQkY4dVNkTktSMFAxTG5IaEhkcGJoQnVKZFdnVGQwbGVPR1k5WFBucFJXNHdSSmVlVnpMLXdxWXRON0xoZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWm8xWmliWkFHMl8xWWh2MlZpS1l3VF95SFRtVkhyUWg1aW52WlVxZ1VJbDRfV2ZBUXkzY244TjJjcWZMemU3TFNiTzVVT0ZvX1BvS0NrLXlsSS1fYk1ZcHlkQnluN1d4VC1BanYtYjlQSjZxcVVycjVyVUNFajJJNEZlS2lMRU9fQTBrYndiSXQyeFBCR2UxRnJRdkpWSGRlaTFpS1FjVzBMYUhQVzU0WGlPSEFhYzhxLXFmTzJLWk8zRVZfVG1iQVZ5cGpxQ2pVV3RN?oc=5",
    "fonte": "Portal VV8",
-   "quando": 1794922801.0,
+   "quando": 1794922800.0,
    "categoria": "regiao",
    "fontes": [
     "Portal VV8"
@@ -734,22 +913,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "17/11 10:40"
-  },
-  {
-   "titulo": "Ditador Moraes interfere nas eleições do Congresso Nacional - Diário Causa Operária",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3RNVDJSSjVpSk1JQ2tCSHJ6eUh2dy1NaC1Velc0RDRvUFBCX1hZRFFhYmxQekVKcGcwNHJSX0dPa3FDZ21tWDVqa0lBbmVZLUl1VVZYeUdxTVZtY0dsdTgtWGo1ZFpFaHFNWTdxd09BSk9ZUUNWaDJJSXdySUMtdWtYby1Memp1WjlzaHJPSmlFT1A5ZUpvUVp3?oc=5",
-   "fonte": "Diário Causa Operária",
-   "quando": 1794922791.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Diário Causa Operária"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 10:39"
   },
   {
    "titulo": "Fundo Social de São Paulo abre 1,6 mil vagas em cursos gratuitos especiais de Natal - agenciasp.sp.gov.br",
@@ -768,32 +931,18 @@
    "hora": "17/11 10:36"
   },
   {
-   "titulo": "SP leva Jornada de Crédito a Pindamonhangaba com orientações a empreendedores - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2J2TXdOaEZ0bnZIdFpjT2dKdmlXbWRONkJVRlR6TEhUbDcwWEdqT3p2SlpoRXBVbmpNZ1dLNzl1OVNrSVpFUmJDSG01MUs1cGV3NW9XWW9CNGJpanFiQ0d0VHhNaVpyQjVwM1R3a09rR05BZE15S01Wd2VBYm0waG56TUgxUGtxQ3pz?oc=5",
-   "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1794928368.0,
+   "titulo": "Governo de SP atende mais de 10,6 mil mulheres com Auxílio-Aluguel contra violência doméstica - ABC Repórter",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3JIaTR6c1ZYakZXb2dZRkNYcTlFazc3LXE3aVR5RW5aeUoyUDczMllxWkF5RXpHLTNDeWsyTllzT3pLYUNNOE0weER3N041WGpGd3pOR0hQNlVvYklMeU9qZmdyZ3I1ckpmTGZSbXJhNEZGM1g0NnJVbWRWZ0Ewd3c5MndTN0syRE1HSFd4VGk1TGlvX2g5dFFQcmppeHVGWXc?oc=5",
+   "fonte": "ABC Repórter",
+   "quando": 1794930798.0,
    "categoria": "estado",
    "fontes": [
-    "www.agenciasp.sp.gov.br"
+    "ABC Repórter"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "17/11 12:12"
-  },
-  {
-   "titulo": "Trabalhadores se mobilizam para evitar pejotização da saúde em São Paulo - TVT News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY0JrMi1NdVFUcE1ja0NfOExzSUtPc0tUQVd1c1VuN3BpMnhtckJHbXktWGJkNno4X0YzWW9xTTlFeHdQVzNyRkhwalhXZ0lUbC05TnI1THRtcHFUN3dFYUtKX01CeVhxXzZDRTBzLXV5YlQ5OVNz?oc=5",
-   "fonte": "TVT News",
-   "quando": 1794925796.0,
-   "categoria": "estado",
-   "fontes": [
-    "TVT News"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "17/11 11:29"
+   "hora": "17/11 12:53"
   }
  ]
 }
