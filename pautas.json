@@ -1,7 +1,49 @@
 {
- "gerado": "17/11/2026 19:50",
+ "gerado": "17/11/2026 20:45",
  "desde": "17/11/2026 16:35",
  "pautas": [
+  {
+   "titulo": "Animais soltos em vias causam 32 acidentes na região de Jundiaí - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObm90bVNyeHNTM0ZKQ3pncENiOXpxN1RWU1V0c2JOcWR4SlhBQUl6Q0xvdzU3Y1RUcVdoOGczbmZFLWhfSFVlb0F4RnhuQU9CcUxZWXBoOTlUYkJmamdJdS0zM1NMV0hwUl84dEp3VlVNUWxobGZOdG1IVUxqZWNvcGlqQVBoaXREX0VrMF9CdmZGQk9scWVldXllMUk4VHBoLVkzQUU5SGN4WFNsWDA3eXh2aDZ6OVdkTFU5QS10NGd1UWZ0QVkwMnNwZWgzVW9DS01ZdXF6THNwRlNHMkE4cHlyNlNSajdhRFHSAfgBQVVfeXFMT2JiMnJFYzhqMDBIQXZkZnJlTy0zaExCNDJ0bHNycm5JalQ5aWhYSUIxbVhLZnYwR0lQenlaYjJmb3B6TVBaY0oxUTBnekNLdFI4VFRuUnNnNVctSmZzNnFGenFzNDgxWGZGdjdTTDVxWlhLVHRZV0FLYXlKbzlvT3FhZml1SzFpeUZTdDNCc2JkYzRtT0UwXzFPY1hZVG9NU1dvSlU3V0RtcFpVZDlkLTl3ZW5qQXNBQ3U5ZEJFdm5ZaVhGVS1FQ2dlM0Q4d0NnV2ZsQWt5bFhWSVFLU0RUdlZWU1B4OHZLZ3hDMGJPREVWMklVWHVQVHA?oc=5",
+   "fonte": "G1",
+   "quando": 1794956790.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 12,
+   "hora": "17/11 20:06",
+   "foto": "c1b313b22f45.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/animais-soltos-em-vias-causam-32-acidentes-na-regiao-de-jundiai-15201450.ghtml"
+  },
+  {
+   "titulo": "Vereadores de Itupeva propõem 13º salário e férias remuneradas - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbjc4SVlLWEtMaTFrQks2bDk2RUdXR1FNMWxyeGlVXzU0YzN4OVczYWpFU0ExMVhCWnNkLWRGYWwtZ1o0ZW0xR1VyWVhyTEJyZXM1b09XdDJDN2h2TnhhdWZCSEVaaTZjdFUza0tYdHotQnRDUXdfYTEydFJtek5UMXFnbll3cE90UVRHRDZIdDRJcHo2R09iSWxpZjBrOXE3d3QzUWtYZkhxU1BBMGEtRno1cWlwSVgzVHROQ21GbzBqTkxBaS1ETW4tM05acnZtMl9xNUpKS2ZFY01pWDRpajVKdUh4Mkpn0gH3AUFVX3lxTE5ka1NBd2EwS0NxcVk0eVJFdXR0VmY4RjVrSms1SUFmcE5DUmUzd1ZmTGdIU1Q4M21QMUVmd1ZtR3pVU28wVlVKQjhldHViMFB3cld3NWpwclFOUnhIN3V5RmZOZ0N6LVlESElIWW1nd256T040amZSdnU2eDJhR1lWZzVybklDVVBiLXZJOUpCdTFQOEt1djJMUDFhTWxJTk5Yb3JYMXZseXFzZlI2Y0JHWERxTGF2UEJjQWRIQU9IdXpwZWNfOUU5c0REdGgxTDE3T2VycGRhQ3NXVk5PZ0ZVaHRMdzdEN05aQlh3REZVNUhRNW9POUk?oc=5",
+   "fonte": "G1",
+   "quando": 1794956769.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura"
+   ],
+   "pontos": 11,
+   "hora": "17/11 20:06",
+   "foto": "cddffc57e0e3.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/vereadores-de-itupeva-propoem-13o-salario-e-ferias-remuneradas-15201452.ghtml"
+  },
   {
    "titulo": "Prefeitura de Itupeva SP abre concurso com 33 vagas para professores na área da Educação",
    "link": "https://folha.qconcursos.com/n/prefeitura-de-itupeva-sp-abre-concurso-com-33-vagas-para-professores-na-area-da-educacao",
@@ -45,6 +87,24 @@
    "foto_tamanho": "640x480",
    "foto_qualidade": "baixa",
    "materia_url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-processo-seletivo-para-professores"
+  },
+  {
+   "titulo": "A morte do adolescente Davi Louveira Colombo, dias depois de um acidente de motocicleta entre Aquidauana e Anastácio, a 135 quilômetros de Campo Grande, comoveu moradores, amigos e familiares das duas cidades na segunda-feira (16). Davi tinha 1 - Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkNDNjdrc0dkVVA2ODk0OUFqZThUckhDamlnVWlyWlJibkJnbTZRcUx1MC1FTGlISDBXR0tKV1FNekVHX2JlaDl2SWJobjRQNElYVnVPeTdWQ1k2RkEzRllDMFFYWHA0ZWhmMHlib1BfVUNMWk9LQ2p0MzN5dlZNU3VYLW5OUXN0MmpQX0hnR25NOTNyaWIwYUZraEFyM2hqd2ZsNFFYT0FCUi1ib2NzRTZVS2tsQVYySUN5V2xoVkQ0ZHBmOHRaQ1Q5RGVXM3NNU2tVaQ?oc=5",
+   "fonte": "Facebook",
+   "quando": 1794955209.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Facebook"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 10,
+   "hora": "17/11 19:40",
+   "foto": "fa7280a61f50.jpg",
+   "credito": "Imagem ilustrativa: Eugenio Hansen, OFS / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
   },
   {
    "titulo": "Processo seletivo em Cláudio (MG): vaga de Médico de ESF com salário de R$ 20,7 mil e inscrição em 25 e 26/11 - Meu Preparatório",
@@ -113,6 +173,46 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/17/vacina-contra-a-covid-19-esta-disponivel-em-todas-as-ubss-e-clinicas-da-familia-de-jundiai-veja-quem-deve-se-imunizar/"
   },
   {
+   "titulo": "Árvore Solidária: campanha da TV TEM arrecada brinquedos até 9 de dezembro - G1",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNLTN1NWpHT3NMaUdUZWlRTDVKZXppMnhZQkl5eW5jNVhMR1U3QTdGQ0lLWlFqUWVyVjhXN1dQaldFd3BzUWdoc0lFclhiVTdGVFVHbjUwcWdLTFZmenRMQXBfWTJULXBqQ3djdG9MRnNsbmZ0TklwVUFZeVlOM0NaUGNRQmppd05xR2VPYlRBQ25pME9vX1hkWlNEaUVZM1pZQ1NPNmpnVlFGTENYa2lXTUVqcnZ4c3hpWUY5OXE5OHBaWVpIZDZoR0hFUW5pc1FhbE42QlZoaG1BaW9tZElUSmdhMWVMMVg3WVlVcjZBc1NRX0dCMHAw0gGGAkFVX3lxTE1xUFJ1UGxyY21YMEU3OEVSTDc1UlRXQTV3YTExdVNTd09XUm5RZWQyaFZPVTRHeGQzWVVlbS1ud1lmUFllMGtmSTR0M01fUGlTckJwdzRRZ01xVU9wYUhZMmxaNk9zeEcyV01OMFhGaUs0Z0dGb1dOYzVWN3FLVmRPTmZhWS1aY01BbTBlcU0teDVqNml4U19WRFdpOF9QbmFSamFJMG42ZzhFNjZKSlF5S2M2ejVZWkkxTjB5RldqaFJSMU4zcXJvVFZZOXFtTTN3YnFTcUlXMmNPbDVQWlV5MW13MXJsOXI1cHFpSTRkZktPN3EwbWhBS3RpSUlRRE9MdmZnNGc?oc=5",
+   "fonte": "G1",
+   "quando": 1794956923.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "17/11 20:08",
+   "foto": "74c6405e41ac.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/arvore-solidaria-campanha-da-tv-tem-arrecada-brinquedos-ate-9-de-dezembro-15201463.ghtml"
+  },
+  {
+   "titulo": "A câmera de segurança registra um homem levando uma motocicleta no Jundiaí, em Anápolis. Segundo a PM, o suspeito relatou ter trocado o veículo por drogas. O jovem, de 27 anos, foi preso nesta terça-feira (17). A Honda CG 150 Titan preta havia sido fur - Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ta2NUektNb2I4X3EwZW1uUHM4RkM2Sy11ek9Cb2F6dXpVdW5tOUI4a0dpVGNnTHRYdEtYNGVMMXhldE5tUGdMcEJSaDZJUUVlX0t5YXBR?oc=5",
+   "fonte": "Instagram",
+   "quando": 1794955054.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Instagram"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "17/11 19:37",
+   "foto": "c0bcb8552caf.jpg",
+   "credito": "Imagem ilustrativa: Mat Fascione / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "800x539"
+  },
+  {
    "titulo": "Alunos de escola estadual em Jundiaí participam de formação sobre Inteligência Artificial e ganham 'Sala Tecnológica' - G1",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOWhIYXRmUWwwejBCVldFeExReWE4S3BnSm5XRENjQW42dEVjNWJSd1JqNVNhRVdlOHdpYjR5LThNaDBWck00b3VHWnRPal9DQ09yRy1oUXVadU5CUjd1OUxmTWp3WDBRVTBfTmI1Z29TQm81bUtLYXdPRzlLZE4yV2szek5raTBXM01XNUJ6d0kxeFpudWRPNUhsZE1PcERtQ2FrdUxmblNkUjBtQ29GTWlNX0lISHdUdjJTZmEybFFKUVlrTi1DblB4N01kclgxWlBMZDZIdE5iUjdhbVlmMTViSDh3SF9tSmhlVGNsOXJ6dWxPMUM0ZVpMbW9Ya0duNVBIZGRDbDd2ZlNMbWfSAZwCQVVfeXFMUElEYjNOYVdPdGJfZGxBUFRLTjlyM0FzNm96d0o4U1FDSl9KSnBQWENJdFlsVlJHTklUeF9ENzhRS3pFYjVOTHEwMElkWFZBU19qSUpnWW92LWRkTk9FbjVTZEpMdHQwdksya3RBZGQ0dTlUc0RNU2stN1o0M3E4Sl9uZW03WkU0eXdQTTNRZ3JlVXd0dVM1SnJna3RyR2FkR1FleklZc3NBRWk0UVZMWHBsN08zWHVEM010cmRzT3hZX3FtUzRVeFZUTnEzdXpIX2k4aXBhek0xNEN4WUZmdnlpT3ZuQXFVQkJXdTRNZExDWHlzd3ZPMGxPNGNiM0JPNUFudzVlcnhOVHhiVmxYd1RfUl9JY3JFTVdpTmQ?oc=5",
    "fonte": "G1",
@@ -154,6 +254,26 @@
    "foto_tamanho": "1000x666",
    "foto_qualidade": "media",
    "materia_url": "https://portalvv8.com.br/noticia/86016/senador-randolfe-rodrigues-apresenta-projeto-de-tributacao-sobre-receitas-de-grandes-empresas-de-tecnologia"
+  },
+  {
+   "titulo": "g1 em 1 minuto: fotógrafo registra combate a incêndio em fábrica que explodiu em Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeGNkSVJPX1hGbnZCZThUWmMxTC05bmVHenI1QTY3MEROZTZHM2pCRlM3WW1faldkXzBUMXcxdU5ucWNoUnVaS1QxWXgtdi1SV0dzMU44cXlaZENXamhmcGJZaG5QZ1lxZFBrOHB2clFLZE5Uc285eWk3WFRuMG9COXdUNWR5Rm90V2NrMDBYVW1vS2xhaTZQODFsa00zR3hubGFIU05lYTZyZUxEVWhtenE0TTkyTjM4ZWpDUmtyV1dEVmtHOEFQT093ZUlIN2lBejJSTElJaWZZUGlPaUNyb9IB7wFBVV95cUxPbEVUTzg2cGxsa0xpVEtoU0hkSzljRnJERnhPdDB2QnpDdDI5T3l5MHB5d3pvYThTTUhvOVZCU0taRnJ2LVdMeFpHWllaWEd2LWJhWUN6akowMUFzLUdjbFdwN0l3aHJpWnBfYXEtOFA0bFlfMEpOSm5rb25LSERCNnlvbk8zd2o5S09jZmhPeXV3R0tnSnZQUWFLY0J0VXRLQTBSZ1phY0FqYzhjMjJlZVBkOW5YUDN5NnRrMlBKSnVHTHRnbEtYaGd3ajh5T3B0em5pQ0hnNnE1SGVPQk1jdHlneVkwRGFLbm5yUjhNRQ?oc=5",
+   "fonte": "G1",
+   "quando": 1794952916.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "17/11 19:01",
+   "foto": "d7255e79e553.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/g1-em-1-minuto-fotografo-registra-combate-a-incendio-em-fabrica-que-explodiu-em-salto-15201217.ghtml"
   },
   {
    "titulo": "Filhotes de gambá são resgatados após mãe ser encontrada morta em Ipiguá - G1",
@@ -216,26 +336,26 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3019365/jundiai/2026/11/25-mil-vagas-em-cursos-gratuitos-com-inscricoes-ate-esta-terca-"
   },
   {
-   "titulo": "Tarcísio anuncia novo secretário e confirma permanência de outros três e da procuradora-geral do Estado - G1",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVnJhQ1hmQ2x0YndfT1pOSldXclhfNlhpal9rTVpfSVhxMWRKcy1YaF8xOVBlMHoyd1dEdHNGTU4yUHlmS0I3NWhjYlI1UVhLWVRRVjZ6VXVMU2diaDgtQU81REoyT2hib3ZHdU92OWxJTUlCMW5YTVNHanljTE1WZmJGZmM4SHBDVlZZVHZ1a0lVbDlhRVFqbFNvd1EtcVZPLWhQQW43emZZVDJxZlV6SHFmeDU2dDRxa296RHVSNlUxdjVmc3F0TlQyeHFlRk9VME9qUmtZT29VNXE0OG5VbDJHQ3ZGTDZLS19VZS1Yd1NndUZ30gGDAkFVX3lxTE9ySGJlUi1tZUg0X2RoVnBaaUs1Y3RGOXA0Z1h3eEY3UzRhbE9FX2l0b3ZmNVJ6Y29sS3ZWekdBOWdPM2JFcUxaVmowdmduaGRhaFpxcEx1V1ZaM2ZpdXJPcDBkdXgtcHhrZnViZ1Fib250eGhrdnZDWEdyalVpQVVfV2tvRXVqakRWSERIRlVkaU9qTXlvamh1OXpDcW85bjFQdzYyendNTmZKcV80NEJZb3NYb0NyUzJRVkV6ZjV1OVpBcTluNHNiY3RBdDY5b2lvSkowM2UwSzdhandmOHhYalo1bFJSTnJXQmRDbDV1T0FhZW9ubjVCeEx6Sk8yckFEVkU?oc=5",
+   "titulo": "Free flow: cobrança de pedágio eletrônico começa em 1º de dezembro no Sistema Anchieta-Imigrantes - G1",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVm5ScVkzRlNUcmVOSFpHWDZNUTFoSjc0bEZVUjdwSG5kUXBRSnJVRWZtWG43OS1wOUpxa1NwMHViOGE3VXZRUnYyUWY1clAwX2ZSTTRkTVlCcmtFd1laQkVsbG55dThMb01MbzBsaS1ia1ZqVUM2QUhnV1RaaDNrSF8xS0lnMkFXaTRZX1FNRXhJczlrSWRwSXZUOW81NWgwdGxRX0tFN3Z3QWVpLU1BVU9IME1xaVdOTmRZWFlyZWhXb3FCUkVPWm1WZGs3XzNDUmlibnFud3hYWDd2RHRDUjA2RHpqY0tZNGpWVU8tU1FFY244OW5hUUZ0RGdiNTDSAf8BQVVfeXFMUFZuUnFZM0ZTVHJlTkhaR1g2TVExaEo3NGxGVVI3cEhuZFFwUUpyVUVmbVhuNzktcDlKcWtTcDB1YjhhN1V2UVJ2MlFmNXJQMF9mUk00ZE1ZQnJrRXdZWkJFbGxueXU4TG9NTG8wbGktYmtWalVDNkFIZ1dUWmgza0hfMUtJZzJBV2k0WV9RTUV4SXM5a0lkcEl2VDlvNTVoMHRsUV9LRTd2d0FlaS1NQVVPSDBNcWlXTk5kWVhZcmVoV29xQlJFT1ptVmRrN18zQ1JpYm5xbnd4WFg3dkR0Q1IwNkR6amNLWTRqVlVPLVNRRWNuODluYVFGdERnYjUw?oc=5",
    "fonte": "G1",
-   "quando": 1794949577.0,
+   "quando": 1794947752.0,
    "categoria": "estado",
    "fontes": [
     "G1"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "transito"
    ],
    "pontos": 7,
-   "hora": "17/11 18:06",
-   "foto": "b2a225f07133.jpg",
+   "hora": "17/11 17:35",
+   "foto": "37b81b39210c.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
-   "foto_tamanho": "1280x852",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/tarcisio-anuncia-novo-secretario-e-confirma-permanencia-de-outros-tres-e-da-procuradora-geral-do-estado.ghtml"
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/google/amp/sp/santos-regiao/noticia/2026/11/17/free-flow-cobranca-de-pedagio-eletronico-comeca-em-1o-de-dezembro-no-sistema-anchieta-imigrantes.ghtml"
   },
   {
    "titulo": "Senado adia votação de destaques ao projeto de ajuste fiscal do governo para quarta-feira - G1",
@@ -368,6 +488,110 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3019345/jundiai/2026/11/cpfl-flagra-gato-com-desvio-de-energia-em-restaurantes"
   },
   {
+   "titulo": "Anchieta–Imigrantes terá pedágio sem cancela a partir de 1º de dezembro, com tarifa de R$ 20,30 por sentido - Diário do Transporte",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUJYUGN1VWVzZUxsNU92b0hKaGVrNURXWWZLOTNOU0ctOFJDTFVLRGhMYUYtclh2QnNoZFJwamlvN2VkRWhmdUxNYjFDUnNJUkdvNmpjUE4wOTN5RmNhNC11V0cyZkVsdmpBQzRETWgyMnRyeTJsb0pkVDFkUjh3NlY4d3lOZ1Q2LXpueGdlZEl4RmUtTkVHNXMyTEU1M0dpQlAySE5jR3o5ZGJSZFNITmFtNEN2dnUtMk01VnpmT1FMRnREa0JwVlFaRGNyN1o0Tk12VjNsenB0Ri1JQzczcmtONkrSAeoBQVVfeXFMTTBGb1NvNE9HMl9oN0NOclp5WVNnRTV1TUx3anpTNDhDQmpnd05FRThEdDhjSl9wWTV3RGZ4cjlVOVVZRS14X3hHekJXdHIzM3JRWkJVcGh4MHIzd3k1THZYNF8yb1VQQmRHSm5QY0Mwb1NHaU9DMXNLdkNjNDhOQ25tVlBsNTFFV1RxUmpqUFZ6dTBzbVZJWTh2WGd5OVBaUXQwMDVDMno5YzZ4RDBreFF3b08wd2t5TDlRMnZzRm9ZQ1pjMjA2M1E3NlRLU19MR3VuNFRyeFRjLVA4VHlwaXYyLVVZQ3BaSnZn?oc=5",
+   "fonte": "Diário do Transporte",
+   "quando": 1794958452.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário do Transporte"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "17/11 20:34",
+   "foto": "d537baf027bc.jpg",
+   "credito": "Foto: Diário do Transporte",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x801",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodotransporte.com.br/2026/11/17/anchieta-imigrantes-tera-pedagio-sem-cancela-a-partir-de-1o-de-dezembro-com-tarifa-de-r-2030-por-sentido/"
+  },
+  {
+   "titulo": "JJ: Adolescente é detido traficando no conforto do sofá da 'biqueira' - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnUzc3Vyc0g2S0lWMWpfazZwS3BURlpRZzNhQ1BWVUZMTm1XdHcxZXlqSzRiMjdOM1NEeGRxSzNac0FmMmFraVc5OFVZRmM0UDVkYWZlaGM2THFjdmpicGRUZENpRUxfUDhEblUxWnJJS3pmMmN3NlNvaG5zcWJsM3BGVXpNS1V4WnAzRkV5cmZaTHZ1ai0zMUtoZ3Zhams2OHY3N0NlU0xJNk1sRWhxejdhUVNyQUVtRC1qek92MlJRdms?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794957683.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 20:21",
+   "foto": "35fd1b63dd9e.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019416/policia/2026/11/adolescente-e-detido-traficando-no-conforto-do-sofa-da-biqueira"
+  },
+  {
+   "titulo": "Fim da escala 6x1: Dino leva o caso ao plenário do STF para decisão definitiva - Portal 98 FM Natal",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazZURXNuZWdYWEhPSE5rb2hYekdsRVE0SlluY1JEQXBFSGRmdXRaRjhvY3dpdHN3MXJjODBKVjlxa1RKMklxUms5c0R5Tk8wekNid2JxX1A3SnBVeWtVQmNpVDk4Wkk4dFJVX3dKVV82UF8tUWFZWU1KbDRHNHhrelFVN0EwOU1LUmxDLWQwcw?oc=5",
+   "fonte": "Portal 98 FM Natal",
+   "quando": 1794957660.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal 98 FM Natal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 20:21"
+  },
+  {
+   "titulo": "Tarcísio mantém dirigente do Republicanos na articulação política e confirma outros 4 secretários - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbllsQ1hmMF9pT2ZmZ0tEWVpnQUEwbno0Tmx4ZUJ2cS1UMjZRZGJLWDduREw0RXhpNFYwb2xxdTlhNDR0UTJ0NmdIUjB2MmY3ZGtuUXFzbzNtZlJhbnFlOEhDR0hBU2ZySE13MWZUVHpWUGtTdkJ2VWVlRUFTWHFEaVkySTVyY2pNZWFIZ3V3UUJhREFSTzlZcUhrRUNObl9nTEl1dWlfeHlCMW5yY284V2VwWTFBby1UeDkyN3ZkSC1uakZxdVpsa1JObzA0a285ektDbXBxaklqSEJKdGNWdw?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1794957240.0,
+   "categoria": "estado",
+   "fontes": [
+    "Folha de S.Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 20:14"
+  },
+  {
+   "titulo": "Jundiaí (SP): alunos têm curso gratuito sobre IA; veja impacto - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzNCQTdMR2VhUDRIYjdFVDJ5ZFZzN0lmQVl5ZmJsdktOTExSalRPRXlGd0dZenowTHEyZUFBUk9vVjhKSXVHM1ZDQ1lhMno2Y3ZuUEZuNDkyNE1WX09kUjNBUGdhbC1VRFRsanM0WDkzSkQ4Y1RxR0E2SGxvU2JvQ0ZESlZpemtUYXo0OFdobWlLaXl6QkE?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1794956512.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 20:01"
+  },
+  {
+   "titulo": "Ex-secretário de Paulo Guedes assume secretaria de Tarcísio em SP - Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORF9jdGNJRVBDdi1uVHo5dURGQmhjLWtCZktsYlVpcmt0cFlLRVBldmJzdE5Vel9mT1FzcDA0WW43OGExeklaMkVjcjdmRHZ0Yk9YZ1V3NjVKanMzUzB5Mm9nNnVrVllielRtWEFjMHBkaTd6UTMxU0RkWGl3RG84TmFBcmh5OUlKR0kwalpTaHdkSGI4bXJxYU9YY1BZcTNTMEo3eDJ4bzJyR2h1dUV0NDNSODM4MFNWME1nTkhB0gHMAUFVX3lxTE5Ja2JPa0ZLMmxiUnNNQ0VHNUF4dm1PQ1pkRVhUMjZFOGpUQ0hWd2JsUmY1X3EyeDl3VENja0hpT2k5R3ZJb0NLV0RNR0xUdk1qNGpJMWVPNXhLTXVQdnZ0ZFloZXUxc1YzbEtPNTY5SjVycUFsUjRJeERpQzUyTEJwYzBKV0NScjZqamlrSk04SzVzYU5VQXpLaUJaUVhRUk9kZE5Ma1Y0UmZHdWdrMnkwdzFtLWVxZ2haZGVPbmpBU3pIWGRNWFBnbkVaMg?oc=5",
+   "fonte": "Valor Econômico",
+   "quando": 1794955683.0,
+   "categoria": "estado",
+   "fontes": [
+    "Valor Econômico"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 19:48"
+  },
+  {
    "titulo": "Tarcísio de Freitas anuncia secretários do Governo SP - Portal ABC do ABC",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEckpscDk1NjRNVndmeW40RVZMQ2pTR25WZFBJMVhzdHN5LW5nbWFsbE1UY2Nqc2VENGhUWDUxWURPcEdIQXRWYXY2TW9QdmxhcDJ4bC1HeXVrQ1VqMnRVcGVZWjJpODdfdnpLYy0tOHJzUm85bU9XSVBXRkFpVm8?oc=5",
    "fonte": "Portal ABC do ABC",
@@ -381,35 +605,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 19:45",
-   "foto": "e7762a6d5aa2.jpg",
-   "credito": "Foto: Portal ABC do ABC",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.abcdoabc.com.br/tarcisio-de-freitas-secretarios-do-governo-sp/"
-  },
-  {
-   "titulo": "Sistema Anchieta-Imigrantes inicia operação de pórticos eletrônicos em 1⁰ de dezembro e melhora fluidez do tráfego - BOM DIA GUARULHOS",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGpFRGVmZ1hhZUVrUW9XbF90X3FqSGUyOW0taW5JTGV0MDYyWnk3S29RWkJncDRHU21vSE5iNlE2T29zekIyYUlKSlR4cWFlNXI5MmVBcUNjUzh4VmgybzJ1bFV4ZE8xUE5LUTc0aWZRbVU0VFpaOE51YUYtejlDSnFtR04wTDJQNFB0Wi16RUFuWjBqSEw3S2sxaUJzNGRJcEJBU1hETTZPdWNQUjVhX0F3NklHbG8xekVjUWNJTS1PaHZaOE5wV1FOSGtDM2x5MnNvMTV2Yl9NN1FUeDBXWDJUcnBqZkxSU3hvRWRXSQ?oc=5",
-   "fonte": "BOM DIA GUARULHOS",
-   "quando": 1794954960.0,
-   "categoria": "estado",
-   "fontes": [
-    "BOM DIA GUARULHOS"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "17/11 19:36",
-   "foto": "37685ee28ad2.jpg",
-   "credito": "Foto: BOM DIA GUARULHOS",
-   "foto_tipo": "materia",
-   "foto_tamanho": "700x467",
-   "foto_qualidade": "media",
-   "materia_url": "https://bomdiaguarulhos.com.br/noticia/83957/sistema-anchieta-imigrantes-inicia-operacao-de-porticos-eletronicos-em-1-de-dezembro-e-melhora-fluidez-do-trafego"
+   "hora": "17/11 19:45"
   },
   {
    "titulo": "Free flow nas rodovias Anchieta e Imigrantes começa em 1º de dezembro - Jornal da Orla",
@@ -425,13 +621,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "17/11 19:29",
-   "foto": "77f0c10e389b.jpg",
-   "credito": "Foto: Jornal da Orla",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://jornaldaorla.com.br/noticias/free-flow-anchieta-imigrantes-comeca-1-de-dezembro/"
+   "hora": "17/11 19:29"
   },
   {
    "titulo": "Previsão do tempo para quarta-feira (18), em SP: instabilidades aumentam - agenciasp.sp.gov.br",
@@ -447,35 +637,23 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "17/11 19:26",
-   "foto": "7100b68b0eac.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/previsao-do-tempo-para-quarta-feira-18-em-sp-instabilidades-aumentam/"
+   "hora": "17/11 19:26"
   },
   {
-   "titulo": "Tarcísio anuncia novo secretário e mantém quatro nomes - ncnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mSTdaQ2k4WV9qTndheUQ0THoyVzFTMjJOUmdqYzI0TXFNRlJIaG5RTjd2QUxRWE0ycnRLM2R2NXVPNEtnN3VqLWp5aUM5SUhYdXhJcno2d1ViMXpsWjJ4R2JFc0NhcFFmVnpndFl5N2dsems?oc=5",
-   "fonte": "ncnews.com.br",
-   "quando": 1794954174.0,
+   "titulo": "Sistema Anchieta-Imigrantes inicia operação de pórticos eletrônicos em 1⁰ de dezembro e melhora fluidez do tráfego - Jornal de Uberaba",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVVkxN2NQVXpNVjQ3VUd2ZGtqdGRhYXZQa1hyUVhGZ0ljbTV4N040U21JNDhyY0tGRTdLcVE3UHlCRFNKLVlSTFFHYjIwQXNxQVJ2Wkhvc1dNNmdNZGREVWxGckRTQWVCOWdNcmRfM1puTERTYmtrdkRObzY1WmJBYXdUTnNBNTR6cjhNUTU3Q0E1VU8yaGVYVTRBaUo4cTkyMWpzdkhtV0d3dnJlOHBHbUFFcFlRdDdYUWgxQ0tHazBjcHZia2lHUjNCUThHLXJTWjB3UU9WQU9zV21HV05JSkRyQUtja0pEZ0I3U3hlY2pza3hfZURNa1RJdw?oc=5",
+   "fonte": "Jornal de Uberaba",
+   "quando": 1794954360.0,
    "categoria": "estado",
    "fontes": [
-    "ncnews.com.br"
+    "Jornal de Uberaba"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "seguranca"
    ],
    "pontos": 5,
-   "hora": "17/11 19:22",
-   "foto": "56382af364a3.jpg",
-   "credito": "Foto: ncnews.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1170x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://ncnews.com.br/2026/11/17/tarcisio-novo-secretario-quatro/"
+   "hora": "17/11 19:26"
   },
   {
    "titulo": "Reforma tributária em debate no Senado Federal e os impactos da alíquota - Imprensa 24h",
@@ -491,11 +669,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 19:19",
-   "foto": "62ffe5c486f5.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "hora": "17/11 19:19"
   },
   {
    "titulo": "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF - A Tribuna RJ",
@@ -511,11 +685,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 19:18",
-   "foto": "3fe7528fa847.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "17/11 19:18"
   },
   {
    "titulo": "Congresso pede decisão do STF sobre redução de penas de condenados pelo 8 de janeiro - RCN 67",
@@ -531,13 +701,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 18:57",
-   "foto": "c71e22ccaa16.jpg",
-   "credito": "Foto: RCN 67",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1170x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.rcn67.com.br/campo-grande/congresso-pede-decisao-do-stf-sobre-reducao-de-penas-de-condenados-pelo-8-de-janeiro/"
+   "hora": "17/11 18:57"
   },
   {
    "titulo": "Líder do governo Lula propõe novo imposto sobre as receitas das big techs - Gazeta do Povo",
@@ -586,22 +750,6 @@
    "hora": "17/11 18:47"
   },
   {
-   "titulo": "Fhoresp questiona imposto sobre cigarros e alerta para avanço do mercado ilegal - Surgiu",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTG9KN3h2SnRhdXhQcnA0RUNod0xzNzQ3eXgydXkwNk5DZXJlNE55cjNyQ0tqSC1EeGl4aTE5aFI5LXBGWmpjdUowZmZGZTFUWlJ0ZVp1WkdBeklIYm9uZ0pqRXl6X09lTXpWakxPNnRjZHhkdXlIMEdVRktybjNrQ3h5NWVnQnVveFZvVzFSMjRZcXFuNVlva3loNGNUdURzS3hBZzFtOWRyV1kzbDU4am5Qbw?oc=5",
-   "fonte": "Surgiu",
-   "quando": 1794951540.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Surgiu"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 18:39"
-  },
-  {
    "titulo": "Free flow começa em 1º de dezembro no Sistema Anchieta-Imigrantes e terá cobrança de R$ 20,30 por sentido - Gazeta de São Paulo",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHNPRmRaRDdwaFJ4RkJ3aklwd201LVhIR2NWblVmdVVaNk9kWHhnek5PVFl6WGYxT2ZKR09BNTZtZ1drVERrM2p5U21nOVdndmktY2Uyc0F3VzhwdHRWRlExZjcyU2VGbTNHN1JFMW5RTGhWZE9qWVZCSnJYLUFfRkxja1d0c2ZvWVdLeUhWay1RZW9fc2FlTnRDNk1wVGFIREhFanU3Tlk4RE9Ndk5wTTl6bUs2X2NTLTN5ZXZXdEQ0ODFuV1NreUUyOVJSUVkwcHZEQURB?oc=5",
    "fonte": "Gazeta de São Paulo",
@@ -619,7 +767,7 @@
   },
   {
    "titulo": "TJSP inaugura novo Fórum de Vinhedo - TJSP",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01QWZjWnhmcXhQUkU0MVVBVlhKYjhQMldBZ0ZiaVF4X0NwdnVvb2ZTbUNEejJGdjlLcFJXNGpORDBrYTREdm0yUENxMnY2TFR1NE9PMXZoTmJVM0oxYzEtZ0NHbEVURUJrdDhrWDUzVEVVR2NjSVlZUk9n?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qV3dzVVhJV2hSMF9CODRJOThiLVBPLVdlOS1fc1UtWTlFOUpjWXBmOTdoc0plSlNDQ0Q2dGc3QzFhUDNkbkU5VGdUSEdEdllJWmlYUDJjTUVxbjlGTWdoV05aNUFxbnFpRUFqWGRVMm1oQQ?oc=5",
    "fonte": "TJSP",
    "quando": 1794951428.0,
    "categoria": "regiao",
@@ -662,22 +810,6 @@
    ],
    "pontos": 5,
    "hora": "17/11 18:20"
-  },
-  {
-   "titulo": "Tarcísio de Freitas anuncia novo secretário e confirma permanência de outros três e da procuradora-geral do Estado - Jornal Digital da Região Oeste",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUpFeWlzTS1QMUJWcVJaUXlsczVSa29oZGNSQ1o2S2lFZzY4ZU1MZkRPMFB1ZVBqQ1o2QlJRaDJuUXN6VUtFenlXYzRwV0ZxUzNIU2JSOWVnRldweDc1aUtBZVRHMUhwWkJIb3FoVkNYNDMtSEtpYWVRRTR5eHpKNVU2YVBEcWkzWVlZUWE5OFFxR0JQaGpJQXNFUFREWFExWVk3Ym15aGhxY0ZNN3R6WkNIRW9BUmxwWkhacWVSeGo5Z0hkUGNjNlpJYUoxbnVmWlZ0bXJyLVpqSHNqeGd1LTlqZGFNSlZOVlZEM09R?oc=5",
-   "fonte": "Jornal Digital da Região Oeste",
-   "quando": 1794950105.0,
-   "categoria": "estado",
-   "fontes": [
-    "Jornal Digital da Região Oeste"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 18:15"
   },
   {
    "titulo": "Motta e Alcolumbre pressionam por decisão do STF sobre redução de penas ainda em 2026 - A Crítica de Campo Grande",
@@ -749,22 +881,6 @@
    "urgente": false,
    "assuntos": [
     "transito"
-   ],
-   "pontos": 5,
-   "hora": "17/11 18:10"
-  },
-  {
-   "titulo": "Tarcísio confirma cinco nomes para novas pastas do governo de São Paulo - bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmhZX09FVUNTN05US3ZiaUtiV0EwRHpSeXROenExSDdneWV3V0plWWI4c3JXSzlGS0JCMGQxdnBMNHlmZ1FtbHV1TmVKM25kemZ1ZXEycGtPLVE3MWYyUWdqRUYtYXFHSVpudXRWUXlsYWxjc0tpWU9kZmduRldVLWhTVVlEcnN5Z3g3ZXg5MVg4Wm54X2dxby1kYUwxOFdkQmdvVTBsUmx0SGVqWWxzbVNUeXE?oc=5",
-   "fonte": "bra1.com.br",
-   "quando": 1794949800.0,
-   "categoria": "estado",
-   "fontes": [
-    "bra1.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
    ],
    "pontos": 5,
    "hora": "17/11 18:10"
@@ -876,22 +992,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "17/11 17:33"
-  },
-  {
-   "titulo": "Senado adia votação do ajuste fiscal em meio a risco de desidratar impacto de R$ 56 bi - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjlhWFZ5M0JfaTN2aE1GSWthYklRTVlNZHBUV2sxdjBDMTYzaWwxcjlkTVBYT2FNMF9oUnlYTDlZRVM0M05fRGtXbjEzay1uU2lUWlNXMUhqd2Ftdkc4dTJhelJrV2tLd0NaSUNFdHRhUk9FQzNUdXZzdzNfRDJ1WmhqYS05Z2gzZTNxWjY5ZnVpWUdDaWlUNEFlNWY3T3IyZ28tTjdacUpJZmlmRy1WSl81M01EaVZVM0dtMU80Y9IBxAFBVV95cUxOOVZsX1JDRWVienFLak5JREY0RW5HbXJmM2Z4YlJURjJ1Szk0SkE1YWhxWmk5Sng4WUs5c2JKWW1sZ3dKTVdxcXhhbjk2cVlGa3JhUFV0SmpjbnNWZFEtX3ZsdGh2ODVGeWxCWDd3YmZObUJPX19DZk5KZjlrYUtaTlVUbWcyYmRHYm9jTFNPUlNMQkF6SnFGclhWMjZ1b1hWa0FmTmt1RVcwV012MHR1VWg0eUlmRTAtNEZtRVZBRm1BeDhN?oc=5",
-   "fonte": "Estadão",
-   "quando": 1794947548.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 17:32"
   },
   {
    "titulo": "Painel: Líder do governo no Congresso apresenta projeto para taxar big techs - Folha de S.Paulo",
