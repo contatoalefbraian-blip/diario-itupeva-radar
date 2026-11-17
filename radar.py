@@ -62,7 +62,8 @@ PRIORIDADES = {
 }
 # Fontes (analise de 7 a 14/11/2026, 512 historias de Itupeva e regiao):
 # agregadores que repetem noticia 14h+ depois dos jornais: ignorados
-IGNORAR = ["novo dia", "portal sorocaba"]
+IGNORAR = ["novo dia", "novodianoticias", "portal sorocaba",
+           "aprovaconcursos", "meupreparatorio", "ideablog"]  # os 3 ultimos: anuncios de cursos e blogs (Alertas do Google)
 # fontes que costumam dar a noticia primeiro: +2 pontos (pesa nos urgentes)
 RAPIDAS = ["g1", "prefeitura de"]
 JANELA_HORAS = 3
