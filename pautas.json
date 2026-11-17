@@ -1,5 +1,5 @@
 {
- "gerado": "17/11/2026 15:34",
+ "gerado": "17/11/2026 15:39",
  "desde": "17/11/2026 10:35",
  "pautas": [
   {
@@ -43,6 +43,29 @@
    "foto_tamanho": "1280x720",
    "foto_qualidade": "hd",
    "materia_url": "https://g1.globo.com/sp/ribeirao-preto-franca/videos-jornal-da-eptv-1-edicao/video/quatro-investigados-por-acidente-da-voepass-em-vinhedo-sp-confessam-crime-15199627.ghtml"
+  },
+  {
+   "titulo": "Prefeitura de Itupeva: edital abre 33 vagas na Educação - diariodamidia.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQW5WQ2JtSUlRUGdRd0VJNWNRTUdzNWF5LXRMUmhkUEhtUmJENVRDb3pCZTZhcGQyajJZSmJ1V3MyaGliRVhfSGhKeEQyMHRHNVFVeEd3VEZaSXg2WG1Oc0Q2aWQ4LW5JNkplUVlNZFpXd2EwdEYtMmdKZ1FGR2xKNmZLMTNwRk5fX05j?oc=5",
+   "fonte": "diariodamidia.com.br",
+   "quando": 1794933452.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "diariodamidia.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura",
+    "servico"
+   ],
+   "pontos": 11,
+   "hora": "17/11 13:37",
+   "foto": "8ba1541668d5.jpg",
+   "credito": "Foto: diariodamidia.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://diariodamidia.com.br/prefeitura-de-itupeva-edital-abre-33-vagas-na-educacao"
   },
   {
    "titulo": "Prefeitura de Itupeva (SP) lança edital com vagas de até R$ 6 mil - Concursos no Brasil",
@@ -192,6 +215,50 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/17/jundiai-amplia-oportunidades-de-emprego-com-cinco-processos-seletivos-e-270-vagas/"
   },
   {
+   "titulo": "Rodovias da região esperam mais de 2,7 milhões de veículos no feriado - G1",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPREZtdWdFVVRkanF1S0R3ZUNTd2c0RExCYnAzRDZQRnVrSWh6d2szcDlIVTdxU21MNmlxdVR2cjljVjFlcUtXemZ6OG00aDVzbXNZMTdYN21GZVVlcTBFZksyVmZsbGsteU50WFp1SVlCUE03Z0xNR1JoMnZPWlcxMEszZzdOcU5TZG5DUFhrZ1NqQlJoN3M0amFEd093XzU4OXJHa0xYTE1LaGIzWllUaTNqcG5sNkY0UENvdG1oYUh0Q01jTUZ0bFZqb3RVVTF4N2tPZUphX0NiRWRxTzdPS2VXMUxfZGZydldCSXpyc0jSAf8BQVVfeXFMUGV4V2FGWkZrRFVqbmNhSGxsZEU5ekJycmlTWkZnekFUdHpZYXQ2Skg0ejA5ejVWRGFRc3pLMFlRVXAzdms1Q3B6YXVFSUVNdTFZeWlWV1QzMGJPMkVvT05obVN3UndpSVlKWFVFUk42VHJ2OU95Y0FZN2VIeHhvV1VvZTAyQ0ZWeHF2QjR6MWN2V1pBTTY4WHl3OGRVN3E1dURaaG5nQkxyUUMycWQxYzNXdXM1aExMd1c3d1h2aDExSnNycU4xX093R1NlRjlma3RkNlpaRVJQN0tSNUNMQmVnR3o5RVlDeEtTS0NKVUVQMzJZVjVTZW1VRzhpb1pB?oc=5",
+   "fonte": "G1",
+   "quando": 1794931737.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 9,
+   "hora": "17/11 13:08",
+   "foto": "6a5f3b8d1530.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/rodovias-da-regiao-esperam-mais-de-27-milhoes-de-veiculos-no-feriado-15199756.ghtml"
+  },
+  {
+   "titulo": "Inscrições para cursos técnicos gratuitos do IFSP terminam amanhã - G1",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGVsN2gtMnlJbklsbkVDdFZwN3ltc09FOVpwWFZvOE5zM0JFNW8yLVREd0dBQlFDQTkySnlOanFWS2c4TF9nLTY0Zi1EME9WOGJIUF9nTnVUQzQxTUNscUR5dDdEQUFIRGtVZzhMVUxKUnFOMXFKdkpydGV4NVVZRUM1WTJJNno4OVdJOVp1cVBjeHp0ckZ6TEtFQXY4eEVWM1FkYktSbTdMTXVDbHhpZ1FCSF9Zb2hRZEVmMVFTRExNN3VtaVRNUWpYMnVFN3k0bTZDMjcwZ2QybVRtOEl3d21KenBHbmY5WTVySdIB-wFBVV95cUxNQVdkVmFHM05vcElSZjBqdGlzMjNnYXBwWEhHdnBfMUF1RjJnLXhmRDNkRWpISTQ2bHR6dHEwS2pGY2RicEVQWXJmR2lWekVrY3p5a2pfbzhocHctRzRsQ2NGSnBJN2JSVkcwbkVyaWJwQzI1QmFUNHoydEYzM1dlWTZiRFZBLUdLMGZEVjROQnppTG9meUtYZmdldHBNQUZBY3NZLUQtSHR1Q0g0QndCUWlsal9zT2U1VDJZa3Q2OUJiWGZPT2VYQnRkN3VBb25VbDROc0R0ekVHSWN5d0RxT2FYXzA0S1dWTXB4anYwNkNQcXZsTnBhM1NXcw?oc=5",
+   "fonte": "G1",
+   "quando": 1794931374.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "17/11 13:02",
+   "foto": "296a1f529ccd.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/inscricoes-para-cursos-tecnicos-gratuitos-do-ifsp-terminam-amanha-15199733.ghtml"
+  },
+  {
    "titulo": "Dupla é presa suspeita de aplicar golpes contra idosos em agências bancárias de Jundiaí - G1",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY0F4eUJkOWtjVmZMc04ydEFtV2N5NzZhX3JFcDRVM0NsQUhvUl9GZGVsd3ZLb3pVSElOUWJnejBJQUVMTk5lSWJ5X3JqTjY1QjN1WnZMY2dYcEU4anlDOEhLUk55VnJodVhkaG1Lb0hkN290S1E5ZjBsQ2ctUmVaUFF2elZBQzBzcXA2LVBmWXNvTGxjR3NUOG4wTUxHU3hDUzRmUVJld0ROTjhWZDd5cmE4UGJCd0IwZlBENVFyYm0zaWZlbDVWNVpNSkhsV0hLbXR4UGRpMGlpeFJPVHY3cl9YanZOQVFF0gH3AUFVX3lxTE5jZG1HSFNYTE01UzBBSE1Bb2dGQlZVNk5SQ1laN3YwNEtHOGFfTER1TGNiT0Iwbl9CWGFDQlZnUE0tdlBMdGVvblZ3UkpKN1lRNE55WkRUcWhzZjNxUmg5djhLMVhUMHFEWElyMkpJUHNiazU4blhSNUxlZ2pnV2ZPRW4zMWxJdmJYaktDY2xYTDByQ3FqNWdENmNiWUNLUWVjNVk4R0s3SDlVNDFwb2ozazEwd01nLU8xajR0TWdLUUg2TFQ3ZlpRM1l6UHVlZUVNOTV6V1Q4SjBQZmJYS0I4RHl3M19vLVNKNkN0SGdvSEZUWTFCY00?oc=5",
    "fonte": "G1",
@@ -214,26 +281,26 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/17/dupla-e-presa-suspeita-de-aplicar-golpes-contra-idosos-em-agencias-bancarias-de-jundiai.ghtml"
   },
   {
-   "titulo": "Duas pessoas morrem na Rodovia Antônio Romano Schincariol, em Tatuí - G1",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPck5qdHFTUFFEUHA4cEpUTnhyaTJrUzRkM2diMWoyN1RhTEhLVHdkckhGYXpTMlJDMUN0OHpzNGZJY1pWeVJhSFpDSG1Gc1RZVU9Qdnhndm52WE9oRzgyaDBMemFhTFBSQ190MVBNcUxpWW0zZmwwT0syT2Z1eEJxcnp1MEJTVFhNXzFIRy1sVnRaRk8zUnVhRmZPUmVlSHg1UFFabGNGTzh5anFBMjRVRGlZUmdtLUh0RzV0QnpKa3prVGJBQUdLTUNveGdmb3dlYmNRbWh5WThrcUNlRUFFaFVhVGRHNnhZdXpkRjBR0gH8AUFVX3lxTE0taURfa1FiSzBoejVPb09QaG83cHdBaGxnbjFrWWxJNF9YQkRjVzNUTll3SUluc3A4WkdxcnRaZG1MbTg2VVhUN1RCMXA0NS1tamMyaVlLcXMxWmFGUFFDUUxmc2tFdTBzVGQyZlFtRTJkV2pESWN4Y3JheV9rb1FEYlhaZTJhNjk0ZG1VeDZCb19ndUJnSlZ3SnZXZTVncklxU3BMU3pPcHY3aVFyV1NTVC00QWExTWhTdlhUV0hWZTV5ZlRVSzdKSTNZemY2dU0zWjFIaUhFakZRNGdXcUliZk1XTm1FcDFGeVYyLWhxZkRjWmFuZmRHT21DTA?oc=5",
+   "titulo": "Polícia Civil investiga incêndio que destruiu fábrica em Salto - G1",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVjF0RnhLLXNKYXhINmhzZGEzdzcyWU40S3d5NVB4V0pXV0JSWGE1VkRBVy1Sc0FZLW5PWFNnUl9tQ1lCcnhPUXFIbG9oT0RtYmxranhCM1JSUVVPaTJXYS1sNk03M096MzBYS3FsWk1JalZkdU5GUTU0REVHdFRLLVBXcThDcXNLeWVwaWNJUzRJVHZiZmVzWmRTU0lORzFZVHYyMjhjNURuNDZ4Q1pXbkNmYTdPdWFQTF9SV1d4bWxHMzlxMXduNUlvMkFfUi0wYWJ1QldMRHZPYjJqTXVjd1I3dkZpUDZT0gH3AUFVX3lxTE9DREdMR1lQVmpiX3hzMmxSTnJ0LTl5TkY0ajJxWDNsYWN6TGRDWXdYdHc2WkthUTZiS2w0OUxRRnVYMExqQ0RLd3YxOW0zNWZmUTU0ZmZhUXJoQlhyVi1EaDZGVldfUWw0OE84TGF1U0d4My1jZXpqUGFUMlMtUlJCZzl6cUNBWXU3QkJyU095bDZWc1hzdGUtclBjVmpJWG5zMUdMTEtYYW51NG1oeWdtQWJBNVJpMlNieThHY0NsVVRIbmlkNVA3MFVJZ3FiTzhGLU1Xd3d1SlBOVnhDa1pBU3BrSlNQeERPVE9RcXRhbWxNT0ZSa2s?oc=5",
    "fonte": "G1",
-   "quando": 1794930966.0,
+   "quando": 1794931028.0,
    "categoria": "regiao",
    "fontes": [
     "G1"
    ],
    "urgente": false,
    "assuntos": [
-    "transito"
+    "seguranca"
    ],
    "pontos": 9,
-   "hora": "17/11 12:56",
-   "foto": "8097b7e27b65.jpg",
+   "hora": "17/11 12:57",
+   "foto": "310f26d34a2d.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1280x720",
    "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/duas-pessoas-morrem-na-rodovia-antonio-romano-schincariol-em-tatui-15199709.ghtml"
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/policia-civil-investiga-incendio-que-destruiu-fabrica-em-salto-15199717.ghtml"
   },
   {
    "titulo": "JJ: Mulher é roubada e suspeito é preso após lutar com GMs no ônibus - sampi.net.br",
@@ -479,13 +546,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "17/11 13:08",
-   "foto": "681fc8c481b3.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/tn1-destaca-historia-de-drika-martin-presidente-da-cufa-de-sorocaba-15199753.ghtml"
+   "hora": "17/11 13:08"
   },
   {
    "titulo": "Bióloga registra espécies raras e exclusivas da região de Jundiaí - G1",
@@ -499,13 +560,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "17/11 13:05",
-   "foto": "30a02d0208aa.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/biologa-registra-especies-raras-e-exclusivas-da-regiao-de-jundiai-15199743.ghtml"
+   "hora": "17/11 13:05"
   },
   {
    "titulo": "Santa Casa de Itapeva pode fechar 10 leitos de UTI por falta de recursos - G1",
@@ -519,13 +574,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "17/11 12:55",
-   "foto": "2aa93d5d0ce5.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/santa-casa-de-itapeva-pode-fechar-10-leitos-de-uti-por-falta-de-recursos-15199706.ghtml"
+   "hora": "17/11 12:55"
   },
   {
    "titulo": "Não queremos prejudicar empresas com reforma tributária, diz Durigan - Poder360",
@@ -607,22 +656,6 @@
    "hora": "17/11 11:04"
   },
   {
-   "titulo": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula - G1",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOF96ZWI2RjN3MHlDaUdhSzZKNXZwaGZxUmVLQmRFbTBkcC1iRHJzdkdEQ1R4dUtZbHh0MHJYX056TDN5YVZGalFkMW5ySlJ2bUFoU0ZuWmlqV3hudVByQWN1OUhXY1F0SWIyaDNqazZnRzNpSkVERmJmaTdiMGJxREgzMXhyaGw1TzRxd1VKTExqbVNCemFsYzZsMDJFQ1V4OU5hbDlnMXdJUUFOVEtEVDNkWmR1UUppZkdVeFJLdGNoSHhQanVsUjM0TEZwQ2NOY1p1NjE5dE5Udi1XODByOWQzQU9oaDBFSmZ30gH6AUFVX3lxTFBTX0hGSUNXeGlOY1Y1LXk5Z2RRRHRIWHJJWDJSX1kyN1VTTzJiZy1BWno4YlJvVFpHWTdTNWl2T01XeHVQQlVFQlRpUUpvT0ZpYS1MbVBsM1U5V2s5elZrbFFTU3VmR1JXeWR4QmJORzY4QXlWaHRXdnEyc3gtdlNKbHVUYmFGTXgwZGlxSDV1Rkc0V18tZ0VWZmhKamd4TWhTQm9zb2w0Yzg1SW5qNFVRanhxZ01iS3JYUDR6eXA4N0haZnlUaHB1UGsxYVZVeU9ZdXRrQzg3M0k2Z3UxTG5kZV9IWjhfTE1EQ2hZWlVTUkh1Yk43RHNnVnc?oc=5",
-   "fonte": "G1",
-   "quando": 1794924107.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 7,
-   "hora": "17/11 11:01"
-  },
-  {
    "titulo": "Equipe de vôlei de Louveira vence de virada o primeiro jogo da final da Liga de Sorocaba Sub-21 - Prefeitura de Louveira",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMng5STdWWWFsaWV3YnFWQ1Uxd2VzbGIzVWdZOUgzSXNBSXM0Q2VmeUtSakhJVXV2dkM4Z2VXTDR0QXIwLUZ2NEMyR0VHdmRfMzdkUDU0Q2Q4eTVUby1SYVhQRTFkTGdTTjJkS1pGWUUyekNHbm1CUmlHb2k1dUJuZHpHQWhPNUQ4TUR5WnNMbDdUU21OdGRoQ3l6YjI2X1dDNXRHel9FVUJFa0FzSXFxcTdVMG45TkxYMGZTbDQwMG0zX2VqWlFFbjhTaw?oc=5",
    "fonte": "Prefeitura de Louveira",
@@ -654,6 +687,22 @@
    "hora": "17/11 10:35"
   },
   {
+   "titulo": "Governo de São Paulo promove capacitação gratuita em turismo inclusivo nos dias 18 e 19 de novembro - ABC Agora",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aTjVtbFJfUElZeFNDTVh0MUJYT3ZfcGUxSHBPX3N0T1FHMENKbk00VWNxWlR0cGpfUHZLVW1HVG83MGpVaVlERkNyTDdmbVFnRV9WaHRFZDNJUGw1Q3JsMXBRNlZUVG95LUFGeVhNb1FNNlRERXZ0SlBIRGM1dw?oc=5",
+   "fonte": "ABC Agora",
+   "quando": 1794940472.0,
+   "categoria": "estado",
+   "fontes": [
+    "ABC Agora"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 15:34"
+  },
+  {
    "titulo": "Justiça divide culpa após motociclista bater na traseira de caminhão sob fumaça de queimada em rodovia - Diário de Justiça",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0VvRnNZMGcyVUlDcXlYZGtBVGEyMlNwM1BtbndHajJLTVJmWGRPaU5vM0NTbkNod19ETFc0WFVmYjRCN3pPRk8yX2MwUEZOMWFxRGdMcmVoX2hKV3lpaU02YlhSWV9DZjlmRVlISndtZ0VsOC02ZGVZRU1NVjkweU9GUUNhbTlJYW1PbkJjT2FEWS1YRElsQkFlUGhUS2VVRVF2c3JrUVgyT3RZSTg1WlE1WkJENFNLUGczT1h5QVIxbjhkR3V3UUxQSDk0NGFGRGxuSERNSXNhQQ?oc=5",
    "fonte": "Diário de Justiça",
@@ -670,6 +719,22 @@
    "hora": "17/11 15:31"
   },
   {
+   "titulo": "Rodovia Régis Bittencourt prevê movimento intenso em SP e no Paraná durante o feriado da Consciência Negra - Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbVRJVVEwQjR2ek05ZlBBVjRraUJDbldhR2FHSGxlMy1wRmJic3hnQzd4c0haZ0pPWld6VUxhcVdIWUdFQmVFLU8yVm1lbG1kcHYwbV9hV19yR1c4WkF4YVJxNkZEQkpYWFRCLW4yallIVnhYdUt6R1cxV0JyT2gwU1REdDAyams5cnFTZkhyLWt5MXdaNEhpN2cyTnQ4Z2NTTUFJb055UVlkbGJseHhqZXNPNGZVd0J1M2NrVTNoRDFZd1p4SzJIZzQzMjV1eFZMZlBZZUdNYm94UQ?oc=5",
+   "fonte": "Gazeta de São Paulo",
+   "quando": 1794940200.0,
+   "categoria": "estado",
+   "fontes": [
+    "Gazeta de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "17/11 15:30"
+  },
+  {
    "titulo": "Mpox: SP recebe doses de vacina; Saiba para quais cidades elas vão e quem pode tomá-las - O GLOBO",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVzNtZnJ5aERuVEc3S184SWxIMGxaYVJaY1QtMGFmV3JPbEU2TFpBM2UwZ1h5dDNDS3RuU19yZFZQLUE1SFhfVU9yRU45YTJhYlJ1WTdtdDM3dkpkajRHdnRoenprR3pvOGk2WnhzNnJLSHBJR21ibTJaRUF1Z1F5aFptTnBMYTg2NGxhNXBycTFBdTZDU1JicXhqOWxSdEVibFFCZlYtRlRGSmJad29TZDkwRDV6ZDNlalp2dVlrelJKdENUOVFTaE92WFk1MmR1UjBIR25GU0HSAecBQVVfeXFMT04tQW1qbEFtSXV0OU9WRG5ibEJsUEl5Zkw5SkJ2cmxheGROZTZNclV1R1NsOEVoeHF4MGo4dzV1bk5JdnNEOHNsTW9IR0NHbHZCLTVBZGhPS2RYX0NmMkNDU3lqakFJSVo0Qjg5NHduYXVQeHp2QWROdUlZQlFhdGY2Ym9ud1VaZjdUdnRjM3pUNDhpNExEVERHaHhLV1M4eWFNZWVrSkxSdEtrZXVvZDZCM3lackNTSVJkRkI4QUtHRTE1RGVYRnk1V0tzTFNxcGptVHJjOXVzeXg5eU1rVGNHQnF4Sy13?oc=5",
    "fonte": "O GLOBO",
@@ -684,6 +749,22 @@
    ],
    "pontos": 5,
    "hora": "17/11 15:15"
+  },
+  {
+   "titulo": "Ministro da Fazenda diz que pacote é ‘primeiro passo’ e cortes são ‘único caminho’ para organizar as contas - O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdXRyd29lc0JEUkEwcVRJYjBJNi1VSlpKMXl5YjFVTk11RkRZQ0FYT0p5LWVnTURSWkN4WHE0WXpPdS1hVTZ2dWZONjVnemF2bjFkYlBqY01LeEw3YmV3OEZoQUJZa1VMODBacWtlQ0dMeHNXY0tTQmZVWG14TzJoN0lsM21Yd2kyelB4bENpQ1NYSnVxTmlsN3g5RWVsUkNjQ0dlRGFmVDh6ZjFkTndka3VBSUR6Z3ZGcWdTYXNXM2JnMjlWdzllWkt4Z0wyLUR6TVo5S1hnVFlrOEVMRzJMSkZoMDE3WG5ESXRSWlFmTFZ2Q3FIREhyMVl5am5fSHM5YjNxRjM2d2ZRMGZfdTZPbDNjRdIBogJBVV95cUxPTXo3WURxWjNvWUdrak1kdEhtbnowNlBoZHZKeGxsSWNtdzk0Wnc5VHZGU0tzQlVUZzBhRUhWeUlNZUJqSlZpQThmREdSTUhBNTVkS25jcEdHWkNhZEtqdzd2WDVUZTJ1Y3JVRmVGQzFmeG1RTE8tb0o3bGJwVFhONGZhcmhHWHNpUXZWX2hZakVtSXRqUFNsTkcxNFQ3dGtwZk9QTE1QZnEyVFo3U3FoS09mejkxX0VyeUVuVlBfWjh4VWxJMVA1bm82VnhGbFNTSHJOZE5ySlQ1Mm1hMlJDcW9QUlUtWmdubmZneGZfUXBsY2JvQU5mQU1BUTJRZ1VTdGpMS3FVb2hkbHNOWk1Sam0tRExGNHlNSXpBUk5TVFcxUQ?oc=5",
+   "fonte": "O GLOBO",
+   "quando": 1794938949.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O GLOBO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 15:09"
   },
   {
    "titulo": "Reforma tributária: governo prevê imposto médio de 8,5%, mas cálculo de 11,3% gera debate - Transmissão Política",
@@ -716,6 +797,22 @@
    ],
    "pontos": 5,
    "hora": "17/11 15:00"
+  },
+  {
+   "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano - Diário de Curitiba",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORWlDSFg0T0p0a0c1X2xUc1duQWV2X1VBTm1yUEFmUXFjMzRfX2R4eFdNOG9XM1ltekVUd01TcUxGR2FHaUVsNDQyS1lwSzlLcmpMTWJ5NF9SUDlKR2p6ZUdmU1J3aG95N19lZEp6eVk3eVRrODdqVUR5dndtSjFFN2d3b19UcUVpS28xNkg3emFFR3p0R2ZSNnlsZnNiTWFYU3JJRHFoTEhUbkg2QXlVNFBOeDBlNGlUWnc5OWJRcTVoenctX3V2VzU4VTQ3YlhV?oc=5",
+   "fonte": "Diário de Curitiba",
+   "quando": 1794938280.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário de Curitiba"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 14:58"
   },
   {
    "titulo": "Motta e Alcolumbre pedem a Moraes que plenário do STF analise dosimetria até o final deste ano - Estadão",
@@ -826,20 +923,6 @@
    "hora": "17/11 13:58"
   },
   {
-   "titulo": "Várzea Paulista recebe sessões gratuitas de Festival de Cinema Chinês - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWZTLUgyZmxxdmFSVTlaaFZ1YXVXVWdKaDZCaTV5Xy1senAyMzdTZjNvZXlJNVZIODFxWGwxLTJCazRkZnpSbDd3MHp5cV9nbDdnbEVtZ0Vwam4tVEJXeGdFVXFBWUNLNnB2SzFSQ0ZHWWUtc1JDd2MwMFlGaDd0THBQV3kyMVJON05KaVdyMk5qZFN2MXpEUGZKUQ?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794934242.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "17/11 13:50"
-  },
-  {
    "titulo": "Sergio Moro apresenta quatro emendas ao projeto de ajuste fiscal do governo Lula; veja os detalhes - Banda B",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ1M0QS1SN2NnSnRscGtudWNSNWN5a0s2NktYRC13QXZMUzI0ZlR0bXNsMEJvbUVCaDVTSVlDZGRXekt6cjVwaW9rTFR1MFJRZlRJQ3VPd0NsOElZYVMyTWtKLUFCMW54a0kzYm9xaXNnbzVmZHZwTG5xRmh1UzVmZGl5SVlIQXJpTnVDaV9JaDR1a1FzdjUwdEVnVTlpTFd1eU56NHd6YzBpUzdJbU5BNlVXSVNxbWF4SXRIdjlBYWxfQ1VDSWpWZEJWalFvZ9IB0wFBVV95cUxOdVd4dVdtVjdVSzRHRmhBX085aFV0SjdkZ3A3UDd0YUJEYzJmYW91dHozMVAzVmo0S3hBQmdzOTg3ZE9YaEttS0xBb2otcDUtelBMN3ZBbUpTOWdjLWtiRVRnTno1c1NRb1pVVVhUOHEwUGFJNThDb3poM2hYRW9ETURqR0gxN04ycFRPTHk2UVRhVlVCUkJ4WlJqT2dNck84eFBOSzhZV3AyX2lfakJtRzgzZW40OGs2eHVwSkw4X1NGSUZBVGsxSE5GclhPcDZCSXRv?oc=5",
    "fonte": "Banda B",
@@ -902,20 +985,6 @@
    ],
    "pontos": 5,
    "hora": "17/11 13:29"
-  },
-  {
-   "titulo": "OAB Jundiaí promove sessão em celebração à Consciência Negra - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQTdvY2xQTWllSFJqQmlPT1ZWTlV3MzlXdW1LMjh0TXhuTEFUSzBNS1V6ejRaZDVHdmdnaEVmZUxFYklKczdNb242bV9uRU9GT015eHQtV3VKN3l1eVFJdWQxZndjVmRkXzZIaW1tbGNpTzQwSzRQQ3JmSzB2RjJVWV9VdFU5RTBDd0RHc0lXOFFIRm5DamtKQlo1U0dtMHBTV09heHJiZ3QzZ1VVWVpsU0VReC1PMVFDWnVEaFl4U3VoRVFR?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794932619.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "17/11 13:23"
   },
   {
    "titulo": "Douglas Ruas anuncia novo secretário de Educação e promete transformar 200 escolas do Rio em cívico-militares - Extra online",
@@ -996,22 +1065,6 @@
    "hora": "17/11 12:58"
   },
   {
-   "titulo": "Dino levará ao plenário do STF decisão sobre escala 5x2 e mantém transição para dezembro - Jornal da Nova",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFA5TVlWUldhSi0xcjk3ZWhOY3hRSG1fV3FwcXhmcTRtek9uUl9vdjFWNXppYXlRT0N2bm9WYkxjWlhJRFUySENETEVuWENNVWg2RHJUT25kaWctVHQ2RDZlVUNraDRZUHVfTHZJVUZrQVZNTVFJUE9pcjVjcl9fMDhDcmhfb3NCZUZNNVY1azdJWmk1MUJBU0E0aVFmeE1XX1cxS0N1SUxEcjFZMFFwTjZ5Yk1LWDUzMHhaeG55enVhMDNpTG12THdKOA?oc=5",
-   "fonte": "Jornal da Nova",
-   "quando": 1794930000.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Jornal da Nova"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "17/11 12:40"
-  },
-  {
    "titulo": "Covid-19: quem deve tomar a vacina? Quais sintomas? Tire suas dúvidas - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT180UDUtVm1fd1d3UkRCRWN2Q3Fhbm53cHJpeHhlMHdzRDYteHppbm1UTkFaZi1HbHl6V0hoU3llMW1CaDE5SmgteHhpTEhxeXJYN3pCVXR1Y0llXzFGNEtpcTJPWF93cFZURnBWd3lKeVFnTEkyRlNxZDhEU0h3Rg?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -1056,38 +1109,6 @@
    ],
    "pontos": 5,
    "hora": "17/11 11:30"
-  },
-  {
-   "titulo": "Último dia: Qualifica SP oferece mais de 2,5 mil vagas em cursos gratuitos com inscrições até esta terça (17) - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6TkY0OHhYbnVfODN6d0NKLXN1TWk3OUhKVUYxVm1rRTNQZmJ2RGJiTmttY0JrSVd0d3RaeXJIWUg5MThVdnBUYVpVaUhVcjZHRm9WR2ZwX0FkTl9BTE4ybU1UaUlsOTctcHhPdnpjQjdNX0thVlc0eUN3U0J0b00?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1794925631.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "17/11 11:27"
-  },
-  {
-   "titulo": "São Paulo Supera Meta de Vacinação BCG e Reforça Combate à Tuberculose - Jornal Digital da Região Oeste",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXBiSl8xbURJejNJUFF6bFkyMUVFUXBWRDFERC1DcGRZRjhaR1N4enZMNHR6T0lUMHJzWEFKbXVFLThacXZ5VzB5RTVZVXB1Xy1DcnRFZWxSRzJjMlA2dElDeGx3SGFldHZreWoxb0g5NjVGdDZGLVF5aFpaODl3dXdlLXZPS0hCM01pM1BmOExiSldaekFOTm8wSVF5ZW9EMDZnNm5yYTFUSnNiRkVXLXJXbw?oc=5",
-   "fonte": "Jornal Digital da Região Oeste",
-   "quando": 1794925611.0,
-   "categoria": "estado",
-   "fontes": [
-    "Jornal Digital da Região Oeste"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "17/11 11:26"
   }
  ]
 }
