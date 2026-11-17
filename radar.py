@@ -30,9 +30,16 @@ BUSCAS = [  # (consulta, categoria)
 ]
 # Feeds oficiais das prefeituras (sites que nao aparecem no Google Noticias). So os que aceitam leitura
 # automatica: em 17/11/2026, Itupeva, Louveira, Cabreuva, Campo Limpo Paulista e Jarinu recusam (403)
-# e nao sao contornados. (url, categoria, nome da fonte)
+# e nao sao contornados; para elas entram os Alertas do Google abaixo. (url, categoria, nome da fonte)
 FEEDS_OFICIAIS = [
     ("https://jundiai.sp.gov.br/noticias/feed/", "regiao", "Prefeitura de Jundiaí"),
+    # Alertas do Google em RSS (conta do Diario, criados em 17/11/2026) para as prefeituras que recusam
+    # leitura automatica. A fonte de cada item e o site da noticia (dominio), nao o Google: e pista para a Friday.
+    ("https://www.google.com/alerts/feeds/15379187071713204985/11482850764597301117", "itupeva", ""),  # "Prefeitura de Itupeva"
+    ("https://www.google.com/alerts/feeds/15379187071713204985/15056536669026236059", "regiao", ""),   # "Prefeitura de Louveira"
+    ("https://www.google.com/alerts/feeds/15379187071713204985/9171094383665045425", "regiao", ""),    # "Prefeitura de Cabreúva"
+    ("https://www.google.com/alerts/feeds/15379187071713204985/15893226086898182290", "regiao", ""),   # "Prefeitura de Campo Limpo Paulista"
+    ("https://www.google.com/alerts/feeds/15379187071713204985/3066979184139052867", "regiao", ""),    # "Prefeitura de Jarinu"
 ]
 PESO = {"itupeva": 3, "regiao": 2, "estado": 1, "brasil": 1}
 LOCAIS = ["itupeva", "jundiai", "louveira", "cabreuva", "jarinu", "vinhedo", "varzea paulista",
@@ -84,14 +91,43 @@ def ler_url(url):
         return r.read()
 
 
+def _texto(s):
+    """Tira tags e entidades HTML (os Alertas do Google mandam o titulo com <b>)."""
+    import html
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", s or ""))).strip()
+
+
+def _link_real(href):
+    """Os Alertas do Google embrulham o link em google.com/url?...&url=LINK."""
+    q = urllib.parse.parse_qs(urllib.parse.urlparse(href).query)
+    return q.get("url", [href])[0]
+
+
+def _dominio(url):
+    d = urllib.parse.urlparse(url).netloc.lower()
+    return d[4:] if d.startswith("www.") else d
+
+
 def itens(xml_bytes, fonte_padrao=""):
     raiz = ET.fromstring(xml_bytes)
-    for it in raiz.iter("item"):
-        titulo = (it.findtext("title") or "").strip()
+    for it in raiz.iter("item"):  # RSS (Google Noticias, sites oficiais)
+        titulo = _texto(it.findtext("title"))
         link = (it.findtext("link") or "").strip()
         fonte = (it.findtext("source") or "").strip() or fonte_padrao
         try:
             quando = parsedate_to_datetime(it.findtext("pubDate")).timestamp()
+        except Exception:
+            quando = time.time()
+        yield {"titulo": titulo, "link": link, "fonte": fonte, "quando": quando}
+    A = "{http://www.w3.org/2005/Atom}"
+    for it in raiz.iter(A + "entry"):  # Atom (Alertas do Google)
+        titulo = _texto(it.findtext(A + "title"))
+        el = it.find(A + "link")
+        link = _link_real(el.get("href", "")) if el is not None else ""
+        fonte = fonte_padrao or _dominio(link)
+        try:
+            from datetime import datetime
+            quando = datetime.fromisoformat((it.findtext(A + "published") or it.findtext(A + "updated")).replace("Z", "+00:00")).timestamp()
         except Exception:
             quando = time.time()
         yield {"titulo": titulo, "link": link, "fonte": fonte, "quando": quando}
