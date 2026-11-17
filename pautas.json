@@ -1,7 +1,27 @@
 {
- "gerado": "17/11/2026 08:51",
+ "gerado": "17/11/2026 09:56",
  "desde": "17/11/2026 07:35",
  "pautas": [
+  {
+   "titulo": "Sampi Campinas: Servidor morre atropelado por retroescavadeira em Vinhedo - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFpPRjE0R2xrS2xtMFZ6T1NSYVF0MWktenZ5bDNya0VNLVhYUEl2R0lYakFiOU94ZWd0MnNxWjVXcl9kVTNVOE5fMVRfbXNiZEVtUTR2VklheE5Ra1N2QWJ4cEptbTc2VUNnalBHcGZ6VkNqbHVhTlFCUTBNcm02akdsdnlxN3otZmVaQUJfdXoxcUYybGVuOGJ3SWx1RnlTWFZreldPZC1CTm1DNVdOOWU5YU1HOVE1dkczUUhR?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794916051.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 10,
+   "hora": "17/11 08:47",
+   "foto": "da65ea5da25d.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/campinas/noticias/3019169/campinas/2026/11/servidor-morre-atropelado-por-retroescavadeira-em-vinhedo"
+  },
   {
    "titulo": "JJ: Filha de ex-vice-prefeito da região é presa pela PM em Jundiaí - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQTE0dktDaFJWOVZUbWhHR290R19UeElKNXBHaXNMQmFmRnNuZnA5TFI2MDdKQjVBcEllcnlrTllaR1d0SFpacHkxUlA5bWdKX1huXzhhd2pLSVNEdkRhREs3V2JnMk1fY1Vzdmx3d25hc3dSYTluUUNVNnFTcENkWmpOMTNsSWxReC1NLUJfN3BSdG1YZHBiYzlWR0x4YVVVZnU4d0NoTFJCcHNtQV82Q3FGVnFUOE5ENzA0YzVfTQ?oc=5",
@@ -48,6 +68,50 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/17/inscricoes-abertas-para-o-coral-nas-janelas-tradicao-que-celebra-o-natal-no-centro-de-jundiai/"
   },
   {
+   "titulo": "JJ: Homem compra arma e acaba preso: 'eu estava sendo ameaçado' - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlJ2LUttUFFaeG5ZeUxZZWhHUGl3T21CMnBBcWRGaE1NdUdpeVM0ZmlydGdxWGgwQl9vV3daUDk2NDlqRkRLaTROLUUyLUN3dmFlUzkxU0p1R0hNYkt4cGRVSUxxSnhHcVFJSHFMbm9mbGkwLS1ld0pSWm1sTXFJMG5NcFJBRkdmN0NzU1huNTVHdF8zVVhTYzlSdFQyX1BSVUZfaWgtQ2NRc011Smo0Ty1pZzlZTVA4R2c?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794919134.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "17/11 09:38",
+   "foto": "f5f5236599c3.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019164/policia/2026/11/homem-compra-arma-e-acaba-preso-eu-estava-sendo-ameacado"
+  },
+  {
+   "titulo": "Tradicional Coral nas Janelas está com inscrições abertas - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2VtODlZVFFSTmtjaDlCV3JXVG5yZ013akYxbjkwSnpTTnktdVZRUGZJR3I2SVQ0ZTVBTW5ER0hvcWpWNW1oNzdKd3pRQ2xVcWt0ajZRZnRIMnNDcV9wU1FuM1BvZm52ZVgxTURBVlJic00tRl9LeGM0S01NUTJGSGthTjFMR0F1V0ltQ1l6QzA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794917494.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "17/11 09:11",
+   "foto": "28370121f40a.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "792x445",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/17/tradicional-coral-nas-janelas-esta-com-inscricoes-abertas/"
+  },
+  {
    "titulo": "Jundiaí terá sol e calor nesta terça-feira (17), mas chuva volta nos próximos dias - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemNQVzl1aHVoM1pnRW10aXl5a2dsNk9IdktiNGFCc2J4U1Z5S19tdE9MNlpIY284NFZRWnNzUGNvVHl6Rm82VVVqc2loeFEwUzB4RWxBZ0ZnXzk1cEJmMzJwOXZYbFZsZXdVRjZVUU1IS0pzWGY4VGlNamUxN1ZtOExrNGFOa2E4QzZXVlRnM1JJdEZuRUJ5S1A5X2VLZw?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -71,7 +135,7 @@
   },
   {
    "titulo": "Santa Gertrudes recebe ações de conservação, manutenção urbana e recuperação viária - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHZWUlhYQm5YdTVBQlhWQkZxTkpmQk1sZ1VUN19JX0dyZjkzMzZaVEh6SFlrbkJjQ0s3Yy11dVJld2NVNVBSNTZGRkU1MzE3UnRnV3dzNW9fNFpQcE1KTzJRNWNkSDItREI2ZUN3OTJiS3VlbmdkZkdqZEprdVRDYTViZ0k2bXlaZzhCZWlYTWxIeWVCYXNGeU9LSnA1NFRSTTQwV01hX0xsNjRrT09fbjhkT2o1SnRTdmVyRjZZM3E5UXluNnlVUw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUzA0QzdDX2ZUdi1ITUxsb2doZTlCU3VJNnpiR1Azd3NyakNiOElVTFBlcGtJU2pwdnI4ekFKUk90RU9HZUNBLVdpdFltQllDb0lhMWJ1Qm14T1VTcXBQcksyZXFkYTE0cEh5RGd4dTBrUEdqNGdZY1pMMzJjUVh6SGtCZm9COUV6TkdQdnBncVYxcF90SVpHZDFGWmVWaWROTEtwRXpmb1FuX3hvc3dvaGFLZHZHVWIwRU90M01WUU5sS2VKbHJKX1RLdXpjaGQ4c2tpbW15S000RjI5enZ3MA?oc=5",
    "fonte": "Prefeitura de Jundiaí",
    "quando": 1794913200.0,
    "categoria": "regiao",
@@ -88,6 +152,342 @@
    "foto_tamanho": "1600x1067",
    "foto_qualidade": "hd",
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/17/santa-gertrudes-recebe-acoes-de-conservacao-manutencao-urbana-e-recuperacao-viaria/"
+  },
+  {
+   "titulo": "Senado reage a ação do PDT no STF que pode tirar quatro deputados do Maranhão - John Cutrim",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG5ydzZSS1M1dEkyOGZ4N0xEbFJlMm9GOHZ6SVNaY0NHWWVSenBjaUU0T2RXNVlyR21CZTg2NEJxdWdwdC1mdjZCVlpOdmpZeEVHRFE3MWV6RktkaWsyc2tCSXExTXJIM0ttMEEyXzlrWm1qODhpRjVlMXRLMG1tQ19WS2JYeHBMT0dud0kwQ19BUHNsWU9kQWk3TzlEWUo1UmlQT3duVQ?oc=5",
+   "fonte": "John Cutrim",
+   "quando": 1794919447.0,
+   "categoria": "brasil",
+   "fontes": [
+    "John Cutrim"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 09:44",
+   "foto": "2e8b6fad2c4f.jpg",
+   "credito": "Foto: John Cutrim",
+   "foto_tipo": "materia",
+   "foto_tamanho": "399x404",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://johncutrim.com.br/senado-reage-a-acao-do-pdt-no-stf-que-pode-tirar-quatro-deputados-do-maranhao/"
+  },
+  {
+   "titulo": "Leitora tem veículo bloqueado em estacionamento próximo à estação ferroviária - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFVjVFZfa1FSTlAwOTNfZlFnR0ZLcXdqcUdIdlNIZnBsaW1IQXdMR293VXJhYU15R2VNa3lmR2Exd2xrQjZNSXdlNHNXY2tnWldRTUo1Q3c1ZUNmNnBJWDNGRkp1R2JQMkFXLWpmTko4RmxBUXBIUHBOQ2QwLVFMSThWM1NPMGg2Q25sNDNWUVVmdjAzeFFqSDBqby15SzI0UHRCU1BqbUh6RXc?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794919368.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:42",
+   "foto": "0162da2292ac.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/17/leitora-tem-veiculo-bloqueado-em-estacionamento-proximo-a-estacao-ferroviaria/"
+  },
+  {
+   "titulo": "Estado de SP tem 16,9 mil vagas de emprego nesta semana; confira - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTm9uRXNRdVBxZGNSeDRXYnJYejNvWk1jM3hfR01FMHFmeWdpVzFkZjB3TU0tT1J5NV81OWR6cmw5eXE4c3k2NkV4UWdRLVFqWFhNZ3lZUGRNQkNvVW44dFE5Z20xMHp0U1EzRzZpMlNtS1RmMU1TTlZ1d1FoT2R0bnFvNm1pUk4zWUZtYjdLYy1FRFBvcU9zamthdUZrQldlcG5mZHBlRGtnRV83R0NoVg?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794918680.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "17/11 09:31",
+   "foto": "99fe54d2e3f3.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x420",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.agenciasp.sp.gov.br/desenvolvimento/estado-de-sp-tem-169-mil-vagas-de-emprego-nesta-semana-confira/"
+  },
+  {
+   "titulo": "JJ: Moraes barra visitas a Bolsonaro - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUm9SRklQZ1ZJRzdQR0F5OWQxdW5KZ21tS08weE5TaEtWUXdtWHJXbDBSNlh4MGlMUmFWZTlwclQ1MVVmbW55LUdCZGQtMG50ekJfRjlDbTNRSUg5YXVtUWNFWTM3YXN3N0dHT3liQjdwUWVoSlhqU1VXQWh5WU5ZQ1FlODBucktocFNIRjFNU0Q0bm9NelRWQnRMNA?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1794918600.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:30",
+   "foto": "7e84b0b1e939.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019120/politica/2026/11/moraes-barra-visitas-a-bolsonaro"
+  },
+  {
+   "titulo": "Prefeitura de Itapetininga SP tem inscrições abertas para 255 vagas - JC Concursos",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0NhY29sZVJaa19vWVlGX2hGakRSMU9IR1RSSkd2UGNud0NFYThSMEsyY3BMcnk2Mk9yaGc5V2ZRQkxFb2RIU3RjTk1wUll5SGJvMDl2Y054bkVTZTctSUtiOXZ6VkVtNUVZZW5YQ2l1bW85NzZRUHRITVRIYjlTNTBVZkt5SFdJUmpUVndRcjJ2aVhoQUtUY19MakZVLUVGMjNQZ1ZfSVlDRmRZNURycldZbVJOOHM5TlHSAb8BQVVfeXFMUFFnejV3UkVxdVZTd2s5ZjBpMXNQNFBQcFZDUm8zeE1VaXV2MDRzSzY1cHQtVkVVRmJNWVdwTkhEYndiZ0xCR2pIcG8xMU53TGkzU08wSHV6TzItbXRqeGt1ZkkxMnJBbkNyTGMtOVlicE92cHF5SUg3ckp5bDJlWWhkeU55S21KNXhkYVpuV1VtNVJRY25KNXEwZmRlZXhHQzRDOTJIdXBpX19pUnoweFd4OVBjU3dBSU9lcEpqaE0?oc=5",
+   "fonte": "JC Concursos",
+   "quando": 1794918480.0,
+   "categoria": "estado",
+   "fontes": [
+    "JC Concursos"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "17/11 09:28",
+   "foto": "307a645127e4.jpg",
+   "credito": "Foto: JC Concursos",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jcconcursos.com.br/noticia/empregos/prefeitura-de-itapetininga-sp-tem-inscricoes-abertas-para-255-vagas-146621"
+  },
+  {
+   "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnZjUWtCSjN1WjZiRFc1ajdPZWlhVjAyTF9fcmxxeUgtaEZ5ZkxieHVsQUhBWHpPNWpPMDFScTM5aHQ0SlE3Qjl2YTNzaDhfbV9nQkg4R1FBc2tXYjNKZWxDR1dTRkhOaU14VFdjRWNIMDlZUkltbnJ5NnZuZ1o0VXNjcklKbHpFTGJReVNyZHdFd0ZmcXc0UjI5aGlDdjlTbGc3Uk9abUVZVWJ1bzQwS0RqMHJVMFZCeEFsYg?oc=5",
+   "fonte": "TVTEC Jundiaí",
+   "quando": 1794918300.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVTEC Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:25",
+   "foto": "7b3323a4ea30.jpg",
+   "credito": "Foto: TVTEC Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x702",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/17/caravana-de-natal-da-coca-cola-tera-novo-trajeto-em-jundiai-veja-o-percurso/"
+  },
+  {
+   "titulo": "Maxi recebe Encontro Fusca Clube Jundiaí nesta quarta (18) - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWh6RHFza3djWGExSjVudS1mMXlrdnFBckN4Z2xWUUpHQzJwRnBEQU45dm9tbG1ZcVB1OUM3RmJMc0VUVVd6cFFJNENheUxvb01ESEtwTGgtSW5xWlYzSU42VXJ0SlJpMTJXazlaUmhSalIxaTlZckktV2JzS1BmdXFGTmNFU3VZb0QwcEZGNA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794918171.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:22",
+   "foto": "af2b702332cb.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x890",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jr.jor.br/2026/11/17/maxi-recebe-encontro-fusca-clube-jundiai-nesta-quarta-18/"
+  },
+  {
+   "titulo": "Senado debate alíquota de novo imposto da reforma tributária e pedidos para adiar início da cobrança - Região Noroeste",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclNzQ2xnRGVKNUxJRFBaQUYyMWNSenk5dUxWYW9GNzEwWGh3Uk14eEtxX2hLVTNPNUpPcTYtZ20wYV9oUWhzM1F3bnJwWGhJVUlHTDQ1NW5fX2NxbmhOajFMS3p0dnZqSzNqa2dvOFVtSng0UDZaUUd3TFBxb1hOZkw3bEpfOG5LMGtLR3JsQkVnYzNLN2xpajNvU1VfLWhQWUd5bHhMN25hbVAxclFJX1RieW5FNmduNjVrRlpaaHRaT0dPSFFv?oc=5",
+   "fonte": "Região Noroeste",
+   "quando": 1794917760.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Região Noroeste"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 09:16",
+   "foto": "91a00146f9bd.jpg",
+   "credito": "Foto: Região Noroeste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1170x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://regiaonoroeste.com/senado-debate-aliquota-de-novo-imposto-da-reforma-tributaria-e-pedidos-para-adiar-inicio-da-cobranca/"
+  },
+  {
+   "titulo": "Operação da Fundação Florestal de SP devolve 12 pinguins ao mar - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzS2xESUdFT1ZiZUhRcExQdGxqck9PMWg0S3R2T3N6eHRjSjd5d21mR0dmdmxINEs3NzlYb3N0U3hmRUR1ZVZIaUNxaVEtLVhBRUptQTU5LVUyS2d6UnBTdXlvbGZQajBtLWlLanpoS19ULThQVXg1Yi1UazJVM00?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794917311.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "17/11 09:08",
+   "foto": "79f6b10f231f.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "927x530",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.agenciasp.sp.gov.br/meio-ambiente/fundacao-florestal-pinguins/"
+  },
+  {
+   "titulo": "‘Quem Ama, Cuida’ chega ao Santa Gertrudes com mutirão de serviços - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVVyaHFXa0tRMnJHMUJxaGpjUGdCV2V2VGRORi1Bd1Eya2ExekVBWHlPWDR2RGFfUTRjT2FxRDlEaGtHRGpIYW41eFNPc0M2X2hIWDZwSFcyNEY0S2RjQl9Kc3cxc0t5WVZobFN2MUpIMG1Md2JKbU1mdVlQNnJuNm40eWN0VjR3WU44TjlRZDZKVThFZXI3UQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794917217.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:06",
+   "foto": "d782c8bfd794.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/17/quem-ama-cuida-chega-ao-santa-gertrudes-com-mutirao-de-servicos/"
+  },
+  {
+   "titulo": "Ministro Dario Durigan discute alíquota da CBS em audiência no Senado - Metrô News Jornal",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2hpRG8ya1otRlNadFFVbDNtTUlEQmthQk1ycVRBYjM1SE84R1JNUGZycmRnSXYwOU9YUHZ4aWZuczdvZ0ptVzlCRGlkbkJtNFFsX3BkdG5WZGs2N3NMTFNHWjVyV0NYM3RINFBwenlPak5rTnVkV19RV3gxWUNpc0tzOUpPZkFZMmVpbGtnbW9Wdk9aM3N1Y2R5U1JjQQ?oc=5",
+   "fonte": "Metrô News Jornal",
+   "quando": 1794917160.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Metrô News Jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 09:06",
+   "foto": "f22c18c08a67.jpg",
+   "credito": "Foto: Metrô News Jornal",
+   "foto_tipo": "materia",
+   "foto_tamanho": "695x506",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://metronews.com.br/ministro-dario-durigan-discute-aliquota-da-cbs-em-audiencia-no-senado-2/"
+  },
+  {
+   "titulo": "União da Vila Rio Branco prepara lançamento do enredo para o Carnaval 2027 - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk5CTFVYUkNuTlQxWVFzTVY3M3M3V2xLMzN1SEdrSHhMckVYM3BteEpkbllLc21FY2wxeVMzMWZrM05ROEZDUktoRnN6LTFYakNYYV9maG8yYTRDaVczSERNYmpqX1lld2k4SWpiYUM1QVB2Um05QlBoejRkaVVnLUpTTF9FRXdkekJUZDZ1UXUwQjByQjZCWlpwWFJuYzVPaktIOWszVQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794917036.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:03",
+   "foto": "4cace147179e.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/17/uniao-da-vila-rio-branco-prepara-lancamento-do-enredo-para-o-carnaval-2027/"
+  },
+  {
+   "titulo": "Mulher relata ter sido perseguida por ocupantes de carro preto em Cabreúva - Portal da Cidade - Cabreúva / SP",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2xNVnYtemd3RnBUOEo1VDN2aHVuQl9lRGh1dWdDYWtReTZrV0txODY1M0ZYQnB4dmNsSFpEWGNkcjV3dW9oX0ZkU085TmxVbkhxQVhRQl9VT1NkWmZhX2FOc3ZrUmpfZkc0RUxEdnAwLXNmMnFOV3JYSkFiV2dkcGNBSG5tNVZoVTBsT0h1VnhqN3c0V0NFRTB0OFQyb081czd4YUs5NFdZLW5ITDhnS1dQMFgzczZzTGx5aEIyMVpFcjBsYnhqTi1lUnVVUQ?oc=5",
+   "fonte": "Portal da Cidade - Cabreúva / SP",
+   "quando": 1794916860.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal da Cidade - Cabreúva / SP"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 09:01",
+   "foto": "07818d683054.jpg",
+   "credito": "Foto: Portal da Cidade - Cabreúva / SP",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://cabreuva.portaldacidade.com/noticias/policial/mulher-relata-ter-sido-perseguida-por-ocupantes-de-carro-preto-em-cabreuva-0348"
+  },
+  {
+   "titulo": "Jornalista apresenta de Jundiaí programa online que une o futebol e a música do Brasil - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3VIeU4tRFliNDI0YlV1aW1fUWZPN1BLTTIzb3Z0TVJMUTZldTBibnRtc0hFc3o1dlYybUhHWFc1TXdVNFRib203S1lXM3lpOFN1Sk5uUzBxZVl3ODRRaGYzOE1GclNHRGpkcVRHRWFkWnBIR0NQSzhfanJJbFFfSkhfcGw1YllQMmxQZTZ4RV9nejlYdzgtRkhCNWZaaVZZbEptcjdkOUxFSVNNdTVRcjcxXy1FMU0?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1794916710.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "17/11 08:58",
+   "foto": "ac09b969d0cc.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/17/jornalista-apresenta-de-jundiai-programa-online-que-une-o-futebol-e-a-musica-do-brasil/"
+  },
+  {
+   "titulo": "Lula tenta evitar racha no PT sobre corte de gastos com reunião de emergência na Câmara - www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONlVvX3NHaFlPbnJTTFdjS1FCcUdfanptSzhPNUZHV2Z0eTVPbzNQemdxX1NBX3pwVFRPUjUwZGc0TjZsaHdVSlFBNUx5MlEwZkZnRzg0WU05WkRoYjBBeUR5dmx6RjloNDdPUlRfWEN2V21lcWlTbld3RWZIZDctaU1hdVhNZmxua2JSZWQ4cHkybHNieVdvbjNYeXg5SUZyb2FIWm1ldTNZS1FUeEpFdXVjYV9fRjdicndxWHhHUXo4UlFnY05xNVJ3?oc=5",
+   "fonte": "www.bra1.com.br",
+   "quando": 1794915000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.bra1.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 08:30",
+   "foto": "6b5d28c2f880.jpg",
+   "credito": "Foto: www.bra1.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "500x300",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://www.bra1.com.br/politica/id-727426/lula_tenta_evitar_racha_no_pt_sobre_corte_de_gastos_com_reuniao_de_emergencia_na_camara"
+  },
+  {
+   "titulo": "Senado decide hoje mudanças no ajuste fiscal de Lula - Real News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWdtLUVwNzY5Xy1uS0VLVmFHYmVCRXdzYmpYLU1XQ3oycllaSDlpSmVBWHdmb1FaOXBUVkxRZGNiU3BRUVBYekg3c1ZDZzVESi1IT1hfSmQ3bDk3UTBaclZ6YjhEV2hyVTZhT3ptQWdoSV8zTGg1UTYtY2pHRkNxMjRoUQ?oc=5",
+   "fonte": "Real News",
+   "quando": 1794914885.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Real News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 08:28",
+   "foto": "3423c9049e2b.jpg",
+   "credito": "Foto: Real News",
+   "foto_tipo": "materia",
+   "foto_tamanho": "856x570",
+   "foto_qualidade": "media",
+   "materia_url": "https://realnews.com.br/senado-decide-hoje-mudancas-no-ajuste-fiscal-de-lula/"
   },
   {
    "titulo": "Durigan explica no Senado nesta terça (17) alíquota de 11,3% da CBS, novo imposto que começa em 2027 - MEON",
@@ -112,6 +512,44 @@
    "materia_url": "https://www.meon.com.br/noticias/brasil/durigan-senado-aliquota-cbs-11-3-reforma-tributaria/"
   },
   {
+   "titulo": "Deputado Antonio Brito afirma que Congresso terá protagonismo nas reformas econômicas e defende controle dos gastos públicos - Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPckpNYkdYcTNSRUxLa2hXN1RPVFpsMWxUYVY3NFB3TDJVOHNQQ2Jfb3k3WVI0UXMwSkw3aHNrajlIX2JIMEhwYjlpLTI0bHMxWFo5Z0ZmRkZVSy1uSDFIRjE4YlhKb2ozLThoOHJwZ0taWWVEaVYtb1FHdmJINTFvVndKMnU0SzlOQW03c3MzeS1NNDRKR0NaNEVIR3BoZGpXNHp6bHZuVzVNRUhibW5yVXVqSFNlLUszY3NwRU0zaUhpZE5ZRXd0ZFZBT192VE42WkJ3UHZFX1pfTEVveDFVSkNDLXNwM2NqYVFXeGRkbXBkakx3RHpXLTFB?oc=5",
+   "fonte": "Jornal Grande Bahia",
+   "quando": 1794914411.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Grande Bahia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 08:20",
+   "foto": "28e940dbce1d.jpg",
+   "credito": "Foto: Jornal Grande Bahia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://jornalgrandebahia.com.br/2026/11/deputado-antonio-brito-afirma-que-congresso-tera-protagonismo-nas-reformas-economicas-e-defende-controle-dos-gastos-publicos/"
+  },
+  {
+   "titulo": "Governo de São Paulo propõe R$ 4,6 bilhões para o Centro Paula Souza na LOA 2027 - Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm1UdUxaTEtKTm9WUjZFYXJfZEZfNVF6Wnh6TENEdnBzMjZoMktPRE5CMUhPNGNxb0tXSmNVbW5MT3Vad3o5TzRGU2F0YmlJUHhYV1ZLNjlMVkxURWY1RWFFZnRua1NoQmt5MGRUOHlYVm5OaTAtVzl2Q2RnTkJlbEhPWFBIQmtOSUJVVWJuVHJpU0NPcm5INm4xWHNUQzBvVWIwZllILUNxU1lRQlE?oc=5",
+   "fonte": "Brasil Inovador",
+   "quando": 1794914110.0,
+   "categoria": "estado",
+   "fontes": [
+    "Brasil Inovador"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 08:15"
+  },
+  {
    "titulo": "FAEP pede ao Congresso rejeitar PL que tributa LCA, CRA e CPR - Gazeta do Paraná",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVJqS2lCV0kwLWhHc3ZDVGZuSlh1dFV4NF9xaW5pbXQxcTZSRlBZOHlJMmt6bW1OUFRSd29UdnhubTZTc2hseURqSzgzYXhPZTRnQ1JpYmlZZmdDek1KZnAxN2cyYWk1NWVac1RPdUMwQmVKWkFxX0I4RmF1dTZweU9uOFhZOWpwVG1kRkdwOGdOd3RweXN2WkcwYjRxVkMzTlUyZTJIMVJFZnNLZzYxSXlOeEtBWnh3N3daMA?oc=5",
    "fonte": "Gazeta do Paraná",
@@ -125,13 +563,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 08:12",
-   "foto": "d2da6325b844.jpg",
-   "credito": "Foto: Gazeta do Paraná",
-   "foto_tipo": "materia",
-   "foto_tamanho": "588x441",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://gazetadoparana.com.br/agro/sistema-faep-pede-que-congresso-rejeite-projeto-que-preve-imposto-sobre-lca-cra-e-cpr"
+   "hora": "17/11 08:12"
   },
   {
    "titulo": "Governo explica imposto de 11,3% no Senado; indústria e advogados pedem adiamento - www.bra1.com.br",
@@ -147,13 +579,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 08:12",
-   "foto": "15ec6683cb19.jpg",
-   "credito": "Foto: www.bra1.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "500x281",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://www.bra1.com.br/economia/id-727408/governo_explica_imposto_de_11_3__no_senado__industria_e_advogados_pedem_adiamento"
+   "hora": "17/11 08:12"
   },
   {
    "titulo": "Ministro da Fazenda defende alíquota de 11,3% para novo tributo - Tribuna do Paraná",
@@ -169,13 +595,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 08:07",
-   "foto": "804fcf91d075.jpg",
-   "credito": "Foto: Tribuna do Paraná",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.tribunapr.com.br/noticias/economia/ministro-da-fazenda-defende-aliquota-de-113-para-novo-tributo/"
+   "hora": "17/11 08:07"
   },
   {
    "titulo": "Presidente Lula veta dispositivo que impedia bloqueio de emendas parlamentares impositivas; Congresso decidirá sobre medida - Jornal Grande Bahia",
@@ -191,13 +611,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 08:00",
-   "foto": "da254e3a8962.jpg",
-   "credito": "Foto: Jornal Grande Bahia",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://jornalgrandebahia.com.br/2026/11/presidente-lula-veta-dispositivo-que-impedia-bloqueio-de-emendas-parlamentares-impositivas-congresso-decidira-sobre-medida/"
+   "hora": "17/11 08:00"
   },
   {
    "titulo": "\"Rival\" de Kassab, braço direito de Tarcísio tem futuro incerto no governo - Metrópoles",
@@ -213,11 +627,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 08:00",
-   "foto": "5038b31da69e.jpg",
-   "credito": "Imagem ilustrativa: Federação Paulista de Futebol / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1064"
+   "hora": "17/11 08:00"
+  },
+  {
+   "titulo": "Governo cancela a concessão de R$ 10,2 bilhões de cinco rodovias - Diario de Cuiabá",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeEl3Y3J3UmJIcm5rcmNQNDR1c0ZtT01yamEtYVVKYVNOUW9aOXhLSWpOYkdJeUNPWElBdlByUjZma0VYdXdEMTNaMWZGbm9hNk0wTWhoaUpSMkI1cDNuZ0hxSGptZlBwZ1NUQ2Y2YmtaaEZGN0hfdGJ2dHFJU3dmNURMN2JPa3BQZ3FVQjVXNUdFRmlHR2x5TUU2aUhBY2J1bFZfSU5tM0luNEdWNExtNDhR?oc=5",
+   "fonte": "Diario de Cuiabá",
+   "quando": 1794913200.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diario de Cuiabá"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "17/11 08:00"
   },
   {
    "titulo": "Perto de São Paulo, cidade de Jarinu oferece colheita de morangos, passeios a cavalo, vinícolas e queijarias para conhecer em bate e volta no feriado - Gazeta de São Paulo",
@@ -231,13 +657,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 07:45",
-   "foto": "7612edef6f4f.jpg",
-   "credito": "Foto: Gazeta de São Paulo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.gazetasp.com.br/turismo/perto-de-sao-paulo-cidade-de-jarinu-oferece-colheita-de-morangos-passeios-a-cavalo-vinicolas-e-queijarias-para-conhecer-em-bate-e-volta-no-feriado/"
+   "hora": "17/11 07:45"
   },
   {
    "titulo": "Tensão no Senado: Governo enfrenta questionamentos sobre alíquota da CBS - Plantão Brasil",
@@ -253,13 +673,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 07:39",
-   "foto": "054a347c4c7c.jpg",
-   "credito": "Foto: Plantão Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/163948-tensao-no-senado-governo-enfrenta-questionamentos-sobre-aliquota-da-cbs"
+   "hora": "17/11 07:39"
   },
   {
    "titulo": "Palmeiras projeta retorno de Veiga em 2027 - Tribuna de Jundiaí",
@@ -273,39 +687,41 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 07:38",
-   "foto": "89a458267695.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1263x710",
-   "foto_qualidade": "media",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-projeta-retorno-de-veiga-em-2027/"
+   "hora": "17/11 07:38"
   },
   {
-   "titulo": "Instituto do Câncer de SP promove ação na estação do Metrô Tatuapé para conscientização do câncer de próstata e saúde do homem - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRC1FNktaWWt6S01FTkVkYjBFNWtjd3NTTW5WNEtsM2oxUmE0dzUzZjRtSEF1eEo3a1JKWmVlU0ZXNWlnWUhSWURRZWN0cmZFV2otb09KaWlsbWVGV0xpSWVoX0E2NUcxc2d4OE0yRXpFbDJleThiZGg3SWVodDNnSThPLV9Lb21tVTZEUHpOVkJJRWlreUFlbUdZZzlfbXZ3Q09scUxMeWl4SWNWOElzNTVVeWpMbzdhWk1Jbmo2ZExNNE4zT0FsUm1RVXB2RHl0VTR1ZnlkYlprSkNJNk5HYVBGYUNxR0kxbm05elFtTTZoZDkxTXA0Yw?oc=5",
-   "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1794915254.0,
+   "titulo": "Corredor de umidade provoca alertas de tempestades em grande parte do Brasil nesta terça-feira - Região Noroeste",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN3QteXE0QVFyVnMtSXRRZk1MSlE2UnYzRmc1ZlBfVHFwUjB1MnRNVE1lUG5jRlV3cnRQMTVnOURXbDU2VEF4WFNNYklzbi15OW5BaURzMWhhcW9zWFpxZzRUbVpEMVZNRGRDSDcwMmtUZFdKSW5sTkwyWElVb0ZRSm8zWEdVWVFMSVhZZWYtTFJMX1hYaHIyMXpid0lkWDl0Wi1tdEtSMW5wMVhVamVqTWNNbGNkbW1MTF8wSGtENA?oc=5",
+   "fonte": "Região Noroeste",
+   "quando": 1794918000.0,
    "categoria": "estado",
    "fontes": [
-    "www.agenciasp.sp.gov.br"
+    "Região Noroeste"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "17/11 08:34",
-   "foto": "2671ef9fa9d9.jpg",
-   "credito": "Foto: www.agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x747",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/saude/instituto-do-cancer-de-sp-promove-acao-na-estacao-do-metro-tatuape-para-conscientizacao-do-cancer-de-prostata-e-saude-do-homem/"
+   "hora": "17/11 09:20"
+  },
+  {
+   "titulo": "Ecovias Imigrantes estima circulação de até 318 mil veículos em direção à Baixada Santista no feriado - BS9",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONk9mQkVKeHhiZW9qM1BGaUJMdGIzbkxfaW56OTQyd2hzWXZRODBmcnNiRy1DOGhqU0NKYnpPb09YT2NWXzU1UDVxYUVIZGRxM3A4azZNaEpuZ1F6NVJ2V0JpdWhWemRnQkFpOHpNc2J5QVNZdTZFSkZUTHBRaHd5Y3hmckFyNnpjM2xybzRyMjBDLU9aeUdCOHVoOHBkQ2hrcUR4NTVsVFBHTnFkdzkwYlhlY21ISWJJSGFYdVRJaTdRNkpUZk5mdVRrSUIxd0d6MHFjMnpKS1BYcnh3NFE2cTh3?oc=5",
+   "fonte": "BS9",
+   "quando": 1794917118.0,
+   "categoria": "estado",
+   "fontes": [
+    "BS9"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "17/11 09:05"
   },
   {
    "titulo": "Natália Portinari: Doria foi consultor do Master após sair do governo, mostram mensagens - UOL Notícias",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOWlwRnBNMy1QaG1KYXdLN3VvZVlDNWI3U3ZPMmJRNkM0VTFQLVFYUzctOWdYV1VyRUt4ZjhRNkZMOFU4eVU0RFJRWk91Z09EbldBcWhjYzF2c3RyZlk4YUNYZzloa0pxUGg1ZDNHZFYzY2dFX01JWHM0QlpiV000NU41ekJWOXRwaUMta2xTc0VDbGM2ZEFnVy1hdnQyZEtHMElvbG5IS0tGem5HVXFrMFE1MGNZX3YtNGRJenZhWnFfYVRCbGdmc2JGeVBNZjFmLWJv?oc=5",
    "fonte": "UOL Notícias",
-   "quando": 1794915109.0,
+   "quando": 1794916942.0,
    "categoria": "estado",
    "fontes": [
     "UOL Notícias"
@@ -313,17 +729,13 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "17/11 08:31",
-   "foto": "64de9cc89a74.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "17/11 09:02"
   },
   {
-   "titulo": "Maior campeão das Paralimpíadas Escolares, São Paulo defende título a partir desta quarta-feira (18) - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmxEc0VzLUpmNWktOWFXUEpUcXlycVBHVHJNTVIwVzVnNWVLWkdHMnMwbVZJb2ZMZFhMRVljajgzUERlS0xpQS1kenM0elJjcDVvUUowMjNqWGg0dmVoRXM2Vjg5UEtITDg0cERDNnVWN1FLdXN3ajlMYnZaeUE0YWx3cm16R2VMUFdFRWN1a2MyeWwtTXdTVTlyYXBpZEZ4NGJ2VlVQallaWmg4cmlRYkJrLUhqM1REMW0td3ZuWngzdERFVDBfSDYtLUFGYkV5Zy1ERWpn?oc=5",
+   "titulo": "Casa em Dia: CDHU realiza plantões de atendimento em Itaí nesta quarta-feira (18) - www.agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zMld1dzRnVUxUVkFPWi02N3dGcnBURFJuMUlhcDNWOXM1YmdxWU1Gd3g0clhvdDNBR3RsMUp3NUhRaVNEUlI3TjlFbGJrSFBNZGEzYjEzbnpUREcyanM4LTFPRVBWQnJqUkhFeE92cllTdUk?oc=5",
    "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1794913680.0,
+   "quando": 1794916440.0,
    "categoria": "estado",
    "fontes": [
     "www.agenciasp.sp.gov.br"
@@ -331,13 +743,49 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "17/11 08:08",
-   "foto": "65eed925a3c6.jpg",
-   "credito": "Foto: www.agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/esportes/maior-campeao-das-paralimpiadas-escolares-sao-paulo-defende-titulo-a-partir-desta-quarta-feira-18/"
+   "hora": "17/11 08:54"
+  },
+  {
+   "titulo": "Icesp Transforma Metrô Tatuapé em Polo de Conscientização pela Saúde Masculina no Novembro Azul - Jornal Digital da Região Oeste",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2FLTzVETDRWYk5ZbDVMeDFoR1RKZkFndHl1dlU4czEtR2NJaHNhWHJPN1ZKdi1DQTBNQ2pfYjlyWjltMzYwNjFQUEt4SmtVelNRakJXUERUR0ljQzljbDFGb2o1RTlzWWVnT1loM0R5MDhCYkJzOHZ0T0pLaXpZZ3pWNV8xTjhGZVRLejdZOHdSd2R6T1BHd0hhNE1MRk1ZMGw4YklFX2ZyaWdGUEQtRUtxRTEyVy1rQURfU2Y3c1NWY2V1bk1sS0FUdEkyUlZQQjVkag?oc=5",
+   "fonte": "Jornal Digital da Região Oeste",
+   "quando": 1794916352.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Digital da Região Oeste"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "17/11 08:52"
+  },
+  {
+   "titulo": "Instituto do Câncer de SP promove ação na estação do Metrô Tatuapé para conscientização do câncer de próstata e saúde do homem - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRC1FNktaWWt6S01FTkVkYjBFNWtjd3NTTW5WNEtsM2oxUmE0dzUzZjRtSEF1eEo3a1JKWmVlU0ZXNWlnWUhSWURRZWN0cmZFV2otb09KaWlsbWVGV0xpSWVoX0E2NUcxc2d4OE0yRXpFbDJleThiZGg3SWVodDNnSThPLV9Lb21tVTZEUHpOVkJJRWlreUFlbUdZZzlfbXZ3Q09scUxMeWl4SWNWOElzNTVVeWpMbzdhWk1Jbmo2ZExNNE4zT0FsUm1RVXB2RHl0VTR1ZnlkYlprSkNJNk5HYVBGYUNxR0kxbm05elFtTTZoZDkxTXA0Yw?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794915254.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "17/11 08:34"
+  },
+  {
+   "titulo": "Maior campeão das Paralimpíadas Escolares, São Paulo defende título a partir desta quarta-feira (18) - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmxEc0VzLUpmNWktOWFXUEpUcXlycVBHVHJNTVIwVzVnNWVLWkdHMnMwbVZJb2ZMZFhMRVljajgzUERlS0xpQS1kenM0elJjcDVvUUowMjNqWGg0dmVoRXM2Vjg5UEtITDg0cERDNnVWN1FLdXN3ajlMYnZaeUE0YWx3cm16R2VMUFdFRWN1a2MyeWwtTXdTVTlyYXBpZEZ4NGJ2VlVQallaWmg4cmlRYkJrLUhqM1REMW0td3ZuWngzdERFVDBfSDYtLUFGYkV5Zy1ERWpn?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1794913680.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "17/11 08:08"
   },
   {
    "titulo": "Da ciência à inclusão: mostra apresenta inovações em tecnologias assistivas em São Paulo - agenciasp.sp.gov.br",
@@ -351,13 +799,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "17/11 07:47",
-   "foto": "f3a0ea79c642.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/social/mostra-apresenta-tecnologias-assistivas/"
+   "hora": "17/11 07:47"
   }
  ]
 }
