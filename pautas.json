@@ -1,5 +1,5 @@
 {
- "gerado": "17/11/2026 06:56",
+ "gerado": "17/11/2026 07:58",
  "desde": "16/11/2026 16:35",
  "pautas": [
   {
@@ -80,6 +80,28 @@
    "foto_tamanho": "1600x1200"
   },
   {
+   "titulo": "Inscrições abertas para o Coral nas Janelas, tradição que celebra o Natal no Centro de Jundiaí - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnpNMWFpcjNUUHozSVdXa2NWdEhlSHBybGQ4NERDZk00SERmUVRDQ3U4X2Ezam5zZHFmcFVWYmdwR3kyTkM1c3gxUHZwcklJOUtZeUJIQXZzdHdwMHh6UEdhbnh6V04zQ1FGdXN2c3FUNmtDSEs5S1pSU3pqYi1XT1lZTXVpLXcxSmtMZ3BzbFJ6ZUZ4UmNucnZ6TWpVb19ZdHE0WFpzbVlrSEo1ME5teTRnVW1kamV5U2ptTzdhaVNFa2NQeWNDYXVsZ2NtTHJlLVB4LWNJaw?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1794911820.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "17/11 07:37",
+   "foto": "42e681d10d7a.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/17/inscricoes-abertas-para-o-coral-nas-janelas-tradicao-que-celebra-o-natal-no-centro-de-jundiai/"
+  },
+  {
    "titulo": "Despacho com o Prefeito Ricardo Nunes, Secretária de Planejamento e Eficiência, Cibele Molina, Secretário Adjunto de Educação, Samuel Ralize, e o Secretário Executivo de Educação, Ronaldo Tenório. - Prefeitura de São Paulo",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRTZpd3FBeUUwaGV4ZEpiOWZJR3ZNdHR0aEFVZFptZ2F5U1A4alVtbnVBVXphcV81ZzhCLUZIYzl2enhKVmpjQV93cllMcktuTl9RamtkVDBwc3BsWEg3Rg?oc=5",
    "fonte": "Prefeitura de São Paulo",
@@ -101,24 +123,47 @@
    "foto_tamanho": "1600x900"
   },
   {
-   "titulo": "Homem é preso após xingar, agredir e ameaçar matar a esposa - Olhar Itupeva",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWt0VE04eHRRbmRvS3VMcWNkZEtKX2RoSU1TNllsdHhTX01zc0tRaV9fSjQ4MkZmM3ZnYUFHV0FRTHh0dGlfRDZZbkhfRU1tWW5xWlZrcXUzWTR4R0tKb2xNMnByV3ZZVnRBX3FXMnNCM1F3OUJ4Q0pIX0hUd20zc0VpSjNVSkhGUm82NDl2bEFyU203dmRFdEhJakNkVzZGLVg1OVRmbXl0c01l?oc=5",
-   "fonte": "Olhar Itupeva",
-   "quando": 1794869836.0,
-   "categoria": "itupeva",
+   "titulo": "Engavetamento entre três carros deixa um ferido em rodovia de Sorocaba - G1",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDZhZlhOcVN6bDJUeE9KdTZvaHNCXy13THo2Nm1fMGZvZDlhc09LNEM5NVJMVnZJa1A0MkluZDI1VU5hQnBidUZOT3V3eTU1NVNvQ2xTV2VvNHhiOWczdHYtQnlyYlJLQVdFZ0c3SlRhd05henRLMFB6VGpGVlg1VVhNUlhJZVJ5b1BXS0czckVDVnhmczlQSVVZRkwxSkk1S2dKS3h30gG0AUFVX3lxTE1LU21Ya2JGZVlpYk5UQzZNRmFGYWxrVTJQMFJzWFptWXNqSXZoTUdhU0RSUnphM2QwcXFvQjgtT1U4cExjT0pQdTNDZEpVdTlmejdCUm9WbWE1UGp4MWV1TDB3M3RZOFZYZzVkZURlLUVVS3FTRzROR3VRaXloSkQwRHctY05jS0Jza0x1a25XOWcwNkFvR0dEQlA1MDV0QTFZOHF2dm56R2RNbkZlRkdmS2ZMMA?oc=5",
+   "fonte": "G1",
+   "quando": 1794869983.0,
+   "categoria": "regiao",
    "fontes": [
-    "Olhar Itupeva"
+    "G1"
    ],
    "urgente": false,
    "assuntos": [
-    "seguranca"
+    "transito"
    ],
    "pontos": 9,
-   "hora": "16/11 19:57",
-   "foto": "3d36f2da89ba.jpg",
-   "credito": "Imagem ilustrativa: Tony Webster from Minneapolis, Minnesota tony@tonywebster.co / Wikimedia Commons (CC BY-SA 2.0)",
+   "hora": "16/11 19:59",
+   "foto": "912e77cf123c.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/16/engavetamento-raposo-tavares-sorocaba.ghtml"
+  },
+  {
+   "titulo": "Senado aprova projeto que prevê vacina contra herpes-zóster pelo SUS para maiores de 50 anos - A Voz da Região",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUU1dEhlZ2cxOE9UX2FhWmJwaGVoYVNwcDRYdFBpbVlwMU1IX2dkT3ltOEJ5anJEOUV2UHJwWlktdTM0S1BrQTFGbkVzSVQxb2VWRjFfZktLeUdFX251YzJsdjJYUDlDVmJ0SXlPczBRcnVNbjJ2MGF5ODAtMzhfRE4xZHRNQQ?oc=5",
+   "fonte": "A Voz da Região",
+   "quando": 1794866656.0,
+   "categoria": "regiao",
+   "fontes": [
+    "A Voz da Região"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico",
+    "politica"
+   ],
+   "pontos": 9,
+   "hora": "16/11 19:04",
+   "foto": "0a1529b41f92.jpg",
+   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1067"
+   "foto_tamanho": "1600x1018"
   },
   {
    "titulo": "Concurso Susep: são mais de 200 cargos vagos! - Estratégia Concursos",
@@ -183,6 +228,26 @@
    "foto_tamanho": "1600x1067",
    "foto_qualidade": "hd",
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/16/vacinacao-em-dia-e-medidas-de-protecao-ajudam-a-reduzir-riscos-de-doencas-respiratorias/"
+  },
+  {
+   "titulo": "Fotógrafo registra combate a incêndio em fábrica que explodiu em Salto: 'Máximo respeito' - G1",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUU0dEcyNkZZLW02YnFOUUhwVzJ5YlNzVTFLOUxXVHRaUFRsWWJ4Ynh2V0lEd0dyWTE4cFc1UHdUZ0JIc3BLTGJFZGNobjJpSE0tdmpjMlcyY1otY2xMb29mUkNDVk1mOW1fQXhCUkR5eWNVTEppM0VIeXAxRE1FWE8zNzVpdzJZbEYzaV9UMEJ2NjE3cEVLTG9MR0VqZW5TNGFlbml0VFhTbTU2ODNhTFVvYWRaTjdiLUtQOC0yWGViSkF5Um1JQzljVHg1WDd6dlE?oc=5",
+   "fonte": "G1",
+   "quando": 1794910904.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "17/11 07:21",
+   "foto": "eecf73bcb7b1.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1270x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/17/fotografo-registra-combate-a-incendio-em-fabrica-que-explodiu-em-salto.ghtml"
   },
   {
    "titulo": "Câmara recebe estudantes da Guardinha sobre ECA Digital - Policial Padrão",
@@ -340,8 +405,8 @@
    "materia_url": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml"
   },
   {
-   "titulo": "Estelionatária de Campinas com 100 processos é presa em Jundiaí - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkpEMUxqSXZTRklqTVRpM3hrdTRPQVVvVU51N1F4bEJubWpuOVN0MzYyWFdpbk1KNFlsdVA4alc2RjNKRnh3eXZOSEFpa1hFTkdPWVEta0NrakU5SVliOV9vYVZ2Y2Uxd1lNSnpQM2VSZXI4dGY3Y3V2YXdsd2lpemxrWkZLaDFLWHBEeFhOQ0F2OHJ5R21LN1dn?oc=5",
+   "titulo": "Estelionatária de Campinas é presa pela PM na Avenida Jundiaí - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkszby12eEkwRGdsUTlpekZlUUxrbGppdWp1ZWJFOEFlLV9jMW1NdWtXTVItblViQW9PMUFEVjhpZlYycUZJM2tXMlA0YV9DbUtRX2VzOG1fUE5wYmZHd3VYX3JnaU9DeVN2VnRtNHlXQ2x1cDJwMDFtcl9XMGlvZHJWSzluX0dwcnhqVkRSYzFmbXVJSFE?oc=5",
    "fonte": "JORNAL DA REGIÃO",
    "quando": 1794881329.0,
    "categoria": "regiao",
@@ -354,34 +419,12 @@
    ],
    "pontos": 7,
    "hora": "16/11 23:08",
-   "foto": "9eec014fca3c.jpg",
+   "foto": "319af3508de2.jpg",
    "credito": "Foto: JORNAL DA REGIÃO",
    "foto_tipo": "materia",
    "foto_tamanho": "800x445",
    "foto_qualidade": "media",
-   "materia_url": "https://jr.jor.br/2026/11/16/2estelionataria-de-campinas-com-100-processos-e-presa-em-jundiai/"
-  },
-  {
-   "titulo": "Lotofácil hoje: resultado do concurso 3831 e números sorteados - G1",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2xjZ0dQWUdXTnZVam0zNUFiYmdUZWstVWhkLTh5aVVTbElWd3pPSUV1VGdDRmEwVW1QTWRsVXgtT0oweFE3QWdSeTROXzZkaG5IR0dzbGVJbmZ5Zm93OXdQanhnVUs1S05waVJ4WkZFX1Fzd042ZGRWMGZIZXZna0s4ZUN2bk9LVGh5QmlsazdVc0MzRS0xNFZ1UlpKM09yVTdfU3JSRXcwZ0doSmZmU0ZobFE5RzNNR0VuR0VpcE1IdWdD0gHTAUFVX3lxTE5KTWJzTmNEa1VHZkEzQXVfQldfMmt1cnAyb1F4c1VpMmdtZ3JkX3Z5VW96a29pdmhYX2FQVlVTSjhLWEkxelRoTDU1cjBuTE9qSjVkQkRPalpNMUozdGNVamtFMlNWYm9rakphNjNtNUNwcUZsRE5qQXQ5S2lETUU0Z01IU1lJeUFDbmc1a21kVHRfU1JRUVJPSUFTbW0tbW5hV2V4NF9YSWl4OG5rU0hiaTVOZ1I0LUd1a0NkR2Z0TW1ySDEza1p2SXNNVU02dEF4aVk?oc=5",
-   "fonte": "G1",
-   "quando": 1794875756.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 7,
-   "hora": "16/11 21:35",
-   "foto": "276ef1a5bebc.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/16/lotofacil-hoje-resultado-do-concurso-3831-e-numeros-sorteados.ghtml"
+   "materia_url": "https://jr.jor.br/2026/11/16/estelionataria-de-campinas-e-presa-pela-pm-na-avenida-jundiai/"
   },
   {
    "titulo": "ARTESP APREENDE ÔNIBUS DA RÁPIDO LUXO NA RODOVIÁRIA DE JUNDIAÍ POR MÁS CONDIÇÕES DE USO - A Voz da Região",
@@ -501,13 +544,7 @@
     "transito"
    ],
    "pontos": 7,
-   "hora": "16/11 19:57",
-   "foto": "6d1337ee37f5.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/feriado-da-consciencia-negra-veja-os-horarios-de-maior-movimento-na-anhanguera-e-bandeirantes/"
+   "hora": "16/11 19:57"
   },
   {
    "titulo": "JJ: 10ª Mostra de Circo, Ginástica e Dança acontece no domingo (22) - sampi.net.br",
@@ -521,13 +558,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "16/11 19:08",
-   "foto": "a10fbea425fa.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3019101/cultura/2026/11/10-mostra-de-circo-ginastica-e-danca-acontece-no-domingo-22"
+   "hora": "16/11 19:08"
   },
   {
    "titulo": "Adolescente de 17 anos morre após cair de moto em pista molhada de ponte que liga cidades de MS - G1",
@@ -586,23 +617,6 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "16/11 17:38"
-  },
-  {
-   "titulo": "Alckmin avalia sete medidas para impulsionar eletromobilidade, incluindo consulta à Aneel sobre tributação da recarga - Cenário Energia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXdrdEpoN3hteEdldzNYNTdqREQ5RlVTUzNFc015VUxSS2xFalAyR3JxdEc1MHRCSHNfR2RHazdOd191UHVLN3FOM1dnU1hhRno0U2lrRFJKVnVXS1NDRGQ5NmNXWVlScEN1LTJnSjFDV3ZjQzQ0b3hESGdCZy1pd05SbmtKaE9wajg2cHZCa2drM09OUXQzWURmQQ?oc=5",
-   "fonte": "Cenário Energia",
-   "quando": 1794861142.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Cenário Energia"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico",
-    "politica"
-   ],
-   "pontos": 7,
-   "hora": "16/11 17:32"
   },
   {
    "titulo": "Incêndio em fábrica de Salto começou após explosão de caminhão-tanque, dizem funcionários - G1",
@@ -682,48 +696,114 @@
    "hora": "16/11 16:38"
   },
   {
-   "titulo": "Brasil está definido para encarar Singapura - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWE52WXI2TkhtSDBOUFBzS1JmR0hFRkF1MW9IaDd4dW0wVVlKLTRqb25zYWZ4VEN1eHdHN19RQjBKdGtITFpaUVN4U0VOd2FmeWJQcVdjd2lRaVEtVE1UNS1MYWlmdllUTW5HbXE0a2pFSXJnWUI3bG9DR0N4T3d2RFZfOEZWR3FXZzZkaWxvYnlaNE93?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794908761.0,
+   "titulo": "Perto de São Paulo, cidade de Jarinu oferece colheita de morangos, passeios a cavalo, vinícolas e queijarias para conhecer em bate e volta no feriado - Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT0RGaHZDbkFkV1BLM0dhUklSLW5NaXFzRmJwTmZLTHk1aFl6cUx6V1Fzc2s4VldUVzNfcjVHYmhwS1RYdGhHekRoai1SRW9WYnQyX0NxN0M3bGJHNW9yRUJzeXVwSEdqcU14T0pwMzJ4Y0YtdUNjY29qMTdCMnZBMThkbm1YT0pFaWUyVHpDLVk4Z2RRY004TWpfNzh1cG00RVdyOXAzcFVVREtGVDVPSXFBUE0xMURvOWFwdEloOUthSzVLU2lZUkVNZXJFM1o1d05BOVZidnRKY2NJci1tVldvSG5qVlQxSzBleTRyVXNsTHBBSENaRDY4a1hGVTFRcTRXR0lYTXdVai1XalF0ag?oc=5",
+   "fonte": "Gazeta de São Paulo",
+   "quando": 1794912300.0,
    "categoria": "regiao",
    "fontes": [
-    "Tribuna de Jundiaí"
+    "Gazeta de São Paulo"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "17/11 06:46"
+   "hora": "17/11 07:45"
   },
   {
-   "titulo": "Resultado da Quina 7169: ninguém acerta cinco dezenas e prêmio vai a R$ 14,5 milhões; veja números sorteados - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tNThYWXRlbDRnZkNtN2tkdU51dUdCY2l3ZFd6bXpsdjRmOHZETDktVk5FU3ZVamxMTnU5eEUwVTRjbklTMmxuSlNpQ01hTFdMZjgyZ1V0UzhqMHZ4dVpudE5mc2x0NzFhcUJZdWtvd1IzMlR2Q0lhazU4cw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1794908559.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "17/11 06:42"
-  },
-  {
-   "titulo": "Catadores cobram tributação mais justa para cooperativas - Recicla Sampa",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnlCc0RBLTBhNlZZekJzaU5CWTdUODZKcTNzeldORXRqYTRFYkh3cHZPWkRHR0xTT1JvcFZwTk50U2lSbXRENXc0TDJvOVJ3NjB6VjMxampBNVU4YVJiSnNLeUhJeU5YejUzUE1lZ0RqZnFKazN4QkNRZm5QemZpTkp1Q1dfaGZIU0FwTDVfU2Z5OTc2NXR5NkIwdw?oc=5",
-   "fonte": "Recicla Sampa",
-   "quando": 1794908180.0,
+   "titulo": "Tensão no Senado: Governo enfrenta questionamentos sobre alíquota da CBS - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXVRdXRmYk9ReVRDaUpuRmM0ZUV4WHZJb2xsNzRKTFRRU091dkZuYVpIekRhck1wQVpEY0w1Z2NIdUI2VWJ1UUh6ZHRXMHBIdW9zcVQ4allzc3ljTlNoT2l3cUNyVUxZMWhId1VLMmxvME56bXpsOGtGSGJtekNSbjRBcC1lZzVkNGNjY1ExWDIxazlLemRxWmg5cVdOOThFdU8tcGZLM2MyNlJOWlpiNE5sTjN1TklH?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1794911977.0,
    "categoria": "brasil",
    "fontes": [
-    "Recicla Sampa"
+    "Plantão Brasil"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "17/11 06:36"
+   "hora": "17/11 07:39"
+  },
+  {
+   "titulo": "CBS de 11,3% será debatida por ministro da Fazenda no Senado - CenárioMT",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjhfWFRJdUhoNGwydE1yX3pVZElRSDVjOHVkdmc1VnQyS0dfV1U2ZmdIZUViS0VSQ0w0c3dpazJ3bDU5U01vOWVFU29NSjY5elg1aTN4UTJQeHRrcjNYdjFHMXlNVUxGVWZyX0d5cUI3cXIwOGh0djQyWE5qSzlwck1qQVJjQUZhWEhnUW9FY3owVWlQUjc1ZQ?oc=5",
+   "fonte": "CenárioMT",
+   "quando": 1794910916.0,
+   "categoria": "brasil",
+   "fontes": [
+    "CenárioMT"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 07:21"
+  },
+  {
+   "titulo": "Durigan vai ao Senado explicar alíquota de 11,3% da CBS - Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenFqeU9yck0yM2F6NkloXzJuc1loNnU2R0JQTUFMMnppMTNnTDNPbTh3WTRrRG5nNkRPTEpqUm0xMWEzR0JGVXNRZGNvZkx5TzRKOWRzcm8wT1NLTGljc1pFamw5T2Nib2c4dDFBQ1JBTFNRcTZycVBaMWxwd3ZxUzZISndxUjhOLVpNMmZDcUVoakhUeHhqM0xISkp6VUZUak14N1d4bkFjbjFPZjRnag?oc=5",
+   "fonte": "Agência Brasil",
+   "quando": 1794910500.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agência Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 07:15"
+  },
+  {
+   "titulo": "O que muda na sua semana de trabalho com a nova decisão de Fux no STF - www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmRDc1JOTklYVEJUd2NHZEU3LUZmTm5ld3dsWG5VN2lUdEhuMjVHSUVWS0NGd09XLTBkRTh1TVp1eVA2UWJpb1NIelRrOW1mOG0zNFVKRVptNV9WRHhoWTd2NC1rbk5lNEF4ZXFvcFRyd2RYZnk1RE56WHpHMVJIWkNaWjVCZ25PWmZ3VjhkNWR3Z2o2VGllaWRpclZEVktiZFJmNVpmNktja3Nxd0dTcnBn?oc=5",
+   "fonte": "www.bra1.com.br",
+   "quando": 1794910140.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.bra1.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 07:09"
+  },
+  {
+   "titulo": "Governo Lula propõe ajuste fiscal de R$ 60 bilhões para 2027 em meio a alertas sobre dívida pública, gastos obrigatórios e desequilíbrio das contas - Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbjhVamI5QVQ4bGxhMm9VaHNFeDFWV3ROT1FidnlCeURkYXM1SVBkUVlfU3AtRHozYWtTY25MN2dHeWZjaTV5TU1FYzFlY0hOd1daOThUNnl3U0xHRkF6LTUwVUlPUm82a25aNUNyZmtVRldUd2YzODRmZUx0Tm5tRUxwM2pQak0yeGFfV2xwc2JJak93dHdlanpCOUJzZTV4NTJlbXBKX29FeGU0dTQxb2ZJbjVUdlZ4QlBKX1MwRHBxTUJveVMtZ2ZCemNwS1lEZTM4b2Q4Rmw0ajRuZTdVampoMVRmT3FTNndxYzZneFVLOWtVcHVwMkhhZlBaT0lRbWJuZDdQR28yMElxQnBaUXZlV1dGZw?oc=5",
+   "fonte": "Jornal Grande Bahia",
+   "quando": 1794909633.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Grande Bahia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 07:00"
+  },
+  {
+   "titulo": "PT apresenta proposta de imposto sobre grandes fortunas - Bahia Na Política",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTUV0emwzNW9GQmZwdl9WQmNTdU1TWk5UZnlnamJ5MzVTNkt4UDZhclBZVWpiZ1dCNkFNckttSmRKa0Q1X09fMTJVZHlkTVVhUGVQanhvVTVodE9sRWx3QmR6XzhfOEpYQUJpRjdrenNPUE5nS0lQNzFZTVFiaEdoR2pMX1dlMVBEenZvN19Tcmc?oc=5",
+   "fonte": "Bahia Na Política",
+   "quando": 1794909000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Bahia Na Política"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 06:50"
   },
   {
    "titulo": "Operação BRAvO intensifica combate a roubos e furtos no extremo sul da capital - agenciasp.sp.gov.br",
@@ -742,18 +822,20 @@
    "hora": "17/11 06:21"
   },
   {
-   "titulo": "JJ: Comentários racistas contra Corte da Uva geram reação em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2pVVkhoRENZSFBGRHRWZWkwSHNEMmMtNFBaYkgxUy1tYUlZal8wMjJuVm9CanQ2LVBzZHZxWW12WDFKT0pzMGNKOHpkemlscVNPS00ycE11aEpkQ2NuWUNaOS1sTnhDMlpOcFltRVJ6Sy1rN1Y0NjNfVDQxM2ktZW5IZzJjSW9xelJ1QnNWVjFGWnJfY1cwdjJVQzZBMjhDeE1NQl8xZFRzMjBHWHdPYWxKbm1lb2o0WjRDM2VCTVFySTA1?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1794906030.0,
-   "categoria": "regiao",
+   "titulo": "São Paulo receberá mais de 500 mil doses extras da vacina contra Covid; veja quem precisa tomar - ncnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TTVNOamZhazdfLWI5QTZDZnRyamh1VnVHQmwyVVFBcGdxOVBHM2RQWXlEUUdveEFESS1meUlSN25RY2ZCQk1Qb25VRkxjT3IyUzZ3RG0yNUxSOU5pR1ZKSXR5empOTmV6Ny0yV1RaZ3YwXzdnajBRdw?oc=5",
+   "fonte": "ncnews.com.br",
+   "quando": 1794904241.0,
+   "categoria": "estado",
    "fontes": [
-    "sampi.net.br"
+    "ncnews.com.br"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "servico"
+   ],
    "pontos": 5,
-   "hora": "17/11 06:00"
+   "hora": "17/11 05:30"
   },
   {
    "titulo": "São Paulo pode ter calor de 28°C e chuva passageira nesta terça (17) - Folha de S.Paulo",
@@ -804,18 +886,20 @@
    "hora": "17/11 04:15"
   },
   {
-   "titulo": "Saúde em Jundiaí - www.correiodamanha.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYkszc2RoWko5eUNHdE1oQkNvOEF1U2hTWE5KNjNxLVBDWVRKZmxRRFJDMWw5UWI4VmhIZmFPUmVlby1tZnk4MHZmUDlzSHB1amZrbDAzQ0phanhHNXRCem1iczRvVld5WTlQbDAxT1dDSWxHT1lBWWt0ZV9kMjA5cUlnUmhJZHJHZ01xWW1seHdQTHRxelFOejJOcU12TlQ1QnczdnA3OWZ0RU9YZEQ3ZXlDSWdVNHJERHRlUFJMRW5KSWdxd0pPZnAxMF96ZjNQbUxlM0RR?oc=5",
-   "fonte": "www.correiodamanha.com.br",
-   "quando": 1794884580.0,
-   "categoria": "regiao",
+   "titulo": "Vereador Chico do açougue cobra do Estado respostas sobre atendimento e obras no HCFAMEMA - Conexão Marília",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNk1OZXdwNTI4aUdvV3RXZ3BnYTdZRlpmVHNxa1Q5TmIwU3h4Nnc3Sjd1NVBBZGxYU2pWbFhsdm1MOFZaMVVvZExwdkVycUwzZHV6SFZPMU9tdzlqY0loRUtGX1dPXzNJZDhxekFUWmVXR3daYTJqM1FocUJQbnZpa3NGckVGdVl0cFNWN1lLcWtCS2ttdlplalJuX0h0TmtoTGJDdjdYQjYtNEh6c1dpdHZtb2JkZ0R5RjNjS0k4cG5DTlZtbmNObERldw?oc=5",
+   "fonte": "Conexão Marília",
+   "quando": 1794884932.0,
+   "categoria": "estado",
    "fontes": [
-    "www.correiodamanha.com.br"
+    "Conexão Marília"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "prefeitura"
+   ],
    "pontos": 5,
-   "hora": "17/11 00:03"
+   "hora": "17/11 00:08"
   },
   {
    "titulo": "Economista critica pacote de corte de gastos do governo federal brasileiro - Правда.Ру",
@@ -834,20 +918,6 @@
    "hora": "16/11 23:43"
   },
   {
-   "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFZSZTJ6c3JEczZqYkNNRE5aOGZKbnBibURhWC1BVVRvLU5rcEtUMlZYSVpvdTA1VmdXMjU4cTBhOFZMUldFQzBzb2RINk1IanliMjNYZktGdlBSYnRWT3RDQzRwRzlGRlk0TmQwX3U3WXdnNjVSaDV1VmU3eUdFTDdXbjUydHhTdFVzZnB1ZkFYNzdLc3FDMDh3VTIzSFhXbXVUQW1GTGVGeWN1dm84ZVkwS2hicjFZR2xScw?oc=5",
-   "fonte": "TVTEC Jundiaí",
-   "quando": 1794879943.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVTEC Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "16/11 22:45"
-  },
-  {
    "titulo": "Saúde envia 500 mil doses extras de vacina contra covid a SP - TV Sim Brasil",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDdYY1loMWd2aHhzZXc4OEpNQW9UYW4yMTdTem9EV2Q0TkdwanBFYnJOb3lMMUcyN2QwWTJBQVl0ZlN6RVc4WEp5c3F6MDlhcmpvUF9Wb0dFMUdOVVFnWHJmMkJVOGM3dVF5TzlUNHA4TVg5UVhSc012OHFHcEQ0M1ZjMERNTFlWNGZndHlmUDlxYXJrcDQ3Z2V6RDFqa1N1WXc?oc=5",
    "fonte": "TV Sim Brasil",
@@ -862,22 +932,6 @@
    ],
    "pontos": 5,
    "hora": "16/11 20:49"
-  },
-  {
-   "titulo": "Projeto prevê imposto de 7,5% sobre títulos do agronegócio - O Presente Rural",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkE2TERHSUdUdU1mWS1yNlpjMmdGRmpUTmZHZFp4cm9rWjhaYUhDcm9DdXE5dUhSVWN0dUsycHltQUFlRElJMGVuTEc4S1Z0Z1RNYVR3Ml85UXhIUWw4eDN4MDVIRUJTTU5oUlRmWDhfa3hkODFDaExQbW9qZWtrQWlaWWFrcHB4eGl2MlMzOTU?oc=5",
-   "fonte": "O Presente Rural",
-   "quando": 1794869456.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O Presente Rural"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "16/11 19:50"
   },
   {
    "titulo": "No Recife (PE), estudantes da UFPE protestam nesta terça-feira (17) contra o projeto de ajuste fiscal do governo Lula - Brasil de Fato",
@@ -896,6 +950,22 @@
    "hora": "16/11 19:32"
   },
   {
+   "titulo": "Alckmin diz não acreditar em esvaziamento do projeto de ajuste fiscal no Senado - UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbG11c2Yydm94N1N5aXplaTdBWHN1eTZ2UmJrQjJCb0tpYkhweVplR2dTVFljQlNPMTJJMjVVMjVQeGlSY3ZKSUVuVmw4VXQ3aGpTRFZ6cGJTMUlPOXlRY2x0QXFYRGZoTDRpY0NsR0lQRXAzUUhMOHdGR2pBMi1nLTlYdXpoUUgtMERSVVJPQzV4V0h5bl9UVjRsY1JoNE1TcWR4eDBNTW1GbHE3RkpGU1VIT1FEVDZQX3lFSGNUX1hYcHl6YUlPcnVfazFCdGlxdm9nSGJjV2lnTW5G?oc=5",
+   "fonte": "UOL Economia",
+   "quando": 1794868260.0,
+   "categoria": "brasil",
+   "fontes": [
+    "UOL Economia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "16/11 19:31"
+  },
+  {
    "titulo": "Ucrânia atacou Moscou com mais de 160 drones, diz prefeito da capital - CNN Brasil",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGp6M2pTUEZGZkRjTmxKUXVsamE4dGlJcFRCUzYtUVpndElHOUpwRkthZUloQ2RIWnhzWGlzaU9mRlNzWUxHQWtjUHYxalZ1cFpLMjBBbktaTXZtUlBHQUhUZkhrckZ1dW5RamY2cU1ZbFh1LWdnX05nM2swV3N4S09senBwelh6bXNXTzNtY1BnX0plMDdLTmNxaTVTcmR0TDhsZEFnVURWcDhRYkVTV19R?oc=5",
    "fonte": "CNN Brasil",
@@ -910,22 +980,6 @@
    ],
    "pontos": 5,
    "hora": "16/11 19:29"
-  },
-  {
-   "titulo": "Tarcísio faz aceno a Bolsonaro e diz que Lula 'comprou a eleição no cartão de crédito' - Terra",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbnVxbzhwQ01qRlJCb1JoZERIcEhxTVVqcThYX1dCdURpWmxFR3ZUYVQyZmFHMkFleFVFWFk1dnFXZHdVeHZSMHdxZWdiaWd5WGV5Yi0wcVhSbWxuZ2tqYW9pNklyZElCNHBQS1d6ZzBORVNDeTM2Q29kZWZuT1RlcFB4VGRjVWZqX3ZzSWZWQ1dZZ2lpQkh6MnpHeHNCbDlXbVVVMEY4QVZQblF0eXVxU0M1cVlIby1pWXp3MEJYaVAzLXhmWUQzNTJOMlEwZXc0NE1iekFMT1o2c0VvZ2QwVUh1TDZLR2NjS25jOUVfYmIzMXBkaUhFVjBsQ1FWSUI2VGV0Rndoek5YODd4?oc=5",
-   "fonte": "Terra",
-   "quando": 1794866340.0,
-   "categoria": "estado",
-   "fontes": [
-    "Terra"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "16/11 18:59"
   },
   {
    "titulo": "Prefeitura lança Bonde São Paulo, primeiro Veículo Leve Elétrico (VLE) da cidade - Prefeitura de São Paulo",
@@ -974,22 +1028,6 @@
    "hora": "16/11 18:31"
   },
   {
-   "titulo": "Ricardo Salles diz a aliados que manterá Coordenadoria LGBT no governo de São Paulo - Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTVFcFR4WnhmVmJRX01iUHVfaEUtRzByM21ibTdTbWRtQXVXZzZKM0xPWlRKc3B4ZjBXUTc5TmxmeGxQbHEyZC1EaVk5ekpWMTc1NEY3Nm9kenRZbm4tdHRWcGtobldGY2RJM3pLc0ZuV3hveWlnVVBRWHlQaXV2cUhWUGNQQWFSNWh6VlRSVndQRWIyTGpDN0xkVXpzTTBWd0VZMXRBVHJzWjFFRDM4RGdETDNrRFNyMUE?oc=5",
-   "fonte": "Brasil 247",
-   "quando": 1794863895.0,
-   "categoria": "estado",
-   "fontes": [
-    "Brasil 247"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "16/11 18:18"
-  },
-  {
    "titulo": "Prazo para regularizar tarifas do Pedágio Eletrônico termina hoje (16) - O Extra.net",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWU50Nmx3NktpYWw1eko5RGVzUmQ1Vy01WkNnc0U0VHJzSnJOQXEzT2RBLTU3RVRfeERyeFFPYkY3RmN2ZVhYZndwUjJGbEZnMnJBdkphV2pYX194dEdQZWhNa2pVVVFwY3FfNGJybUtES2hwbmhNV1ViM0VHMGQ5dTBJRDNHMmNFV3VTcTR2Y3dUQ0UzeHhKcw?oc=5",
    "fonte": "O Extra.net",
@@ -1020,54 +1058,6 @@
    ],
    "pontos": 5,
    "hora": "16/11 17:42"
-  },
-  {
-   "titulo": "Cabo Gilberto recebe apoio de deputados e aguarda decisão do PL para disputar presidência da Câmara - SeLigaPB",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnRUd3VfaEJOUTdyWVVTUXJwQmJ6VnllUVRraTF3YWJOZ19LMXBLX2h1TmF5cTBqV2E4SkI3REJWdHpxbmlRc2tJLWRCNmZhYnhPWjlNenE4X3F0ZjNHckc1UU85eE51ZWF5VVE3U1VJZkhrNWN1WGNvUERCWk9TdlM3R3Zrd0pPREUzUG5nVk1WUnV5NUNaOFhqaEpvTHNTWFJ0Z0U4QzZZZ3N3NUhjSWwwWlVSQ0NHUDRZLV9wVlBGQQ?oc=5",
-   "fonte": "SeLigaPB",
-   "quando": 1794861450.0,
-   "categoria": "brasil",
-   "fontes": [
-    "SeLigaPB"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "16/11 17:37"
-  },
-  {
-   "titulo": "A conta do pecado? Como o novo imposto vai funcionar na prática? - Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFNEMC1pQXZuNWRpakhFZzJFLU5JQzBldjFqUVRpZHV3ZFZjSTB2ejlnUzVXUTJNcUpQX1p5YjdvSHdLRVVuYk5XellOQ2pSVXd4N2ZJVElmNmxpRmgtTS0tTEFiOHZRZ05hazVYSk1TQld0cGduSjgySVRfaE1OcnNMWjBIWXBmR1pOa21JdW95OGhoQVptRUlZMl9NXzdSU3NHcl9PcjNaQ2RIM2h3M3k5a00zX2gzaEROLWROaw?oc=5",
-   "fonte": "Tribuna do Sertão",
-   "quando": 1794859860.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Tribuna do Sertão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "16/11 17:11"
-  },
-  {
-   "titulo": "MGI e UFMG apresentam resultados de pesquisa sobre tributação imobiliária e fortalecimento das receitas municipais em seminário — Ministério da Gestão e da Inovação em Serviços Públicos - GOV.BR",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNOVc0UlhVV2xFLV9sZWlrUFN0X3V4S2p6NE5YVWVxWndDNTM0LW1PenR3VHVEUlhBcWhBUUU2dEVKSF9wSlhhSFROc3lQYWtodWI5VURjaFg5cjR0YWFLQ01nekRWWENxZl9oeG4tM3FFRHAzVWJRTTluQi1nOWNvZVhnVVQ1YWZWRDVHYk5YdHZVMlVJMG5RQ09DUUkxX1JBS09FWXhCbkNFTEtoekxaazFfMExSLURPUl9MRjY4ZVZUaHpqZlVuT2xkdzltQngyNGFfRUF0ZEhoTVYyQjRWbTJFWGhFdG9vTmtCR01DM2RjTUcwanhZdjMtQUVRSGRLTXQwNnR5czlQVlczS3hmRmhLZnUwU1ZLSlZ3?oc=5",
-   "fonte": "GOV.BR",
-   "quando": 1794859331.0,
-   "categoria": "brasil",
-   "fontes": [
-    "GOV.BR"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "16/11 17:02"
   }
  ]
 }
