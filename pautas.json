@@ -1,5 +1,5 @@
 {
- "gerado": "17/11/2026 18:47",
+ "gerado": "17/11/2026 18:49",
  "desde": "17/11/2026 16:35",
  "pautas": [
   {
@@ -342,6 +342,28 @@
    "materia_url": "https://www.gazetasp.com.br/brasil/free-flow-comeca-em-1o-de-dezembro-no-sistema-anchieta-imigrantes-e-tera-cobranca-de-r-2030-por-sentido/"
   },
   {
+   "titulo": "Alíquota da CBS na reforma tributária - Voz da Bahia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeW4wQThoQTFoVzBkQjZxeGJVTWpuajc5anVzc0VIX1V4OGNEY3Z6RmU5a090VDQ4NDZaSlk5ZUJTaVRnVGNaOHRVRWQ2TV9IRkpnbWhBQk1NN1g2cE1MQzFLbHRuRGQxSUZLM0c3OVVhS3oyWnpycFRMeFc1aVkwMHc4TUdpOW9QNTJ1N3NMMWNCVjRFcXpKVGE2M0JITjMydXRlVU5QbmRjYksxTWIyMVpWNktjSXJQSV9pWjJTWHM1c1dKblZB?oc=5",
+   "fonte": "Voz da Bahia",
+   "quando": 1794951420.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Voz da Bahia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "17/11 18:37",
+   "foto": "71251cfbfcf6.jpg",
+   "credito": "Foto: Voz da Bahia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "542x414",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://vozdabahia.com.br/reforma-tributaria-ministro-da-fazenda-participa-de-audiencia-no-senado-para-discutir-aliquota-da-cbs/"
+  },
+  {
    "titulo": "Pacote de ajuste fiscal do governo divide economistas entre corte de gastos e aumento de impostos - News Rondônia",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEk3MGE0aFdDUlIyc3pSVm5KZHl0Q2h2Y3Mtek1KbUJjd1MwdTlQZnpzU1Z4aEVaRHlET2w0UUZ1S0tONDJ3RHNFeENnbVRVMFY3TU4xUmlrN0lRZEFXZ3lWZjVjWXNvWWhlMHdZSDgwMmhVWW1xUDkzNk5LLXEwVmlucWRhVDhQSHRmZjdPUTdhWlJFZ29WbWczUmJnRHlTR2FOV0ptN0lGZU4tV3N2cEJDbnF6NGl1WHBfckozSllXa3ZnOVNERWkta2J2cWs4MWIxMDN1VGtHaGxhbG1j?oc=5",
    "fonte": "News Rondônia",
@@ -527,13 +549,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "17/11 18:09",
-   "foto": "92cc55b04e7d.jpg",
-   "credito": "Foto: MT Econômico",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://matogrossoeconomico.com.br/politica-mato-grosso/governo-de-mt-revoga-licitacao-de-r-102-bi-e-reavalia-concessao-de-cinco-rodovias/"
+   "hora": "17/11 18:09"
   },
   {
    "titulo": "Pedágio free flow começa a funcionar nas rodovias Imigrantes e Anchieta em 1º de dezembro; veja detalhes - A Tribuna",
