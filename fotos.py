@@ -218,7 +218,10 @@ def main():
     indice = json.load(open(idx_path)) if os.path.exists(idx_path) else {}
     dados = json.load(open("pautas.json"))
     pautas = dados["pautas"]
-    topo = sorted(pautas, key=lambda p: -p.get("pontos", 0))[:TOP]
+    # Itupeva primeiro: toda pauta de Itupeva recebe foto, mesmo fora do topo; o resto completa ate TOP
+    ordem = sorted(pautas, key=lambda p: -p.get("pontos", 0))
+    itupeva = [p for p in ordem if p.get("categoria") == "itupeva"]
+    topo = itupeva + [p for p in ordem if p.get("categoria") != "itupeva"][:max(0, TOP - len(itupeva))]
     usadas = {v.get("url_ilustrativa") for v in indice.values() if v}
     novas, manter = 0, {}
     for p in topo:

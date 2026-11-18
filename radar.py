@@ -26,6 +26,9 @@ BUSCAS = [  # (consulta, categoria)
     ("imposto OR tributação OR alíquota governo federal", "brasil"),
     ("corte de gastos OR orçamento OR arcabouço fiscal governo", "brasil"),
     ("Câmara dos Deputados OR Senado aprova OR STF decide", "brasil"),
+    ("Lula OR Planalto OR \"governo federal\" anuncia OR sanciona OR veta", "brasil"),  # politica nacional relevante
+    ("Congresso votação OR \"medida provisória\" OR \"projeto de lei\" aprovado", "brasil"),
+    ("STF julgamento OR ministro decide OR TSE", "brasil"),
     ("", "brasil"),  # destaques do Google Noticias Brasil
 ]
 # Feeds oficiais das prefeituras (sites que nao aparecem no Google Noticias). So os que aceitam leitura
@@ -215,13 +218,14 @@ def main(xml_teste=None):
         p["assuntos"] = [a for a, termos in PRIORIDADES.items() if any(x in t for x in termos)]
         p["pontos"] = (PESO[p["categoria"]] * 2 + min(len(p["fontes"]), 4) + 2 * len(p["assuntos"])
                        + (5 if p["urgente"] else 0)
+                       + (2 if p["categoria"] == "brasil" and "politica" in p["assuntos"] and len(p["fontes"]) > 1 else 0)
                        + (2 if any(norm(f) == "g1" or norm(f).startswith(tuple(RAPIDAS)) for f in p["fontes"]) else 0))
         p["hora"] = time.strftime("%d/%m %H:%M", time.gmtime(p["quando"] - 3 * 3600))
         lista.append(p)
     lista = [p for p in lista if p["categoria"] != "brasil" or p["assuntos"] or len(p["fontes"]) > 1]
     lista.sort(key=lambda p: (-p["pontos"], -p["quando"]))
     # cota por categoria: Itupeva nao pode empurrar estado e Brasil para fora da lista
-    COTA = {"itupeva": 35, "regiao": 25, "estado": 15, "brasil": 15}
+    COTA = {"itupeva": 35, "regiao": 25, "estado": 15, "brasil": 20}
     usados = {c: 0 for c in COTA}
     escolhidos = []
     for p in lista:
