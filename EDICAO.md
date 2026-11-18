@@ -58,9 +58,16 @@ Olhe a arte pronta e a legenda final e aplique **o checklist completo** (arte se
   `{"horario": "AAAA-MM-DDTHH:00:00-03:00", "tipo": "feed", "midia": ["fila/AAAA-MM-DD-HHh.jpg"], "legenda": "<legenda final>", "pauta": "<pauta em uma frase>", "aprovado_por": "Peter"}`
 - O publicador do GitHub posta no Instagram e no Facebook no horário e, logo em seguida, republica a mesma arte nos Stories dos dois (versão 9:16 gerada sozinha; desliga com o arquivo `SEM_STORIES`). Não avise o Alef de posts aprovados.
 
+## 7.1 Site (JARVIS), desde 18/11/2026
+Todo post aprovado pelo Peter vira também matéria do site diariodeitupeva.com.br, sem arte: a mesma aprovação do Peter vale para os dois.
+- Grave `registro/site/materias/AAAA-MM-DD-slug.md` no modelo do site (cabeçalho com `titulo`, `subtitulo`, `data: AAAA-MM-DDTHH:00:00-03:00` com o **horário do post**, `editoria` (Itupeva, Região, Geral, Polícia, Política, Cultura e Lazer, Esportes ou Tecnologia), `cidade`, `urgente: false`, `slug`, `foto`, `foto_credito`, `foto_alt`; depois o texto do Ultron já revisado, com o "O que muda para você" e a linha "Fontes:" com os links). Vaga de emprego: `vagas: emprego`; concurso ou processo seletivo: `vagas: concurso`; prazo de inscrição: `inscricoes_ate: AAAA-MM-DD`. Concurso só de prefeitura ou Câmara da região, ou estadual e federal que tenha saído no radar.
+- Foto: a mesma foto da arte, sem texto por cima, em `registro/site/fotos/AAAA/MM/slug.jpg` (lado maior até 1600 px, JPEG qualidade 82), com o mesmo crédito. Arte com ícone (sem foto): grave a matéria sem `foto`.
+- Post barrado, horário vazio, pauta de política de Itupeva ou polêmica que foi para o Alef: não grave a matéria do site. Ela só entra depois do "aprovado" do Alef, com o horário em que ele aprovar.
+- O GitHub do site traz a matéria e publica no horário. Não mexa no repositório do site.
+
 ## 8. Registro e commit
 - Acrescente a linha da edição em `registro/historico.md` (data, horário, pauta, fonte, crédito da imagem, status: "na fila, aprovado pelo Peter" ou "barrado pelo Peter: motivo") e salve a matéria em `registro/materias/AAAA-MM-DD-HHh-slug.md`.
-- Commit **só** de `fila/` e `registro/`: `git add fila registro && git commit -m "edicao HHh" && git pull --rebase -q && git push -q`.
+- Commit **só** de `fila/` e `registro/` (a matéria do site fica em `registro/site/`): `git add fila registro && git commit -m "edicao HHh" && git pull --rebase -q && git push -q`.
 - Se o push para o `main` for recusado, envie para um branch `claude/edicao-AAAA-MM-DD-HHh` (`git push origin HEAD:claude/edicao-AAAA-MM-DD-HHh`). O GitHub copia a fila para o `main` sozinho. Não abra pull request.
 
 ## 9. Sábado: Resumo da semana em carrossel (rodada das 10h, post das 12h)

@@ -21,6 +21,7 @@ A issue foi aberta pelo radar (`radar.py`) com pistas captadas no Google Notíci
    - `cd /tmp/kit && KIT=/tmp/kit python3 arte.py spec.json`
    - Olhe a imagem antes de enviar. Entregue a arte e a legenda final ao Alef.
    - Com o "pode postar" do Alef: converta a arte para JPEG em `fila/AAAA-MM-DD-urgente-slug.jpg`, grave o .json da fila (formato no `EDICAO.md`, passo 7) com `"horario"` = agora e `"aprovado_por": "Alef"`, registre em `registro/historico.md` e faça commit só de `fila/` e `registro/`. O publicador posta em até 10 minutos.
+   - Grave também a matéria do site em `registro/site/materias/` (modelo no `EDICAO.md`, passo 7.1), com `urgente: true` e `data` = agora. O site publica em até 30 minutos.
 7. Comente na issue o resumo do que foi feito e feche-a.
 
 Commits: só em `fila/` e `registro/`. O resto do repositório (radar, kit, manuais) não se altera nas rotinas.
