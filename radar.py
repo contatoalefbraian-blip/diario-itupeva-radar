@@ -46,6 +46,8 @@ FEEDS_OFICIAIS = [
     ("https://www.google.com/alerts/feeds/15379187071713204985/13905411093742048813", "regiao", "Prefeitura de Cabreúva"),    # site:cabreuva.sp.gov.br
     ("https://www.google.com/alerts/feeds/15379187071713204985/9222473183842410541", "regiao", "Prefeitura de Campo Limpo Paulista"),  # site:campolimpopaulista.sp.gov.br
     ("https://www.google.com/alerts/feeds/15379187071713204985/7981437324247305373", "regiao", "Prefeitura de Jarinu"),     # site:jarinu.sp.gov.br
+    # Camara de Itupeva (site sem RSS): concursos e aprovacoes relevantes. Politica de Itupeva: sempre com o Alef.
+    ("https://www.google.com/alerts/feeds/15379187071713204985/8065251760119095712", "itupeva", "Câmara de Itupeva"),  # site:itupeva.sp.leg.br
 ]
 PESO = {"itupeva": 3, "regiao": 2, "estado": 1, "brasil": 1}
 LOCAIS = ["itupeva", "jundiai", "louveira", "cabreuva", "jarinu", "vinhedo", "varzea paulista",
