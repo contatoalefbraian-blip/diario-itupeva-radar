@@ -2,8 +2,8 @@
 titulo: "Encontrado: Cleiton Aparecido Arcaro foi localizado, diz a família"
 subtitulo: Ele estava desaparecido desde quinta-feira (12); a notícia foi dada pela família nas redes sociais
 data: 2026-11-18T11:45:00-03:00
-editoria: Itupeva
-cidade: Itupeva
+editoria: Região
+cidade: Região de Jundiaí
 urgente: false
 slug: cleiton-aparecido-arcaro-e-encontrado
 foto: /fotos/2026/11/cleiton-aparecido-arcaro-e-encontrado.jpg
