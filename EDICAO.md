@@ -19,6 +19,16 @@ Confira rapidamente os posts das últimas 24h em `registro/historico.md` (fato m
 - O que pede qualidade roda com o **modelo forte**: o texto do Ultron com a revisão da Edith e do Peter (passo 3) e a aprovação final da arte pelo Peter (passo 6). Se a rotina já estiver no modelo forte (Opus), faça você mesmo; se estiver em Sonnet ou Haiku, rode o passo 3 e o passo 6 cada um num subagente com `model: "opus"`, passando só o briefing (passo 3) ou o caminho da arte e a legenda final (passo 6).
 - Teto de buscas: Friday até 4 buscas ou páginas abertas; Dê até 1 pedido de imagem. Pauta fraca não se força: use o plano B ou deixe o horário vazio.
 
+## Modo economia (arquivo `ECONOMIA` na raiz)
+Liga quando o limite de uso do plano aperta. Todos os posts (9h, 12h, 18h, Resumo da semana), a matéria do site e os urgentes continuam saindo, com as mesmas regras de fonte, da Edith e do Peter; só muda o caminho para gastar menos. Se o arquivo `ECONOMIA` existir:
+- **Sem subagente com modelo forte:** os passos 3 e 6 rodam na própria rotina, sem `model: "opus"`. Friday e Dê continuam em subagente leve.
+- **Friday sem busca na web:** escolha só pautas do radar cuja fonte já é da lista do Diário (uma fonte basta) e confirme abrindo no máximo 1 página. Pauta que pediria duas fontes ou busca extra fica para quando o modo for desligado.
+- **Dê sem pedido de imagem:** use a foto do radar (da matéria ou a ilustrativa automática). Sem foto adequada no radar, passe ao plano B; sem plano B com foto, horário vazio.
+- **Visão só com sinal:** pule a conferência do passo 1, a não ser que haja pedido de correção anotado em `registro/historico.md`.
+- **Texto mais curto:** até 200 palavras nas redes; a matéria do site é o mesmo texto.
+- **Mensagens:** só quando o Peter barrar ou a regra mandar ao Alef.
+Se o arquivo `ECONOMIA` tiver a palavra `forte`, também: o post das 12h usa só pautas da Prefeitura de Itupeva, de serviço ou de clima já presentes no radar (sem nova apuração), e o Resumo de sábado sai com 5 cards.
+
 ## 2. Friday (pauta) · subagente leve
 Peça ao subagente: ler `pautas.json` (lista do radar, só com as notícias publicadas desde a edição anterior; o campo `desde` mostra o início) e `registro/historico.md` (últimos 3 dias), escolher pelo foco do horário, preferindo as mais pontuadas (em empate, a que tem `foto`), confirmar os fatos abrindo a fonte e devolver **só o briefing**: pauta em uma frase, fatos confirmados com fonte e link, o que não está confirmado, outro lado, `foto`/`credito`/`foto_tipo` do radar e o plano B (2ª melhor, uma linha). Nunca inventar pauta.
 
@@ -61,7 +71,7 @@ Olhe a arte pronta e a legenda final e aplique **o checklist completo** (arte se
 ## 7.1 Site (JARVIS), desde 18/11/2026
 Todo post aprovado pelo Peter vira também matéria do site diariodeitupeva.com.br, sem arte: a mesma aprovação do Peter vale para os dois.
 - Grave `registro/site/materias/AAAA-MM-DD-slug.md` no modelo do site (cabeçalho com `titulo`, `subtitulo`, `data: AAAA-MM-DDTHH:00:00-03:00` com o **horário do post**, `editoria` (Itupeva, Região, Geral, Polícia, Política, Cultura e Lazer, Esportes ou Tecnologia), `cidade`, `urgente: false`, `slug`, `foto`, `foto_credito`, `foto_alt`; depois o texto do Ultron já revisado, com o "O que muda para você" e a linha "Fontes:" com os links). Vaga de emprego: `vagas: emprego`; concurso ou processo seletivo: `vagas: concurso`; prazo de inscrição: `inscricoes_ate: AAAA-MM-DD`. Concurso só de prefeitura ou Câmara da região, ou estadual e federal que tenha saído no radar.
-- Foto: a mesma foto da arte, sem texto por cima, em `registro/site/fotos/AAAA/MM/slug.jpg` (lado maior até 1600 px, JPEG qualidade 82), com o mesmo crédito. Arte com ícone (sem foto): grave a matéria sem `foto`.
+- Foto: a mesma foto da arte, sem texto por cima, em `registro/site/fotos/AAAA/MM/slug.jpg` (lado maior até 1600 px, JPEG qualidade 82), com o mesmo crédito.
 - Post barrado, horário vazio, pauta de política de Itupeva ou polêmica que foi para o Alef: não grave a matéria do site. Ela só entra depois do "aprovado" do Alef, com o horário em que ele aprovar.
 - O GitHub do site traz a matéria e publica no horário. Não mexa no repositório do site.
 
