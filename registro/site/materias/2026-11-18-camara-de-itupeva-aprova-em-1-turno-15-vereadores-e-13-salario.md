@@ -13,7 +13,7 @@ foto_alt: Presidente da Câmara de Itupeva conduz a votação na sessão de 17 d
 
 A Câmara Municipal de Itupeva aprovou em primeiro turno, na noite desta terça-feira (17), uma mudança na Lei Orgânica do município que aumenta o número de vereadores de 13 para 15 e cria o 13º salário e as férias remuneradas para os parlamentares.
 
-A Proposta de Emenda à Lei Orgânica nº 37, assinada pelos próprios vereadores, foi o primeiro item da ordem do dia da sessão ordinária, que começou às 19h. O texto passou por 12 votos a 1, em votação nominal transmitida pelo canal oficial da Câmara.
+A Proposta de Emenda à Lei Orgânica nº 37, assinada pelos próprios vereadores, foi o primeiro item da ordem do dia da sessão ordinária, que começou às 19h. O texto passou por 12 votos a 1, em votação nominal transmitida pelo canal oficial da Câmara. O único voto contra foi do vereador Osvando (MDB); o presidente da Casa, Marcão Marchi, também votou, já que mudanças na Lei Orgânica exigem o voto de dois terços dos vereadores.
 
 Segundo reportagem da TV TEM, publicada pelo g1 Sorocaba e Jundiaí, a proposta foi protocolada em 5 de novembro. Ela prevê 30 dias de férias remuneradas por ano e o pagamento de 13º aos vereadores, e define que a Câmara passe a ter 15 cadeiras a partir de 2029, na próxima legislatura.
 
