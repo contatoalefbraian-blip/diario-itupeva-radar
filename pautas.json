@@ -1,7 +1,27 @@
 {
- "gerado": "19/11/2026 12:30",
+ "gerado": "19/11/2026 13:45",
  "desde": "19/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "Acidentes em Jundiaí: colisões com motos deixam três feridos - G1",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHl6MVFSNUNONktTeE1qNDc2eGZkcGhBZjBjMzVUSHlRYjU2aEQzZmNlRFUyLWU2TVpIckRUTEZCdmJONTUyeEZ4c2pEZm52M1pxRzQ2dDZ3VVl5UzhmZlh0aUdDRnhTQ3N0SmxxbTJ4aVowZnI3VXdjV2ExT3E1SUU4YkhRRWlOS2ZQQld6MzgzSXJNcWprYW50U1NsaWJZcjdZOUJJSGRZQmI1bE1CVVh6b25kMFhycVE?oc=5",
+   "fonte": "G1",
+   "quando": 1795101427.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 12,
+   "hora": "19/11 12:17",
+   "foto": "885f584a21cf.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1270x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/19/acidentes-com-motocicletas-deixam-feridos-em-jundiai.ghtml"
+  },
   {
    "titulo": "Rodas se soltam de caminhão e causam acidente com ônibus na Bandeirantes - poptvweb.com.br",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekdLTDFlM09Ra1MwaGxhT2ZRTkFoUUkxc2g5LU0xblhCOG9OYzVNZ2ZZTjFtX00ya1pCbWhjSld5cFBldzBWbW5PSFBHa1ZQX0tncWhKdU9kOURvUWI4OHVVeXBMbFFvMmlzWWlLdDBDUTBleDYxMkk5V3FNWjVlMHV6N0FCdDFRamZsQXBYR1ZhRmZSb3ZpU1ZOb3JGZw?oc=5",
@@ -23,6 +43,28 @@
    "foto_tamanho": "1320x693",
    "foto_qualidade": "hd",
    "materia_url": "https://poptvweb.com.br/rodas-se-soltam-de-caminhao-e-causam-acidente-com-onibus-na-bandeirantes/"
+  },
+  {
+   "titulo": "Operação contra fraude de empresas tem mandados em Itu - G1",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdXE3eXlVbzNCUjFtUV93NWcyUnZqOHBTUzJVeDFWb3kycUwwUFhmM2JWX2xFNkhFa0w5ZXJweFBsOTg2MGhDbURyWGdQVGI0U2NnR0tOZmRQOTB0dXE4a2NWTXJZSXRsV1FKY3Rjd1REUTZLZHpTQVZGcXlZdVYxYmZPYjlZWjhvSG0zYktEN0s1WXpRT3BVXzRqd0w1czRxVm4tZmo5MTFwTkhDU3ZzZTN3cFRPWHZxRHV0dlpVdlctNTFNV01TZHF0cndBdjEwdTQzYW04bGJFclNZVVk0bVVDQmU?oc=5",
+   "fonte": "G1",
+   "quando": 1795104433.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "19/11 13:07",
+   "foto": "a88827fe9711.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x700",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/19/policia-investiga-fraude-de-r-5-milhoes-envolvendo-empresas-de-produtos-hospitalares.ghtml"
   },
   {
    "titulo": "Feriado prolongado será marcado por tempo instável e possibilidade de chuva em Jundiaí - Prefeitura de Jundiaí",
@@ -47,6 +89,90 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/19/feriado-prolongado-sera-marcado-por-tempo-instavel-e-possibilidade-de-chuva-em-jundiai/"
   },
   {
+   "titulo": "Jundiaí (SP): Dois acidentes de moto ferem três; um está grave - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdWFYVkhTX0VlR0E0SGs1RU9xR2tVaGVVSUJFdU9kZjF5TldIUjEtYU1xS1ZLdmFodFN4ZjJZQlhTa3phUjJkQTI5TWhHRGNLQnlIWHZ4X0ZPMHhnOWRRd3hkSS1iNS1kaUl6TWpDU19RTkxWRG1oVGtmZUFHakd6MlBXWF9MT1dNOGVwS2FjT3UwNjlVTkE?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1795104045.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 8,
+   "hora": "19/11 13:00",
+   "foto": "eeb0ac70ac74.jpg",
+   "credito": "Foto: Diário do Estado",
+   "foto_tipo": "materia",
+   "foto_tamanho": "984x542",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodoestadogo.com.br/jundiai-sp-dois-acidentes-de-moto-ferem-tres-um-esta-grave/"
+  },
+  {
+   "titulo": "Quatro chilenos são presos com arma de numeração raspada - Jornal de Vinhedo",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDViTzFFaVVhdmVNNGtfOE1HREdJZ3p4RUtMaWJ2QWVoQjJkREZoRkRMQ3dVcExZUm1GTy1qSTJmWXdySzRrbHJTSkI2T0ZfeXVIN0tPcDRvdGU3T2hBNG1YRWlHSW1UTWRLUzJ4dDdZbjc0WEpHVU9VM3NDaC0zVmNuVTMtUVBQajJIWkF4ODdiUQ?oc=5",
+   "fonte": "Jornal de Vinhedo",
+   "quando": 1795106260.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Jornal de Vinhedo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "19/11 13:37",
+   "foto": "65c5071cf9c0.jpg",
+   "credito": "Imagem ilustrativa: Mat Fascione / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "800x539"
+  },
+  {
+   "titulo": "JJ: Linha 7-Rubi terá operação diferenciada no feriado desta sexta - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnB0V29QV0pkTDBwNzFoMGtKcDh4NmF1bGJnb0ZkVWVXd3g5TlU4OEhjTmQzRm41aGhPVmtoWXpxcDdLRXB3bGFmR3FZYi1qUnpfMUdRLVRmenZzb0M2MTdrRTlxSnBycGRDZGNzSGJWdW5nZWdaRjlERnRTVjk1dFduUlBPOFEyWS1pQVVGNHM5T0pMQjBmOURBdzNQRjE3U3NwT2lTN0J5ZUJTRVdiYndmVGtVS2tkOVphSGVGYlQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795105969.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "19/11 13:32",
+   "foto": "1ee9e3653211.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019832/jundiai/2026/11/linha-7rubi-tera-operacao-diferenciada-no-feriado-desta-sexta"
+  },
+  {
+   "titulo": "JJ: Feriado em Jundiaí terá sol com nuvens e previsão de chuva forte - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1k4bG9XOGczaHdLend6RmFpZFF0SXZka2VkVXk3Z2FOSW5YSXpVSzMzalpwTUFLUGJjZkVQbHU2SHRuMU1rdWhkUlg3M0xoVjhXektqMWJVb3lDUFZXUThNYW1qNEdiZklTaGVoLW9xS1RfdGNRdXZZS0tRYktvMS1uclNaQ2FsVGNoN1hXMVZYU0wtVzFkeS1kVUxGMVR6eXF4WlVJeUhSZ20xTHVRUUluMjNYbzE0Ql8tak5BYVA0UzFQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795103833.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "19/11 12:57",
+   "foto": "dd338662052b.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019822/jundiai/2026/11/feriado-em-jundiai-tera-sol-com-nuvens-e-previsao-de-chuva-forte"
+  },
+  {
    "titulo": "Prefeitura conclui nova rede de drenagem e pavimentação da Rua Francisco Nano, na Vila Progresso - Prefeitura de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWVYwaHRhdVE2eFZFUlEwem9BRzh5U1JWRlE3TDFYSHlyRmpFMEZHeVhKUGJhVTBzZEV3UVZySHhtek5ZbGRZNS1VZXF3Y0xVU3JFZ3N3c3ptdzZwdlp6Y2RqMEJqRUk2Q0dKZDhJVXF6cTFjMEJXQnB6cnZrbmo4VHdnd2w3bGFSUzBTOHFYYzctUXhydVhaVGJhVHRUYXpnY3FVc1J2NmFDVGVLVTd3d2lNYnd6UDZGaUdjenJMTWRyRU5LQ29KRGIzMjV3U3N2bXRHREFmeEI0UQ?oc=5",
    "fonte": "Prefeitura de Jundiaí",
@@ -65,6 +191,28 @@
    "foto_tamanho": "1600x1067",
    "foto_qualidade": "hd",
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/19/prefeitura-conclui-nova-rede-de-drenagem-e-pavimentacao-da-rua-francisco-nano-na-vila-progresso/"
+  },
+  {
+   "titulo": "Linha 7-Rubi muda operação em Franco da Rocha e Caieiras no feriado - Conexão Juquery",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDJLUV9aemFySXp3ZDd1NjdFUjVzWXJ1V2U3cFU2RjN2UWdudVBjLWRNdkItWFZxelZ1aEkxSzBEeU52NjdmeDlVU3BoYXRBWTQ3SVhHRFh1ZFJkRktBSmdjc0hxVE5NYkpLSFIwU3U1dVpHZUJPaFFuek05TzJMUW9TT2NlZXY2Y01VclRac0RvS2xEZDhoUmRjRUJVcFVvU1FfMWNzQnU?oc=5",
+   "fonte": "Conexão Juquery",
+   "quando": 1795100400.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Conexão Juquery"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "19/11 12:00",
+   "foto": "2e59f26ff4b2.jpg",
+   "credito": "Foto: Conexão Juquery",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1024x470",
+   "foto_qualidade": "media",
+   "materia_url": "https://conexaojuquery.com.br/noticia/linha-7-rubi-muda-operacao-em-franco-da-rocha-e-caieiras-no-feriado"
   },
   {
    "titulo": "Consciência Negra: rodovias de SP esperam 2,1 milhões de veículos - Portal Tela",
@@ -107,6 +255,29 @@
    "foto_tamanho": "1600x1201",
    "foto_qualidade": "hd",
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/19/jundiai-recebe-reconhecimento-estadual-por-projeto-que-fortalece-o-protagonismo-dos-jovens-nas-escolas/"
+  },
+  {
+   "titulo": "Governo federal retifica valores para instalação de tecnologias de acesso à água no Acre - Acre Jornal",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9BR0c3UmZrYm9WMkhnV3NFd0t3bkdPem9YdkkxWlVHZlpRa0Viemd3UmwyaGQ0bzhtcmJ1eXlRTVNKb1FnLXhLeno5cUxueVJMSmZoVThfdGQxTE1RY3FDdi10UzVoRmRVOVdTRkw2dmZvZ2tqc3dHVnJtV3dDcnhNOUhoQTBCQkFza0tkTjNjdHItYkM5cjZPR3JnR0xoRGtkUjJ5b09GNmZHeGd3SDhwd0JvQQ?oc=5",
+   "fonte": "Acre Jornal",
+   "quando": 1795096685.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Acre Jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico",
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "19/11 10:58",
+   "foto": "907c7e92aa2f.jpg",
+   "credito": "Foto: Acre Jornal",
+   "foto_tipo": "materia",
+   "foto_tamanho": "725x390",
+   "foto_qualidade": "media",
+   "materia_url": "https://acrejornal.com.br/governo-federal-retifica-valores-para-instalacao-de-tecnologias-de-acesso-a-agua-no-acre/"
   },
   {
    "titulo": "Sucuri é flagrada atravessando rua e surpreende moradores em bairro de Araçatuba - G1",
@@ -170,10 +341,32 @@
    "foto_tamanho": "1600x900"
   },
   {
-   "titulo": "Governo Lula enfrenta barreira dos EUA para adquirir supercomputador de R$ 1 bilhão - www.plantaobrasil.net",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFBoMEg1aWNZU2VaMnhDNXJoeWgybzAxeFZXNWNULW56MjdnTElhT25MV3A1OXZXUkNtU1BFNTVlVFhyenBTLUNHVXBweFY1bTliMkszZWl4ZmdrVGpWTkJhbUttQS1DSFdzREUzU2xwRGZvZkdNZ09DeHJyMmVEVDdZZjBIRC1FZFJMR0N6UGNsdmVvM28zbXJhODBRd1VTM0ZHQnVjRURIek9XRl9mTkNwQmVpRHlSMjhIenNiWHV1dk9PVnBN?oc=5",
+   "titulo": "Rodovias paulistas esperam cerca de 18,9 milhões de veículos no feriado - Votunews",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTgydTgzQW4xS25YTWgyN19HY0UtNE5XSVF4VFkyUTFmakNsbjBmNnNlakQwdTVwRDJoRFlfLXVZUkI2RXFQSnN3UXhNS05IOWlqQ0pDUFBQODh3VmtXYVJ5bV8za0FCbXdFTGpXUjJkdVhZU0dmc2NiQ0xxU0ZReHFVNXV2QTVmdTNkSzZiRjZENnZNOHFpR1VOcFZiN3hh?oc=5",
+   "fonte": "Votunews",
+   "quando": 1795106700.0,
+   "categoria": "estado",
+   "fontes": [
+    "Votunews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:45",
+   "foto": "8991677c21ba.jpg",
+   "credito": "Foto: Votunews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "773x531",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.votunews.com.br/rodovias-paulistas-esperam-cerca-de-189-milhoes-de-veiculos-no-feriado/"
+  },
+  {
+   "titulo": "Governo articula votação urgente para destravar orçamento e evitar corte de R$ 10,5 bilhões - www.plantaobrasil.net",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOREVPeEtpLWZDUFVrUmRQams5VDJySEhCNG80ZEQ3NGRsd3V5UUdQX3ZaWFZaWUVYalBPdUY3d20wN281Z2tLY1djT2V1UmNzZVpRcXdHa0h5WDhVRHVleVU2NVgyMzN1MV9rWkw4Q1BQdWJMNjRvbTQzSVpybG93dDViT0ZEMGN4cWY2U2ZHZy1fUzFid3hMVkNQamc1MkJZY1d3WE13MVpoSTBqY1BtY0lDWkVIX0hOSVhyYWFyRl8zNTY2OFVHSUpMek1QcEllMlE?oc=5",
    "fonte": "www.plantaobrasil.net",
-   "quando": 1795101585.0,
+   "quando": 1795106087.0,
    "categoria": "brasil",
    "fontes": [
     "www.plantaobrasil.net"
@@ -183,13 +376,425 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 12:19",
-   "foto": "5f8b2ac8ba57.jpg",
+   "hora": "19/11 13:34",
+   "foto": "7ff872afae50.jpg",
    "credito": "Foto: www.plantaobrasil.net",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x675",
    "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/164472-governo-lula-enfrenta-barreira-dos-eua-para-adquirir-supercomputador-de-r-1-bilhao"
+   "materia_url": "https://www.plantaobrasil.net/noticias/164487-governo-articula-votacao-urgente-para-destravar-orcamento-e-evitar-corte-de-r-10-5-bilhoes"
+  },
+  {
+   "titulo": "Festa da Uva e do Vinho de Vinhedo já tem data marcada; veja quando será o evento - ACidade ON",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSG43SXBPNXg5WUZPUkdMTkNaTU9wT0tKRUdHTmlSU0Y1ZTk3dnltUFdHNEROaC1FbUlnX0h2c1pBS1RfVm9uaWZQbnB4aVo4dUpldWp0UFI5NlB5Q1IxQktSazF5bzNCdk5QZ3FrLVVXXzJCcHMzbzBCRzg3Y0ZJTWJpMzlYTGtHd2ZhNWVEQmNXU1JsUHVRWHhYRW9Ebm91MjYwOWVLV3JDSjNvazRMcENqMVdvM3NlZF9aZjBfd1R4LWVNXzZTN0QybVrSAdIBQVVfeXFMTnBDcjhEM1Utci1HUmNIWFBNQ0dzTDRoM2Z3Wk42WFBUSWVoU1cyUmctbzN2MU96bUNGbGFMSndIcE1waXlEWkVtWXB1dGMtbzB4NG52OC02M21vQkxiS04xRWVlOGhQMW5kMTBBamRpcFdOQXFJUHBicURCRWlhaEhhaVJNSHl4eGtMcENiWWUwU2kyMXA2dU9sUXduRm1HSmMtbzM1TFdHQW8tTm82U3FweGJNaF9VaWJFZ28zWXFXRlBRaUZaQUprZGY2cTE4MWFn?oc=5",
+   "fonte": "ACidade ON",
+   "quando": 1795105901.0,
+   "categoria": "regiao",
+   "fontes": [
+    "ACidade ON"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 13:31",
+   "foto": "0fca5cccbef7.jpg",
+   "credito": "Foto: ACidade ON",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.acidadeon.com/campinas/lazer-e-cultura/festa-da-uva-e-do-vinho-de-vinhedo-ja-tem-data-marcada-veja-quando-sera-o-evento/"
+  },
+  {
+   "titulo": "Sem planos? Jundiaí terá festival, teatro e atrações no feriado da Consciência Negra - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3Z0TGYzZnJrNFdKNnpkMGJkeVRkQW9DTjBJOEwtWi10ejNMbFVDUEw4WjhBT3B4eEQzQkxOcTFkTk5MSldOdlhDVHExNnY0V1BHMDRZNHBjbVFZWk1kbHE3WUFrdmxSLTIwQzVYaC05OC1ka1pQbVJnT2dNS056QWEzVWExSzgxMXRwR2hR?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795105541.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 13:25",
+   "foto": "2135473dec72.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/programacao-cultural-jundiai-feriado/"
+  },
+  {
+   "titulo": "Lula anuncia ministério dedicado a idosos e diz não ter pressa para escolher ministros - Agenda do Poder",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOG82REd4UW9Ick5lOXhGTlk5ZXJ5eGtjYlVHV3hJbGpiMTRoeS1nUkJQUk9SUzhvVVVocVNDVS0xbXJodjNRSnVqMFJDeXR2dnlsaEJJZUFSTE1id0VFcW43U3JFSFVfUzhLdll3OVVkbERmYjctbTRyMVE2dWZnUzhnMTlmd21Vdng1bXJXa0FxMmM1QzJJX2lKYkJsUUtnQUxKeUIwV1l5ZFpCWld0QUVsVkVQTHM?oc=5",
+   "fonte": "Agenda do Poder",
+   "quando": 1795105440.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agenda do Poder"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:24",
+   "foto": "788717901635.jpg",
+   "credito": "Foto: Agenda do Poder",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://agendadopoder.com.br/lula-anuncia-ministerio-dedicado-a-idosos-e-diz-nao-ter-pressa-para-escolher-ministros/"
+  },
+  {
+   "titulo": "Entenda em 10 pontos como funciona o ajuste fiscal proposto pelo Governo Lula - Diretório Municipal do PT de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXFBbmVsUUhfU2xvQnMxcmdCY0dOaGlOX01DeWJ6UUY5bzdCRllaWnpKd3VIcVh1dGtWVmpodFpsaER0WTR1d3BZS3ZHVUJBdldPTFE5VWFSelp6amUzRE9JcFFhc19ZQ3ZLR0RSRi12bV81QjNzTXpydXk3bjhNb3lmWndrSW5oNkJTVmpuOTRlb0NhRTdhV3VEaHlZbVJYUnAxbi01LXVUalA2WjE5dWlLWQ?oc=5",
+   "fonte": "Diretório Municipal do PT de São Paulo",
+   "quando": 1795105260.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diretório Municipal do PT de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:21",
+   "foto": "df3527b46d93.jpg",
+   "credito": "Foto: Diretório Municipal do PT de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "750x500",
+   "foto_qualidade": "media",
+   "materia_url": "https://ptsaopaulo.org.br/noticias/entenda-em-10-pontos-como-funciona-o-ajuste-fiscal-proposto-pelo-governo-lula/"
+  },
+  {
+   "titulo": "LAÉRCIO OLIVEIRA CRITICA O AJUSTE FISCAL APROVADO PELO SENADO E DEFENDE CORTE DE DESPESAS DO GOVERNO FEDERAL - FaxAju",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUHBsQUVKWkMwa083QW93dTZtRnp0Y2RYbUFEN2VlRlJoSVVGMnp5bGZHRjNwZEVUdFRlcmM2Q1NBcmNCa3laY0dIWnl6YWl0cTg5UGVhR0RfQmNSbnNoVWFicF9mNjEyM2w2MjlkZ3FKT1FqeUtfX2JIZlA1V3lodVZMN044bC0yTWQ5bEh4NkVJTDVvWUFqdnZyZGRCb29CRFVSMXZ0ZHFqRlpRNTdnMFFmNkRlQWxQTnlveHhYVUw4eXRzUm1kRDlQY21BRmw1?oc=5",
+   "fonte": "FaxAju",
+   "quando": 1795104720.0,
+   "categoria": "brasil",
+   "fontes": [
+    "FaxAju"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:12",
+   "foto": "c67dc5bf059d.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
+  },
+  {
+   "titulo": "Senado mantém projeto de ajuste fiscal como proposto pelo Governo Lula - Diretório Municipal do PT de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2ZnZXdjcEY2M0xsWlozZnFkN0REcGgzcVdQM1VVRm4zcS11Qnd2YUh0Z0FKQjRuWGI3VUtDbGltNnBGeGswemlyTW1QLTkxMjlwM29ON2kzSi1wTnRXZEg1bXQ5aWx4YTF5RThQX3lWbDNlaGF1UHd6X1o1eE55bTlqb21uV2dKMkMxakY4R2tMWktRM215OWN4VndubjduNF9fTlhkNHlOQQ?oc=5",
+   "fonte": "Diretório Municipal do PT de São Paulo",
+   "quando": 1795104702.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diretório Municipal do PT de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:11",
+   "foto": "0695dd849c90.jpg",
+   "credito": "Foto: Diretório Municipal do PT de São Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1000x667",
+   "foto_qualidade": "media",
+   "materia_url": "https://ptsaopaulo.org.br/noticias/senado-mantem-projeto-de-ajuste-fiscal-como-proposto-pelo-governo-lula/"
+  },
+  {
+   "titulo": "Lula se irrita com especulações sobre ministros: “Será indicado por mim na hora que eu quiser” - Ric.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODVrTlRJZ2d4WTlzNHdEUkFwaTJ6d01oYkVNazM0UHROVVBSY0ItNmEza1k4VWJwUTNMS25DSWg5OXJ4RDE4ZlZWYTZqNE5pRDRTR1J6aW9oTGRHeExGOUtrOFdIeGNEUk5uZHU0UEtNU2psMW42aEFLOG83RUgzaldOSFk4NEJ5bkE?oc=5",
+   "fonte": "Ric.com.br",
+   "quando": 1795104680.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Ric.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:11",
+   "foto": "f0404df56198.jpg",
+   "credito": "Foto: Ric.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1320x768",
+   "foto_qualidade": "hd",
+   "materia_url": "https://ric.com.br/politica/lula-diz-que-vai-indicar-ministros-na-hora-que-quiser/"
+  },
+  {
+   "titulo": "Lula anuncia live com Janones para explicar questões atuais - Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPclFoV3VVTVQzZGYyN3JGeVhVUlVnd1hJZkdUTThLYnp2WnNadl95NDZwM1FaZk1RbHFnbXZVTDN6WV9NOXBPVDJaWWVxMlZnaVF2bm45NTM0LTBNRWNnUi1YOWlHZU10U2ZTU1lJdWlCbzJhUnNFT3FrUUpOeU1JQzRRWGVnd1NVV3VDTHNTSXFsOWJOU2Z5YnlQdGsyVXZud3ljd2dHYkg0VldIdTIwWVlWVHFLc0prOXpvdW90aw?oc=5",
+   "fonte": "Tribuna do Sertão",
+   "quando": 1795104600.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Tribuna do Sertão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:10"
+  },
+  {
+   "titulo": "Lula anuncia criação do Ministério das Pessoas Idosas em novo governo - boca.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0Rmbmd5b0VGQU50WEdzSVQxdEltQWxjUWtacnpsNTNxY2pXQzdQNVpVYlBObmx6a3dUTWZ2a0lFTkV3ZVo2emJvNEM4TVZOR3VJLUtFeGM3VGtXaDJlQTFaMjlsR3hxZ1RDXzI3dzJYYlh4T25sOGdKNTZiYVhUZGZ0YXNfSUppcUE?oc=5",
+   "fonte": "boca.com.br",
+   "quando": 1795104256.0,
+   "categoria": "brasil",
+   "fontes": [
+    "boca.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:04"
+  },
+  {
+   "titulo": "Lula confirma criação do Ministério das Pessoas Idosas no novo mandato - Exame",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1hKVzd6eUd6d0h2U2RQRzB3bzhCbmVWN0h0YTB1THdEUktFYjRjcFU0RDA4d2VUalhxc1R5eHVIa1pOdXlONUtsVXJNWG1IY0lRVHRtMVJaUVV6MXFsdkVQMmU1b3FXTl9KT0JVLUNfMFlrVDQzbS1EbGRuNWJVMC1CblVfbE1CUWlVZ0s4OUJDanVUbkl5REVVNA?oc=5",
+   "fonte": "Exame",
+   "quando": 1795104028.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Exame"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 13:00"
+  },
+  {
+   "titulo": "Lula anuncia criação de ministério voltado às pessoas idosas - Portal Barcelos na NET",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUnlyNDl0czhWNDVhazE4Y0I5dHNfd015b1RMdnhic3BIblVaUE8wYXVHaDNoSVBwUGdNdkh5ODhYN1ZyWWlTdG93cWtiTFlNNUZ5cU5oQ1VPTTZjN2FrREtlMWNzZHFTbGFmeWZfZFBhbHNwVGk3S29hYW5NcDQ2eS1lb0Z0a2RxNllLRjk0T09WaU9E?oc=5",
+   "fonte": "Portal Barcelos na NET",
+   "quando": 1795103969.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal Barcelos na NET"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:59"
+  },
+  {
+   "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaW5laHQ3ZTJVbzNUbjJGaFZYVEtqWkxENFlPSVBScFFzdnl5a19yTERwNWlsRGVTNmNLdGxpRVdIM3MtZm5uWk1ic1lHR1I1Tkp3cFoxQjVXQVRGY1FQZlM1ak80MmJZelN0eEZPYnNnRkI0dHdfVzFhajJndHJCTVdVbjVudzJhQm9ySjRJTXFkSVZfMDZtYmxJTlNZOVYza21vOXZ5VjdncEt2dEVtQk9zYjJFaW5JMEM3SA?oc=5",
+   "fonte": "TVTEC Jundiaí",
+   "quando": 1795103880.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVTEC Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 12:58"
+  },
+  {
+   "titulo": "Vitrine da Dança: Alice no País das Maravilhas – Ballet Teatro Oficina - Cultura Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlVmQTFBTzU1eEM3QXFqa1VGX21NbV8tUElCNS1FcnB4ZHZWeE5tS01SVVZEYVNMeGt0TWJUMU5ZWVVpR3dKOTFuTjNIS0Z3MUhPRDlzd2NMSkVMd0o2SlVNVkY0eXo3ZmxiZnBPSl9DMThSa2F4dWpJVUxZVnFkWFVESnc1alVxLVBnZ2FhWkVTOXM2d1pubkNEcl9PR0JsMTY0WmhTOXpzb0lnTFp1Yk1rQ1Jlb0tvRnc?oc=5",
+   "fonte": "Cultura Jundiaí",
+   "quando": 1795103665.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Cultura Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 12:54"
+  },
+  {
+   "titulo": "LuScOfUsCo – A Secreta Confraria dos Exploradores de Sonhos Lúcidos – Companhia de Teatro de Jundiaí - Cultura Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTU4YXNoVGNEOXlKRHU5OVdxWDdhMm51ZnBDSUFzZ0hyaFVBcFBQTXFrSk1vR2dZMGJNaUhCaVdZUnNDWkczVVczZTlxNzhvXzV4MFVyVjFCb2NxRVp6WjRMcFFpY3ZGUVNaQjZrcHpWU0h1UXVQcU54RkJob0dvSllDYkZKT2dmbUYxX05KbTBEWDVUNENwSWJVMU43Tm9uMTNGZWFpalNqY2N1XzlhLUJJWDYySnJCMG9GLUZvbkk5cEw0N1EzR25GTy1hRGNzZXMxTVRxX0dsbmdMaFZ6cjlYSQ?oc=5",
+   "fonte": "Cultura Jundiaí",
+   "quando": 1795103661.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Cultura Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 12:54"
+  },
+  {
+   "titulo": "Beyoncé – Escola de Dança Kahal - Cultura Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTg0Z3ZGVU9nTTFQYUxvbXZac0RINWF0Vnhjb2NHQWYxd21qLTZUOU10cGltZm8yZkZUaXF0b3dMdm4zSzB2SHJkQnFEazNzMGhOZTJqcFhDbHZFXzE5SkVhWDl5cWx4RzJsaVg2X0wzQXNLVC1xbEtMbFhuWF9MM0hxc2ZzY3c?oc=5",
+   "fonte": "Cultura Jundiaí",
+   "quando": 1795103633.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Cultura Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 12:53"
+  },
+  {
+   "titulo": "Casos de mpox em São Paulo superam total de 2025 e estado recebe mil doses de vacina - Revista Newslab",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93V2R2Q1JHQ2ZhYVB4Rm5OZkM4M3d3NVZKSV9lMkc0OWFyLWRhX0d6Y3ZEV1BCQ2ZudWkxQWZwVGc5Nk1fSFc0OENHOXRyeGltZ3pCUFByVmY?oc=5",
+   "fonte": "Revista Newslab",
+   "quando": 1795103567.0,
+   "categoria": "estado",
+   "fontes": [
+    "Revista Newslab"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:52"
+  },
+  {
+   "titulo": "STF decide se Van Hattem vira réu por criticar delegado de Moraes - Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUtBVjNBVXZ3RUxNNzFYcUtnSzBWczFJYl9Xa3ZJSnJBbHdOVkc5SnM1U1Y1SGN5aWowMGFHNHN5bGloLVZyc2xBcEhxMVo1c0t0WlB6eDlWS2s5Q1V3TkdEQWhyV3kxNXJCZmFjbGlmZVFFYVprd1BsNzNUSVNxb3NXRk9TSWdYa0k1bEVPTXJxX1U3N2RSMGlISl9HbWZhQ19tbWk3Qlp1cHh1Y3lMa1RIYUdKZ0JT?oc=5",
+   "fonte": "Gazeta do Povo",
+   "quando": 1795103100.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Gazeta do Povo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:45"
+  },
+  {
+   "titulo": "'Temos que dar respeitabilidade': Lula anuncia criação de ministério voltado à população idosa - Portal de Prefeitura",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1I5VnJBYkhQWXl0TGVlaHI1RHcwc3J1OWR2UTRmRHpJTEFfOFc1U2tzNVZZNjlyLUI5dGZlLU50dzhOemh0ME4yaG9tb2s5RFNHemF1djVWaWRpTVhIVTRoTVpPRTVYbzZRaHg1RWFocXREaHJEOFRVbXh4alZKcHExekpRUG15U3R1TzJjNnc0SFhWd1k1WG9nVkIyWnhZQUNQR1pZZENNb2RCb3R1R2RVX1gwWFZkWWVHWjBXQjNBSkdDV2hlQnV3?oc=5",
+   "fonte": "Portal de Prefeitura",
+   "quando": 1795102980.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal de Prefeitura"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:43"
+  },
+  {
+   "titulo": "Lula anuncia criação de ministério para idosos em evento no Planalto - RedeTV!",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmgwN3dhN3NSa0ZTUEpBX1VKdjVkbFhOc1VLSXk0T3N6em1uREJKQ3NIUTVLdUNUVWNjeDMyamJGX3dSOTRLVkphSWFPNV9SNXpnTUk2SHhJMTI3SmE5WGRYS2xZcVZXRjNzOWp6N1hPcXRrZDRPYnFwUEVpOTlOS1hCUFNITmM4Um5CLWU3VEpvcDNONlgxLW5Ndm5tOTY2VDRCdVUtVHRqNTVJc0pSU3Z6RUk0QdIBzgFBVV95cUxPV1UwaTVEOWYzTWhBMFNJRXppUFlLbWRrVkFueTBRTE5SUm9JSDE0M0lyVDRVNzN2YkpqeXlkdnl2c3EtY2JhaWNiQWtOYnlGT0lneWZPTlNNbXJQSjBuYlU4YjF0THlyOTBZTmFRZ3pVSXFYdXYwRlZJS1dwREtFU2YyS3E5ZjRzcHVDYkRzWHhDVHNXMG0tMHRTX2oyUk5teGFySmF0cEFZbUJDTkpLeDMxckwya3Fpb2pIV1VoVno5bGQtSVBiRlh5WEFVQQ?oc=5",
+   "fonte": "RedeTV!",
+   "quando": 1795102860.0,
+   "categoria": "brasil",
+   "fontes": [
+    "RedeTV!"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:41"
+  },
+  {
+   "titulo": "Lula anuncia ministério voltado aos idosos e diz que escolherá ministros na hora que quiser - ND Mais",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmVyLUc0a0FQUjF5T1gtTGhTT1FvODZiaEtDSE96Z0FPVy15Y1NLNWNHZTFqOXJlUXZSOHY3NGlNVnRWeUNvLVc2UWhYV2tYZVd4Y0U3OHlJb3dUTWR0d2RPRW9LUlhsbTFId2hUSXBab2RfOTByQkhEY20yNUdpa3c0QllZMHJlWkhyb2luQm1hOTU5XzRV?oc=5",
+   "fonte": "ND Mais",
+   "quando": 1795102824.0,
+   "categoria": "brasil",
+   "fontes": [
+    "ND Mais"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:40"
+  },
+  {
+   "titulo": "Senador eleito por Minas critica aprovação de ‘Ajuste Fiscal’ no Senado - DiviNews",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmNaRWczZ01lXzFHaDVyRzF5ejNqME1jLXpFN0E0ZGFzd0VVVGQ5a0xTMEhKdkExUTN4elNKcm44d3lLenBUWGM5cjg5NWFtMGxNR1lNZU8xcDB2TUlQN04tS25BREI5eUdEVXRRaldlbUxJemt2NlQ0d2RZMVFKZEVnaDZEb1hBREVRaERET2theFRRRXJnaWplVHJkX3JMQjk1MA?oc=5",
+   "fonte": "DiviNews",
+   "quando": 1795102734.0,
+   "categoria": "brasil",
+   "fontes": [
+    "DiviNews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:38"
+  },
+  {
+   "titulo": "Lula anuncia intenção de criar ministério voltado à população idosa - Portal do Zacarias",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VEb3duSWJ3UlNRdUFZbzFnaFBla1MtU0xVSGVaVGJhZVN2cUZldm9NN3hkLTdKV2N6OFk1ei03MkV6cjBIR0V6UXQ0VjRrTll3TS1TQnBqUW1iREJ0QUMyVmRtSDZlY1VJbkxGV2I4azlHUy0xT0FJZXR4ZVc4QWg5MF82ZDNOZk1yX0pvWm82cjE1VExfSnVHbU5QWDFydDhNVVdsTDM5VTl1QS10NFNxcw?oc=5",
+   "fonte": "Portal do Zacarias",
+   "quando": 1795102500.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal do Zacarias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:35"
+  },
+  {
+   "titulo": "SP recebe novas doses da vacina contra a mpox; veja quem pode se vacinar - vtvnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWl9pOThzUkZhMktLLWxBSmVTVldiUk9MUk9iSVFwRzJKR09DZ2dYRjFoZER4ZnNaTW1NLTByZW9IamFScjQxelhZcFN0WWdZTldvY2MxYVl1eE45eWdDZlRUNEZJR1VZajhLeUNPTmFkQmdxeU9ISUJhNXlHdw?oc=5",
+   "fonte": "vtvnews.com.br",
+   "quando": 1795102200.0,
+   "categoria": "estado",
+   "fontes": [
+    "vtvnews.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:30"
+  },
+  {
+   "titulo": "Presidente Lula anuncia intenção de criar ministério voltado para idosos - Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSU5xZHVQOEVwaUEtcUpDSU1nY0Rtc3ROUHlQRWlLM2Y0SU5wY3ExX3dYRDZ6MzdVR2F2dkplTmlzcXVTS2FYUjBRN1VXYWRjUy0xZUkyb2p3ODNGQThOX2hPUW55NV9zaXRrOG9oWHROM2RybnZJNm9SZE1HOFFWNDRPTkZ4ZnB6UGx1S2FpY3BXY3REUm13UE1kc01fbHFVVTBQbVZxWWdfNzlLNEh0aQ?oc=5",
+   "fonte": "Portal VV8",
+   "quando": 1795101710.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal VV8"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:21"
   },
   {
    "titulo": "Pedágio free flow da Anchieta-Imigrantes começa em dezembro - CPG Click Petróleo e Gás",
@@ -205,13 +810,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "19/11 12:15",
-   "foto": "ad7d55e2aeca.jpg",
-   "credito": "Foto: CPG Click Petróleo e Gás",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://clickpetroleoegas.com.br/pedagio-free-flow-anchieta-imigrantes-1-dezembro-davila/?utm_source=rss&utm_medium=rss&utm_campaign=pedagio-free-flow-anchieta-imigrantes-1-dezembro-davila"
+   "hora": "19/11 12:15"
   },
   {
    "titulo": "Tarcísio confirma permanência de três secretários e reforça prioridade à área social na nova gestão - agenciasp.sp.gov.br",
@@ -227,13 +826,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 12:13",
-   "foto": "ed4057d23f63.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "748x420",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.agenciasp.sp.gov.br/governo/tarcisio-confirma-permanencia-de-tres-secretarios-e-reforca-prioridade-a-area-social-na-nova-gestao/"
+   "hora": "19/11 12:13"
   },
   {
    "titulo": "Lula anuncia discussão sobre transporte público gratuito aos fins de semana - Vero Notícias",
@@ -249,13 +842,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 12:10",
-   "foto": "ff59623fc10f.jpg",
-   "credito": "Foto: Vero Notícias",
-   "foto_tipo": "materia",
-   "foto_tamanho": "799x533",
-   "foto_qualidade": "media",
-   "materia_url": "https://veronoticias.com/politica/lula-anuncia-discussao-sobre-transporte-publico-gratuito-aos-fins-de-semana/"
+   "hora": "19/11 12:10"
+  },
+  {
+   "titulo": "Lula atribui críticas ao controle fiscal à confusão de aliados e nega cortes de direitos - RedeTV!",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVZ5Q0VuVkdCN3lralFTWDVvbjNIR0VlQXBFaFdyOXBDQUwzQmY1alNMVWFlM2NlNnZxQ1R6M3JyUUhzVzJFUEQ2Q1BvR2tDM01LSWxITFVfeGpqTko5REt1LUFfVVo0MTZWbG50T1BXRmZtakZ5UWlUbzFCVVg3ZXUxQkNXMDVmYVdxSTRLZTFoMzJxZUFkUzJUSTBkd3hFREx3YlgtUzdmUUtwaklCX21BVmNRdFVUdTU3dDFuONIB1wFBVV95cUxOdk5TQzVieWd0OUdXOWF2bmUyMjQ1YXF4alhTQWY0VEVXcFhtcGphZEhvY3dWc2djRHBfYWlkcFJnbWlwSDNLSG9SQjFrSGRTY0JWLWI3al9GOW9EeWRsaVpPc2FlaTJoZ1o4ejJhREhpNDd4RE1Rc1dXQnlZVzRUbU1jM3Jic0JZemJYUGdVdlprT2dvSk15M0hCc2ZReDRWSUQ3bkphUVhfN3JsYTNJZklJNERwcVlMOVZSSE9FckxOZnM1bDlybmp3X3oybTRYd01EYVlYQQ?oc=5",
+   "fonte": "RedeTV!",
+   "quando": 1795100940.0,
+   "categoria": "brasil",
+   "fontes": [
+    "RedeTV!"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 12:09"
   },
   {
    "titulo": "Ministro Luiz Marinho anuncia portarias sobre escala 5x2 - n3news.com.br",
@@ -271,13 +874,21 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 12:09",
-   "foto": "25c9871d22fe.jpg",
-   "credito": "Foto: n3news.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x718",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.n3news.com.br/2026/11/luiz-marinho-anuncia-portarias-sobre-escala-5x2"
+   "hora": "19/11 12:09"
+  },
+  {
+   "titulo": "O bispo de Jundiaí, Arnaldo Carvalheiro Neto: os grupos católicos LGBT «podem ser sinais proféticos para toda a Igreja - infovaticana",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDhFMWRiZl80UDBMcWRGeE9IZGg3ZGZCc25SWVp2emJyc2FRd1dhM1Jhd19RamlZQWxHa2UzUXo2NGtZcWg0UXVwSVJybDRJMVNpZElwdHlkX2k1U2VNWU1TZVYwSWN3Yy1nVFRlQUcwcW0wOW8yZmFlSHJYQk04WGJvaEdDSDRCM3hHQ2tWOHZJRlFCTzMxTlZ1eDZTeDdaQVFUa3lQSk5fRk1tTU4yMUZCUjgwb29peUpVRTQ4d2tpTUxabFFzbzUxUHkxSGU2Zy1sclRpTEhta2p4TVk0NE5qOWtrWkkzSFo0?oc=5",
+   "fonte": "infovaticana",
+   "quando": 1795100880.0,
+   "categoria": "regiao",
+   "fontes": [
+    "infovaticana"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 12:08"
   },
   {
    "titulo": "Circuito Mais Mulher abre inscrições para etapa de Hortolândia nesta quinta-feira (19) - www.agenciasp.sp.gov.br",
@@ -293,99 +904,13 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "19/11 12:07",
-   "foto": "9cd6e40ba45d.jpg",
-   "credito": "Foto: www.agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1500x1000",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/politicas-para-mulheres/circuito-mais-mulher-etapa-de-hortolandia/"
-  },
-  {
-   "titulo": "Imunidade é para os amigos; para os demais, resta o julgamento no STF - Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTl4TUdOR3lZVlVMdDNzTl80TS1OdlhXN1V6MllZNzhHdzlOWW5yUFhoZE1ReFlNV3dYTUlzY2FvQWo0OWFoaHpONnJxNlRKQmpQdktpV2FyWHRrVHdjTHFkUzU4WVdRZHdwSzdhNTlBX1NRNmE2dTAta0FqajU4Tno3aUJ6UXlsVlBSME5VVjFrREVUVXJkek0xcnd6ektBa1hxWW9XR291ZVJOMllUUEVSRWFTVnRyTVRXUQ?oc=5",
-   "fonte": "Gazeta do Povo",
-   "quando": 1795100760.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Gazeta do Povo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 12:06",
-   "foto": "204f66add5ac.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
-  },
-  {
-   "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano - O EMPALLADOR",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjMzZjltYjZaLW52cm53TlVtN0VBbGEzTUhYTjJ0eU81OVFJMzF5OHNWMXpScE5LbjBMb1FzQUFqWWFrWlNiV3hmMWNzXzFzQ0h2UTZZSF83N0JmUnRwcG5sWS1wb1M2NnRST2l5MnVvQzB3TVJxMFdvdXN0WG84LUt0QnNhajQ0cmZ1N2F4SXB1Q3dBTWNFSFFKYVRhYWZhb2NDb0R4d2pJMUdLQ3RmRi01N0o5MkQ3SmRNR09UUQ?oc=5",
-   "fonte": "O EMPALLADOR",
-   "quando": 1795100700.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O EMPALLADOR"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 12:05"
-  },
-  {
-   "titulo": "Lula anuncia novo ministério para idosos e oficializa fim da escala 6x1 - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWRtUGpReXNxY1JRSHZUeTE5dEhyRUNnVVpvUjdZSUlKMTlNanFjMTNHZzlFR1pZZkRJLVkzamJsOUhIbGJxc1Z0dXFaam9SdllRM0VNcmF0dzdmbFUzY2N0ZE9OSGVqZElmazhwNUExSVpBeHRlakFxYUVfeW0wQ3ZCRjc4YXh0Mm1EVTc2ZTJjNkVjbmtyZURYTjlnQU5vRXZYZ0JBc3NZSkhZLUlpc0hTNEdfeVNS?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1795100684.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 12:04",
-   "foto": "40886b47181c.jpg",
-   "credito": "Foto: Plantão Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x799",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/164469-lula-anuncia-novo-ministerio-para-idosos-e-oficializa-fim-da-escala-6x1"
-  },
-  {
-   "titulo": "Pacote fiscal aprovado pelo Senado abre caminho para ajuste no Orçamento - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTHBwYWtFQ0RyTkU5TmVGWk9ldHRNQU1wR2l5NjA5ZE91RE1WMUh6QWNURkp3NzFzbXhVRlQxelBTU0NZVU1FQ3hxbEJCVTBDaHFMSkdXYm90ODc2WFpid1c2OWZNMGJZNldEdjlMQWRWcmcxRV80b2g4R3BRMENITW9GWXNOdHhERjZoUGk2b3VTV2VJSUVHbVBoRFVZdXB2ODVZVzRLdmM5dUNPc2VYZmRWa3dFUTJob1UyWldRSFZhUk02c2U2cXRKcw?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795100683.0,
-   "categoria": "brasil",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 12:04",
-   "foto": "b0abf5d9f0c9.jpg",
-   "credito": "Foto: CNN Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-fiscal-aprovado-pelo-senado-abre-caminho-para-ajuste-no-orcamento/"
+   "hora": "19/11 12:07"
   },
   {
    "titulo": "São Paulo segue sob risco de chuva forte pelo calor nos próximos dias - MetSul Meteorologia",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjZRVkFGVDc1RE1Eb0p1M2YwSG8xcjVCa0hsaFVwX0owcmRTdWp5cnlnVWlQaDhMcVNQWk50enNFVHJNeTdGTmZmeUtRRUUxNlJ3d09hUFpOV1Z5STR0QjhUU2JObWZBLXFZQnpGQUw4dVRjdjFNZGpnX2NrOVFZd2ZKZkYzLVpVUjZ3cnRROGZrR0E?oc=5",
    "fonte": "MetSul Meteorologia",
-   "quando": 1795100400.0,
+   "quando": 1795100671.0,
    "categoria": "estado",
    "fontes": [
     "MetSul Meteorologia"
@@ -395,55 +920,37 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "19/11 12:00",
-   "foto": "d4ddfc396ff8.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "19/11 12:04"
   },
   {
-   "titulo": "Lula anuncia ministério voltado aos idosos - Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWlZnMDRONDhpLUJGWm85OTh2NnczZjlUdWRpT1Z5MkN1R3NWMXpiOG80LWMzT1UwLWtOcU9jUlRJVVFmeEplU0xQYVZZdFJQWmM5VDAyYXpaSTBHSmsybGFOUWpCNzV2cmdnOGs1QlhoWEIxNU9XNWVoM2tWNlkyUjNjTUIxLWNXb3dneFpHb9IBkwFBVV95cUxOZmcyRGVIV0VPTk5jcmlhLW1uRk9qUjViUTJIbkVOYldTY2Z4UVZwNGtLNUlLNDl0MDJYbmFENGpsc2pzRVNKUlBRMkEwM0l4Y281UFJkWG5aY0lPQzc4Sl9oQnlNa253V0Q4dzNtcGh0NFpHRnFQTEpSZndIM0E3ZmQwQTBmTVJoRXVCNFlTLTBDSHc?oc=5",
-   "fonte": "Folha PE",
-   "quando": 1795100100.0,
-   "categoria": "brasil",
+   "titulo": "CRESCER recebe Certificado de Reconhecimento do Governo do Estado pelo trabalho com os jovens da cidade - Prefeitura de Mogi das Cruzes -",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcmI1MVN1YjNsZURaZTVjcjd6Nm1CYWZrQ2RMQXk0QTZxWXNnOUJIZHRJUVFyNGpWUHh1NVItVjNGelBXWVJ2UGtQVVFVRnlUTmJQY3k2YkhhT0Y3RjdmZ3pDR3NnUjFLallIcDdWWHhzWlFZQWZDUU9GWUlqdm9za3gxWEVfQTBuRG9jSXptNG1VUHNxVy11Rm5lUDJZU3pxVFo3R0lPSDR2WmtYY0RoR0hBb0x0Nk5mN2tkeU9yVlJfU29OaGRET09LZUx1cE80aWtVTUNKZ0ZMZktRaXMwTEpVQnNqVHktcWoyUXlMdG9mNU16V3lEalAyLWhQQk5VekZKWUJyYV93R2J0RmVmdXpQOVJ2ZnByaU51TQ?oc=5",
+   "fonte": "Prefeitura de Mogi das Cruzes -",
+   "quando": 1795099893.0,
+   "categoria": "estado",
    "fontes": [
-    "Folha PE"
+    "Prefeitura de Mogi das Cruzes -"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 11:51"
+  },
+  {
+   "titulo": "Mônica Bergamo: Secretaria imaginada para Haddad é vista como balão de ensaio sem chance de vingar - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb09WdzN4cTJLWDZrWkpjZEdOdXNoZFYxcDlHLUQ2QmNvY0tEdzB5U0JXT19maDBCWXFvOUZldmxiMFNsSldEWnR5RnFhMkJBeXNhdUNjUF9KUzBRaElMVGtra1RwazlUQWdGZVFWYVRtSzFQMGlzSkpXZ2NuNmFjcmtMaVAySFYtUE04NDJfeUR5VmdxaUtQVm45enV1RWN0SF9vNHVVeC01RXhLLUtpRG56MzFFV2dTQlpwZF9IN05aNzI4Yko1SkxqWTM5dFU1Sy1vcDNfX21DMTRNTGdyRkdn?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795099860.0,
+   "categoria": "estado",
+   "fontes": [
+    "Folha de S.Paulo"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 11:55",
-   "foto": "d2f8baa931dd.jpg",
-   "credito": "Foto: Folha PE",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x600",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.folhape.com.br/politica/lula-anuncia-ministerio-voltado-aos-idosos/525157/"
-  },
-  {
-   "titulo": "Lula volta a dizer que vai \"garantir\" transporte gratuito no fim de semana - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWdNQngyUzNEWktZN1UyZDNUWEJrOTRFZWZMeE5GSm0xcmlpcjJ3ZFlqNmIzcm00Y2swVWZKVGcwdVdxb2psMXJRMHE0eXg3Y2d0R2VtdkwzOXVQSU82WGpQVWQ2V3lzdEVvMWdDUXFmX0xTT1Z1TTVHcVhOUGlHVkxEVzJIZFk2dTFxcEI5c05Ial9sZHgzci1ud0pEMDJMN0laVjVBbEtGcldmSG4wcA?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795099330.0,
-   "categoria": "brasil",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 11:42",
-   "foto": "ed1dd91b4332.jpg",
-   "credito": "Foto: CNN Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.cnnbrasil.com.br/politica/lula-volta-a-dizer-que-vai-garantir-transporte-gratuito-no-fim-de-semana/"
+   "hora": "19/11 11:51"
   },
   {
    "titulo": "Vinhedo informa funcionamento de serviços e órgãos públicos no feriado da Consciência Negra - Portal VV8",
@@ -457,17 +964,11 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "19/11 11:37",
-   "foto": "c229c47976b4.jpg",
-   "credito": "Foto: Portal VV8",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x533",
-   "foto_qualidade": "media",
-   "materia_url": "https://portalvv8.com.br/noticia/86380/vinhedo-informa-funcionamento-de-servicos-e-orgaos-publicos-no-feriado-da-consciencia-negra"
+   "hora": "19/11 11:37"
   },
   {
-   "titulo": "JJ: Projeto de Jundiaí que incentiva jovens nas escolas recebe prêmio - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFNWemtLa2dHMk9TN1FMQk5ZdHk5eExGMnJYX3JtMkJEaVNqUy15U09jWUU1c05EaE11cklRa1FYdHlEZmplcEdtbWxGYS1qcE5ibURXRDZ3Q1Y3Y1J1dUxhdUFuTmIxQWV3c1Y3a0YtWVRQTFFGM0RHYVM3RG1GdlFkbzB6d0xvTFBtbmFqWGxQalZjVmlhb2dPSzdFYjc3WjZFOTRaeHRwemowdXRmQ1lDZG53UWM3cGZpZlU0Y3VYT2htcWc?oc=5",
+   "titulo": "Projeto de Jundiaí que incentiva jovens nas escolas recebe prêmio - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYklyQWdTdDZya1gwZ3M0T0tFWWkyNFVhenFENEcyd1NJaXJnWDUwUWhOUENLSkhON2ZycElYRjFGLUxBYnM0MzNjNkVYeDFaTVBDN0h1YWpHVVdxYy1VVndPeW5ndEFDcFBNMGp0clRNTGZFNjVWdEg4Ynk5cEdncjk4X0VBdS1HM3l4ekozdTYtZ05ndVF3ckpSQTA0WEJPdVBBRHlDckFNR055UmhnVVE5RTY4eG1RbnRyUWQ3MHpJaFp2dGg2VGRfcw?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1795099060.0,
    "categoria": "regiao",
@@ -477,35 +978,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "19/11 11:37",
-   "foto": "d0a74224d5ec.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3019814/jundiai/2026/11/projeto-de-jundiai-que-incentiva-jovens-nas-escolas-recebe-premio"
-  },
-  {
-   "titulo": "Lula anuncia ministério voltado aos idosos e afirma que 'não tem pressa' para definir primeiro escalão do quarto mandato - O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1E0ejhNM25JUlpqd0EzODI3WE9uNmVJdzJ0UzY4QTJMcE5XQ3FIOWlEZjk0S09JWFE2Rm0zaUQ2WXZTLWQ2SUZIUUh6emVnTXV4UmlmOGJOdHNpMW0zd0NzTGM2Y3BxNEVGUUtOZnVZeDFndF94Z2h0NTdBOUttQ2RJQVFiMDRrSExuRGZsTWpsT1RwbWJRTWRGeGM5SjhsdmtMTWFaX3VkcGtSS09Pak1CYkxzR1gzMFpZNmFEZWhnN1pCWk1kNmVBYkhPeTTSAd4BQVVfeXFMTWYxbWpXdmIzaS1rOFlXdlZnMnAtN090aUZ4Y1VQNHNVSVkwR3RyQV9CRkZjQzB0ZmN5cXY3aDN5cXd4Q2RFSWxnNmF4V3RfeEpPOUV6RzAzN2Y4eldLRVBnVEQ3cGE1T2dEYUlacnRSeWpkRFVTMFgtWm1GUDRBMjB4bmdvSC1pcnliVURlZHd4Yi1jaFZ2UG9IMzR0M2VnbURDZU9aLXlnQjFJdFNoNHlMUTZjdC1Xbzg0N2s4YnQ3UWlXWEJfckxxZG52cl9sRkpOYXA3RG1NWV83cWlB?oc=5",
-   "fonte": "O GLOBO",
-   "quando": 1795098841.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O GLOBO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 11:34",
-   "foto": "966d0fba92e0.jpg",
-   "credito": "Foto: O GLOBO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1077x733",
-   "foto_qualidade": "media",
-   "materia_url": "https://oglobo.globo.com/politica/noticia/2026/11/19/lula-afirma-que-nao-tem-pressa-para-indicar-ministros-para-o-quarto-mandato.ghtml"
+   "hora": "19/11 11:37"
   },
   {
    "titulo": "Delegação do Azerbaijão visita Prefeitura de São Paulo e discute oportunidades de cooperação - Diplomacia Business",
@@ -521,13 +994,7 @@
     "seguranca"
    ],
    "pontos": 5,
-   "hora": "19/11 11:31",
-   "foto": "a671af48bbf5.jpg",
-   "credito": "Foto: Diplomacia Business",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.diplomaciabusiness.com/noticia/delegacao-do-azerbaijao-visita-prefeitura-de-sao-paulo-e-discute-oportunidades-de-cooperacao"
+   "hora": "19/11 11:31"
   },
   {
    "titulo": "Tarcísio leva área social para \"núcleo duro\" do governo no 2º mandato - CNN Brasil",
@@ -562,20 +1029,32 @@
    "hora": "19/11 11:28"
   },
   {
-   "titulo": "Cadastros para pagamento do free flow disparam 694% na reta final do prazo - Estradas",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0pnd2QzLUNPcW13Z2xLanpsWHpaZG5jakhLMGxITWtMdjh5VlZrMExMS2xCcFpiNVNqTTV6RkVFU3RuTGtKY3lKRlRqZ1JaOTFpVERUOUFNb0tzYVFXNElFUUlsZExyUE94RXVldjVPY3VUVnQ2OE5wWWI3Z2NmcE9nS01lS1dDYkxDM29Db0RUWnZCNzlTOXJwd0xPWVE?oc=5",
-   "fonte": "Estradas",
-   "quando": 1795098322.0,
-   "categoria": "estado",
+   "titulo": "Palmeiras pode ter time reserva contra o Flamengo - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUlPY0JmRElxaGdYYU9YLWJGSXZJOXBzOFJWSTlfcVlud1JFbUZCU0EwRjRnNUsxSUNuOTNuOUtFUFEwRVdDcklTNHU1NTY5MTEyMjlPS1V2QnVUYTZ0bHdmcVFPMnF5ZHBUeGRwdmNzbjJQV3VRck96NDZySXJCUUJJRWtkZlZMajR0VzhJWWw0aEdScmVxN3N6eUc?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795097643.0,
+   "categoria": "regiao",
    "fontes": [
-    "Estradas"
+    "Tribuna de Jundiaí"
    ],
    "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "19/11 11:25"
+   "hora": "19/11 11:14"
+  },
+  {
+   "titulo": "Abertura da Exposição “Mensagem para o Futuro”, da artista Cecília do Carmo Celandroni - Cultura Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1h3R1lVb3RVazhyOHJRVGtyaW9qcGlsR0ZFX1VSSk1lN0JSNmt1X3NsdEdjUE1rZGc3dVFTTjgtTnFyT21QUWJzU3MyaWdpX29heXhjU0xpMGRYd1dJUjc1YmdrZ25qQjdIMWx2YVRaUDdNcHVQd2hyYXdScTBfQXJLelk1aGhfV0lnaTA3aGVmQlBMcWx1Tmo4eGFrRGFIaXFWWl9jNHFEM21fX214LW5QeGtSYVNkRW5QRHIyWlBjSDk2WVZwZEdqc3Y4S1E?oc=5",
+   "fonte": "Cultura Jundiaí",
+   "quando": 1795097637.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Cultura Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 11:13"
   },
   {
    "titulo": "JJ: Morador pega ladrão dentro de sua casa e chama a PM - sampi.net.br",
@@ -592,22 +1071,6 @@
    "hora": "19/11 11:12"
   },
   {
-   "titulo": "13º salário pode ficar maior em 2026 com nova regra do Imposto de Renda; veja quem tem direito - Folha do Estado da Bahia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOVV2bmNNcWR0Xzk1THRKYjRvWUF1bnE5dkhqZmxZVXpSbzlmV29OcjJlODNoc2VxelB0Qzh1bmNxSHFjMmNTUFBROXY3empCTmpYdHJFbzJPeXJiRFByWlJsNDhTU0k4ODFDdndqWDhpTUMwMExYbFpmQXJxOUJnSzB6WmR3SjQyelpmdTFEMzl3T0MtMUtOUjFSZkRQckNvaXB6cHB6cXpUanc3ZWRELXVjUzdOOERlMDRuQm9PNERaZGYwLXJCaS1MWW9UTWRoT3RB?oc=5",
-   "fonte": "Folha do Estado da Bahia",
-   "quando": 1795097238.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Folha do Estado da Bahia"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 11:07"
-  },
-  {
    "titulo": "Campeão olímpico de vôlei, Bruninho participa de encontro no Sesc Jundiaí neste sábado (21) - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0JJdExYT2EwalFHRzdEQXctMGtjS2FDNUxNb0xlT2tRekdWVk13ZU5fOUFXdUFQQ1BndmpidjdMVEdlWXBRUDk2MldDWXcyYUFnbWFoN1pPZFpfOTBpMC1zeVBjaXJLUjFiazZ3aXp2ZVFBc014dXQwQ0RieXEtd0x3Qk5ULWUtMDNXbWtrNUozVmZaZ0R6RC1zUVNyZTFOY1NhR01uc1ZZZDVuZ3VjVjJkUVF1UUdwUFE?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -620,198 +1083,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "19/11 11:05"
-  },
-  {
-   "titulo": "Pedágio sem cancela na Anchieta/Imigrantes ganha data de estreia - Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcG5udGk0bnNwUHN6cjRySExIQW05WnA2cDZRcG01TU9XaThzSURXT3RvRUl1b3psOEtubkhhMDRlaEhWa0JGM1FReWRYWlN1UEdZOVB6emJzZjA1Q0VsbzdGU0hZRFU1UnRob0RuQndhYkxKOWFYZS1na1VtM2llLXZWR2hwRU8zWnF2aGN3Y2V3QXBZck0xU3lkVGQ?oc=5",
-   "fonte": "Canaltech",
-   "quando": 1795097040.0,
-   "categoria": "estado",
-   "fontes": [
-    "Canaltech"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 5,
-   "hora": "19/11 11:04"
-  },
-  {
-   "titulo": "Maxi Shopping Jundiaí prepara série de apresentações de corais - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelNlSndvLXpsdUEzVXFIbmhSSXVTTmd6OG9Bd3dxcHVYbGpSemdqU2xNb3JtS1V6VW9WV0RPazVwSWRoMmZqdTJTb25PMGhpNHJMNVNKMmk2aDlDa0RUeXB3M1N0dm5iWHdBSWtBNGtxeWk1dnFlT2tTZDIzckdxeDRFM2tPcHM1YWF0QUFxanpWU01RQmFJ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795096982.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 11:03"
-  },
-  {
-   "titulo": "Congresso aprova criação dos 21 Dias de Ativismo pelo fim da violência contra as mulheres - Santa Catarina em Pauta",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUVGVERiVU1KVG5FcjRObnZhUmRVb0xqLTVoNnROWUtGd3c0cTg5dUtaT3FSdTBtZ1FmUzA5dnR5X2tBUUhNZVNtM1dLUGE0MnJXMkN4aW9TaU5CV2U5RWpYTl9RTldrRmo3ODNZdHVqTVJQYzdvYXVYOElFbzdQOTlRb1M5a0s2YVdHSmJHWFBtOFZmdWpDSC04MUktT25pUGQyNU05eFRPR3FuOFRkM2FnQTdBSXNnSXRsMkNfT3cxUE5qWTNMVmJrRDlzOUs2VENfWXF0S2I?oc=5",
-   "fonte": "Santa Catarina em Pauta",
-   "quando": 1795096920.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Santa Catarina em Pauta"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 11:02"
-  },
-  {
-   "titulo": "Pernambuco sanciona lei que inclui Imposto Seletivo na base do ICMS e autoriza crédito de R$ 1,9 bilhão - atlaspublico.com.br",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGFaNmhtRW5Lc2c3cWp3a1NONHVfSE14T1VMdFczQ0pQOWxRa1kzSi1iS3NNQ2ZMdWZvSDJ3NzItMGRMQlhHRFF2andYQTlQZk9TWnpQNDdEenFjV2hSQ2o5ODlVNTc0STJrb3NtM2NMeHNMc3NmWDJhbW9vU3VPcFBkUjVDcWxRQm50SHRYVUdLcGZ6UDlIblZPbEkzWkdTMTVCWGYxWXBuNVZSeTZCRGVnMU8?oc=5",
-   "fonte": "atlaspublico.com.br",
-   "quando": 1795096872.0,
-   "categoria": "brasil",
-   "fontes": [
-    "atlaspublico.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 11:01"
-  },
-  {
-   "titulo": "Campanha Eletro Solidário já arrecadou mais de 2,4 toneladas em Jundiaí - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcU5vckpfWnVCWlU3ODdGS1Ztd3VIYzRscExXdVp5UDR5M1Q0eTNDQWswV2M2MmNBMFplNEVnUDNSVkJ1cl9qMktaRTRfdjhhZE5aR0tZTmJFQkhCS3cwRGh4akJtVWhsTHo0MlNrdm8wVWdUSFZPZmswSkZHR28ybnY5OG9kWHhWeThGWFNpb0czWXg3aVljUkhGZzh4V2hVekE?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795096572.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 10:56"
-  },
-  {
-   "titulo": "Movimento estudantil prepara manifestação pacífica em Cabreúva nesta sexta (20) - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG04akp5WUhEbzN4Y0E4TG9TU19KRTl2MFFrOHhkQkhvYVNEMkJGQVVMNXFNRTBGUXNfTklWeEplaUxKcE44ZmtNdFpWSkRWNFl1NF9qR01uT2M0Ni1MZndlM2hCbm1DLWlhT3dZZG95eUlGZWpRTmZaWWVoSVl6ZkNoNlNyUnRfM2FBbEg4LTRQY09jN1BpVjRBZGpRRFBBdDNHQjNfc2JIYUE?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795096355.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 10:52"
-  },
-  {
-   "titulo": "CRESCER recebe Certificado de Reconhecimento do Governo do Estado pelo trabalho com os jovens da cidade - Prefeitura de Mogi das Cruzes -",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQjE5WWhSVkFmM1hfMWFORGZrUlNhOC01MVpSZnJiRnJPQzN3WjF5dm9KLTkyendRWVZzUWFKdGlEV0l2aHpobGdmdmpMSm9pOVdvNFdISndyREVGc3V1VUlkVU9qMURwTVd3bHhRcEJNcGlEMktkYUVWWExBWlBTMFgtR0p1NTJjRUVWRG1XXzJYU2FYbVl0eHp0cFd6TFFwNEdmWUwwUWNQQXRIVnRmSUdmTDRYYVJrbC0wQnQ5V2N4Zkt6TWdlR2hOLWNsb2hZQmNiVmI0OFhneUVLQkdnbGpLQUVocFhfa2Rra01OWDdBQ3J1TG1DVTJoZ1JRZ2lOdFE?oc=5",
-   "fonte": "Prefeitura de Mogi das Cruzes -",
-   "quando": 1795096020.0,
-   "categoria": "estado",
-   "fontes": [
-    "Prefeitura de Mogi das Cruzes -"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 10:47"
-  },
-  {
-   "titulo": "Quem é Natália Resende, nova \"supersecretária\" de governo Tarcísio em SP e apontada para substituí-lo em 2030 - NSC Total",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTElybEozWUJKVjFJbFZDdUhpeFBHYXlkN1BYTnRGZmYyUVRaYWJGdjVkUENwaEoyY3cyaHRIT29UM1ZEMWt4VDBMTEJBbVBoZUZRN215RGJWRmVZNXBickJ3VmcwVjc5cVdtUzhuWmVMbklrRTZaM1hMd3NkZDlpTldPVjdOZ0QtWU85QmJWaTFObmw3OVpGeDU3VDlXYlI2T2QwREd5Q3c1X3VtN0xydzJlSjdKMEM2OUdTZXpDelhSdGY4NkN3dFVUZWNwN0luNDdSZS1ISWlTNlE?oc=5",
-   "fonte": "NSC Total",
-   "quando": 1795095945.0,
-   "categoria": "estado",
-   "fontes": [
-    "NSC Total"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 10:45"
-  },
-  {
-   "titulo": "STF pode substituir 36 deputados eleitos após ação do PDT - TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXZ1ZGR2alpIZkduRkczYmVlQk5OVnBpMWg2S01jOVNienhGTzFsV3NFdGF3dU0zYVh6NUdCM2FoME9kMURwSmxpdTBPTVh2TEQxT1ZqaUk1SDcxYVZWbndjZWhTQnBValFrbmYxMmJDSlJ4dVViTnRBdU1aekxQMloyMlg2XzhXRDV5aG9tLWhEOHliVUl0NldCQ2JuM1ZIUWRFNFpiZGUxOC0zV0RVYVIxMndQU3FuTGZsbg?oc=5",
-   "fonte": "TV Sim Brasil",
-   "quando": 1795095943.0,
-   "categoria": "brasil",
-   "fontes": [
-    "TV Sim Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 10:45"
-  },
-  {
-   "titulo": "TRF transfere ação sobre problemas na BR-153 de Marília para São Paulo - Marília Notícia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnNRWGZiTEp2OFU2YVA2V3BRUHExOG5rTW4zMkVPd2hYdXNqdnZZYWxQMnBTRUhzVlFqR0hRTjlweE5jaklWVGNubGZlQVMwYXprZk1OQ3phbXk4Z1pjangtZzJKVDdHejh5VGpqVkpQOGhrQ0YzZGdzcG5Wejc0d0hraVlYb3BHRm9MR2tuTERnb1BkZFFIVHZKaGh1aFBUVk5FeXJVZGU0eTBWZHRLSVRqeWZGSHc?oc=5",
-   "fonte": "Marília Notícia",
-   "quando": 1795101262.0,
-   "categoria": "estado",
-   "fontes": [
-    "Marília Notícia"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "19/11 12:14"
-  },
-  {
-   "titulo": "Feriado da Consciência Negra deve levar mais de 590 mil veículos ao Litoral Norte; veja horários de pico - Nova Imprensa",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0J6UV9lR0J5TWtJNmg3aDVmUHUtbUU4Vko2UWRoMVFrTWp0anZJcmp1ckt1SmRPLXNLdWZBS09kd2xQYVNjckNrVEVlSGNwd0YtV3I5ekpCMk8zbVhZRnFhRm5rWnJ6NXJGT291V0RWTTB5anpPbFV1OHQwTmhkM2xxWFlpUnpNNWJ6el9Na1M4bVFLaXIxWkM1bjZIQmgwdHVaRHNsamNPWmc3VEVZMTVUVktGUzVOUzQ5Qmc1bGFVSFRmckRFM2xsMVV1VklQTzdCVTJpM3Q?oc=5",
-   "fonte": "Nova Imprensa",
-   "quando": 1795100850.0,
-   "categoria": "estado",
-   "fontes": [
-    "Nova Imprensa"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "19/11 12:07"
-  },
-  {
-   "titulo": "Covid-19 avança em seis estados e acende alerta; o que está ocorrendo? - Costa Norte",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2hzZjUtMENteFpXWVJSc0xneS0xU01veEJWcXlRdUlmLUdwNkRZaUlQNEg2UGxpaVVhYTJYaDZNTW9WZnY2cExENXVlYWtReWNXdGI3cjZkM3RMSHVYSi1fakptVC1NWHlmSzBxdVMwRDhxTlp0MGxDcVJyb2hiU0FlaVFVLU11UDFfTE41Q0hUNmNzeVdBc3hSbVRDTzRGRnBsRHJaWXLSAa4BQVVfeXFMTjRJY3pMZHpUcERtVHFVUUdTVWluakJGNFMxek13RDdGM3I4UjdoY3V0blVkWlNFY21IMzV1V0lfYnpXYjFCNTBQZExsRjJfU0gySlhCTGlDSFZNM3RBTUNZU0M2Y3Ayd29NS3luRVFKRlNjSHhIa1JJV0R6anNRNTBWT09INHNPU2kzX2ZQQlZCX1dkNjRqYkFPZFNONk5feEFtYUhHaG1lNjh1Q0FB?oc=5",
-   "fonte": "Costa Norte",
-   "quando": 1795097700.0,
-   "categoria": "estado",
-   "fontes": [
-    "Costa Norte"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "19/11 11:15"
-  },
-  {
-   "titulo": "Acesso ao Real Parque na SP-332, em Campinas (SP), terá alteração, neste sábado (21) - Estradas",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnNGMUpvcHRmdFVhUVR4M2R5SWZiZWJmUVQ0MGlCLXRuV2tmM2hmUm1MMXJuRU1YdkhIc2hDNldsTm5pTW9TNHJDYUpqSXFGWnJGR1RfSDN1cmRXUWF4c21MWk5MWWwwYkx4eXRKVnlqbEhSV1JiVEg0MlprcFgzNXZiNEJNUXV2M0FMZ0ZNRDNLbGlRRXl6LU9RMzU1TnFheDY4dw?oc=5",
-   "fonte": "Estradas",
-   "quando": 1795097534.0,
-   "categoria": "estado",
-   "fontes": [
-    "Estradas"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "19/11 11:12"
   }
  ]
 }
