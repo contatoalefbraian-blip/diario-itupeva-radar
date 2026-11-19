@@ -1,26 +1,29 @@
 {
- "gerado": "19/11/2026 18:45",
+ "gerado": "19/11/2026 19:44",
  "desde": "19/11/2026 16:35",
  "pautas": [
   {
-   "titulo": "JJ: Dois acidentes envolvendo motos deixam três feridos em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkVYTkVOX2dRR2dqWkc3bHdvenJrMV9CSGtnMkJUVW9GY3R4Sm1aM1I1Y2JSbmQ3a2VBd1pNMll3UVJmSDR6ejN4UkVjX2VfLVVUclEwOG5rS1I4enotZUl3TmZGN1U5NV9lOU5heTBnYnNVNnhpY3c5YXJ1X205QzdmY1g5ZGxJd1B4M2hHdTBOZjFHWXgzeW9fNGpGTFd1eE1WVzBibld1cWJrOTRmU1JSRmVaZzJwZEpJMjJaU0NxQQ?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1795114299.0,
-   "categoria": "regiao",
+   "titulo": "Polícia Militar SP prende homem com 23 celulares roubados na zona sul da capital - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1dMaVphNkNzSW9WZDUtWlc0ZjhYWGMyeTY0eWxfUDM2Njg3ekRNZVlCcDdCdVZCWW9ja1hsRE91X2lJMmFNb25QLXlIUm1zQVNIX0t2c2UxWG9MN1V2S0ROVHlFbXZ0MkpFR2stVEhpNzh4UlVPRVMxWVJqMzktYnhKSng2TXFUczBXRGpJWFdfeEFnOTFIbm52SnJKUk80MzJyQnZBU3FyV0p6TEl1eEtSeVJ5czc0MDhVc3VhX25UWUd5clRPdm9PNA?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795126821.0,
+   "categoria": "estado",
    "fontes": [
-    "sampi.net.br"
+    "agenciasp.sp.gov.br"
    ],
-   "urgente": true,
-   "assuntos": [],
-   "pontos": 10,
-   "hora": "19/11 15:51",
-   "foto": "73cefee5e617.jpg",
-   "credito": "Foto: sampi.net.br",
+   "urgente": false,
+   "assuntos": [
+    "politica",
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "19/11 19:20",
+   "foto": "a7eae31b9355.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
    "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3019873/jundiai/2026/11/dois-acidentes-envolvendo-motos-deixam-tres-feridos-em-jundiai"
+   "foto_tamanho": "1375x761",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-militar-sp-prende-homem-com-23-celulares-roubados-na-zona-sul-da-capital/"
   },
   {
    "titulo": "Reforma tributária em 2026: o que muda para empresas - Portal Contabeis",
@@ -152,70 +155,472 @@
    "materia_url": "https://g1.globo.com/google/amp/rj/rio-de-janeiro/noticia/2026/11/19/psd-recorre-ao-stf-por-2o-turno-no-rj-e-pede-suspensao-da-diplomacao-ate-decisao.ghtml"
   },
   {
-   "titulo": "Foto: 500 hectares, equivalente a 700 campos de futebol, e investimento de R$ 330 milhões: vinícola de Brad Pitt em Provença, na França, tem olivais com mais de 100 anos; sustentável, empresa produz 10 milhões de garrafas de vinho ao ano - www.purepeople.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNeWRuQ0ZpR2YxYmZzUENqTnowNHp0anBrelNzMjQzQ0NIWDVtUjZhS3NZUGhGTnEyMTNCeElGOVZBT1RDRm9ZRVNPWW9ZWVNNZGUybmJyQXRzOUd3Zm5xSk1oV3BocmEtckNzWmhnTGZrcy1Rdk1MMUkwM2NUaFZZNko0c1FETTBid2ZNbElLWS1uOTVBMnBQU3M5aHlLNTcwMVRFN1pOeFVnMldycEpkUUQwcG11TGlZM1hqcXdXcmxmTGdUa2lya1J2a0taRUtzV19oSkZZaFhpa1diRHhKY21MY3VTTGdjM3J1R2tOS2tjWWJHUXNXNElJLVJHenFMZnYyS3hidFhyb3haZy05Q2hpX3NtbUFJWFJfaF9ZOEhrV2g1ZkhUaGpoU2lvRHljd0FoazcwUHdxb19wT3VEU3l6TUxHZHJxMnExOXVYZHYtaFdVekVWVHVlLUsyZVFpT3ZtUGg4WkxDZTk2b01IaThmZC1wTWJjVTZwcjJFeVJ5dw?oc=5",
-   "fonte": "www.purepeople.com.br",
-   "quando": 1795117092.0,
+   "titulo": "Polícia – Página: 884 - poptvweb.com.br",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nemZjemdTRjZvclVyZXhUQ1NKZWY0OTZzaWRCbndyWlRWQ0czRXNyTUdpaDR5VlFCUzJ0c000ZEpsX1R3TWFsMm5PWEc0LWloNTlyTERudWo1U1hnM3pXLVJJYlg1YTBFMHFz?oc=5",
+   "fonte": "poptvweb.com.br",
+   "quando": 1795117071.0,
    "categoria": "regiao",
    "fontes": [
-    "www.purepeople.com.br"
+    "poptvweb.com.br"
    ],
    "urgente": false,
    "assuntos": [
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "19/11 16:38",
-   "foto": "b904c994669d.jpg",
-   "credito": "Foto: www.purepeople.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.purepeople.com.br/midia/500-hectares-equivalente-a-700-campos-de-futebol-e-investimento-de-r-330-milhoes-vinicola-de-brad-pitt-em-provenca-na-franca-tem-olivais-com-mais-de-100-anos-sustentavel-empresa-produz-10-milhoes-de-garrafas-de-vinho-ao-ano_m4838214"
+   "hora": "19/11 16:37",
+   "foto": "97c380e7eae4.jpg",
+   "credito": "Imagem ilustrativa: Mat Fascione / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "800x539"
   },
   {
-   "titulo": "Lei que pode diminuir pena de Bolsonaro ganha data para análise no STF após decisão de Alexandre de Moraes - NSC Total",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeDJRSXRDQnFOWURnOVhIc2xoSW95dl9FLVV2a2NCNHpHVFhyQkpaUmdCX05XOXFJd2xFbjJPNnhNdkNLcVVpTWM1STZLcUtkZWRrcWtMajJKSXUxZnR2U21QaGRfdHJ5Z1ZyOUpwSzlTMkxqcGNQaGl0T2JuaFBKMUtmYi1ZT1A4S2wxOEtxQnFKdlp1Q2lOTXcwUm5fcDJwZHlISW9Jc0diXzRiMkVQNFhJay1qT25KYUpKaVVubUwwYXV3cXhuR3EtOVRiRjFzZ1pmS0dwcDg1QQ?oc=5",
-   "fonte": "NSC Total",
-   "quando": 1795124229.0,
-   "categoria": "brasil",
-   "fontes": [
-    "NSC Total"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 18:37",
-   "foto": "df62c640c76d.jpg",
-   "credito": "Foto: NSC Total",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.nsctotal.com.br/justica/lei-que-pode-diminuir-pena-de-bolsonaro-ganha-data-para-analise-no-stf-apos-decisao-de-alexandre-de-moraes"
-  },
-  {
-   "titulo": "Defesa Civil de São Paulo alerta população para previsão de chuvas fortes durante o feriado prolongado - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kQ2pOUXJURldkOU55dGM2Mm9iRzVqZ1YwXzVnN2lXZ3J3cFk5aHI2bC03VHFsUUdSRWZoeXlhSGZmUERCWERzUFlnZkFzbGQtdmE3V2JSQy01cDEtdEIybUl6M0pQckQtSjhUVUtTa2w3andhQ19pcVBZNjBTdw?oc=5",
+   "titulo": "De Vice City a Campinas, Cadeia Produtiva Global de Games quer conectar empresas paulistas a mercado global de jogos - www.agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOelBNMjE5NUsydVFnMXpfQ0tnb3E2QkpWQXJxakxMQzE3MUNWQ01tTmF1ZW1fZzY3d0lBcnpEYlJoZWhkSDF2cHAyV2pqa0tPQUZ6VkdxZGx1emNnRUVuN2w2amJMOXZUa2s1YkRqX0dqMGdJbk1DQlkyVjBKS1RXdTNVbUl3N0M1RlozbDRnNGdBS096bmw0TnVidDRacGpJZlZEcjA5S2ZuRHNiSFh3U29heUtCamVhV2dGWXM3Z1pwaG82aC1iT2VKN29LZ0laOEJTNkFqVndSZXl1UnZrV2dDNUV4b2k5VU05eS1DMFlHUG1ocUlJ?oc=5",
    "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1795124177.0,
+   "quando": 1795127433.0,
    "categoria": "estado",
    "fontes": [
     "www.agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:30",
+   "foto": "9691de4e5663.jpg",
+   "credito": "Foto: www.agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1094",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/desenvolvimento/de-vice-city-a-campinas-cadeia-produtiva-global-de-games-quer-conectar-empresas-paulistas-a-mercado-global-de-jogos/"
+  },
+  {
+   "titulo": "“Estados vão pagar a conta”: Tarcísio critica novo ajuste fiscal do governo federal - ncnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjdSbkRHcGotSGhtTDFaNnQtR05qQnpMcEpGNmtFNmI3RmtlYjRJVUt6OWg3QWFRbERxOHl4d1lIeXJEd1JNWWhEMV9rZGVkdWE0WFN6ZlFBdmVKYVRDejRQSDZOVjNVejVXeUFGNTBGRzRQdG1uU002ZUJuZzlzX015SEFjTUc1X2pJ?oc=5",
+   "fonte": "ncnews.com.br",
+   "quando": 1795127309.0,
+   "categoria": "estado",
+   "fontes": [
+    "ncnews.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:28",
+   "foto": "d3d1c443965a.jpg",
+   "credito": "Foto: ncnews.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://ncnews.com.br/2026/11/19/estados-pagar-tarcisio-critica-novo-ajuste-fiscal/"
+  },
+  {
+   "titulo": "Polícia Civil prende suspeito de estelionato durante operação conjunta com o Distrito Federal em SP - www.agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSVoxU1I5U1RKbVNEOThvU0xFcXFyZENHQ1lQV3ByRWxPZUlDSHY5ampoS3JndlROS21VbEE1cjVVXzF3UHZHVjR3Znd3QV8xWTg2LXNmVnZHS3g0NGhzaGRqdHlFVmZoWDMwT3hZWjgyWEhqQ1BBNW9QWGViZmhDck85S25VYjlJMTBmTmdCV2stbmtUaDljOXd3cG1SOUQ1bTJ6XzJxUEtvcU9MRnNVR250TGVWSHVzQWJuLXExXzhZWldlOVBzUDVfS2ZxbWZRaFg4M0VXMDJvVFhRUmVFblpqTTE?oc=5",
+   "fonte": "www.agenciasp.sp.gov.br",
+   "quando": 1795127293.0,
+   "categoria": "estado",
+   "fontes": [
+    "www.agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:28",
+   "foto": "2237195ca844.jpg",
+   "credito": "Foto: www.agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1021x753",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-civil-prende-suspeito-de-estelionato-durante-operacao-conjunta-com-o-distrito-federal-em-sp/"
+  },
+  {
+   "titulo": "STF decide em dezembro o futuro da lei que pode aliviar penas de golpistas - www.plantaobrasil.net",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzBLU3o4MFU3RXFSZVZRZk4tdWdDVzBkMGtDdXVibTBKMDZzTi01Z1hjVnUtZzNOTkJtRnR5dDhQV1k2dmtRS1UyQkhsdGYxTW40ZFJNaVUyd29Ya3U1alVxYlJET2tFdHFXN25QQ1JWRGh4VFZuYVlmMlBLZkViSnlJSEtZdHZqMDlEYTRjcDQ3b1dVbXBIUHk1UnlzeFduX05xd0VHbmFaeGR6VnNQYmxYb05ONE5IV1FKVg?oc=5",
+   "fonte": "www.plantaobrasil.net",
+   "quando": 1795127088.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.plantaobrasil.net"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:24",
+   "foto": "166c23d8ce95.jpg",
+   "credito": "Foto: www.plantaobrasil.net",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x762",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164568-stf-decide-em-dezembro-o-futuro-da-lei-que-pode-aliviar-penas-de-golpistas"
+  },
+  {
+   "titulo": "Gallo anuncia ação no STF contra plano de Lula que pode tirar R$ 1,2 bilhão de Mato Grosso - RepórterMT",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjR3MXdNWDF2cWJNSi1Ea3E2WUp2SzZycG5QZTZYQlN6NHhSQ3ZXb2FyQ19LYkZERHhiVVFPMW1BLXVVZ0ZMV2ZLS1otRWpjN2xyTUxFdVVjQzhwM2c1NmUtdktEcG13aDZvbm94b3Rqby05d21ubjNab29tdXFYNmJKUGhjTDVleEFQb1BUVHN3Nm40ZGxNbHlqUmI5YnZzckNKQWJGVzUxWTFkalpNOXFSblRHUkFxaEM4LTNQejBqR2l2a19UQ0tYMA?oc=5",
+   "fonte": "RepórterMT",
+   "quando": 1795126980.0,
+   "categoria": "brasil",
+   "fontes": [
+    "RepórterMT"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:23",
+   "foto": "e836b1785d72.jpg",
+   "credito": "Foto: RepórterMT",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.reportermt.com/politica/gallo-anuncia-acao-no-stf-contra-plano-de-lula-que-pode-tirar-r-12-bilhao-de-mato-grosso/246919"
+  },
+  {
+   "titulo": "Polícia Civil de SP prende no litoral mulher investigada por homicídio em Alagoas - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX014UTc1LTVpR1dYdnh4cVFjdlB5SnFsckpocDctOUlEQTNlRUFzMTZBUllpSXVJNWRyR1JsSGkzZF9mTHFTQXI1aGo2cndIMGljellOZGlONG05T215cjFtOV9xODFLTV9MQ1JNRi1DVUdaRFdHU2VfdkdTVW5jZjhVUTA2Q2xRN2M5XzY4REU3VFhyNklfU2VJNEp3azdtaDdnZlFWanI0T2tNcUo5Y2FvT3ZfU3N4OXAyVTBzNkEwaTNzS21pR1l6QlQ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795126902.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:21",
+   "foto": "a1f0bb8c83a9.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-civil-de-sp-prende-no-litoral-mulher-investigada-por-homicidio-em-alagoas/"
+  },
+  {
+   "titulo": "Defesa Civil de SP alerta população para previsão de chuvas fortes durante o feriado prolongado - Diário de Suzano",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ0MtMVg2aG5LVnc5cVZKLTRTam00OHYybzdSd2VBZGx3bzQ4OXdKeThKaERaMnZiaW1vRDFzb2VuTE1WZTZPc2xzalZWQW1xTlA0NURNN1F0M3oyLVEtRlVLZjJwWFlERDRMSzBUWlpLMTFpS1EyVEFuekUtcG9yLXJkaVlPWmNtVDh0X0RWS0xIdXkxSXM5dHh2RlRxekQ1UEtielBDS21ia2Y0b0JHY0pJVWJuR2tVS2FjemtNTVBjVEdXRVRTR3dEWkpaMEtXVW8tZW0yMWx5VGEtUHJ6Z3BiTEVsdDQ?oc=5",
+   "fonte": "Diário de Suzano",
+   "quando": 1795126800.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário de Suzano"
+   ],
+   "urgente": false,
+   "assuntos": [
     "clima"
    ],
    "pontos": 5,
-   "hora": "19/11 18:36",
-   "foto": "85a4d93f4104.jpg",
-   "credito": "Foto: www.agenciasp.sp.gov.br",
+   "hora": "19/11 19:20",
+   "foto": "ed5a8b2288d3.jpg",
+   "credito": "Foto: Diário de Suzano",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x933",
+   "foto_tamanho": "1280x746",
    "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-feriado-chuvas/"
+   "materia_url": "https://www.diariodesuzano.com.br/regiao/2026/11/19/defesa-civil-de-sp-alerta-populacao-para-previsao-de-chuvas-fortes-durante-o-feriado-prolongado.html"
+  },
+  {
+   "titulo": "PSD pede ao STF nova análise para forçar 2º turno no Rio - O Antagonista",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3Bza0E1a0FjMVU0bVhEVVdVUURiZWFNdy1zMHBpb21URUhOWUZPYm9IM1I2SHdDOTdmdU5TdjhmLW9GLXhQY3FjbzVXWVpZWXVESFRsWlNpdE53VndNTkRObWM2cFV2RTFYYV9lVW8xeU13Q1JTQXJndkRMVDE3NExpandPa0pVaDJEU1BiNzRuMldYMjF3?oc=5",
+   "fonte": "O Antagonista",
+   "quando": 1795126800.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O Antagonista"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:20",
+   "foto": "87bf6c55543e.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Tarcísio confirma permanência de cúpula da Segurança Pública em SP - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUQwemVHd2E1UXkyZDJBX1M5eTU5LXhvWDJNaFBQcFRlYzlGV2NhNW9FcVRfRUZjQlN2TlVSZ3Z0N1dYeE5TSF9XOXRKdzhnOUFsekhUdU0xYkQ5R3VUWktqNGRobkRteVBrcnRDbG5aNUJFeVRUemVvNjN6VG9PUHBFUV9rTHZ1Yk4yMDZRX3hRNHIwNmpGZjg4STVwR21YbFh2NmpoS2k1LWVSTGVPS2gxaVhaZG56bC15X0JRa2R4MjViX2hJZ25nY2dMaWFEV2tKVQ?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1795126640.0,
+   "categoria": "estado",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:17",
+   "foto": "2534cd6e81f8.jpg",
+   "credito": "Foto: CNN Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.cnnbrasil.com.br/blogs/adriana-de-luca/nacional/sudeste/sp/tarcisio-confirma-permanencia-de-cupula-da-seguranca-publica-em-sp/"
+  },
+  {
+   "titulo": "Lula sanciona crédito suplementar de R$ 24,4 milhões para agências reguladoras - Metrô News Jornal",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzZNUTZKbzlUQmhCazJMZVNGSHpjREZNbGszTzU3SU1OelJKSGdHczRoZmJveW9HeWlTRzU0dUlPOTBiWEZrYVlRX1g4bVZWcWtPTGJLek9Bb2h3ZVA3RllPcFl1dFZ0UTB6UktfLTYxbzNPZVJDQmhGeXNJTmNMNHM4TXZVYjVrQ0hKVzFPaG9xOGJsWVV5Rzc3eDRJaVpBYjJ2VQ?oc=5",
+   "fonte": "Metrô News Jornal",
+   "quando": 1795126200.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Metrô News Jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:10",
+   "foto": "216378c373b6.jpg",
+   "credito": "Foto: Metrô News Jornal",
+   "foto_tipo": "materia",
+   "foto_tamanho": "695x506",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://metronews.com.br/lula-sanciona-credito-suplementar-de-r-244-milhoes-para-agencias-reguladoras/"
+  },
+  {
+   "titulo": "Bonde SP de R$ 2,8 bilhões será incluído em concessão de ônibus sem nova licitação - Metrô CPTM",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2hWbGdBT2VZUTFHWFYxSEtXTEt6OWI1X3hZSXd3ckszSEFuNUVwbEwxcnNoLUxiYkRQdDhpa2xSWWRxYXhyWEh6V2NuaXVpUVBtMGs1N2JzcThTTWt2RmJhYlRKc1dQbDdLTHl2VUhlT1RnRXdIYkZPSWptZElRd0k4M2t5YnVaU1pvcmFvLWhCdE1TU1dRNlo1M1I5b1c3Y3RwdXhWWnFmbkdIV01v?oc=5",
+   "fonte": "Metrô CPTM",
+   "quando": 1795126122.0,
+   "categoria": "estado",
+   "fontes": [
+    "Metrô CPTM"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:08",
+   "foto": "87ccec3a7de9.jpg",
+   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Moraes libera ação que trata da lei da dosimetria para julgamento no plenário virtual do STF - Terra",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaXVDWHFjZFVqZmNKTmJja3FzZDhmVVQ3LXRCNGsxMG5IZzM5cEZTRnFEVlZMZ3Bod1loZ0o0V3JMbzFCTDRtVFBUaGJyTUx3Qm5QZFFqNGZoYzh3bzJFNUZKOU9NcWRPNmt1Z2xMUHIzOW5fUk8xVmw0UWR4UE1RU1NhU05pNUJUYTRndWhPTUFvTGZZZkN6Sy1LN3I2Ni1TeXlmbTU0UDFWNXdZaVdEQV9NTmJKZWlPNDd3NDNZbDZlcEFwMnI4a3hkZTlGdXN1aE9Ta1FlbUU5TjM3WHp4Q2JuV1N2R1FaeURaemx4djU3M0hXS0tuZzJpOGxnSzZwQ3BTWGZsbGc5Y3o4Z2RGczlaUXZQRkU?oc=5",
+   "fonte": "Terra",
+   "quando": 1795126020.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:07",
+   "foto": "01c3aaf8b15f.jpg",
+   "credito": "Foto: Terra",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.terra.com.br/noticias/brasil/politica/moraes-libera-acao-que-trata-da-lei-da-dosimetria-para-julgamento-no-plenario-virtual-do-stf,5046df4c54e8759160d5d47297b69c41p71eq2mm.html"
+  },
+  {
+   "titulo": "STF define data para julgar lei que mexe em penas de golpistas - www.plantaobrasil.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU55cXRUc0VjYnQ5Nl9PQlpnVHBmR1VtZV8tTTFIdjZxNUp3ZU8yQVJiVmQyQ053ajJTblBva3VyaXRvLXFUaWllRTBTVlhMQl9KeC00TE5oWDUySC1OR1pKcWItVmtRQmIwWkxPbHp4cElZR1JmUTRBS085X3NubExHdDQwSk9qVURRVzJ5RmM2bzlTRmVtRjE4Y3BlVms5dmduMDJaYjA2YXJt?oc=5",
+   "fonte": "www.plantaobrasil.net",
+   "quando": 1795125891.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.plantaobrasil.net"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:04",
+   "foto": "e8fe23e83143.jpg",
+   "credito": "Foto: www.plantaobrasil.net",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x718",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164564-stf-define-data-para-julgar-lei-que-mexe-em-penas-de-golpistas"
+  },
+  {
+   "titulo": "Caravana de Natal da Coca-Cola terá novo trajeto em Jundiaí; veja o percurso - TVTEC Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaW5laHQ3ZTJVbzNUbjJGaFZYVEtqWkxENFlPSVBScFFzdnl5a19yTERwNWlsRGVTNmNLdGxpRVdIM3MtZm5uWk1ic1lHR1I1Tkp3cFoxQjVXQVRGY1FQZlM1ak80MmJZelN0eEZPYnNnRkI0dHdfVzFhajJndHJCTVdVbjVudzJhQm9ySjRJTXFkSVZfMDZtYmxJTlNZOVYza21vOXZ5VjdncEt2dEVtQk9zYjJFaW5JMEM3SA?oc=5",
+   "fonte": "TVTEC Jundiaí",
+   "quando": 1795125691.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVTEC Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "19/11 19:01",
+   "foto": "7b3323a4ea30.jpg",
+   "credito": "Foto: TVTEC Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x702",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/19/caravana-de-natal-da-coca-cola-tera-novo-trajeto-em-jundiai-veja-o-percurso/"
+  },
+  {
+   "titulo": "Sorocaba (SP): MP pede fim de pedágio na SP-264; veja impacto - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZEF3dTdkUjItQ1M3MHBvUldIdmJ0YWppYm80QlFiblA5cUIwX0x2VDY0d3VCVkRzRm9mZVZzMG82RHNyZ2x4aHIwTVFTaU1KdlY5Wnh3RnZ5V2dqbUJIQTd1Vi04dmt6U1I3djhtLW12NEdqaWhqNjNtM2tsWHNJR3ExUHZxdll5dm9kUmVWMWhra2Nl?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1795125648.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "19/11 19:00",
+   "foto": "1c3a0cf5396d.jpg",
+   "credito": "Foto: Diário do Estado",
+   "foto_tipo": "materia",
+   "foto_tamanho": "984x554",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodoestadogo.com.br/sorocaba-sp-mp-pede-fim-de-pedagio-na-sp-264-veja-impacto/"
+  },
+  {
+   "titulo": "Lula anuncia ministério para idosos e governo pode chegar a 40 pastas - Ric.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXJMbWZqeGtmR2JidEpTREVtbXBZbUI3TUlhNW95ODhud2ctNHBDTlJfanhGMjk3WXUxY09wbjEtb29ndkl1RUlubUdtVzFOelNVZEwxcDZQOVhoSVdESFExM1pyS2thVWk1Z3FyNWsydk5iaDJUb0x3VGhGTEdlMVljSHdzdWM4ZFA2TTdQUW9JOXNGN1BkejFhb2Rubk0?oc=5",
+   "fonte": "Ric.com.br",
+   "quando": 1795125491.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Ric.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:58",
+   "foto": "5d3d046503f2.jpg",
+   "credito": "Foto: Ric.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1260x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://ric.com.br/politica/lula-anuncia-ministerio-para-idosos-e-governo-pode-chegar-a-40-pastas/"
+  },
+  {
+   "titulo": "‘Corte de gastos’ do PT aprofunda descontentamento no seio do oportunismo - A Nova Democracia",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3JnemF6S0Q5aWZHMDdrZE95SGxBZ25QTDZieE1Wd0lCNDlITDNLRjljek9NWDl3cWhwOGtoYXJSWS14WENrZ2d1RV8zSWtEanV4QS1QSVRzRXRFcG9QV0FXRjRfcmtPM1VMc25CNHJZU0FZWC1WdzZKM19KY1Y4aQ?oc=5",
+   "fonte": "A Nova Democracia",
+   "quando": 1795125225.0,
+   "categoria": "brasil",
+   "fontes": [
+    "A Nova Democracia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:53",
+   "foto": "d6b330841e36.jpg",
+   "credito": "Foto: A Nova Democracia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://anovademocracia.com.br/corte-de-gastos-do-pt-aprofunda-oportunismo/"
+  },
+  {
+   "titulo": "Tarcísio reorganiza áreas e entrega Metrô e CPTM à nova Secretaria de Infraestrutura - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN2NVT2hqSmZKWmdUd2FsNEtzZ3Vqb3B3NXhVTmNVUmRxNWpKbzRBenFRQ0M0MmsteFN4M0dzaDdBX2FCNXZpNURMWnhyM0R1dzVJQTNBU3lTdThCTkpXUlFyOFlsVVZxaTJDSEFWMGlfTmhQUDZfazJyOTY5Ym1IdVhHbm45UXlUY0tYcF9VYk85eThGdDZEaDRWWGlYR2R2azd2RGhxdnlVYWo1V2JNN2RNV1pDMjBUZU9OdUZoVW5VMDhqTXpjQ0I2U3Y1dlpLQ2U2Nw?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795124880.0,
+   "categoria": "estado",
+   "fontes": [
+    "Folha de S.Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:48"
+  },
+  {
+   "titulo": "Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria - Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQazlzUUI5SzF5dTNDMmtPT0hrTDNueXplWWZSaWN5dDc5X2dtTUl2ZWhxZ3FwV2pUV0EySVZKbXNpVmdLdDUtQ19sMWxJYlJaTlFTS1pHRVZnTjZZMU9UR3JKb3FnTXRrV2NOa0U4dUhqeW00dDJ2VlNEWXRMTkZfdm1RYmJfYWJBZ1F2WVViVjBQQXJaNzVFUXVxajhtV2hLUXFIb0lOY01PdHJ6cjVyb3BmQVVKRXY1ajZVek5DRlp2cFV1blUzeVU0QXR3V0dsWWVab0N30gHkAUFVX3lxTE5jMTdIaF9MY1p3eGJjODlYQnZkVkJKMEhBVnBvNVpXSDBld3pVbHJPRzkwWUliNWlPSDJ6eERDOFgxQmxSblhob1c2WmxkVWRyZzJaOGJHOUJQVGtUT3BWTW9MeFFraTZKM09nSTVkeXNvNnk0U3FzWHl0aHBqTlNjak04R25MNEN4QzNEeXBkeEEwdUNwOGFIcXNZbW1XeFg1dVFMNjY3X2dscWZXREo4M2plOWZ6UXI2MU04ZHRoTnB6VUlGTUExdENDZ2lkZXBsenNfLVdKSnp1bW0wMVRUcDJ4Zw?oc=5",
+   "fonte": "Valor Econômico",
+   "quando": 1795124808.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Valor Econômico"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:46"
+  },
+  {
+   "titulo": "Moraes libera processos da Lei da Dosimetria para julgamento - Congresso em Foco",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenRxLUNicW44c2pHR1ZTTndYNEpITTZJM3ItWmVjVElhMUZnSXhReC1pcXh1TmwtYTNFdy1jYVJvTmtDSWJzU25hT0tZRFRHRTZuOUFJSEFkUVZCMFUtY3R1WHZHNWFILU5BZElMNkZXMFgxejhSMWRzZ0tBb0xNRWhKaEpYWE9CODhJMW9pcDJSN01Dd2pkRkVuWTB2QWpIOWJEd3JDb0tGX2VwMk9n?oc=5",
+   "fonte": "Congresso em Foco",
+   "quando": 1795124593.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Congresso em Foco"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:43"
+  },
+  {
+   "titulo": "Cleitinho e Falcão buscam referências de gestão em encontro com Tarcísio de Freitas, em São Paulo - O Tempo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVVadEhnelZzY1FZQndEWXBiZDdEQ3JJak5ScnB3V0tBRFZ1SVFHTlo2LW14WTJsVmlXdmN2QUNSUXJBeW5CcWF6NGUyalI4WlVraHIzSTEtNTBCMWpnS0REai1LUHY5MThVNUJNQUlNamR4RDViR2tMSHhaZXEzVE9uV3RQN2pfZ0pvMFlMZFJtdkhvZHJ2S25CVXVkalhTa3kwaXZLNkEyTllmd0lEYUZqaWwxSXExbU5POEpMUE9xemJGWVpORmVHWnZsNThvSzAzVHU3SUlRZw?oc=5",
+   "fonte": "O Tempo",
+   "quando": 1795124434.0,
+   "categoria": "estado",
+   "fontes": [
+    "O Tempo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:40"
+  },
+  {
+   "titulo": "Defesa Civil de São Paulo alerta população para previsão de chuvas fortes durante o feriado prolongado - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kQ2pOUXJURldkOU55dGM2Mm9iRzVqZ1YwXzVnN2lXZ3J3cFk5aHI2bC03VHFsUUdSRWZoeXlhSGZmUERCWERzUFlnZkFzbGQtdmE3V2JSQy01cDEtdEIybUl6M0pQckQtSjhUVUtTa2w3andhQ19pcVBZNjBTdw?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795124177.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:36"
   },
   {
    "titulo": "TCM segue com processo de análise de documentos enviados pela Prefeitura de São Paulo para inclusão do novo VLE em contrato de concessão de ônibus do Consórcio Transvida - Diário do Transporte",
@@ -231,13 +636,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "19/11 18:33",
-   "foto": "ba9b689d9304.jpg",
-   "credito": "Foto: Diário do Transporte",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://diariodotransporte.com.br/2026/11/19/tcm-segue-com-processo-de-analise-de-documentos-enviados-pela-prefeitura-de-sao-paulo-para-inclusao-do-novo-vle-em-contrato-de-concessao-de-onibus-do-consorcio-transvida/"
+   "hora": "19/11 18:33"
   },
   {
    "titulo": "Paulista de Jundiaí contrata Vinicios Andrade - Sou Mais Pop",
@@ -251,11 +650,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "19/11 18:31",
-   "foto": "fd4511472d51.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "hora": "19/11 18:31"
   },
   {
    "titulo": "Após divergências com Lula, ala do PSOL anuncia criação de movimento revolucionário - Nill Junior",
@@ -271,13 +666,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:31",
-   "foto": "2dcceea8a9b4.jpg",
-   "credito": "Foto: Nill Junior",
-   "foto_tipo": "materia",
-   "foto_tamanho": "960x540",
-   "foto_qualidade": "media",
-   "materia_url": "https://nilljunior.com.br/apos-divergencias-com-lula-ala-do-psol-anuncia-criacao-de-movimento-revolucionario/"
+   "hora": "19/11 18:31"
   },
   {
    "titulo": "Governo federal quase triplica previsão de carros elétricos e híbridos no Brasil até 2036 - Portal de Prefeitura",
@@ -293,13 +682,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:29",
-   "foto": "fb7ae9f527a6.jpg",
-   "credito": "Foto: Portal de Prefeitura",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x670",
-   "foto_qualidade": "media",
-   "materia_url": "https://portaldeprefeitura.com.br/automoveis/governo-federal-quase-triplica-previsao-de-carros-eletricos-e-hibridos/636293/"
+   "hora": "19/11 18:29"
   },
   {
    "titulo": "Libertadores terá show brasileiro no intervalo da final - Tribuna de Jundiaí",
@@ -313,13 +696,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "19/11 18:28",
-   "foto": "8cb76977f274.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/libertadores-tera-show-brasileiro-no-intervalo-da-final/"
+   "hora": "19/11 18:28"
   },
   {
    "titulo": "ONU-Habitat, CAU/SP e governo federal realizam fórum internacional sobre moradia digna em São Paulo - Diplomacia Business",
@@ -335,57 +712,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:22",
-   "foto": "a78d63628435.jpg",
-   "credito": "Foto: Diplomacia Business",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.diplomaciabusiness.com/noticia/onu-habitat-cau-sp-e-governo-federal-realizam-forum-internacional-sobre-moradia-digna-em-sao-paulo"
-  },
-  {
-   "titulo": "Lula anuncia nova live com Janones e divulga fotos de visita a cacique Raoni em MT - Terra",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQ2RyYzBRTW1QeExxbWJtVmtQYm1pQ1dGOHFkQ1IzcDZTOU5yUDc2SFN6dTZQd3Fja05ieEVCdUI3TXBXazF4Z3UwWnlSSlZWOFhOd21malRfemRwRnhjSXgzbFVtX0lQckNNOVZhay1MbWZDbTlDVHhrV2xnUmRubGtOb3dIMThQb0VMZWZzTU56Zk5LalhpY3VfNGJKelU4QXlpMnl4MGJvTnhKSDdmV0Q4ZGdkeUpsc25GSlNiMDhRMzI1aVgtQURZMVRvM2NYSlBDNkZobGRyalgyLUV4cm1qd3FMdkVMUG12c1FJc0xHTkpIVUNBZVlZaGJTNVdYNTU3bTR6Y0ZfclBwR1hHQWdUbE53YnJTZmc?oc=5",
-   "fonte": "Terra",
-   "quando": 1795123232.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Terra"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 18:20",
-   "foto": "347b806e3329.jpg",
-   "credito": "Foto: Terra",
-   "foto_tipo": "materia",
-   "foto_tamanho": "950x534",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.terra.com.br/noticias/brasil/politica/lula/videos/lula-anuncia-nova-live-com-janones-e-divulga-fotos-de-visita-a-cacique-raoni-em-mt,aa84be8d356799e362dd5a471aceb116vccmuc4l.html"
-  },
-  {
-   "titulo": "São Paulo recebe mil doses da vacina contra a mpox; veja quem pode tomar - InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGR3cm1XeFlxVGtYMTVHQTVNYW9MOExkYkRLRjhRc1IxdWVQZVdGamFPVnBZbzhjTjliellvbVBuTkFIM25HV1ZBMjk4T2cxbzBnQVFIRzRqNHVJWDVWMDFidm1hOU1zWUQ2dHZRWVpfMWdqX3FzWUNic1pPUmdSa2RadV9XTUM0Y21KNG5keWJjdHlDSlhxbFpRYWF2ZWRLSzBhUzBxdFdFMm1S0gGyAUFVX3lxTFBNd0cyWGVSNDRTSFNOREJRcXlJRTNUZTdrMk8yU0ZrbU5leDBJYmNsazhvZGx5THdZV083MlpiWE1BZGhtM3lWbTNOdURsYU5BNlBRcWJmTlZXNFBrbHE5bjdfVzRqR3RtNVRocUg5OVU5XzVFRi1sSjhLN3JFTVNiR1luV3pqa3FkOEpIMng3SlJpai02VkNBSlBLUmxnQjVmeWRTZ3U1eXNhdmw5NnR5TlE?oc=5",
-   "fonte": "InfoMoney",
-   "quando": 1795122911.0,
-   "categoria": "estado",
-   "fontes": [
-    "InfoMoney"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "19/11 18:15",
-   "foto": "40adbc44c6b1.jpg",
-   "credito": "Foto: InfoMoney",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1170x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.infomoney.com.br/brasil/sao-paulo-recebe-mil-doses-da-vacina-contra-a-mpox-veja-quem-pode-tomar/"
+   "hora": "19/11 18:22"
   },
   {
    "titulo": "PSD recorre no STF de decisão de Zanin e volta a pedir segundo turno no Rio - UOL Notícias",
@@ -401,14 +728,10 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:15",
-   "foto": "b5a666529cdb.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "19/11 18:15"
   },
   {
-   "titulo": "Lula garante transporte gratuito nos fins de semana com nova - Diário Carioca",
+   "titulo": "Lula anuncia gratuidade no transporte público nos fins de semana como complemento da nova - Diário Carioca",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUlyZTd4STdyWUlMQUREWU9kZ1RDWWx3aEloMjVNalJfeks3RzBYUUVhSjNCUFJlY3dSQ0ZkY0NOQmhuVFFjeE4tTjhxeU1aWEhOYUc5N1RMcDRFckc3ZWFpWjduZWpMQlhpZEFDdndUbnN6anl3WVFlTDJ0UnVpQ2psS1JtZzdSeUNUSVA5eWlhc1VrNVNDRW5Sa3h5WWpfN0xoSw?oc=5",
    "fonte": "Diário Carioca",
    "quando": 1795122607.0,
@@ -421,53 +744,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:10",
-   "foto": "7481f223f278.jpg",
-   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
-  },
-  {
-   "titulo": "Previsão do tempo para sexta-feira (20), em SP: instabilidades aumentam - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVBudXZ1RG9JNUVnODdENnpVQ2pfUElPUkw0TjJkd1ZaMVYxdExxanoybG1fRGVackFuelFSWklld1RhZloxal9EX0F2UFFSX0xLVkxyNmRYcUNPSjFxOWhIV2U1MU9FeWgzcVJwLUxLZzQ5RWd3QUgtQVQtU3FzTXdIck82eFVXTkFmclc4Z2l3dU1kcklQZy16VUlVenlUeVp5V0Y2M3Z6cTlQdkJ3bVM0dw?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795122562.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "19/11 18:09",
-   "foto": "1599580b80dc.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1473x982",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/previsao-do-tempo-para-sexta-feira-20-em-sp-instabilidades-aumentam/"
-  },
-  {
-   "titulo": "1º Seminário Regional de Turismo do Condemat+ debaterá estratégias para fortalecer o setor na região - Diário de Suzano",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmZnRVFySVpTaUwybHBXZkNyY0lYVk5mR1dwMS1sUG5PdTFrb0poemJFMDZhMlhIWWRqV0k2Qmxud1dNQ0U5ZEFyZ3BRUHhZd3hxRWhFSl9QcjRqUkdUSHFIVUVJNEVWRGh3NDVidDRsU0hRRHhhM01GU1RDenNfUlNRYWhuOHRybXpJRzdPSVc4TUZUaDVOX0JrelJLc3gtdi1lTExIT1VodGp0R01OclNtVjVweFI3T2VtMnM1TElUVkdlMnZSQ3JmNlFKYWlVNHJNYzVaT2pESUJXZFoweFczZHEzeHJQdGxPaA?oc=5",
-   "fonte": "Diário de Suzano",
-   "quando": 1795122240.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Diário de Suzano"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 18:04",
-   "foto": "a4d760f88139.jpg",
-   "credito": "Foto: Diário de Suzano",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x960",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.diariodesuzano.com.br/regiao/2026/11/19/1o-seminario-regional-de-turismo-do-condemat-debatera-estrategias-para-fortalecer-o-setor-na-regiao.html"
+   "hora": "19/11 18:10"
   },
   {
    "titulo": "Intervenção militar: STF arquiva investigação contra Zambelli - Pleno.News",
@@ -483,13 +760,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:04",
-   "foto": "e862bb0d7118.jpg",
-   "credito": "Foto: Pleno.News",
-   "foto_tipo": "materia",
-   "foto_tamanho": "600x350",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://pleno.news/brasil/politica-nacional/intervencao-militar-stf-arquiva-investigacao-contra-zambelli.html"
+   "hora": "19/11 18:04"
   },
   {
    "titulo": "Lula rejeita pressão para definir equipe de governo e diz que escolherá ministros “na hora que quiser” - WSCOM",
@@ -505,11 +776,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:03",
-   "foto": "f49685c74850.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "19/11 18:03"
+  },
+  {
+   "titulo": "Lula anuncia nova live com Janones e divulga fotos de visita a cacique Raoni em MT - Terra",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQ2RyYzBRTW1QeExxbWJtVmtQYm1pQ1dGOHFkQ1IzcDZTOU5yUDc2SFN6dTZQd3Fja05ieEVCdUI3TXBXazF4Z3UwWnlSSlZWOFhOd21malRfemRwRnhjSXgzbFVtX0lQckNNOVZhay1MbWZDbTlDVHhrV2xnUmRubGtOb3dIMThQb0VMZWZzTU56Zk5LalhpY3VfNGJKelU4QXlpMnl4MGJvTnhKSDdmV0Q4ZGdkeUpsc25GSlNiMDhRMzI1aVgtQURZMVRvM2NYSlBDNkZobGRyalgyLUV4cm1qd3FMdkVMUG12c1FJc0xHTkpIVUNBZVlZaGJTNVdYNTU3bTR6Y0ZfclBwR1hHQWdUbE53YnJTZmc?oc=5",
+   "fonte": "Terra",
+   "quando": 1795122140.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 18:02"
   },
   {
    "titulo": "Ajuste fiscal impacta orçamento dos estados, diz Pazolini - SBT News",
@@ -525,29 +808,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "19/11 18:01",
-   "foto": "8354f1e5f54b.jpg",
-   "credito": "Foto: SBT News",
-   "foto_tipo": "materia",
-   "foto_tamanho": "640x440",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://sbtnews.sbt.com.br/noticia/economia/ajuste-fiscal-impacta-orcamento-dos-estados-diz-pazolini"
-  },
-  {
-   "titulo": "Lula afirma que escolherá novos ministros quando quiser e anuncia criação de ministério para idosos - Nova Lima News",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbm1hYWVaS1pkRXczR0R0dUtSZWF4MVpvSGROcHhKWVluWE5QdzhuZlNES2pxYTd0YVdjWmNiZGt2QnE3OVF6LXFtLWFrZXBmeVpMLU5GVnNxcFpXaFVMLWNRZTBhVmJXU1JGQlp1ZkhweWtVWWFzX0ZKdjhsWE16N1d5bXp2X0NnX004eEt2aHRpUEpRbUh0dTk4RVJPbkREMHVUMVZTbmhfQWFQZTFRcHR2aHZ6enpsOUJDODN5SQ?oc=5",
-   "fonte": "Nova Lima News",
-   "quando": 1795121918.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Nova Lima News"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:58"
+   "hora": "19/11 18:01"
   },
   {
    "titulo": "Corinthians volta aos treinos e tem reforço da Seleção - Tribuna de Jundiaí",
@@ -564,70 +825,6 @@
    "hora": "19/11 17:58"
   },
   {
-   "titulo": "Imposto Seletivo vai encarecer produtos prejudiciais ao meio ambiente - Folha do Mate",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEdjMDI2bHhRMFEtcW1iajRfNUFHQW5CQ2hoZ19vWWNOZVpnUXRfOFk1ZS1tV3FHMGNTTVhheTdSV0FlT0UxYlFCZ1JmZUhPNHA2UW1lYjZlQmFlUHhBM0xfZHJKa1RfcDh3ZmY0V2MwUE5hTmFWQ0gyU1lNNTFLZEVCMEtfSzF2cjl3QnFFc0lpZDVTNF8yVjB3d3F2UDlXMFd6SVVvRUpxUUllOFdlOTBnVlFuWkgtcU5pRU13?oc=5",
-   "fonte": "Folha do Mate",
-   "quando": 1795121632.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Folha do Mate"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:53"
-  },
-  {
-   "titulo": "Governo Lula admite novos cortes diante do avanço da dívida público - Diário do Poder",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPanIwYnROQzB3a3VCcHhaY2ttekRSV2dOb044M3J5RVZiRVpCMFN6TjRBeV8tWWhjT2NDZHJZMmIwaE1FX0tOTm9qZl9SM3FsRjhuV0tZQnhQamVxcVU2OHVhelprLWtFOGlnc29zRHdKNGNDUG1LWlJuYzB4YlNrMjdrb0oteFVRTlFDZWNrQldkSmc4SEdlR2pNTEZyX1AwVnBwLUZDLXo2dWh0a0QxVXdyU2R6c0p3b2dEQ1dDRm9YQdIBxwFBVV95cUxQOXNEdXJzZDFPWFFUbVF2UmZYWnNUZUlOc3JjU3FRT0czbGhBS3o0RDZvX0k1UWtzYkE4YUFwN2NoWTZKVTJWMHkyTEFsMjBfRVJFX1Bnc1J3eU9CNnNMVE5SaEIyZXBaS1dPTi1MWmhqMFk2RzBMa0FCbmFZV1p2TlpaTVhmblhKYUtmdXJTUS1vcVU2RHVZNmxUU21LV1N2empwQndWMVZfRXRMVC1kMkxhVDJWSGtERlNLYTFPVDN1aG1uVlFF?oc=5",
-   "fonte": "Diário do Poder",
-   "quando": 1795121280.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Diário do Poder"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:48"
-  },
-  {
-   "titulo": "Fachin entrega a ministros do STF relatórios sigilosos sobre o caso Master - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1YzYTJ6cVdaTmNrbjM4V09qRm5YcjlDeUxQTkJOQjN4YkwtSU9wT3YxN2hRWTZLenRFT21vSEZGeWZUSHVlaEtvZDdrQTl3d2l5YTlBUVFPd3RPMWM3U0ozVGl3NGg3Y2lVejlBY0ZJTWx0MThHSC1GR2xpelZ1MXNFdWtXSEFzdmFfeTRpRXViWVZJY1VSOGxsckRWN0NvdU5aLUY5VS1MWWtVY0tNZmpDYVVsUC1qd25uUA?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1795120997.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:43"
-  },
-  {
-   "titulo": "Lula anuncia assinatura de portaria para garantir terra histórica do Cacique Raoni - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjBjZHpXSzhDYWp0ZVRlT2RmNUhaZ3ZBZFI4Z3U5aVY2dzloZVZJRFRpbFNFSG5IRHJ4Y2g0WmNZYUxXbjZJTGp6bl9zTUVVVjRDX3dnRmhGWTJrU2Z0ZDl2eWdlOUltNzc3aEJzZnNYeXNuRXBaWXdfQTd0dzl3XzdyTDU3SHlWUzkxbC1VdFVpR19ZbHlSaUptM2JyT0ZYbzVNdE1leE1FdGlLZnVaQWdCWnBZVEpzZ0x4V044RWJqYTNOc1lv?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1795120779.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:39"
-  },
-  {
    "titulo": "Coletor que virou 'o amigo' de um menino de Jundiaí é homenageado pelo presidente da Câmara, Edicarlos Vieira - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXViai1DTFpaWGpFdU5SeHZvYTZRQ2MtV0FnQS00VTBVTjY4YlhFTWtKeGtuM3V5Y0tJRDJCUmlKcnNWYXI3QlcwNllHdkxVd0xMTmpoVFVDdUhNbjRYY0NmQlJPZVkwUXZmSFVPakVVdVE4ekp1S3kwaVJYcHlNSzFkSFpFY2NzSGdhVXplUTFVRlo3bDV0WVNFWTI?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -640,38 +837,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "19/11 17:31"
-  },
-  {
-   "titulo": "Tarcísio de Freitas mantém três secretários no governo de São Paulo - Hoje Diário",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQk1JOUtxRHdaV2pyWXB6RWcxMWJNUkVfcUxnbWVOZzQ4LVdHdGlqNkg4RUJxN1VFVWYtbEpab2p5NzlJbWZ5d25nNHVfXzIzU2hyOEt6VWZRQW9sLTV0MFRTdlBGQ25ZSGs5Z1lHMktNUmxnOTJYZWR2REJYQkg2dUFySDBhdlVFTklrRzFlYjdQZ25nMlhaRncwbk1JY2pPTW5fSA?oc=5",
-   "fonte": "Hoje Diário",
-   "quando": 1795120227.0,
-   "categoria": "estado",
-   "fontes": [
-    "Hoje Diário"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:30"
-  },
-  {
-   "titulo": "TCM cobra estudos da Prefeitura de São Paulo para inclusão do novo VLE em contrato de concessão de ônibus do Consórcio Transvida - Diário do Transporte",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPczg2M013REdIMkQxQ0pZeXNpbWtsc3VqMnFfN3l0ZGM2TkdHUjVDcjZXZ3dFcWVQZ1puVktxOHJXRnFRRHNHbFRlWjNzY3k5OElodHVwSjBuVTlBOHVIRVhpZW9zQ0JuYUFUQ1d5OFFNV3YzOE9odTlkZWNqT05oQTRtOEJCSHkzYlpnRkNibUN5U0FwcVBtaU0xZ0pocmJjenBDSUI0UGVTNmMyY2xLOE9wcHo5dFJNSVhuVGc1NFZ0dU42NDl5N2JwbVpJUVBwZWZMajc0a1QzQ0xTUEllM2FvMnloYm9XMEF5X3l6NzZ0UFUxT3FxVnJqdXdQa1dXbldSVtIBigJBVV95cUxNRm1BRmh4eGNXQTNnN08xYWVuLTJ3WFN6OWJkbzRUOWN5RlU2SjVLMUNJT18xUXJFdnI4VHZDaWFRem1oc1Q0NWxyMjJUQmpkbERzTVdTanAwUlF1c1VNSkhrY1UxLUFpVUdXRVFkcnlmLUNlZk5vSFE3ZG45NWlIMDZYbjA4Vl9YY1dxd3VBcVBjTUZhZVc1U2g2YXlvOUI2d1NLZjgyTGg1UGNDYS15TXRZUnhOX3FpUWlDNHpmWmR2LVFSUlVSei1ZWlJkUEI5NmFhVXZ1NWlLSE14T2Y3ZHZhem9nY3NZNWR1aWJRQjAybHM2aXd5aUo4aXk2Z0N2UW81eFkzWE0yUQ?oc=5",
-   "fonte": "Diário do Transporte",
-   "quando": 1795120161.0,
-   "categoria": "estado",
-   "fontes": [
-    "Diário do Transporte"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:29"
   },
   {
    "titulo": "Centro de Excelência em Atletismo de Vinhedo inicia atividades com aulas da Secretaria de Esportes e Lazer - Portal VV8",
@@ -688,70 +853,6 @@
    "hora": "19/11 17:27"
   },
   {
-   "titulo": "MPSP recomenda retirada de pedágio entre Sorocaba e Salto de Pirapora - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGwtVk1LOVhtMmFpX093ckc2VDVhQld5OWJfd0dmajJKd252MzM5aUhKaEVweUZ0MFdITG9JRExpVWJXYTRNZ0RjS0MwYmFHTHEwUzIwZ0ZuNU16NEFaUHFvaVdpV2J2R3VOZ3MyZ00tS3ltWFZ2TGlrTlZiYnllVzliUmNjZVp3RW1JUkliODRjUXpNamRPZVcxRXhDdw?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795119900.0,
-   "categoria": "estado",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:25"
-  },
-  {
-   "titulo": "Lula anuncia criação de ministério para pessoas idosas no próximo governo - Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVZSTmhHMlBCV2pkcUdWcy1pbElZLS1ET0k0TmZCZ2lPWm1pSW5WdGtmdmQ1VUNwMndVZGVxVldHdWlrWmg3YmYzS2hQR1NYYmRxUk01YXZ3TzVmWGlXNzhWNklCQ2xfdC1wbXpQSV9kbjdCZngtZmxacElBYkV6YVhpaVdPOU52eGFmOXN1NUk4U0lESjIxLWM4MUI1eWtHcE5NM3NfcE9GU0lNODEyUVhyMzdhWnNMRHNuWmZPT09lNzU1R2lZWm5jMUdpRWZGTlZSZ01YVHTSAd4BQVVfeXFMUEZqRXl6d1VTVGNteGdwa2NzcHBfUUVmQ2g4eTAyMzRaTUNIRS1xanV4Z3BRZHVnQktSTEFsX0g5bzRpMHRadGFzTlpjZ2tXdENmeENyMUZvbEdYNDhGWnUtdFp0YTNMTTVLWWUtM21RajFpdEN6aGV2dXRzbHdRT3czcnFycWlveExZdEJRUjNfVmk3djlISl9MSU1VeEVqdm1UR1BJU0JQLUJVUm94cmVsdHZISW5GUVRFWGYtSXpBakZ0RVV6NTZMNWlGbWlpR1F4bklfUTNFZ1BrQW5B?oc=5",
-   "fonte": "Correio Braziliense",
-   "quando": 1795119900.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Correio Braziliense"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:25"
-  },
-  {
-   "titulo": "Após alta de casos, Estado de SP recebe mais mil doses de vacina contra Mpox - Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzlXYlNjWDdFc0ZMZkR2NmZwNGxvY0h5SXFaV3g1Q0hGaHVvcGRZbXpiTkpDcGpZT2QzVHVzOUgwLWJQZ2NPU0pvSDBKYzFMblZWVE4tSVBjQjFzZnBPX3lUVVZZdVBhRFR4dDlkMzMyaVp2RHZPUTdnYkZVQ3NOZTlnQlN2ejVBNHpBRV81VV93Ym1BdlBobUxzZEZkOGZjczgtQUhQMzhuWmR6Q3RWc2JzbTczZWdUS3dJb0k5UGNDWENBcW1VaGZR0gHYAUFVX3lxTFB5azVRZ2FjZ0FtaUl1YVZJYnZGRXlZZjB2NTNEbmJNRWZEbGFmUndkYU5Dc3RhY1dtakJ4Y2FiWjRBTFdscG1TbjcydnFwX1owM0tpWC0waDdnV3lFRUVSTXloNzdscHB1by1zNnJuX3o2ODFuaG9rdnBxRldGc0xEQ1EycDJVMC1YYW9mVERQd2VVZzdYWkVtakNZV204OUM0b0dsYnhlcWhGSU5lNGV5a0xFaHBqUjB0R2VCMmMxcEhpMjF6cE84MXlUaHkwWE9uMm9sTWtyUw?oc=5",
-   "fonte": "Valor Econômico",
-   "quando": 1795119659.0,
-   "categoria": "estado",
-   "fontes": [
-    "Valor Econômico"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "servico"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:20"
-  },
-  {
-   "titulo": "Lula anuncia seu quadragésimo ministério; pasta vai administrar os cuidados com idosos - Banda B",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTlPekExbWZjV1pHWDZVRzRVdzd0WGc4cWtmVFU0Y1ltcGY1ZktLMzdCaWx5OVp1bkVabk5rblBKczBXSU9fUkl0cGF1V2tsZFJvWXhjT3RvQmx4R1lsQllWbFRwWHVvWFY3R0swYkxENlFEODRXRG5kb2ZqeVROR25uMDBCejBoc0Nja9IBkgFBVV95cUxPZmNGUWplQTA5WXRMd1JLT3BnSzV4WUJSeDlaaVdjNVJ0U3F2Q2FVMjY5Q3dfNU9xQzdoTy03aXFvQlNFeklRdHNjSmF3a1U3b1hYQzFnQ1A3QXpDdjJqRnlQNFhLQ0pEZTk1bzYyR084elVnUW95cFlqVm05MTVKN2RCX3hBTWZqTlNFOG5jVF9TZw?oc=5",
-   "fonte": "Banda B",
-   "quando": 1795119540.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Banda B"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:19"
-  },
-  {
    "titulo": "Guarda Municipal prende homem que vendia drogas para usuários no Centro de Jundiaí - poptvweb.com.br",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejFKWVl2SkI2UEdpRnNOTnJ3WVR0MGhvNGpUSUVTVnU2emxNNnppNENsN3VXVW56dzlwMG40Rkg1YUt2MVNBNTJ2c2V3QzB0enJqcWhPRC03WDE1TTJKOWZTOXhsMmhONHczUDBKQWYtdTVqeHF5VXpTeUtxdm1iRl9XZmtiY2hTalF0ajlYX1VUX0tZTExtZFg2YkF5OWYwelppeWVHMTRiZUU?oc=5",
    "fonte": "poptvweb.com.br",
@@ -764,113 +865,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "19/11 17:06"
-  },
-  {
-   "titulo": "Lula sanciona leis que alocam R$ 522 milhões para reforma tributária e fundos internacionais - Metrô News Jornal",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3ZrdTlqbHhuMUxFVWpwSVBUQ2lLRFJSdFRyWHV2REJLLUtNUk1ybkl5cDlRSlNTdFpmMnM1WTR4eTJGSkVPUDZ4bm93WVQ5dkNSQTlnRHZpYVgwaG1WVHloajhwY2x0Q3hYdnRuX3VIUG40S21uanpyLVppWFlLeU55Tmk1NjJ5Q1dPeVNZLUJrd0VtSHRFOVdlSHR3MW5meThzRlo5QkloVlFJX1FCY2V0alJVaDl2?oc=5",
-   "fonte": "Metrô News Jornal",
-   "quando": 1795118760.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Metrô News Jornal"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:06"
-  },
-  {
-   "titulo": "Setor de saneamento pede adiamento da reforma tributária para 2028 - Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0FmaksxVjF6N0FEM1NIYllmQmdxZHJia2I2ejhJNkpqVU9zdkl6UmdxTUViRTVIWnhpZS0tdG9LdVF5N1ZMN1hBMGdyVTRsRDN2N2JxMGRuc2E2cVlyeTFzQ2R4UjdISU5oX2VUdlFhQ2xudDQtZFZuTjlLQTFSTzVhVXNBZ0ppWG1aOXR1X2N1R18tVGY5WE1hZElJdw?oc=5",
-   "fonte": "Agência iNFRA",
-   "quando": 1795118578.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Agência iNFRA"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:02"
-  },
-  {
-   "titulo": "Free Flow na Anchieta-Imigrantes: como pagar pedágio sem tag - São Paulo Secreto",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFQzV0VtMExLSUQxUkJtZ21tbHJ3d0JGcUZobTRzeGd5b1NTa0FjVHYwQ3NMdFBaRjR1aXRkOWVXdVp3aWdheXZFVGF5cE1oLUtnNHdpUGp3SElZLVpVS2xaZ1N1S1ptazFBLVRIdTFCcTlXWVUzblFIVFd3QjM3SjRnSWtQLUZqeGxKYk55NDl0MnpmN20tMHZXN19zZFllWFB2ek95bTdNTDQ?oc=5",
-   "fonte": "São Paulo Secreto",
-   "quando": 1795118400.0,
-   "categoria": "estado",
-   "fontes": [
-    "São Paulo Secreto"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 5,
-   "hora": "19/11 17:00"
-  },
-  {
-   "titulo": "Governo de São Paulo avança em obra de saneamento que vai beneficiar mais de 400 mil pessoas em Guarulhos - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVkI1ZjloYWJaMkJCbzhVcEhzbzN1eGxGYlZaajY1SFhnSnk5VFFvVWJLMDRzTVNMRXFJczhYNUdraXhoRHlKb25ZT2dVSXZOMThna0d3RXhFNkE1VWZZTmdLdURxelFuWGE0V0ViWmZiWWplbzdOQ0dIRGhyVGtUeElfT0JMbWdYczVHcjl0cWNHbXpnaGp1MmhjcHJGRWxwYzBjeGx3WXdncU9GbUM5RHFlZjJaTmdBZGhqRlh4V0V3eThzczE4cU5KRWRfZGwwV0QwVW1xYUZzVlZWWUxGTk5nenZjek0?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795117756.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "19/11 16:49"
-  },
-  {
-   "titulo": "Estado de São Paulo tem semana de mobilização do combate à dengue - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZzByTjVrRnI0VkZNVnZCc3JPbnRISlZnVDNNWGxHZVUxbE82cjNEY1VxM2Z0QnNnanlaVmFGU0VKOGJSMlduREdZMklWakJWdnViREVBbGtCcnBTOC04Ukt0QU80Q2J1R2tTbTM4TmppNW9NTXViV3lfSXc?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795120715.0,
-   "categoria": "estado",
-   "fontes": [
-    "BOM DIA GUARULHOS",
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 4,
-   "hora": "19/11 17:38"
-  },
-  {
-   "titulo": "São Paulo começa a distribuir 1 mil doses contra mpox - SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5b2thM19KOTUzTkRiSDZUTEJZaHNDM01GVWtYWDd5VklOdVJGbjNVa0JRQVByTkZNXzRrTkJnd0pYdDdYMUZTUGwyaGFramVYTzN3WEJMUklKT2ZyNFdXdGoyZUtrQ0FzRWZvUTFCMjg2TkV6eEc5ZjNLbw?oc=5",
-   "fonte": "SpaceMoney",
-   "quando": 1795123167.0,
-   "categoria": "estado",
-   "fontes": [
-    "SpaceMoney"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "19/11 18:19"
-  },
-  {
-   "titulo": "Antena 10 FM - Antena 10 FM",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlZiRGFHa1p5cHVzbVg5ZmRYV1ExOWhrdmlVUHduTTE0aEltWjM4ZVZxVThwNlRrT2FCMHYxV2M4VFJoRW11SjRaNTQwbndfOVp6S082Y1lDcTVxamdDZGh4TC1rb1A4QV9TMEotUlJjZnk5RERrc09jcUZJMWcxWEludVpKMFA1cVBBdjZDUTRkeTA1aUNFRnBnX3J1R3Q1Wm5VaXA4end5QjFoNTJNRU1WMU5VN2w3dWprVDk3QmJXVU5DcFhRdHMwRFpiWnNX?oc=5",
-   "fonte": "Antena 10 FM",
-   "quando": 1795123051.0,
-   "categoria": "estado",
-   "fontes": [
-    "Antena 10 FM"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "19/11 18:17"
   }
  ]
 }
