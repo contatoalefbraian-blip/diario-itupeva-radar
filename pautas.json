@@ -1,5 +1,5 @@
 {
- "gerado": "19/11/2026 06:58",
+ "gerado": "19/11/2026 07:59",
  "desde": "18/11/2026 16:35",
  "pautas": [
   {
@@ -23,8 +23,31 @@
    "materia_url": "https://portalvv8.com.br/noticia/86241/veiculo-pega-fogo-durante-patrulhamento-da-gcm-em-vinhedo"
   },
   {
+   "titulo": "Louveira promove 2ª Rodada de Negócios para conectar empresas e estimular novas oportunidades - Prefeitura de Louveira",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHR3OTZPNGs3ZnMtS1l4dlhBUWpXc2p3N2QwVEVyUDZUX1NYRTVPNjlCbWNuOENkd3pLejhucVRJMVVjZWltX1V5N0YzSWdDQ3RKbk9kWkhsZ0oyZFp3b2RkZnpBdk1Id2tFZ19KZVZ0S1F2dm9IMHRxazhkcGM0TG4yM0dkQnVTSy13QXR2MDhTY05pV2NheklucFRtRm4teHNHY0RLN2Y0aFpfWUJBZzhDQWtpc3dUczZwSGhtbTJkN0ptRU1R?oc=5",
+   "fonte": "Prefeitura de Louveira",
+   "quando": 1795032052.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Louveira",
+    "louveira.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 10,
+   "hora": "18/11 17:00",
+   "foto": "1ed83d384adb.jpg",
+   "credito": "Foto: Prefeitura de Louveira",
+   "foto_tipo": "materia",
+   "foto_tamanho": "680x450",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://louveira.sp.gov.br/conteudo/louveira-promove-2-rodada-de-negocios-para-conectar-empresas-e-estimular-novas-oportunidades"
+  },
+  {
    "titulo": "Após dois meses de chuvas históricas, Jundiaí registra 50 milímetros em uma hora e maior acumulado do Estado no período analisado - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdnExUWYtTk80dUZvWUI3YzVuY0lhSy1Ybkh2N2VPUU5OTU51NGsyOEJqTFNLWmM3QV8xaExSTlpqR2R6TnotT0FZS21aM192RDFsMG1FdnVlcDlSN1dsQW9zNjItMy1nS0RoVDZZdzFLZEpkdm1Mb1ZRYmtSZERuamJsZ0wtay01MWwtNkYzb1JLVy1EOVJYVGxyNF9acGtDUmZEZFNXcjlnc2V5ODlqRUdWMkVTQ0psUmJQTGhqNHgtdzVvS3NHMVZkSGp5NlVwN3hTeUJRa0lCbzhZQjFJblNtenRTLTFjem1RbjN5TVA1S0E3c2t0Nmtrekt2cjlMRDZBM0d3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQk1aNjNielFSTHlza2hlZ1VWME9rZmNBNmNJbEUxbFlVVXBYT3JhRm5hWVNZYnBObHkxc01WZlRPVXFpM1ZlYS1rdEZSd25Pa2RFNWNZNGpZaE84ckc0cUo0MnVzbnphY3lFYm11S2J2cy1oRWlPQmlscVlTSW55YURXMGROTlVVU1hwMXAxdXA2ck5aRk9EM1lXVmlnRHJkbFdPVWVqUnhrVTVIY0FVQUZYY2VmQl9Dc2JlNzExV1dlVDRKOHFsSDgxZk5hWGlDRGRfdE9BbkRpZ2lFNE1FaEx4OFBhejM5bGI1cFh5NXdqVEV5ek9mbU5Pek1ncWVtN1BGWFNKTGZkazdzc2FENEJwSVM4bXZGeTk0LXdn?oc=5",
    "fonte": "Prefeitura de Jundiaí",
    "quando": 1795080060.0,
    "categoria": "regiao",
@@ -116,7 +139,7 @@
    "titulo": "Motoboy é preso com 47 ampolas de remédios para emagrecimento - Olhar Itupeva",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVN1bncydnc4LWdVVElnTXozNmJoUHhaUlRPT04tSzRUWnBnMUJrdHk1d01qaXd5bkVQa1dFNlIwNS15NG5GQzRXNEIwM1FhdnFPQUdxYklWMnVxajJodXI5MjY0ZHpWVlRFbTN1VUlzMVBfaGtLX0RZb0VPZE82eDhaUlFhVFZ2VzJKbVlsTWlONUM0eUtJUDNyNXVGZ054SkFqNWRGYVZ0X2ppTGc?oc=5",
    "fonte": "Olhar Itupeva",
-   "quando": 1795040561.0,
+   "quando": 1795041140.0,
    "categoria": "itupeva",
    "fontes": [
     "Olhar Itupeva"
@@ -126,7 +149,7 @@
     "seguranca"
    ],
    "pontos": 9,
-   "hora": "18/11 19:22",
+   "hora": "18/11 19:32",
    "foto": "22280ca9e8f7.jpg",
    "credito": "Foto: Olhar Itupeva",
    "foto_tipo": "materia",
@@ -201,28 +224,6 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/18/jovem-compra-ps5-para-jogar-gta-vi-mas-console-queima-dias-antes-do-lancamento-apos-raio-atingir-casa.ghtml"
   },
   {
-   "titulo": "Louveira promove 2ª Rodada de Negócios para conectar empresas e estimular novas oportunidades - Prefeitura de Louveira",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHR3OTZPNGs3ZnMtS1l4dlhBUWpXc2p3N2QwVEVyUDZUX1NYRTVPNjlCbWNuOENkd3pLejhucVRJMVVjZWltX1V5N0YzSWdDQ3RKbk9kWkhsZ0oyZFp3b2RkZnpBdk1Id2tFZ19KZVZ0S1F2dm9IMHRxazhkcGM0TG4yM0dkQnVTSy13QXR2MDhTY05pV2NheklucFRtRm4teHNHY0RLN2Y0aFpfWUJBZzhDQWtpc3dUczZwSGhtbTJkN0ptRU1R?oc=5",
-   "fonte": "Prefeitura de Louveira",
-   "quando": 1795032052.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Louveira"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 9,
-   "hora": "18/11 17:00",
-   "foto": "1ed83d384adb.jpg",
-   "credito": "Foto: Prefeitura de Louveira",
-   "foto_tipo": "materia",
-   "foto_tamanho": "680x450",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://louveira.sp.gov.br/conteudo/louveira-promove-2-rodada-de-negocios-para-conectar-empresas-e-estimular-novas-oportunidades"
-  },
-  {
    "titulo": "Ex-prefeito Flávio Chaves volta ao governo Manga; Procon tem novo superintendente - G1",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR3FTSFNnRWJjVE9CeTBfV19XQjltOWRhSGEzS0EzQTNTYmhPVE93ZmVyWXJmVTFnU2dIcGtzYkNHQjY3WkxPaG4teEpCQzNMTU9xSkZYMVg0TXFYcVdITjRJa3NxZ0Fub0tZN210cmgzU2hrWkFVZllJeDJKbUswZjdyOTVoRFV2V0JlemlVTjRSV3FETFRsWUNMZm1sc29QenZwVmM0elFKQk81VUdXRTVZcTY4aG5Ha2R0WjRFWW5mS1Zucmhtamo1bjhSWGJRdFRzNFZuRWJMSVF1cnNr0gHuAUFVX3lxTE9UNjQ5WklONUMtZ0xfcnNwSVZjalpOWnllZzA4cm5hMzlKeHIxcDFQbWhzVnlqekVVX0Nzb1hkSkh2MTVGeVk3RGtnRGVsajVldHFGaUY3TlBkYTBXd2JzR1AwS0FtZEw4QTJEdHlRTkRRRlg4bHV6Y3E2ZlZPcnN4TkpwN1JBSXRMcjhpR3ZyM0Ftbnc2dUlYSkJNV3ZNM19kaVhUekZsc2w5alo3b0NCV3NCSFpkMDR0cGJLWEF4bENaa2lFRTlBODNQTlpwSGNnSUlIbmIyMmVFWE5wcGNRN0w1M0hGajY5aDdORkE?oc=5",
    "fonte": "G1",
@@ -268,28 +269,68 @@
    "materia_url": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovado-prazo-maior-para-uso-de-verba-de-internet-nas-escolas-publicas"
   },
   {
-   "titulo": "Chuva em SP alaga ruas, faz via em Perdizes virar piscinão e trânsito passar de 1200 km de lentidão - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1JLbnMtWkwzeDFqWXpXV3E2NTNEcG9ZbVplSHRVUGtodE4yQjc4eVBfYklocm9aQTZ4NDBhN2Q3RG12N3FPb3Q3T2l6WG1LYUNIblhTOXRJN19ITEtLOFd1SGtJTTVzSlhiODJRcHdlTFNRSkFSTlJUQ1RtSHY0VElvTkZYa01iaWc?oc=5",
-   "fonte": "Estadão",
-   "quando": 1795033957.0,
-   "categoria": "estado",
+   "titulo": "JJ: Motoboy é preso suspeito de ser informante e negociar drogas - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0p1SW5JaUVKYlY0VVVKZ1RyRmdPOXNuUlRIcGtHdllTR20weW1pZ09QTXRuZWtiMHhlWEROZ2hQc3ZjVlByNE8tWXRxOTdodDB1a0xtVlVYMWFnU2pBQ05MdHRFQ2VWdkI0b0tGaDE3ai1RR0dseFJ6Wk53Z3ZFYTVqYXM0V1hURVVlZE1JcE9nUUF4UElnd2VrNEpfR3hWUW13MkJ2Q08tYWRTUUZPNHdCZ0JQMGQ1MmQ4TTJqQQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795084887.0,
+   "categoria": "regiao",
    "fontes": [
-    "Estadão",
-    "Terra"
+    "sampi.net.br"
    ],
    "urgente": false,
    "assuntos": [
-    "clima",
-    "transito"
+    "seguranca"
    ],
-   "pontos": 8,
-   "hora": "18/11 17:32",
-   "foto": "99d7fb5392f9.jpg",
-   "credito": "Foto: Terra",
+   "pontos": 7,
+   "hora": "19/11 07:41",
+   "foto": "4aeb631343c6.jpg",
+   "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
+   "foto_tamanho": "1200x800",
    "foto_qualidade": "media",
-   "materia_url": "https://www.terra.com.br/noticias/brasil/cidades/chuva-em-sp-alaga-ruas-faz-via-em-perdizes-virar-piscinao-e-transito-passar-de-1250-km-de-lentidao,a11723dba9bf14b430435d0766a94815usyolds2.html"
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3019749/policia/2026/11/motoboy-e-preso-suspeito-de-ser-informante-e-negociar-drogas"
+  },
+  {
+   "titulo": "Carnaval 2027: Jundiaí Encerra Hoje Inscrições Para 16 Blocos De Rua; Veja Como Participar - RNews",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13RDZzMkM3T3hFT3JCXzh4eVVjc1JpSDFLWHRzM3ZWQ3hlUzBWVkVQcGFGOWZGT0hUME1CUktEYk9vRTBQVzRkMlR3YTBCRTYtYkNzcUlQeTBJcnBCWkhJZDZqaFFTZC01MmFscDZmdFB2bGNuYXl3YnUzSQ?oc=5",
+   "fonte": "RNews",
+   "quando": 1795084200.0,
+   "categoria": "regiao",
+   "fontes": [
+    "RNews"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 7,
+   "hora": "19/11 07:30",
+   "foto": "190626c8476d.jpg",
+   "credito": "Foto: RNews",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://rnews.com.br/carnaval-jundiai-encerra-inscricoes-blocos-de-rua/"
+  },
+  {
+   "titulo": "Casal de Jundiaí transforma Quantum 1995 em motorhome e viaja até o 'Fim do Mundo' na Argentina - G1",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWnZaUnk0Rk9GeWlQTXNJM1BPWjZUSHVXQ3VOLVYyTkh6OUpNM2NLTk5WUXJqcVVjOE1YSWVPako5UFRoTnRBREJEeWVHZXNrajRJb1gydFY0emJ5dWIxa012aDdjRUdhZUh1b3VQTWdnVjJjc2tzdkx4d0lyVXA4MklpR1lUS0lUYVhYbDhucmRmWWU0aDN2WHByYUQ4RzZBQmRXeG5zWHBfZlB3NDdkbzlnZUNDQ0pyQlNFN1FMcE8yR1dKS3ZxVFVMYVIxMWZFWmxVNXdfN3VZQVlwbWJMbjh3TkdtNVluQVE2TTZFaG1LenpVLWRJ0gGGAkFVX3lxTE9ENU1qSDRobVNHMVVhYzFSb2xtbjV1RzVLNURRdVBMdHhzQ1BiQlJVXzFfRzJjT2pkTXRRTElCdGdnVGFvTVNmWldxN1BMQ1IxRXdYc3IwWXZJRWJvUVBON3EyOFVsZl9FV1k1aDE2TXRJcVRUYnJhMlFYcHoyd016ei12YmRPSlowSlp6UjV5OXdwOEV4WW9FOHlSZUJQd2ZTVHF6MWg4TDBmdTJwdXk5V2FnOVpXaURhMWQ5U1JCN1hjaFZZTUNaNGk3YVZta1M1TUlsZ05SS1MyTVpjVDltTkktSDcyNmFpeVE5S3ZfRU9ETkpDX2lxOTJmUENsWWhiNm9laXc?oc=5",
+   "fonte": "G1",
+   "quando": 1795084020.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "19/11 07:27",
+   "foto": "b3451290f132.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x700",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/19/casal-de-jundiai-transforma-carro-dos-anos-90-em-motorhome-e-viaja-ate-o-fim-do-mundo-na-argentina.ghtml"
   },
   {
    "titulo": "Previsão do tempo em Jundiaí hoje: veja como fica o clima nesta quinta-feira - Terra",
@@ -476,13 +517,7 @@
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "18/11 21:24",
-   "foto": "14e2664dba18.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "foto_qualidade": "media",
-   "materia_url": "https://jr.jor.br/2026/11/18/policia-civil-desmonta-central-de-golpes-com-centenas-de-chips/"
+   "hora": "18/11 21:24"
   },
   {
    "titulo": "Senado mantém restrição ao uso de créditos tributários por empresas em projeto do pacote fiscal - Tribuna do Sertão",
@@ -516,26 +551,6 @@
    ],
    "pontos": 7,
    "hora": "18/11 20:38"
-  },
-  {
-   "titulo": "Viação Itupeva terá horários de domingo no feriado da Consciência Negra - Olhar Itupeva",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbm1MTkpEcF9nWHZIN0w5cWFKMS1ialFFVDVzTXFLUm5NZlBTcEVnMjZFSGxpXzUtVVNMTXhLUGF3dktZU29IWk92TDY0QmFDYnlzNF9KQ1FJQUNmME5VYmdBRm1acFE0dmtWNlFKdm91V291eW55SVRWazBaeUNOeHF0V3JyaUZPQnpjX0hURlJ0U2FFT2xyVEVBeVpkUGJGc3pNbmM4ZDQ3ODJYWlRHczFRblF3b1NL?oc=5",
-   "fonte": "Olhar Itupeva",
-   "quando": 1795042927.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "Olhar Itupeva"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "18/11 20:02",
-   "foto": "3c2c7e3cfea0.jpg",
-   "credito": "Foto: Olhar Itupeva",
-   "foto_tipo": "materia",
-   "foto_tamanho": "900x506",
-   "foto_qualidade": "media",
-   "materia_url": "https://olharitupeva.com.br/noticia-detalhes/-viao-itupeva-ter-horrios-de-domingo-no-feriado-da-conscincia-negra-1579"
   },
   {
    "titulo": "Motoboy é preso em Itatiba suspeito de alertar traficantes sobre chegada da polícia e negociar drogas - poptvweb.com.br",
@@ -626,20 +641,6 @@
    "assuntos": [],
    "pontos": 7,
    "hora": "18/11 19:03"
-  },
-  {
-   "titulo": "PM abraça homem armado com facão após ele se render em Jales - G1",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXFqcFFFX0RvNmZpeC1QbVNRU1NBVG5GU2dFazhJbUxKd21GbGV5UVpWaVZhWmJiYWM0dFhOLTRmRHpfRUhGV0ZQdFlqTjZoaDI5UTNLWWxwRklSSFg4N1hCREZtNXQ4cnE5TjFqSGo4NjVUak5sajlmM1ZMSFFwdFNRcjcwWktsTFA0ZGt2QVRuSFlpZTMzN3ZnZThWa0tnSkVoN2x6eHRKNGw3X2RLQmdLZzVRZEhBLVFCNWVFSdIBzgFBVV95cUxQN1c3VW5ZRmlIUzFpdUEwblFJSFBTUVcxMjNGWWlSLUUxV3U3YW5YcHdFUDExeUpDVk9Hak10YWl5RU9YaWkwcDd1YVJZRk80M2k2X1U0bzUyaTdrNU01N1F0M2praEVGekJJdFJRN2Fmd29IRFZOR1g1MnFsek9LUVhqVU1mZkxCWDVQb1d0NVFjUVUyaGtFWDNSRVpXWjk2cUtxa1A1OUptSFhLdmU5YzdNb29WeVdYMnNiM3VwNWFweTlHUkRPaWpnai1uUQ?oc=5",
-   "fonte": "G1",
-   "quando": 1795037486.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "18/11 18:31"
   },
   {
    "titulo": "Tamanduá é resgatado dentro de residência em Botucatu (SP) - G1",
@@ -781,6 +782,23 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/procon-racial-jundiai/"
   },
   {
+   "titulo": "Chuva em SP alaga ruas, faz via em Perdizes virar piscinão e trânsito passar de 1200 km de lentidão - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ydEtlaWYzcnFnTzVQZVBOQlV1dXROVkNwUThISHZQX2ZEYjZYY0EtUVdDOFd1dGYyMmNMYW1qOVVlVTZuNzNUSlYtVzRRd3lFNlJHdWV4N1RSYmZXOHViTkdmR3hMSHN6TThOWmNYWGkybnBFbFpoOGlIUUZkaFHSAYQBQVVfeXFMTWQ1aEU3SmNHSkJFeF9Jc1Rfb1hKR3JhNldVeUliS0ZIZ1R1aHBfMGlsNXowRjNCYUdnOTNKQkNxWWRoM0lOdnQxLTU1S0JwTXhkTjRkS2M1a0l0UTJjNTdOa1J2LWVUOWJpVXl2a1Q0RzlKcUU3eThlMkZMR0IwN2J1MHcz?oc=5",
+   "fonte": "Estadão",
+   "quando": 1795030860.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima",
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "18/11 16:41"
+  },
+  {
    "titulo": "Black Friday: Outback e Abbraccio oferecem seus pratos famosos com descontos especiais até 30/11 - Engenho da Notícia",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZGk4RlM1cmxBY3N6NmJ3UE1FQk9veTVZUmg2RmxhUnE4bWpSR1dsRS10TVIzb2NGb3RERXZLU0dyUHFSWkYtSE5tV0JjdHhmb1VHa2JqNFJXNjNwZnhiUUFQWWltc3lncU81cW80RFpZOUUyWVhxaV85aXFQY2NTNTBQbXRhU2RpT1R3R1dQTXJxVEZyLVFJNWJPamxLbWxQbEk0MXRGejFfM1JtNi03LTB4d0VJM3YxYVBaeHppWkoyTkVQUy1RRmlvcnlqT0lENnB6ejkta3U?oc=5",
    "fonte": "Engenho da Notícia",
@@ -801,6 +819,54 @@
    "materia_url": "https://site.engenhodanoticia.com.br/2026/11/black-friday-outback-e-abbraccio-oferecem-seus-pratos-famosos-com-descontos-especiais-ate-30-11/"
   },
   {
+   "titulo": "Brasil pede à OMC para julgar tarifaço imposto pelos EUA - Bahia.ba",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzJVZmRMVExkb2wyRHAwNGtrbzh4aFV3S25KWEhuWmxiT1dJYzdBRl9pdjJRMnFoQVNKa2NOYWs0bHhJeW9sNzM4RjNoSTB6a25fR2JLbDJ3N2lNbDRPXzE1bXlKaVE3LUVta0JnT2I4SXJTaURpY281SmNwcHFYUEE1ZGxvcEtCYnF4NWdtdC1UbmxnbXFFM0NwMGs?oc=5",
+   "fonte": "Bahia.ba",
+   "quando": 1795084935.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Bahia.ba"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "19/11 07:42"
+  },
+  {
+   "titulo": "Governo de SP abre inscrições para concurso com 98 vagas de pesquisador científico do IPA - Grupo Portal de Notícias",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWFJb3dSLXVBOFIwWHBmVWhwT3JFY1Q2Z25rTTZJREU1WGtYWlVKVkdSMnA4WjVlSFhQVTdQdHFHdjlwbFNldlB0SmN1dHVrWHJ0OTNHRTJLS0ZNMUtrb1lLM1hGVHQ0cGw1OFhmYzU3dlh1Ynl1c2w0XzJpSXNMcW1Sd1oteFpQRmxfQWRRclg0RGwyNG5DU1FmT3hhRjB2a0hKcGpQeDItQTVfRkptekhtR19xZkt1SnRobUNDbEk2UTEwYmc?oc=5",
+   "fonte": "Grupo Portal de Notícias",
+   "quando": 1795084822.0,
+   "categoria": "estado",
+   "fontes": [
+    "Grupo Portal de Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "19/11 07:40"
+  },
+  {
+   "titulo": "Prefeitura de São Paulo do Potengi é autorizada a realizar concurso público com 65 vagas - Blog Lucas Tavares",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWV9iQjVJbU9IWW9GRjBaeGh0ZHo1TFhGdDhlMEFlS1pXY2tmV3FjZkZwdFBuNlQ2NGQtTFZtOE9Vczh6dVlBRUlJT3QxaVhKLVNNdG5GUWhRU1hlSW8wUlhlX24xbzA4ZHcyQjNzeDdUVE41YVdjTFpiZ04xUFd2cHN5RE8taXZCQkFxME5lVU5OOExYSDBSODM0R0U0VmRHempTSVZJYUtNS0poNDMtV1huRHBwR2JaS0RDd2pVN0pNTzBGWUl5aA?oc=5",
+   "fonte": "Blog Lucas Tavares",
+   "quando": 1795084155.0,
+   "categoria": "estado",
+   "fontes": [
+    "Blog Lucas Tavares"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "19/11 07:29"
+  },
+  {
    "titulo": "Tarcísio desmembra secretarias e mira eleição de 2030 com novo secretariado - Tribuna do Sertão",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOUYwLVJzSFJVQU1MQmlPZkNCeEhBN0pMeHpMaUpWVXdpZDdXRDh6SHJoZDEtNkQ1RGZ3UVNrU3ZqYWFDbjhJV2N2VWVlRzNCeTJ2UHRLcXoycmtEZzBMWWowbFlwY0p3TEtyc0FYSGJidGlVS0dCNjVxcFIxM0FmMVBwRUhmRVBuSE9uTUhuOUY3eFk5U0lIbGZmcm5JLVc2dWFWN3Z5b05aZElkQl9lQnItWkJSZ2VJcGdKeU4tRWF2d1podEl6ZmFNdDdpcVlvR3hPa29tUG0tYmFxREE?oc=5",
    "fonte": "Tribuna do Sertão",
@@ -815,34 +881,6 @@
    ],
    "pontos": 5,
    "hora": "19/11 06:30"
-  },
-  {
-   "titulo": "Resultado do Dia de Sorte 1351: ninguém acerta sete dezenas e prêmio sobe para R$ 1,7 milhão; Mês da Sorte é setembro - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWN5YXFlWUNNVWk5eS1RRXVMR3ZscXJoZC14d2ZuTzFIM0xjak5WeEZxOVVKQnJkQW5aLUdXOExEOHlob2lDMU5aUmkwZVdoUDRRRTNZcXBLanhLejJTbjhpREJZMEMwSmN2UXE3Z0FDZTR3dTdSZnZXREEyX0c1NXF1T2U?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1795080154.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 06:22"
-  },
-  {
-   "titulo": "Resultado da +Milionária 408: ninguém acerta seis dezenas e dois trevos; prêmio acumula para R$ 117 milhões e duas apostas ganham R$ 208 mil - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVU91MDhNemk1NHdPbW5RRVZnTXNtRUNNNjZuelJwLV83NllSdThOeGNDM2dkQ3BvVU1vR3hSc1dtQk84N0R5ZXMwcUFCRTQ1LU95LXVKcTlJeWt1Nm9LY2lTTV9kOWg3WEUta0ZRTjVnUVlLeUl0NVpvenVzZGlyWFVyTl9MS2c?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1795080058.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "19/11 06:20"
   },
   {
    "titulo": "SP recebe mil novas doses da vacina contra mpox após casos superarem total de 2025 - MEON",
@@ -909,7 +947,23 @@
    "hora": "19/11 05:30"
   },
   {
-   "titulo": "Tarcísio extingue Secretaria dos Transportes em meio à crise nas linhas privatizadas - ICL Notícias",
+   "titulo": "Davy Jones vê GTA 6 como divisor de águas: 'Vai elevar a exigência' - UOL",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmpmVi1aWkRLeWVOS2lvN1RTRmhyaHJpNlVFYnNPaG94S256QkJHQ1JZMXRfdy1DVTA2SzB4R0hyTkUzdElUWEVNZF9BazJ0Zk5IS3J0a0lfaU5iU0NJeWplUDA0QURCM3R6Z0hyZ3pJdXkzZFlEQ3hqS0QwNHFCa1Z1TWIyQWZaVGxBb3JiVlRVRy12WlI4Umpta0l1ZG9HZnM0WXYwVEdoanl1aWJGSUxPemZuLTNsQ09DZ1ozZUtvQQ?oc=5",
+   "fonte": "UOL",
+   "quando": 1795077000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "UOL"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "19/11 05:30"
+  },
+  {
+   "titulo": "Tarcísio extingue Secretaria dos Transportes de SP em meio à crise nas linhas privatizadas - ICL Notícias",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zc0dXWjlQQndyaGtKVm5WUkFmeVpORzFCNmZiYzJKbUl4MEFRZFBtc1FicGhFUjZlQXhBX0IwVHd3Z1dLdkhOWFZZcUtoUE9MY2pYbnlYYXUzSFJLNXBESEpoY292am1KX3BFclowX0dSUUtVYkhiQ1N6eDRQRTA?oc=5",
    "fonte": "ICL Notícias",
    "quando": 1795075239.0,
@@ -1165,38 +1219,6 @@
    "hora": "18/11 22:55"
   },
   {
-   "titulo": "Chuva causa transtornos em São Paulo; cidade recebeu 80% do volume esperado - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTG1JaU4wZkU1WG1iNnJwTzQxVXRDOVpwOHZlM2RqMXlPLWN6OW43U0VKZ3M0dHRlU3BiWmpfMW1zcUNMT0ZuZTFtMVpSLXUwWEhxN1BndXJ2MXRVWXQ1UmpQNEk1b2M1SXhwekxfLVNTRDc4MUcyM3RiODhaWEZiZWRrRmxMZDhHVmxsaXFkOTZJY1JJZ3VhWTNvTUxOb3pveGVPekFVMTlURU50cm9CUlByQ1VzSUJfb2U5dHNkeEc?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795052843.0,
-   "categoria": "estado",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "18/11 22:47"
-  },
-  {
-   "titulo": "Chuva continua em parte de São Paulo durante a noite e madrugada - AgoraVale",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcU5GLXY5WTZqYV9qc3dONF9WNXZaT1FoZnFGeTlUdHBCWU02cGhNbWVyM1pGN0RlbjlTb2diY2xodmpUUDhPMjQxaUNGd3JDMGx6XzNob3FTR0k5eHVuT2tkdGZHYmdPM0o4c0QtZmttbGRXR08zSExacEkzVzAxWFprVXo5dW1sRHA4aWt2eUJxNzlsV2R4d1QxMGNvcTVPblJPT3lxVWVJSHI0TEs5dUpxWHJtVzQ?oc=5",
-   "fonte": "AgoraVale",
-   "quando": 1795050615.0,
-   "categoria": "estado",
-   "fontes": [
-    "AgoraVale"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "18/11 22:10"
-  },
-  {
    "titulo": "Ministro do STF muda entendimento do TSE a invalida DRAP do partido Podemos do Amapá - Diário do Amapá",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2g3aVIyVUVFdl80SjRlYjNLMk5hOHhlWC15cU45eWs3QmQ0SzBnVkpaYVJ6Q29mdHNsRDdkVExKQXVjZ21TX2xPbjhUX1JUSXdTTjlBSnJOLU90V3NUZjU2RmdCeFRseWd5alktcHFQSldwd2VqQ3YtZ25KZ096OWRDNm5NX2Z0R1h2VzBxNFY2N2dVSnlLYlU0TlI2RDZPWHFVWGJ1Unl0Wk1BcFBHcnlkcF9QTmFzVUdqS2J4bGxnZ2tmRG53NnA3YUpST01pM3c?oc=5",
    "fonte": "Diário do Amapá",
@@ -1211,38 +1233,6 @@
    ],
    "pontos": 5,
    "hora": "18/11 21:49"
-  },
-  {
-   "titulo": "Projeto que prorroga recursos para conectividade em escolas é aprovado no Senado - TELETIME News",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNSFRvMzlSWDR6RG8ya19mSzVqZFRHUjUtaGhoTllCbmtRMHkwY0hJS3RfVFAwZmV2SHp6TE5mVThwYlJ0eWJQeTJvRmZRV2dsMmR4UjF4VFFNeDQ1c0txOWhPZXJCQS1TTTRfODlzd2E?oc=5",
-   "fonte": "TELETIME News",
-   "quando": 1795049135.0,
-   "categoria": "brasil",
-   "fontes": [
-    "TELETIME News"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "18/11 21:45"
-  },
-  {
-   "titulo": "Motta anuncia sessão para votar ajuste fiscal na próxima segunda-feira após aprovação no Senado - ND Mais",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDVHRWVpNGwtV3ZmVTZUQVhRcHBSNDN5VjRibS03M0g0S0hTTTRFbUVobW9QZEh4eWZWN2FhMHljLVNSdFVDcnNRaHVpRUpYc3ZGWktyanRPWjItcFNOMW5wRmlGRDY0aERwRXZZQmlTM1VwYkVnWVR0NkxhZzZsSnRkTHpfRWZ3bmxZc1B0WnhpRjBFX1hPMXFYT3JRdmNLeDBmSnUxUTF3RUZGNUROUDRvRHRvSXNqb1dmOTh3TTZDN1c3NXc?oc=5",
-   "fonte": "ND Mais",
-   "quando": 1795049082.0,
-   "categoria": "brasil",
-   "fontes": [
-    "ND Mais"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "18/11 21:44"
   }
  ]
 }
