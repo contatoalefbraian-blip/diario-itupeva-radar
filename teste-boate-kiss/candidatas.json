@@ -1,0 +1,72 @@
+{
+ "pedido": {
+  "id": "teste-boate-kiss",
+  "termos": [
+   "Boate Kiss",
+   "Boate Kiss Santa Maria fachada",
+   "Kiss nightclub Santa Maria"
+  ],
+  "evitar": [
+   "vitima",
+   "victim",
+   "corpo",
+   "funeral"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Boate Kiss 2013.02.04. 09.jpg",
+   "descricao": "Boate que sofreu incêndio no município de Santa Maria - RS.",
+   "tamanho": "1024x768",
+   "termo": "Boate Kiss",
+   "credito": "Foto: Leandro LV / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._09.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Boate Kiss 2013.02.04. 10.jpg",
+   "descricao": "Boate que sofreu incêndio no município de Santa Maria - RS.",
+   "tamanho": "1024x768",
+   "termo": "Boate Kiss",
+   "credito": "Foto: Leandro LV / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._10.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Boate Kiss 2013.02.04. 27.jpg",
+   "descricao": "Boate que sofreu incêndio no município de Santa Maria - RS.",
+   "tamanho": "1024x768",
+   "termo": "Boate Kiss",
+   "credito": "Foto: Leandro LV / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._27.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Boate Kiss 2013.02.04. 24.jpg",
+   "descricao": "Boate que sofreu incêndio no município de Santa Maria - RS.",
+   "tamanho": "1024x768",
+   "termo": "Boate Kiss",
+   "credito": "Foto: Leandro LV / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._24.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Boate Kiss 2013.02.04. 46.jpg",
+   "descricao": "Boate que sofreu incêndio no município de Santa Maria - RS.",
+   "tamanho": "1024x768",
+   "termo": "Boate Kiss",
+   "credito": "Foto: Leandro LV / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._46.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Boate Kiss 2013.02.04. 28.jpg",
+   "descricao": "Boate que sofreu incêndio no município de Santa Maria - RS.",
+   "tamanho": "768x1024",
+   "termo": "Boate Kiss",
+   "credito": "Foto: Leandro LV / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._28.jpg"
+  }
+ ]
+}
