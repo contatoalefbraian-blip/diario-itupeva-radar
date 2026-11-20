@@ -1,7 +1,29 @@
 {
- "gerado": "20/11/2026 19:16",
+ "gerado": "20/11/2026 20:16",
  "desde": "20/11/2026 16:35",
  "pautas": [
+  {
+   "titulo": "Homem é preso suspeito de abusar sexualmente da própria filha de 2 meses em Várzea Paulista - G1",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc19ram5iZk9SY0xWOGZPb3pmaGwxV3U1UTh6VnFUbnhvUHNFQTlkQml3bE8tdkE3WU1OOXVMaFZJNjRRZE9OaDhrRTloX2JQX09UNlJVN0VwejRMYm9MeEhWNDlCV0Z1eEl4dTZZbGFGeV81Zm1rY2NMaG1BLTV4TlRqSVdCdHFrOFJtYjhkeGxMd1JiTDV0UVBlRWtvTGxXeHYyRXhfdXg4djIzRXpCMFFfdnVWUWtyQWVjYUxMbm4wSUFXZ2dXRUJxd1d0NG1Kb2FadEVVTzNEQmg5dHVn0gHuAUFVX3lxTFBQVVh4enM2RGlhMzlqQklINEdsMXVSNE13Q05SZERVbHdnRHNDR0hHR050OUIyZlZWVU1YRlRCVkpTYng1MWIxSFR6dmp6ZTJYTFo2TjJDVHQxa1JJSXhHblBIaWVIbXhIcmhrTGFQY3A5RG16RlFiRWk1cGc5SzQ5aklLZVNVeVg1aXpFNnlUdXY4UnZDSDlDWXB3N3dSNWpvbGtDR0RGTU5xaGVfcDJKTzFzblM4S01iaGIxQ3dzZk5LZVNuM2VSd2ZSN3JZNHh6Rzd3TmtKUXFwdXp3U1NUY2tHZnp3R2FwNy0tTVE?oc=5",
+   "fonte": "G1",
+   "quando": 1795213422.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 9,
+   "hora": "20/11 19:23",
+   "foto": "54c9c2ecfdee.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1201x712",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/homem-e-preso-suspeito-de-abusar-sexualmente-da-propria-filha-em-varzea-paulista.ghtml"
+  },
   {
    "titulo": "Policial que abraçou homem com facão após ele se render em Jales relembra ocorrência - G1",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeHRBT0p0TTB2UnZXV3JhUHBmWXRLUmJwYkFPZzB0NDZPN1ZISkd5ZFBhX1FhZG0xSDRWVDBMaVZKeEtFNGl6ZWk5OHdGV2c3c0FLRzFpb1ZoekVxV1g2Yk5iRHJJYUtSbEVMSDlmQ3VfOXJIS1pKY3JhbVNfbWhUa1JWemV0b1ZlR1dpclMzTUNlaFMtTDctMEdza2VSY3FIc0QwUXN0a3lvZktiY2daWVRmWXFHaUUyXzlSUzFBVnpfTW44ZHJYdm9ZV2N0WHMzS3ZlcG81MVRaMDVnblhz0gHuAUFVX3lxTE5qbXR3SjdUVWptaFMwZDlDNGhiYkUzNC0wUUNPcFg5WjZnMUlEY19uRW5GMnFPVEhzMVVKcjg4cjlfOVNJblhXbnF6U3lpNy12UExUeTBjZkk1WWJMZnRXMW16bWh6cEpRSk1lMDVSWWpjRS1xams0MTRjSHZTWUJpanRJMWNjMV91QmV6SHVwbGc3LV9tN1VBQUZCS0dmWS1tMVJOX2Q3OVR4SWR5M09PREsxQ3VYQVBzYUFWZHl0WDcyRUdlTl9UMkFJSjcwTVNKak8xVGU4d1JjT0pZMXhlbDkzUTVmd2Vka2JGalE?oc=5",
@@ -45,6 +67,46 @@
    "foto_tamanho": "1600x900",
    "foto_qualidade": "hd",
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/apanhou-pouco-vereador-de-votorantim-debocha-de-agressao-de-pms-contra-advogado-oab-repudia.ghtml"
+  },
+  {
+   "titulo": "Vôlei feminino Sub-19 de Jundiaí conquista medalha de bronze no Campeonato Estadual - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTmhuODhlSGJvZ3VmYlZCN1RNbjY5dHRpZ0M5RVZKQ3k2eFVOSEZLY1lYc0lqaU1Za2JfQjRfcGNEWUhjeVFoRzZ3WXA3MExVRWd1NFQxV3dOeVRNZURFQlBJVUJ2M1gzSW1MSVQycVpabzREUjZtN0dEU3JkOUFQbHdoU3lFNmM3TXRsR01WaWFtVWZldEdkSmhzR2NBZi1uOTNKTUtUZzFfVXhkTHNBb2pHdmgtYm5XY28zdVBuNG14UFR5N3Z6VzlB?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1795215000.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 19:50",
+   "foto": "58f84892179b.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/20/volei-feminino-sub-19-de-jundiai-conquista-medalha-de-bronze-no-campeonato-estadual/"
+  },
+  {
+   "titulo": "Guarda Municipal reforça segurança no Fazenda Grande com ações de combate a irregularidades - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTDhkTGVHVmY0bHZPczR1anpBckloNm9nQS1xdXVGQ1RKRXdJLWlXTS15MXE1VXpQQWx1SDBVeV8xaVBuSWxhb3NVX0ctWG01T0NMVlpLVExBSElRNVhFaEllRGZNVjlEVXUyS3BRcUxRbmZQX09wT2psaTRoTVVtOV9OcU1ieW5tcW9sbEMwMkY3SmdtMzNOTlBzZ2hleWk4S1N3Nk9XV2FTLVdra3NUVEp4eGlsYWt5OEJpcmY5d3Nhd25nWUlRa0JiTFJQd1Nzbld1ag?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1795213800.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 19:30",
+   "foto": "6812aa75955c.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "997x792",
+   "foto_qualidade": "media",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/20/guarda-municipal-reforca-seguranca-no-fazenda-grande-com-acoes-de-combate-a-irregularidades/"
   },
   {
    "titulo": "Pedágio eletrônico é instalado na Raposo Tavares em Itapetininga; veja quando começa a cobrança - G1",
@@ -91,24 +153,26 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3020102/policia/2026/11/pai-e-preso-apos-denuncia-de-abuso-contra-bebe"
   },
   {
-   "titulo": "Ratos passaram a circular pelas dependências do abrigo de animais após descarte de lixo - G1",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFlDMzZPTUE0aXpZNC1BcGlpVHVrdENJZWRMNW5tMF9IdTczSDM2X2ZvS0d6TkFEbURkZGhtOGJDNW1EUlVCZlVvV20yV1FpOFp3NXduQmhSZkxLalFmNUdIVUszbkllRFR3RDBaWTAzVUJYZHkyZC1hOTBFaExlMTdwV3VsTEYxXzNtc3pNUXprWUFKYWlPUk1BTjVrbWZfNm5BTHE3Y1JTXzFYeUY1b2RBMmpHei1TZ0lQRG1pSXNtdERvTk9SQ3VHYmIzWkdyYnoxMGFZZlNPYzRteld1RTRVONIB8gFBVV95cUxQbkpGZ1JJejBlVGhnYjlBOWhEbE9rYkNsT1htUHFXZ3h2dDlaUF9mdnZaY1Jka3VMZms5S05NMlBMZjJfa3lPc3JNMjN4akkxNVBTaGxOODJIcmw3MllRN2VwZ19haTFMMGtoUGNCejlzUzJ4MTJxVkhOc2tTV0Y5enBIbG5vWE5JeW9ZS1VTamlLU00zZkQ2T21EMTNmVV94S01DUUVyd25RYTZJSWkxbkRSbTdTMUZvWXZZTTk3UkhPTWtqMWxhRXlOY2ViSmpTQVV2c19XME1Fcno4T0NuVll2TkQ4LVF4TEVvdnlwdGZKUQ?oc=5",
-   "fonte": "G1",
-   "quando": 1795211092.0,
+   "titulo": "Motorista de empresa de Jarinu é sequestrado durante roubo de caminhão na Fernão Dias - poptvweb.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHJhWGliN1Y1WEhEQ0pzVFg4OGkxV24tX2luUzR1TUJiOGpzQkxUTGxOelZFOHFyMVNWbUY4RjNoLWZpbWlKbVc1N29vWGZUTU9lRjg5WDRycXEwSkp0VjFucnUtWDBJWXVFU2RETjFCYUtrQjhFVVA3Z19BVGVPYlpXYXl0SldzVWNoWE9SZUVjRkM4MVBYdkNhci13MXMxQ2p1WWY5bV9wZmRxeDJz?oc=5",
+   "fonte": "poptvweb.com.br",
+   "quando": 1795211253.0,
    "categoria": "regiao",
    "fontes": [
-    "G1"
+    "poptvweb.com.br"
    ],
    "urgente": false,
-   "assuntos": [],
+   "assuntos": [
+    "seguranca"
+   ],
    "pontos": 7,
-   "hora": "20/11 18:44",
-   "foto": "846a14c7f9e4.jpg",
-   "credito": "Foto: G1",
+   "hora": "20/11 18:47",
+   "foto": "ddeaad7dafac.jpg",
+   "credito": "Foto: poptvweb.com.br",
    "foto_tipo": "materia",
-   "foto_tamanho": "405x720",
+   "foto_tamanho": "860x570",
    "foto_qualidade": "media",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/ratos-passaram-a-circular-pelas-dependencias-do-abrigo-de-animais-apos-descarte-de-lixo-15268281.ghtml"
+   "materia_url": "https://poptvweb.com.br/motorista-de-empresa-de-jarinu-e-sequestrado-durante-roubo-de-caminhao-na-fernao-dias/"
   },
   {
    "titulo": "Pedágio da Estrada do Feijão terá reajuste de 4,64%; tarifa para carros sobe para R$ 23,20 - G1",
@@ -151,29 +215,6 @@
    "foto_tamanho": "1200x800",
    "foto_qualidade": "media",
    "materia_url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/20/morre-menino-de-11-anos-que-teve-corpo-incendiado-por-colega-em-campo-grande.ghtml"
-  },
-  {
-   "titulo": "Entidades empresariais do RS criticam STF por processo contra Van Hattem - Claudio Dantas",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BVUVGM1JKZ1RVbVduNHJzZFZEWWRoNjdVcFlicGVkR051UGRZcERsZkR5YUJsU3ZiMGdockhZZUFWZjdHczhURkxDdUJHWXJHd1dNTzZ3WHpsOHJWaTFCVU9IRVZ3OXczMXkyb2JKSU53VXVaWmFUMzIwbFdhQQ?oc=5",
-   "fonte": "Claudio Dantas",
-   "quando": 1795209257.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Claudio Dantas"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica",
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "20/11 18:14",
-   "foto": "b1c160e4d597.jpg",
-   "credito": "Foto: Claudio Dantas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x986",
-   "foto_qualidade": "hd",
-   "materia_url": "https://claudiodantas.com.br/entidades-rs-criticam-stf-contra-van-hattem/"
   },
   {
    "titulo": "Homem morre após passar mal em clínica clandestina para idosos; o responsável foi preso pela PM. - poptvweb.com.br",
@@ -220,6 +261,26 @@
    "materia_url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/20/defesa-civil-alerta-para-chuvas-fortes-no-interior-de-sp-durante-o-feriado-prolongado.ghtml"
   },
   {
+   "titulo": "Ratos passaram a circular pelas dependências do abrigo de animais após descarte de lixo - G1",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFlDMzZPTUE0aXpZNC1BcGlpVHVrdENJZWRMNW5tMF9IdTczSDM2X2ZvS0d6TkFEbURkZGhtOGJDNW1EUlVCZlVvV20yV1FpOFp3NXduQmhSZkxLalFmNUdIVUszbkllRFR3RDBaWTAzVUJYZHkyZC1hOTBFaExlMTdwV3VsTEYxXzNtc3pNUXprWUFKYWlPUk1BTjVrbWZfNm5BTHE3Y1JTXzFYeUY1b2RBMmpHei1TZ0lQRG1pSXNtdERvTk9SQ3VHYmIzWkdyYnoxMGFZZlNPYzRteld1RTRVONIB8gFBVV95cUxQbkpGZ1JJejBlVGhnYjlBOWhEbE9rYkNsT1htUHFXZ3h2dDlaUF9mdnZaY1Jka3VMZms5S05NMlBMZjJfa3lPc3JNMjN4akkxNVBTaGxOODJIcmw3MllRN2VwZ19haTFMMGtoUGNCejlzUzJ4MTJxVkhOc2tTV0Y5enBIbG5vWE5JeW9ZS1VTamlLU00zZkQ2T21EMTNmVV94S01DUUVyd25RYTZJSWkxbkRSbTdTMUZvWXZZTTk3UkhPTWtqMWxhRXlOY2ViSmpTQVV2c19XME1Fcno4T0NuVll2TkQ4LVF4TEVvdnlwdGZKUQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795207608.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 17:46",
+   "foto": "846a14c7f9e4.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/ratos-passaram-a-circular-pelas-dependencias-do-abrigo-de-animais-apos-descarte-de-lixo-15268281.ghtml"
+  },
+  {
    "titulo": "Míssil russo atinge a Polônia, e primeiro-ministro fala em 'provocação' - G1",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekhjcTRITVBxRzJYV01ZbFR4RlViZE5lTXNrMDFhcmFpVDdLMUQzWHVMeVlVYkVXeFA0Z2tqN0RxOE96RWFwUlFlU29MTjBvbnBsbVd6V01tRnhOYkNGNzhMdzQ3bVJYQ0E4Rk5fa0Q1VnRzM0tpei1YWXBoSk1mR2hlWFh3bFoyck0taHkzVlBMOFAzOTZ6dXdpblFzSENCLU94TUZJVXo2eXBzZ1YzSkpFS05idUNHUzFaYtIBywFBVV95cUxPTmJsSTRHVjktVWtBQ3BQWW83UkRteTJzaFFWam40M0RRMS1waXVkbjBScFpSY3BzZVVqeEg5TkMtNXA5cW5rMGlLbklpRWFLVGxzcDJ2RktUclpDWWN2OVNTeExyd0VHeVZrVWx1MDlySHp3S19OUngzMjgzRUF2VU1BUU1JNG9EaEg5RzR0ckxLNndpbjhweGV3YzRlVXA3VkJlYUE3elN4NC15dDZYRy1ra2xXNHpCUGFlQUpPSW5vdkdyTVBUUjJWUQ?oc=5",
    "fonte": "G1",
@@ -264,28 +325,6 @@
    "materia_url": "https://www.reporterpb.com.br/noticia-extra/2026/11/20/tribunal-de-justica-derruba-liminar-e-mantem-provas-do-concurso-da-prefeitura-de-areia-na-pb/143524.html"
   },
   {
-   "titulo": "Ex-vereador é um dos mortos durante tempestade em Tupanciretã - G1",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVyWWotU1U4OVZkdE44cy1aclFJdVRRTlp4aEIxaTZxT1MyOTNqWU1Lay1wNUo2OExPMWJHTjhObFNRZ2NhUnF3NjVHLUctVDV1S1BRbVJMNkZ1b0ZsbzhqYkxlZWE1TmZTMnVDNXFwTGpwUnJJb0lJaWFVUGxMeTJRWXVZRTE1aHc5My1tZFRzTEU5MEZ5c2pDeGZEZ25LMEp2dUFpUVpQbFHSAboBQVVfeXFMTjRxUy1uakZGQzZjTFFWQ0RwYW1QaDdTcnp4TjkyMm1wckdFVjFFMzF0aUVvVUI1QUNERkJ5NC1qTnRSaU01MTN0NHdQOFFQWDZEWDdTcmpPRlZaTnQxbko4eVM4UHJTOWpyc1o4bC1OUTcyenJ3SWtWX21paFlSRkdNQTVtMEhkOF9JSV9mY1NsakdERE9xRlhuM2pqVy1qY1pkYW96QVpiN1Z0aXdPTkp3N2I5TEUzbERB?oc=5",
-   "fonte": "G1",
-   "quando": 1795205095.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "prefeitura"
-   ],
-   "pontos": 7,
-   "hora": "20/11 17:04",
-   "foto": "afd16651a447.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/ex-vereador-morte-tempestade-tupancireta.ghtml"
-  },
-  {
    "titulo": "Casal de Jundiaí perde R$ 72 mil no Golpe do Falso Atendente do Santander - JORNAL DA REGIÃO",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemNITUVOYmFjRFFTUHVJeDU4ZnFGMVJ1VGpEenQ5OG05QmlYSlktTmxZN3Y5Y2NXcDlMNl9tYWFNdnRlaGozZ2N1STlNRmxVTzltZXFJUkpYQ2JSOGJKeko0NERtVnNTczZjUEQtaWFHMnJTUTZBalZqMVcwN0NGMkJiTEV2NzB4RHEzNXBUcFktUFMwZVNLd0NiS3ctV3N0Yzl6Yg?oc=5",
    "fonte": "JORNAL DA REGIÃO",
@@ -308,8 +347,8 @@
    "materia_url": "https://jr.jor.br/2026/11/20/casal-de-jundiai-perde-r-72-mil-no-golpe-do-falso-atendente-do-santander/"
   },
   {
-   "titulo": "JJ: Petição cobra terceira faixa em rodovias em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTjVHTS1hSmMtM1lhVkZmaVdwNUppb21RTXFoaFBUNlZCRzdUX1FUejNYMWpwLTl2aDlDYTZtd1lOd0RKV3ZSczg5WW5zR0dyMEN6OUVidHp4ODJ1c0J6UXY0UnNYSDJ0NzNqV2dTV0Jqb3J4dWtSbk5rYjFMb3Z1TDktZ0JmTHFFd3NwZmxfZVBDQnJWTVJuTG5GTTlIX2lpQVB2SHh4TXZlMExtMVpOVzNyYmg?oc=5",
+   "titulo": "Petição cobra terceira faixa em rodovias em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzZuMFl0Ti1MeEFzQ29rVEwxNVNFZi1vYkYxcTc4ejdkRWpWN2ZBZkdUWEV5QVZqUTVZbElWX3hFamhONzhrTlZHYWgtZHk0U0dfYmVLMGV4eFVKUi1aejBRd3hpX3JvdGdzcjVXQjdWU1YwN1pVanptZmdkUks0M01RbVBOVUhhUVVYcjdQeUoxTjFwVXZmZE9Vc2I0RlBMMG5hNl9iaHlpYzJBRjVrX2FINU5mcVlTT0E?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1795204055.0,
    "categoria": "regiao",
@@ -322,12 +361,202 @@
    ],
    "pontos": 7,
    "hora": "20/11 16:47",
-   "foto": "c5f0fc99da49.jpg",
+   "foto": "045553f6b4a2.jpg",
    "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
    "foto_qualidade": "media",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3020091/politica/2026/11/peticao-cobra-terceira-faixa-em-rodovias-em-jundiai"
+  },
+  {
+   "titulo": "NOTA À IMPRENSA — FESTIVAL CONSCIÊNCIA NEGRA - Prefeitura de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXFVOFZWVWtvSnRMZlF1VW82dGtmdnp2bVF0UFNrUXRtZDd3bHZ2V2xSdy1WMlliSm5ZN09OaTR5ejhPUUxCajBRWnpzeGs3Zk50NnhubGtOZTB5TlJnOXZNMG5YNGNTTUEyZHl1eHNhWUdNVjBGcGxmVHAtb0dUVzROcVhwdm5wa0UtN1JhNHhLSDBTaW5oUEtjSEc3Z2N6SHUtOE83N1hkU0RrZDhiaQ?oc=5",
+   "fonte": "Prefeitura de São Paulo",
+   "quando": 1795216245.0,
+   "categoria": "estado",
+   "fontes": [
+    "Prefeitura de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 20:10"
+  },
+  {
+   "titulo": "Defesa Civil alerta para chuvas intensas em várias regiões de SP no feriado prolongado - sentidohorario.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzJQbnQ2ZkY1alRzNlh4Q0F0Wmh0ZU9xaEV3Z2VkaEpCdlduVVJGWUFOcFpmSXBmWWFKd3Y2emRYTTB2ZnRmV0dURUdQOTI5RDY1MWx2ekRUc3U2UUFzcDN2bmJzMW9HZ2ZFOWwyS3VxVkhDdFBrS3ZKM09rYVIxMi1WRVVLeGRGeHY2aVgtR0VhYzRNSFc5VkY5UmRKZjd4RlRNWi1QQzYwN0ktc0dwbkFXQU1BeERL?oc=5",
+   "fonte": "sentidohorario.com.br",
+   "quando": 1795215983.0,
+   "categoria": "estado",
+   "fontes": [
+    "sentidohorario.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "20/11 20:06",
+   "foto": "07eb6d47c76a.jpg",
+   "credito": "Foto: sentidohorario.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x960",
+   "foto_qualidade": "hd",
+   "materia_url": "https://sentidohorario.com.br/defesa-civil-alerta-para-chuvas-intensas-em-varias-regioes-de-sp-no-feriado-prolongado/"
+  },
+  {
+   "titulo": "Várzea Paulista (SP): homem detido por abuso de filha de 2 meses; entenda o caso - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOERHYnhLSTZVV25ra0hrQlIySktyR1owUTRSNGJqeFpyZzUyY0hTNTAzTDd3dXFjZ1hkcVJtbXBSWUw5dEhuYWxjelNIVzNTbV9tellJcGZPMGpTUkhBaEtibFF5UUdCNjJCRTN2MUMyeEN0M014V2YyVnduOVBfQjZacHlMbS1Sems2VU1KRnJ4Tlh4ZHRJdlM0c0ZST1ZrZ0hHUnJENGtHbVdTd1E?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1795215651.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 20:00",
+   "foto": "869e58e1de14.jpg",
+   "credito": "Foto: Diário do Estado",
+   "foto_tipo": "materia",
+   "foto_tamanho": "984x583",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodoestadogo.com.br/varzea-paulista-sp-homem-detido-por-abuso-de-filha-de-2-meses-entenda-o-caso/"
+  },
+  {
+   "titulo": "Brasília - Alcolumbre e Motta pedem que STF julgue Lei da Dosimetria ainda em 2026 - Portal Guaíra",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGNkaWhlTnBBcktSUUcwb0ttVU9Ydk5TZDBvV3MzZVQxQXFvX1g0S3ZLME94dDNWLVVQWGdlcjkxdTZxdFlZUjc3WGhKTkdIOVlISEhXWjktT3lHWWFtRkpFXzdVUF90M0Zya09Wbms4MnliSno5NHlidThLV001U3JKM0tWWTk5bWp1bGc3Y3YzenJvQllYcUhJVTljNjBXYnl4b1ZJSmk?oc=5",
+   "fonte": "Portal Guaíra",
+   "quando": 1795215556.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal Guaíra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:59",
+   "foto": "7fd21b9b97c6.jpg",
+   "credito": "Foto: Portal Guaíra",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x429",
+   "foto_qualidade": "media",
+   "materia_url": "https://portalguaira.com/brasilia-alcolumbre-e-motta-pedem-que-stf-julgue-lei-da-dosimetria-ainda-em-2026"
+  },
+  {
+   "titulo": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeEx5M1RvRDNnQlFGSVNPQ2toWkJaeGxRSUtIb2tHUjlEWlpsYXhobXdJMFNYbWtUSW54S19IVzBZQ3BuZlFiLWU0enAtNzVDZlFGaTViTEhQbUd4d2l0ajB6SUJYWmhiNG5Eb3RSOFpEbmJySVNwRmM3NUFhaF81ckpSX3RoVHE2UkR6VzhWOVVmSVQyZXhOS0o1Z2ZZdmlRcXpxQzhTNnlHTlZ3cHlhS0NTQ19ldjNFOW9KR3VkQUJHZXZ4d1Zpdl94MFdPTmJCVjhSVVJtS1NCZTNDVWlEWTk5VzZaMXpUc0hVUF9B?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795215529.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:58",
+   "foto": "e254a8a9f6b7.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1054",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/"
+  },
+  {
+   "titulo": "Chuva põe zonas norte, leste, centro e Marginal Tietê em estado de atenção - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS095a2l2S2wzdkpTNkdNNEFNWENzZFh6N3duMVp1T3dQOEZMS2gza1FCMUp1MVlybnd3eDVwNmI2OXVxQzJzeldEaTVlMFRjUmw5YTJ5aGpZQng1a1hpSDRMeEdCcWJpTWl5NHdRTndlMll0NERWOU1iSWpDdzltaVZMUVJXc3RIdjhIQWV2TWJxM2lqTkNzTVI2OVBTUVAwNkw5QkNzUQ?oc=5",
+   "fonte": "UOL Notícias",
+   "quando": 1795215172.0,
+   "categoria": "estado",
+   "fontes": [
+    "UOL Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:52",
+   "foto": "53fe4c134bc3.jpg",
+   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Isenção de IR para policiais civis e penais: o que muda no PL 2966/2026 na Câmara - Mix Vale",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnVCZW1nVThmX3BtMHdLeEdtblVtMmx6UlQ1cFkwNnhMVzRoc3dmc25zMUhpbEhqNmdFNkM5bzY2V0tXdEd1SzZhUXpZTHRYdWpGLXBiREtyYVhPeTBpd2pMMjB4ajkwNDVzRXU2VEFhS2dhX1pxU1BEVEVWckNvNTBzWVE3WkF0ektta2dVX3E1bEVkTC1Sdnlvc1Nyclh2M1VSOVNmcw?oc=5",
+   "fonte": "Mix Vale",
+   "quando": 1795214598.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Mix Vale"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:43",
+   "foto": "58a07fe56537.jpg",
+   "credito": "Imagem ilustrativa: Mat Fascione / Wikimedia Commons (CC BY-SA 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "800x539"
+  },
+  {
+   "titulo": "Governo federal anuncia Plano Safra 2026/27 com taxa de 9% no Pronamp - Mix Vale",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjI4el8tUEh2XzE0YURmb2FOa3ViSjRwVktpM2kwdk9TOW16emVVOE56emZqY3ItcF91blM3TVpDNHhRZXhNanhTZE5nM3pocGc4Y1VGNnJkTTJXWEFJX2laY0hua3hOSmM0bzNuanRiOFdCYjN1ekdIUGlRMmJEZ2xkS2VaMnlCa0plY3l6aEJ6V0xQTUZzdnhweW0xUVAwbXBKcXRFQ1pUT0k?oc=5",
+   "fonte": "Mix Vale",
+   "quando": 1795214538.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Mix Vale"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:42",
+   "foto": "d9f730e8d7d5.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Cidade de SP entra em estado de atenção para alagamentos nesta sexta - G1",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkx4blRFZXVDdDJKMGVTTXdqSXFmdGluUWRwbE5YN2xmSFp2Nk40UTlqcXQ5SjQ2NFIydFdidGltUTUtN0wwTVBpZ1dHb0ExMTYwR2xtWnAwMjVpNkxCekd4NEZveHR0cmhJWkMzajZtenFZNGRTLW1HMTFib0x4Vk15RlVlbUVsTUhjUWlWclpJaF9KTUxmcDdrYjlGd9IBrAFBVV95cUxOMGNDbmFXSHk2aFEtNnRfdzFCMVZuY3Y3bElzUm5XWkZXWHVyN0t3V1NyZ2JmZlJvenVyMWVsLXhiaUR4TnRqd1Q2ZEpFQzVmejJ1aUp1VVBYSlVPWHdoYkpuZm5Cb3p0UHBSS0FkR0p0M093SjQ2ekZEM2dVaWNIeXE1bUVPRG1sSWk2LTRrLTNRelR1X2czbTZmZUNTbmZvR09zY0dVWkg3YmIz?oc=5",
+   "fonte": "G1",
+   "quando": 1795214139.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 19:35"
+  },
+  {
+   "titulo": "Pernambuco vai cobrar ICMS sobre o Imposto Seletivo em 2027 - O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXhpN2I4eWVzcEpicWJKR002bElfOXpUQktKcGZHZzhPdTIxLUVvZ0dwbHZtVmdFamtMZmRmbmZyX19ZZ193MjZUNmNPVWx6Q0ZYVUpRNjVWelUzTW1Wb2hSb1h6c01QaUIyNkFXYUlRUUlaQTVhZGZjVFJKNW9fSEFCb19XcDN1RWJZNGRNMjFxbFVJaW1aRUFSLW1ZMEXSAaQBQVVfeXFMTlN0VjMxMHpBakhGNmJsaTl1R1gyWEhrM3VRdGtDRVpLR2dueWxFUjZJbHB2UmdITHJuOVVYaWtmUE0zb1Q1YmlzSWVNWGEzZTg2ZDNNTG51M1dwRHpyTG9EcHpjVlRBLWExcFl2T1JvRlhBN1hwcWhFSGg1UE9yN2ctTjBRZ3d0OFQyRC1aQ0hTSUZUdGtyMFNtcURjaVBETWpzRWQ?oc=5",
+   "fonte": "O Cafezinho",
+   "quando": 1795213200.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O Cafezinho"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:20"
   },
   {
    "titulo": "STF decide se deputado Van Hattem será réu por discurso na Câmara contra delegado da PF - Ultima Hora Online",
@@ -343,35 +572,55 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "20/11 19:15",
-   "foto": "4c7fe1a400a1.jpg",
-   "credito": "Foto: Ultima Hora Online",
-   "foto_tipo": "materia",
-   "foto_tamanho": "600x412",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://www.ultimahoraonline.com.br/noticia/stf-decide-se-deputado-van-hattem-sera-reu-por-discurso-na-camara-contra-delegado-da-pf"
+   "hora": "20/11 19:15"
   },
   {
-   "titulo": "Presidente Prudente (SP): fortes chuvas no feriado; saiba como se proteger - Diário do Estado",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZm00Skt3WE5od2lNSUJiS0d4ZzY0V0pOUEV0MlAzakhEMkxSSTFLMEtWTDBzdFhsaEZFejNWeUd2Rk9lT0Ffd09NSm1NWVgxUWswcW1ocUxYWmQ5NmJJcDRCRGlYckd5cVRsaldiQ09yMFFOUEJta2diMDVfcDJva09vb0wxV0ZZQ1J6MlFYS0xsMXZra1RGZkROcGlUZDR6SVd6VGp3?oc=5",
-   "fonte": "Diário do Estado",
-   "quando": 1795212061.0,
-   "categoria": "estado",
+   "titulo": "Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX1hZWFozWEpXUGZEU1dkU2c4UW9rY0FFS2RuMWZjUjE1TEE1UGw1YXhGU2VMd0tVVzFLV01ZTXhnc0dHeHF5b05hM1FldHhFbjRWVnVhTkMyZkJjYzl1TjdUZElCel93Y05FSHhVMFNUZF8zWGpmWmNUZ2hjSm55azNJaFNleUpkUHVhOFBSbEx3YkhlRkpRd1dDdGo2eFg3Q2NSeE1nbVJYOHM1LXZjZ09WY2lJYm1FdTQySFdYQTI4NzhxQ3c4a29CSlhNMEYyUktZNlFWSnE3X2ZNaDRMc25aTzhNQQ?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795212900.0,
+   "categoria": "brasil",
    "fontes": [
-    "Diário do Estado"
+    "Folha de S.Paulo"
    ],
    "urgente": false,
    "assuntos": [
-    "clima"
+    "politica"
    ],
    "pontos": 5,
-   "hora": "20/11 19:01",
-   "foto": "ee92e1431bc8.jpg",
-   "credito": "Foto: Diário do Estado",
-   "foto_tipo": "materia",
-   "foto_tamanho": "984x738",
-   "foto_qualidade": "media",
-   "materia_url": "https://diariodoestadogo.com.br/presidente-prudente-sp-fortes-chuvas-no-feriado-saiba-como-se-proteger/"
+   "hora": "20/11 19:15"
+  },
+  {
+   "titulo": "Lula já tem data marcada para visitar a UFF, em Niterói - Área VIP",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3pFNjNXQUNObmR1NnFYV2hfUi1sM3lkSUxweDFYams4cmxRQTdHdzNlQkJBS2VmN0s2ODRMZVdwcTZzdjE3ZHc4WXdCYkt0SjNPOUxSRlR4UnZjRGtibmF4NkN1aHhNVkVLajZCZ29zb0JCZXc5VzhHbVh0QlRKNVI2ZXUyUUhLRDVhWGsxdHA5NWxia0IzMC1HZW5uYVFyT2c?oc=5",
+   "fonte": "Área VIP",
+   "quando": 1795212525.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Área VIP"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:08"
+  },
+  {
+   "titulo": "Pedido de Mendonça a Fachin aumenta pressão sobre ministros do STF citados no caso Master - Terra Brasil Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEo5R1dfSUtoM1U5YUo2Wk8yNXNEc3A0S1JVRF9CVUlEV0JfUkJCcGM3dUFZMUtIeDBiOXV5STlyOFhraHhsdWJJa3lFWTVPQXFyR2VKR29xNFB2Yk9XdDFiUDl6dWVxeWxBaDBIbkNySjZ1cFU3TnlmTHV0YklIajIxajVQMWd6MWlRUVpxWGZrejhCTVJCVlR3bmVPR0g2Z3AzeWpPVmFFV2x1RU9sUWVYd3I5cEllNFB0dkVJWkNLNzlFSDBkUXp3?oc=5",
+   "fonte": "Terra Brasil Notícias",
+   "quando": 1795212428.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra Brasil Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 19:07"
   },
   {
    "titulo": "IFI: Ajuste fiscal de Lula não cobre novos gastos de 2027 - Portal Guaíra",
@@ -387,11 +636,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "20/11 19:00",
-   "foto": "cb65297909d8.jpg",
-   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x900"
+   "hora": "20/11 19:00"
   },
   {
    "titulo": "Nova vinícola do Rio abre em dezembro com degustações e produção em Paraíba do Sul - Agenda do Poder",
@@ -405,13 +650,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "20/11 18:58",
-   "foto": "30fd27ca29f1.jpg",
-   "credito": "Foto: Agenda do Poder",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x853",
-   "foto_qualidade": "hd",
-   "materia_url": "https://agendadopoder.com.br/nova-vinicola-do-rio-abre-em-dezembro-com-degustacoes-e-producao-em-paraiba-do-sul/"
+   "hora": "20/11 18:58"
   },
   {
    "titulo": "Rui Costa Pimenta aponta crise precoce no governo Lula e prevê novos cortes - www.plantaobrasil.net",
@@ -427,13 +666,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "20/11 18:44",
-   "foto": "bedc1b199ef5.jpg",
-   "credito": "Foto: www.plantaobrasil.net",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x562",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/164712-rui-costa-pimenta-aponta-crise-precoce-no-governo-lula-e-preve-novos-cortes"
+   "hora": "20/11 18:44"
   },
   {
    "titulo": "Carlos Bolsonaro critica proposta tributária de 15% e cita promessa de Pix para empreendedores - MundoBA",
@@ -449,13 +682,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "20/11 18:30",
-   "foto": "a5909e1d8c58.jpg",
-   "credito": "Foto: MundoBA",
-   "foto_tipo": "materia",
-   "foto_tamanho": "600x420",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://mundoba.com.br/politica/carlos-bolsonaro-critica-proposta-tributaria-de-15-e-cita-promessa-de-pix-para-empreendedores/"
+   "hora": "20/11 18:30"
   },
   {
    "titulo": "Chuvas fortes atingem litoral norte e cidades do interior de São Paulo; veja os locais - Estadão",
@@ -471,13 +698,21 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "20/11 18:24",
-   "foto": "62aaa66195e0.jpg",
-   "credito": "Foto: Estadão",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.estadao.com.br/sao-paulo/chuvas-fortes-atingem-litoral-norte-e-cidades-do-interior-de-sao-paulo-veja-os-locais/"
+   "hora": "20/11 18:24"
+  },
+  {
+   "titulo": "Tradicional clube do interior de São Paulo aprova SAF de R$ 1 bilhão - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0NXbVZZR3ktLWJwVG1ZYm91eV9GSW1rSEhCMTFvbDEydFNVamNfalhiYk83WGcwdUR3eC16WXBETEdCb1RwSTVqRWV3dzhFT0pka3hFbjNzSGE5b2N3cUw3d1BROF9ycWg2QzdZRXB2UU04LUpCZlZKUWVQVVAtYmI3SWNxWUtaT2RBRW1WYkR5WTZxWVllNllmUXd0YTlGdlY3b3pHVXo2Tm9UMXMtS08xMkI?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795209547.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 18:19"
   },
   {
    "titulo": "Chuva e granizo: Defesa Civil emite alerta severo para zona norte de SP - Metrópoles",
@@ -493,33 +728,39 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "20/11 18:09",
-   "foto": "26460d0daf88.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "20/11 18:09"
   },
   {
-   "titulo": "Lula ainda não anuncia ministros para 2027 - www.band.com.br",
+   "titulo": "Cidade do Rio registra mais de 38 graus e entra em nível 3 de alerta de calor; veja as recomendações da prefeitura - O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ2tGbTYtY2NaU3I3OTBfTnVYMFpFeXRMb0ZnZTIwc0kzU1MybVNKQXhTeHNJSFNOUDVLUkdYeGFiTGoxMG96VkFYdmlWeWhkMk9oNmhFUjJWNmMxcXhaS1pNOUtwcEYwVjFrbHdXYzdCS0ZHZE1tTXNLYXBoNmkxNEhKNFlWbmxjdl9YNzA4czNRRV9Ud3VaMDV1N0h1QzlKbGI1MndsbFlESTYtbVRxT3BGM2FfY2tKbXpjWmRYdDZoQkJkZjI4M2dkLXd1dUI5eVlCQmdwUGFsOXp1cFlEVG1UX19OMVFvVERmUF9sRUxwNFZqVXfSAYQCQVVfeXFMUEMybERYdXJDRHlOX0pna2pCaVltejhqWWtaR2xJWjIyaGROSXNFajgtVk9sTW9MWE5wdXY4eHZRN2Z1MVdZdTJZVWU3NzJGTjRHWUVkR2FBbHctN2E0WE4wVGdfSXdOd1FzeWY4V2NPcFl4Y19LcVk2TzJ0TFhjb0w3RTlhakI5ZzFYd2VEQXFfbDhjNkF0S3hsaEVKS0xjMHUwR3F2SDBoQnJFMG1qV3ZUVGlYUmVzUVZ4M1VjRUtRWFFMYlZHVEQ5LV8wcHE4N01RQWZhc0U2U2Q3VlVUUWFzQ3ZiTXFzNHN0Ui1fVHptU2RBZnVwWHoyUzdkSUVHdG1xVlQ?oc=5",
+   "fonte": "O GLOBO",
+   "quando": 1795208158.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O GLOBO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "20/11 17:55"
+  },
+  {
+   "titulo": "Lula ainda não anuncia ministros para 2027 - Band",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWNreHd4U0xjQnRaTzZaSzJ4a1M1UWxvZi05b2xQZU1wMng3b2doVW5NSGM4VVh2VDMxRHZBaXBhSG9oelB0TnM2RU9YekhsQnE2N21WN0dkSlBSQmhWMDQ3Q3VRRE1jbHFuMHV4OV9CbGN1bnlrVzh6bTM1VkN3NDRLY0dqOGxoLUZVZ0tGb0ZVTjR0cGxSYjkxUQ?oc=5",
-   "fonte": "www.band.com.br",
+   "fonte": "Band",
    "quando": 1795207873.0,
    "categoria": "brasil",
    "fontes": [
-    "www.band.com.br"
+    "Band"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "20/11 17:51",
-   "foto": "97a217102104.jpg",
-   "credito": "Foto: www.band.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.band.com.br/nacional/brasil/lula-ainda-nao-anuncia-ministros-para-2027-202611201751"
+   "hora": "20/11 17:51"
   },
   {
    "titulo": "Morre Yuri, de 11 anos, vítima de incêndio em Campo Grande - Campo Grande News",
@@ -533,11 +774,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "20/11 17:51",
-   "foto": "be283e0b0460.jpg",
-   "credito": "Imagem ilustrativa: Rodrigo.Argenton / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1744"
+   "hora": "20/11 17:51"
   },
   {
    "titulo": "Governo federal anuncia envio de equipes da Defesa Civil para Tupanciretã – CNN Brasil - cedarnews.net",
@@ -646,6 +883,20 @@
    ],
    "pontos": 5,
    "hora": "20/11 16:49"
+  },
+  {
+   "titulo": "Até o final do ano, o esgoto de mais de 400 mil guarulhenses terá novo destino - Guarulhos Todo Dia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG5IbVRvMFo5QzY1UHNCdE94RWdEUkVJdVlBVEdwV3poem1KOFBQNVR3TWtPRm5raHVXRTl6Nkc2VjZzU296V1RpSkZKS2NKdGhBSGFHWUhMY0hxUDZDZDVQa0dHR01ycHl2cTJFMUtWQU5KNTF5U2prMWVvODJMbm9YXzliUEYzSXg0OG8zWmR4aGRpQ0xVamxtWXdyanNNTDhkcVJYeVR1MDVKTkVmWTJCcWNjQW1k?oc=5",
+   "fonte": "Guarulhos Todo Dia",
+   "quando": 1795215230.0,
+   "categoria": "estado",
+   "fontes": [
+    "Guarulhos Todo Dia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "20/11 19:53"
   },
   {
    "titulo": "Exposição comemora 15 anos do Time São Paulo e destaca histórias de atletas paralímpicos - bra1.com.br",
