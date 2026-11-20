@@ -1,5 +1,5 @@
 {
- "gerado": "20/11/2026 11:19",
+ "gerado": "20/11/2026 12:25",
  "desde": "20/11/2026 10:35",
  "pautas": [
   {
@@ -21,6 +21,68 @@
    "foto_tamanho": "1400x930",
    "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/denuncias-violacoes-jundiai-racismo-injuria-racial/"
+  },
+  {
+   "titulo": "Acidente entre duas carretas e um caminhão interdita trecho de rodovia em Itatiba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaThMSV9lVlV6WTQ1WGNKeEltcElzb2RpOFpBT3UtZk1vQ25MYVJVMG8zMGdlUFp2aGZiLWZMNlBqRGJNYnpIMFROTTBCYk5Ea0tEYllmdzYzcFRDbENPZWJvYm9DZTdFTGFjcjNua3JRdFRST2Q0RnBpNG5LaEwxN2ttV1NDdm1ROHpybENheTdQbGVrRXlEWUhkRzl3TklLTmFTQjlhQmhrOHNWaTJLM0RyQmpLcEh0SW0wcXd4OGsxdzhENkd6WXBDTnRza1c4WFdsWFhpc0pkcnBVX29lOdIB7wFBVV95cUxON1RHOTdYdFVVT1JnLTB4anBJYjhVSTBIM0kyYmFBYUw0X1p2YjRxT3NoSGZJR2pGVjVJWmZHOFBIMnczMmVHckVCYUZIbkZScVVHLWkxbE1fNXlaUUVNcThmOXY1SDN6d0NjdVpqNUp4SjItN3hMa19Dd2RPaHZYeS1mS2s5aElMNVVuX3duczRVSWtNTlZhMlhSLVNkQkxYZGtaWFpXU09GV1VqQ210M0lveWJxUW03M1d4elZva0E3MFdKS0luc2VTazJ2dW4ybmtjXzQ0aXNYck1YQkRMa0hMd3BYWC1hYXhvUEl1RQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795185786.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 9,
+   "hora": "20/11 11:43",
+   "foto": "2ed466304c16.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1270x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/acidente-entre-duas-carretas-e-um-caminhao-interdita-trecho-de-rodovia-em-itatiba.ghtml"
+  },
+  {
+   "titulo": "Espaço Expressa recebe Festival Baobá com programação dedicada à cultura e à identidade negra - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQlhYemJEY3dLZGZMRmtZVDZ6emVMenAyVlZ3UlYtTU54UzhodTRsREFZZnZlbU9xUmNIaGRDVXRSbmZ0eFRodEpmQXhGWDd0Ykp0Ymd6VHFjRUptZHRxc2tEZUxfT1kzWUFkUUFTZlhoNTdEOTVhNjRmXzF6NUM1c0ZfZmZiMVJUbDYxQUlhZmlQMzh4Ql9KRzRYRXliQTZVNUJJakMxZFVGbTFVZDZIckMwdFQzSTZyaVBCSlh0d2lURGpRMlBKN1JZbkNDeFQ3SVh6dkdCamF0RThOcm41RGdldWJxbTdEWDIzS2pqYw?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1795186260.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 11:51",
+   "foto": "340aa4851f77.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/20/espaco-expressa-recebe-festival-baoba-com-programacao-dedicada-a-cultura-e-a-identidade-negra/?apenas_conteudo=S"
+  },
+  {
+   "titulo": "Da cozinha à ancestralidade: websérie de Sorocaba transforma receitas em memória - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRmMtWkdkSmEwNUdESTNtTmpGM3FZZ2NWOU1Yd3I1RE1YUThsTmVOa1FiZkwwWXBaMUw2Qk5kUjRfZUZYN2Fhb2RMUzg0dzJnUTNTY2FSVEtYVUh4Z0tkbmRlbmQ3eUtRQzVxNWxISHNlVzlQWWN3WEhYSk1FQUFveHk0SW5uMjI1ZzVycG5DWXlZX0pkVXliU2JaSE04Tm5wMVltTlhhMk15d3Vfa3AwUkwwZURPOGRpR1drUDBFRXd1dmptUXNFbEZ3SmxhSlZJSFI1RV9xUDXSAecBQVVfeXFMT3NJaDZtZ1hNcWlSMFd4SFZTR0kwZjdGbENtYnFVNEgxWlRjb1BpUnZFcEFERlpJWDRqa2luRVIzUzBEQ24wZGRtc1JSMWVCUXByX2xMTmFwMWN2VkxVdF9YQlNUSFNGX1FoRjhlaWRpM1ZVc1hxSUpTOGxuRWtsU29EWW81dF9NUFJVUktGekluNXp4VnpPNldmNzhJelViTXlxNW9QdTBBdUhwZEJmd2hZOGVGZ3FtS3Uwc2VIN1lfWFpyekdGckJTNENhenJQNjNFT1JmamZBQjJWX1hJdjhYaHlRX0ZJ?oc=5",
+   "fonte": "G1",
+   "quando": 1795186049.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 11:47",
+   "foto": "1665afb0ca79.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/da-cozinha-a-ancestralidade-webserie-de-sorocaba-transforma-receitas-em-memoria-15263872.ghtml"
   },
   {
    "titulo": "Wet’n Wild prepara calendário de eventos e reforços em atendimento e alimentação para 2027 - Panrotas",
@@ -64,6 +126,44 @@
    "foto_tamanho": "848x477",
    "foto_qualidade": "media",
    "materia_url": "https://www.cm7brasil.com/noticias/polo-industrial-de-manaus/deputados-do-pt-psol-e-pcdob-querem-cobrar-ate-25-de-imposto-sobre-lucros-de-empresarios/"
+  },
+  {
+   "titulo": "MCRE11 usa reservas para sustentar dividendos em novembro; confira - Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFVsZDYyaGdvWnFYY016RkZsVmR5U0tkSlY1UFJwX2VOUU1qdHN3dVQtcXFGbjM0YXB0aDh4Q0I2YnJWQUY3UHFrazhqYWd2WlduaEdqSFB3SDlFZXNHTFhIWWU1YTREUEYtYjYxUE9oMmxadVV1M25CdXNreUZGbndzUlJnTFXSAYcBQVVfeXFMUHhVbGQ2Mmhnb1pxWGNNekZGbFZkeVNLZEpWNVBScF9lTlFNanRzd3VULXFxRm4zNGFwdGg4eENCNmJyVkFGN1Bxa2s4amFndlpXbmhHakhQd0g5RWVzR0xYSFllNWE0RFBGLWI2MVBPaDJsWnVVdTNuQnVza3lGRm53c1JSZ0xV?oc=5",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "quando": 1795183219.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Suno - Investimentos Inteligentes"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 11:00",
+   "foto": "df6dff405c4d.jpg",
+   "credito": "Foto: Suno - Investimentos Inteligentes",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.suno.com.br/noticias/mcre11-mantem-dividendos-reservas-novembro/amp/"
+  },
+  {
+   "titulo": "Da cozinha à ancestralidade: websérie de Sorocaba transforma receitas em memória e resistência - G1",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHdMaTN6TlZ4SVBiaEJnUy16N292RGVueFZ0ODIyNE1Tc2hzZDJmeVJCdzltTk5hRXJvdnRuN0U1blJIa1VVQkFlTjlSWkxORHRrVFBXWU9GTm1US2lETEd1YUkxUUpsaHdROVVDWnpNajlyYWMwQ0trUTVydnBxWEd5bXZLRGNMOFoycGp4VmNxRV9mX3Y5YW5VTW5CWUY5YXBEc2puVkZtRVRrMTFTcHVZU19DaWZNZmV3Rzk2X3RWVjVRdTVLSWkwQV9zS0R3U3J0ZEc2MHpicElxaDFYcU1PSTdHbW1OWEh5OFRISGfSAf8BQVVfeXFMTWY1MG13RktKWVBEVmxYZm8tSU1QY1JnM1puVk9adG9KNE5mZS1WRUpZeExEVVZtVTFoMklmSE1ISGpsM0JuQjJtR2s0MldfTEVsNTBCNFlwdzZDQU5PZUZXR3dqbTRmTEtCdlFTa3Fkb0JyYnZjZDJ5Mnc1YjU3dk1IbDBZTW11QjQ2VjVjZ1dnMENSN0dKSm9RTDZ5XzFzTzVvVUFLNEhzSFZHTndVd2JJUUhNZ0VmUUoxTFVrXzZoZ0RYMmxrSHFRU3ZHOVBJRnVYRWZNdFRsMzRTOExqVjVCa0FUeVpseG1uOEhETjQxaVBQVkZQV2o5VmlyQzhz?oc=5",
+   "fonte": "G1",
+   "quando": 1795183209.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 11:00",
+   "foto": "9c562627ffc2.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
   },
   {
    "titulo": "PM Rodoviária intensifica patrulhamento nas estradas paulistas durante Operação El Niño - agenciasp.sp.gov.br",
@@ -129,6 +229,196 @@
    "materia_url": "https://bpmoney.com.br/mercado/fundos/hglg11-compra-fatia-galpao-itupeva-r-31-milhoes/"
   },
   {
+   "titulo": "Após apreensão no Vilarejo, bicicletas motorizadas são furtadas de pátio - Portal da Cidade - Cabreúva / SP",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0hiUlJHWEN5WTdtX1FoeEJSTTQydi1hakwyMWVtX2hnMXpKZnZ4cUtCaW1JaDVuazZJcHRrazhZdlhxVEdUMkVqeEtZWWd5ajFKR3R2aWFkREpOcHg3RldpeWhidVhxLTF1Y0lSbzlIM21NU05mQWpXSjk5Q3F6OXpuT1l6OE5vNmhLdE9KWl9jWUJESDRva3NxR19fazNodWkzeGVRdTNCM29aLXpwSEY5bk9RSUFJQV83QUpYeWp5a0k0dmVhUFFn?oc=5",
+   "fonte": "Portal da Cidade - Cabreúva / SP",
+   "quando": 1795187505.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Portal da Cidade - Cabreúva / SP"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 12:11",
+   "foto": "7fee5287a848.jpg",
+   "credito": "Foto: Portal da Cidade - Cabreúva / SP",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://cabreuva.portaldacidade.com/noticias/policial/apos-apreensao-no-vilarejo-bicicletas-motorizadas-sao-furtadas-de-patio-3133"
+  },
+  {
+   "titulo": "Previdência e Bolsa Família terão crédito de R$ 149 bi após aval do Congresso - Agora Litoral",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHBPaFdGYmNUYmVld1BSTUoyMWtuUTV3SFNxNXZEU0lqQWI2S2FjQVNvVDdCY3ZzZGV0alFDM3ZYdzB2Z1F3dDRtbUpRQ0JMRmxFV0ZwRjRIQkNTNS1qNEQyRV9OanRYNzZodzVtYk5GWjNGMVRSTkJTckFYZkJHcnUxWThTd3ozNG9pWVhsX3ZSYmt3NlYzZW9KM004N0pWRjRxSmZnMldHSUhhTEdObnRqS1d1UkU?oc=5",
+   "fonte": "Agora Litoral",
+   "quando": 1795186743.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agora Litoral"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:59",
+   "foto": "98c7ffd9240a.jpg",
+   "credito": "Foto: Agora Litoral",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://agoralitoral.com.br/2026/11/20/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso/"
+  },
+  {
+   "titulo": "Entenda o que muda após Tarcísio extinguir Secretaria dos Transportes em SP - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1BBT0Zxc2VnelE5RElvUXpEVWV6UFFza25RUnQwVjk1NVV1UFAyWmIxMmF6cVhYZzhKRzRsYy1ROElBQ0pwbXI2TTZWdklmVG5NUzhYRThtXzZidERVMjd2MjRZdEZZUVZLdGh4X0JGd0VFVlhrWXB2dUdtRm1EUGFfbmZYSDVSNEU3ZnRmbHNrMG5vYy1QV2prenlGUFpqeWtjSXBNbGFuMUFHV1VXd3dn?oc=5",
+   "fonte": "Metrópoles",
+   "quando": 1795186560.0,
+   "categoria": "estado",
+   "fontes": [
+    "Metrópoles"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:56",
+   "foto": "47c1236762d8.jpg",
+   "credito": "Imagem ilustrativa: Federação Paulista de Futebol / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1064"
+  },
+  {
+   "titulo": "Bruno Reis critica pacote de corte de gastos do governo Lula aprovado no Senado: 'Ajuste fiscal tímido' - Política ao Ponto",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbENselFaaC1iQUZ5WEZnS1FLVFR6dzY4TndTYUlPd3pSR3JoUDJmLURfQjBEYlJoeXFCMHNPaW5mV3JDcnl4Y3hLVUp5S1U0QnZUWVJxVFpfVmxZNEh3bFNmb1RfN3FMb04xZ2dNcnZHTnR3Z1N5QkhGWjRlOGZlMDBnRjU1VDlRbElBTXdLRm8xMW85ODZPSzAwaFl6UXlCaktzTXRhcEo0S09qMWhhZ2t4STl6VkNSWFViNVh0cElhM0tTb2pUdS1PNUg?oc=5",
+   "fonte": "Política ao Ponto",
+   "quando": 1795186525.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Política ao Ponto"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:55",
+   "foto": "62b977f2e5a4.jpg",
+   "credito": "Foto: Política ao Ponto",
+   "foto_tipo": "materia",
+   "foto_tamanho": "604x415",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://politicaaoponto.com.br/bruno-reis-critica-pacote-de-corte-de-gastos-do-governo-lula-aprovado-no-senado-ajuste-fiscal-timido/"
+  },
+  {
+   "titulo": "Pedágio de Boa Esperança do Sul vai ficar mais caro a partir de segunda (23) - Araraquara Agora",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDhNX2xQeHBTWFMtWjFHNlVENXNyRmNQZHZFaHhjMzVIUkd2bjFFaEloZ3Q5OVVJNHEzYXNNLVNkREJLQjVwbUdORjNTOGNUd0ZqTlpUcDQ1Y2Fpd0JRZWgyelNaMDQxT19mZWVRRFZYWHFOUUlFd0dzWmpmZmtTQmo0VVRpalNfd2YwdTlwcHY5ZmUxWmticFhZNXpERjZVQXVRVTl0OWxzZy0tNlNJdzBTejlMdjA?oc=5",
+   "fonte": "Araraquara Agora",
+   "quando": 1795186090.0,
+   "categoria": "estado",
+   "fontes": [
+    "Araraquara Agora"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:48",
+   "foto": "46843a80a52e.jpg",
+   "credito": "Foto: Araraquara Agora",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://araraquaraagora.com/noticia/59787/pedagio-de-boa-esperanca-do-sul-vai-ficar-mais-caro-a-partir-de-segunda-23"
+  },
+  {
+   "titulo": "STF decide se torna van Hattem réu por discurso na tribuna da Câmara - Claudio Dantas",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDhuOHpMaTJTbzU4YzdxOHNjY0pqeEJONWRSRTE2UXo4MWlySy1nQmw5Z1dDUkVJVE81QkdyOTVMUTVoY3ZLeWxZcHUtOVZpbDhSX2k1b01RWmpKMzd5bzRvRFNISkNPemJ5TF9WdGhyZzRzQ0h4R2F3bVBBYU5QOXhDWGJOdUFadXNRekhCSUNkZXg2UHdYQ3BoVzd1Vjg?oc=5",
+   "fonte": "Claudio Dantas",
+   "quando": 1795185885.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Claudio Dantas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:44",
+   "foto": "d5923abac1e0.jpg",
+   "credito": "Foto: Claudio Dantas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "770x513",
+   "foto_qualidade": "media",
+   "materia_url": "https://claudiodantas.com.br/stf-decide-se-torna-van-hattem-reu-por-discurso-na-tribuna-da-camara/"
+  },
+  {
+   "titulo": "Pedágio na região de Araraquara vai subir a partir de segunda-feira (23) - Araraquara Agora",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmc3Y2hZNXJ0YUdyNnhYeXA0ejV6OXJ0b01TSUM0S1B2angxZUVHSW1Fa2pnSHBXaGlUanVWdmJQS2ljQW1pb1Q5SUxOVEw0WWcwdVBNelVnaEJqQXFjTTd3SDFxcndGVk94Rk1CTi1HSzFUTEFvdDl0VXNySzI2QkRuclZvV09OREFfU1FVOU83YkZVMExKVjNyT1BUSXBEV1dhZW9QQmlnWTB1UWR4NVBR?oc=5",
+   "fonte": "Araraquara Agora",
+   "quando": 1795185467.0,
+   "categoria": "estado",
+   "fontes": [
+    "Araraquara Agora"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:37",
+   "foto": "7616040d0863.jpg",
+   "credito": "Foto: Araraquara Agora",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://araraquaraagora.com/noticia/59786/pedagio-na-regiao-de-araraquara-vai-subir-a-partir-de-segunda-feira-23"
+  },
+  {
+   "titulo": "Santos começa tratativas para renovar com Coutinho e Arthur - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGRhVVVvdzlUS0ZsaXVZU3BGeDk4Q1FKVVRhUlE3ckhRbFBNWU9HeTNhVU1rcFdaeHdmWF9BcnJCdXlJaWtobUprNE5CWmRVUXZKNGtLNGJKdG9vTkhlSzlFRHl3c2U5anF6YWFBd0Z1N2s4aFBBZThlcTB1NU5RV2JiZGJYTGQ0MVk5TTYzQTdXVm9ibW9lUGFLVjR3SGVBV1V0cE1UZXQtUQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795185189.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 11:33",
+   "foto": "f4c5388ae198.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x2000",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/santos-comeca-tratativas-para-renovar-com-coutinho-e-arthur/"
+  },
+  {
+   "titulo": "Coronel detona ajuste fiscal de Lula: \"será um fake para calote\" - FOLHAMAX",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkMxQm53ekZabk9xZTEzanZORThRMUg0RE5SYkItNzhNeVNhaG84cjdNdWdqSHdDNTZhMEVXNXl6YUs5czhraHpKcklSd2Zqdk5Lb3hEOTdjVnlSdlA0WGtZLVI4N00wTGtYYWlXb2VJZmRTMndtVHltbDBIZU95ajlnc0NHeFFmYU5kV2FaVTBUVXlDekJka3VIOU45aXFIM3Bzbw?oc=5",
+   "fonte": "FOLHAMAX",
+   "quando": 1795183380.0,
+   "categoria": "brasil",
+   "fontes": [
+    "FOLHAMAX"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:03",
+   "foto": "f272de16e63c.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
    "titulo": "São Paulo terá calor de 31°C e risco de temporais no feriado prolongado - IstoÉ",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3J5U0kxRXcxY1dBbjZjeU5ObUZQZ1k1Tkg0ZzM3cTlfMmtxbm43UmkwT0ZTTDBTVWREVGFDQ1NhemNtMV9uNnE3VzZRa1pSTDljeE9nMElZeDJKanZpT0tvcGRQNEpMNjVabVpwOWFaYW1feVRmOEY4VkFiUFVpNXlXNmRtcjQ?oc=5",
    "fonte": "IstoÉ",
@@ -147,6 +437,28 @@
    "credito": "Imagem ilustrativa: Rubens J. Dias / Wikimedia Commons (CC BY 4.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1200"
+  },
+  {
+   "titulo": "Lula anuncia criação de ministério do idoso; veja o que está previsto - Aratu On",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2JCS2xfeFBYQnZYajlzeV96ZW5kUTVJeDEtSWpTd1BDU2tBRGo1d2t0cnF6TFhPWUV6MEZBWjR3aTN6UkRxTXViMlhCbmxWako0NGtpV1ZDb2NNREhiaFMtNF9qS3lLWXZVc2g2T0hsT2ZHVzlfclpXR2QxLTVOQjRfNTNiX2tzRkNoQnprY05lM2M5YXRDNUVhSG9iUXI2ZTQw?oc=5",
+   "fonte": "Aratu On",
+   "quando": 1795183264.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Aratu On"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "20/11 11:01",
+   "foto": "fd8cd855a18d.jpg",
+   "credito": "Foto: Aratu On",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://aratuon.com.br/politica/lula-anuncia-criacao-de-ministerio-do-idoso-veja-o-que-esta-previsto/"
   },
   {
    "titulo": "Pedágios ficam mais caros em 3 rodovias na região de Ribeirão Preto; confira as novas tarifas - ACidade ON",
@@ -215,6 +527,34 @@
    "materia_url": "https://www.metropoles.com/sao-paulo/anchieta-e-imigrantes-tem-50-km-de-congestionamento-nesta-manha-de-feriado"
   },
   {
+   "titulo": "SPVias implanta desvio temporário em retornos da SP-127, em Tatuí - Estradas",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1lHc1JSMTNnSGFmUFEwLUkxcGRtaExiZ0I1R09KUU10NW5KbE1vV1d5VndVVWtUN0tMWFl1RXFNV2ZkbTd1aDE3NXVhQnR0VVJkWnpDR0txenBNRHUtNGM2QVFUeS1kMWpSd2EwTXBadFl6dTN5MEtYMGNmaW1HSV84YnhxSzJfUVpFcnNZX1pLWUE?oc=5",
+   "fonte": "Estradas",
+   "quando": 1795187785.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estradas"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "20/11 12:16"
+  },
+  {
+   "titulo": "Cartilha Procon-SP Racial promove o respeito nas relações de consumo; saiba mais - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUVHaEpCRVRsRWtpUEJmVTFaVC1lbVozT2lraWxTMDVLU2twNXdxMkxPLVlKQm1nVW1teVQxS0RudkhmaXdkVzk2cEdFU2s3c1FIOXBqY2Q4NEtYbGNJYnUzV255OWNDT3I4ZWhsTmZkdG1KbU5HeDFDWmRTTHllUXN0d2s5UG12bURjMzVuZlVYZDJvcFJIM0hBUUJjaGcy?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795186440.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "20/11 11:54"
+  },
+  {
    "titulo": "Exposição celebra os 15 anos do Time São Paulo e destaca trajetória do esporte paralímpico - www.agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFdIMXM1R29BNFlzYXY4WGFiVkR6YzRPNV9OQ2dxcVNtWkt1cV9Jd2VIMk9fNThBbTlnamdCWWNjMTJYd3l1LWtVclNZU2Z5dDdZVVRiVlZRakpyT1FlT2dRYWJIRmdWVnFBdDNwWExfNkpUeGdweGtZQmhQcWdYalZMSmtBQVM4WDN2SW9FVU9fWkxmaGdBT1hidFRCaGVqLUZmT01sbWlYQU5kbEtHQXJQYy1rYzBFTlFobjJPcHFuMm0xUXZRWDFR?oc=5",
    "fonte": "www.agenciasp.sp.gov.br",
@@ -226,33 +566,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "20/11 11:03",
-   "foto": "ea885222b768.jpg",
-   "credito": "Foto: www.agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x737",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/social/exposicao-celebra-os-15-anos-do-time-sao-paulo-e-destaca-trajetoria-do-esporte-paralimpico/"
-  },
-  {
-   "titulo": "Governo de SP fortalece indústria automotiva com expansão da Toyota em Sorocaba - Mobilidade Sampa",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNE14MDZaZ2RUTzljbWFmTktpLTlWTkpsU2pkSWt6aTlGVEVPRll6N2FxRFF2bGRJck9LblFnNklRS0d5aHZaTW1wS3g3dGgtMnB3ZmZLeHQ1RHRCU3FnR0QyOGdKNUFnNWJjR0dKNUtDNUMtRjBWY3gySFNDM1RDU3JvekhuWkp2QkpxMlVUSjEydTRoYkNNcXd0WW5Eeno4WFRBSUFKTllzRDJDRkE?oc=5",
-   "fonte": "Mobilidade Sampa",
-   "quando": 1795183304.0,
-   "categoria": "estado",
-   "fontes": [
-    "Mobilidade Sampa"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "20/11 11:01",
-   "foto": "f64c7f2e0ca1.jpg",
-   "credito": "Foto: Mobilidade Sampa",
-   "foto_tipo": "materia",
-   "foto_tamanho": "600x400",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://mobilidadesampa.com.br/2026/11/governo-de-sp-fortalece-industria-automotiva-expansao-toyota-sorocaba/"
+   "hora": "20/11 11:03"
   }
  ]
 }
