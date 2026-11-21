@@ -1,5 +1,5 @@
 {
- "gerado": "21/11/2026 17:26",
+ "gerado": "21/11/2026 18:14",
  "desde": "21/11/2026 16:35",
  "pautas": [
   {
@@ -89,36 +89,205 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/varzea-paulista/consultas-exames-varzea-paulista/"
   },
   {
-   "titulo": "Defesa Civil reforça alerta para chuva forte em todo o estado de São Paulo entre domingo e terça-feira - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFBpZ29TTEczVk41MXF6M1Z5NTFGWmcwUWdmdVpHWnUwYlJpUmdSeVRDenJkeUVrU2V6RXJyZGNYaV9EYzdnOEI1VnBtUl9TSE4xZjZEOExiZzJzbHY4cFBFWWVpLTFyZGxPSWZDRG5yazAwc3BnQTFTalZldkRxLVJDQTQ3OGIyN2pJRDZUeWRxbW84OXhVSS1vNTNqcXJVeTVzeTVrTUpfaVdBZnp4OG5Pa0FqN0tMeHYxbUNZamVtcXFpWjUwMG9WSHZ6ZkJPMXlENDZVTXJaZlFva29KSldB?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795290128.0,
-   "categoria": "estado",
+   "titulo": "Zanin suspende congresso do Cidadania que votaria incorporação ao PP - Rede 98",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1hlRTFiNkJjUkdOQ3Z5VVNGc2tDQnROV2xoZEE5b1MzdWp5QjMwQzhXTGtzeWU4SjZua0xGY0pJVXlNWU9MYVAtYVNqOEdzWkh0M0tpZFlHcGpSM3dPU1B3cjZXeUVtVmdsSTAwNlVlRnpuVWVyS3hBR2lNNFRXUUN2Q24tYlJiTUc5NGdlRFIzTUlQZVpVanU1Vi1wUHdieTBqLUcxMjBOR3JpclE?oc=5",
+   "fonte": "Rede 98",
+   "quando": 1795294800.0,
+   "categoria": "brasil",
    "fontes": [
-    "BOM DIA GUARULHOS",
-    "agenciasp.sp.gov.br"
+    "Rede 98"
    ],
    "urgente": false,
    "assuntos": [
-    "clima"
+    "politica"
    ],
-   "pontos": 6,
-   "hora": "21/11 16:42",
-   "foto": "b497c84d37ff.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
+   "pontos": 5,
+   "hora": "21/11 18:00",
+   "foto": "2f90faf913e5.jpg",
+   "credito": "Foto: Rede 98",
    "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-reforca-alerta-para-chuva-forte-em-todo-o-estado-de-sao-paulo-entre-domingo-e-terca-feira/"
+   "foto_tamanho": "1200x670",
+   "foto_qualidade": "media",
+   "materia_url": "https://rede98.com.br/noticias/politica/zanin-suspende-congresso-do-cidadania-que-votaria-incorporacao-ao-pp/"
   },
   {
-   "titulo": "Trump afirma que crédito fiscal federal para filmes será aprovado no Congresso à medida que o apoio crescer - www.segundabase.com.br",
+   "titulo": "Estado recebe mil novas doses da vacina contra mpox para distribuição - Repórter Diário",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFFKQjdVUTYzYjVIR19ZNENxWmhMTmdpanlKRjRoYnRLQWpselQyWk8xRWNKOUgxdmRXY3c4aHZTWG4xWi1UWjFuYXRDcUt3djNsQmd5allGTzVTRHpfYkw2VGM0bE1vc3dpYWJEQ2dhVWU2SkNMYVF2bkdhX2VkanE1bHF3RWR5eEdUYVFxOEZoQ0FwWWhoWWpsRnBOdHhDR2NaenctNmRTdGRsVFNBYnNxcGx4QkF2a3BUbg?oc=5",
+   "fonte": "Repórter Diário",
+   "quando": 1795294764.0,
+   "categoria": "estado",
+   "fontes": [
+    "Repórter Diário"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:59",
+   "foto": "76ba79fe8b8e.jpg",
+   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1018"
+  },
+  {
+   "titulo": "JJ: Jarinu convoca 64 candidatos à Guarda Municipal - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE9rTjZOTUoyeER2Q0NhSk5jTk0tRWVwMDlIS2Z3X015dHp3NzNlUHJOc3Y3NnJQTFNVbTFqZmFReVh6RkptdTlhdE9JdWtTZ1otRXZjVnBkMExrczAtNi1yZ2ZydnJCS3hhRWtRRjN0dzMxeEprbVRENGwtLVl4dXRHb052UDFFclRHOWNuRFN4YmxyVmxOUWM3Vjd5QW9vZ3V3aHFnUFB6UWRWY3c?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795294200.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "21/11 17:50",
+   "foto": "3a637758c12a.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3020275/policia/2026/11/jarinu-convoca-64-candidatos-a-guarda-municipal"
+  },
+  {
+   "titulo": "Governo federal prepara ofensiva contra o casamento infantil e uniões precoces - www.plantaobrasil.net",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnlEMFpKOWRqOHJ5Um1GeDZKRGFfMXpxSXZXR2diSnZRalRxRVVIUTI2LTZjeFpqdTNvTnZZZkZDQ2R2aVNBZXlWUF9CZ1RqYURHbnlOcldFemNrd3U5eVZPQkd4WVRLdFFyTlFjRnJZYXh2MVdaVmwxWVp0LUNBQ3hXeTRya2FJdzVaQ0tmWnhDT3JmM2ZMSXdEcy1pLTBzMTdTd3JtOGxJck1qUlEyT3lpZDc3UFUwWHEtY1ZSNmtNdw?oc=5",
+   "fonte": "www.plantaobrasil.net",
+   "quando": 1795294188.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.plantaobrasil.net"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:49",
+   "foto": "3cbfec0a04ea.jpg",
+   "credito": "Foto: www.plantaobrasil.net",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164810-governo-federal-prepara-ofensiva-contra-o-casamento-infantil-e-unioes-precoces"
+  },
+  {
+   "titulo": "Tarcísio: “Em oração pela saúde de Jair Bolsonaro” - O Antagonista",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOUQwZVBTN3JzVnM4S1dRMlAzbk82M0xXWUExQjRPUlNQdlNlVy1NUjNDdUVhaUs1WEVOdDZUcVA4NVdmaExYbTA0eThqY18yRm5UNHNGQjN1TFJta0hwQzJucTlNLWdWckExYTlJQkNyRjdoM1cyVk9ZUGFWdVBnZm5IUDJVYTlVWDRJ?oc=5",
+   "fonte": "O Antagonista",
+   "quando": 1795293660.0,
+   "categoria": "estado",
+   "fontes": [
+    "O Antagonista"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:41",
+   "foto": "c6c022d6d3ff.jpg",
+   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1301"
+  },
+  {
+   "titulo": "STF trava manobra para extinguir Cidadania e absorção pelo PP - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFFISUpwcDhzblM1NFo4RjBrUDFTcFhjNFZLdFVFNjhWeGhLaHJHR1BXRzNBbVNNRHFoeGdGZVMxV0gtdXp5TlJoQ2d1TDIwS2JYbDI1a0h5NkVDaFJwRWs0UW9xeGMwSHJpbm9wQUFoNEptTzhlS0J4YXc1V0pQTnptVXB3SVdBelc2Z3Y1dDVOMTNrRDhjUlhBUlVwSTR4aVVLOXFiN2U1M0k?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1795293282.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:34",
+   "foto": "6121a418dd12.jpg",
+   "credito": "Foto: Plantão Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164809-stf-trava-manobra-para-extinguir-cidadania-e-absorcao-pelo-pp"
+  },
+  {
+   "titulo": "Ex-candidato a vice de Flávio libera projeto que proíbe inquéritos de ofício do STF - O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3pXWXk2UG1DSWQ3Q1pTOFlyb0xSQ0JzbU15alZGYkVibzFuN3BWSUUtem14U0szU3NZaVlZUWZGZ1pXOVI4dkMydmhJU1JXNXo4ajgyN3ktY283NDNmVmZ6T2lMUlBqS1hudzVTb19fNC1RVlFSNnhMemd4MjR3aGlXclozRVVac2NkZ3Y4bEE3WGNBT2ZZM2tuUDBKdGRjS3B4c1JYWVFvY1NhWHBr0gG0AUFVX3lxTE1LcnhlSXc0WWZGV0FERFRMb2pCdUtGUXQ4N1JybXljdGRtak8zd0tUZ2JYNXpTaTNkc0xDY1FjanJwVXJkWXczRnVCOEJNQ3docnJnLTFCdlBoeG13Q0R2TmY5Qk5QaEQ2ZWRaYUhGdmIyREo3UUFLSUh3OFdtWVZuLTJzb2QzcXFfaEV4TTFUNnRTQi1sbzVvQnk4SHlXOWtkRWNZaHRSUTBSZXZNV29FaTh5Mw?oc=5",
+   "fonte": "O Cafezinho",
+   "quando": 1795293000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "O Cafezinho"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:30",
+   "foto": "c79fc8d09a93.jpg",
+   "credito": "Foto: O Cafezinho",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x986",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.ocafezinho.com/2026-11-21/ex-vice-de-flavio-libera-projeto-que-proibe-inqueritos-de-oficio-do-stf/"
+  },
+  {
+   "titulo": "Lula descarta aumento da idade mínima para aposentadoria e anuncia novas medidas - Aratu On",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0MtWXVMcnlOLTY0c2hyMkt1VmtibnJuTHpkLTYySFZsRFItR195Mk9JUDRZekZrcFFwSVY2QW9uWDdzblR2azRiZXoxdnRCMl83STgyVHpMLVdndjQzcjUwMDk1TDh1dGRqSC1hdUlaZlVlNFBoMkpyOVo0V010ZURaaGM2MEJNUi1zTVlhT2pHTXByMVNJMG9iQkJpckJTQ0liV0c1bFloTUZ0YlE1bndvaw?oc=5",
+   "fonte": "Aratu On",
+   "quando": 1795293000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Aratu On"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:30",
+   "foto": "12ee5ddba2a3.jpg",
+   "credito": "Foto: Aratu On",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://aratuon.com.br/politica/lula-descarta-aumento-da-idade-minima-para-aposentadoria-e-anuncia-novas-medidas/"
+  },
+  {
+   "titulo": "Lula termina 3º mandato sem cumprir promessas feitas em 2022 sobre mudanças estruturais na economia; veja lista - Blog do BG",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjdPczYwMzExQ3YyY2dNam1JZTJWc2NnYXU2LW51Z3BONk1RclViakJiQmZtTlBfdk1SOXFZckZfcDczMTVtODFEbDh0emtWODhjdm9GNTYtaFRCeDVzTE80QXQyLWdTVHpGNGlTUl9oamxBM0M1M05BZkU2WWpwVV9IV2FZTjM2RVBwVnpvemxoQXZOWm9uT3FKQTdvY0xtdkxfUTAxc09vTWpkcmEycjBSOHN3aFVYWmE0dV95Wk5VT0h0SktZRFZDdDJsVEpFTk9IUGl3?oc=5",
+   "fonte": "Blog do BG",
+   "quando": 1795292891.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Blog do BG"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 17:28",
+   "foto": "9b17878ab9de.jpg",
+   "credito": "Foto: Blog do BG",
+   "foto_tipo": "materia",
+   "foto_tamanho": "749x465",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.blogdobg.com.br/lula-termina-3o-mandato-sem-cumprir-promessas-feitas-em-2022-sobre-mudancas-estruturais-na-economia-veja-lista/"
+  },
+  {
+   "titulo": "Trump afirma que crédito fiscal federal para filmes será aprovado no Congresso à medida que o apoio crescer - Segunda Base",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSy1qTlZfaFFwTm9DN1NuSWo0Y3dYMVk0eG5BUlVvc1o2VU43RkpzUmF5el90ckZzOXN0ZlVNOGZWSUk1QjhBbjRWbWxBQmhhTVBWN3p3V0NCZmVnNFVTalR6ZHhPVnB5TU9BYU82ckZRUFZPQkhjNUdnazBvQmdPT0dZMTJaWEpuT3BHSFpydk5jMU1yOHIyZzRNT29RdUZPNmpsSWlrVWhBWXdYOEUzeXVLdzlnQXNRRmNrVEU1U1VKN0F1YVZkdWdKWHljQWdPdjc2THZTS0hHNndMbkNuYU53S01KdjBZZUZLSUN2WXQ?oc=5",
-   "fonte": "www.segundabase.com.br",
+   "fonte": "Segunda Base",
    "quando": 1795292007.0,
    "categoria": "brasil",
    "fontes": [
-    "www.segundabase.com.br"
+    "Segunda Base"
    ],
    "urgente": false,
    "assuntos": [
@@ -156,13 +325,13 @@
    "materia_url": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-ganha-forca-em-sp-no-domingo-22-com-frente-fria-veja-previsao/"
   },
   {
-   "titulo": "América Latina caminha a passos largos na construção de ‘data centers’ - correiodobrasil.com.br",
+   "titulo": "América Latina caminha a passos largos na construção de ‘data centers’ - Jornal Correio do Brasil",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVpJWFpuSG5JNGFkcnNhM2UwenZELXdaYTA3OW55ZXozS0JwdFR6OEcwZnpxMU1BeHYzZGRmakpiMGhwSExVVXlMLVZNS1YtamFnbFVIeDJESS11d0dMYklDQmdwYVpCUkljT2ZsZjRxeHFDUDg4azFjX0NRM3hkUzNZQTZNSUplMHhDNUFDSVM0Y284UHYzYw?oc=5",
-   "fonte": "correiodobrasil.com.br",
+   "fonte": "Jornal Correio do Brasil",
    "quando": 1795291304.0,
    "categoria": "regiao",
    "fontes": [
-    "correiodobrasil.com.br"
+    "Jornal Correio do Brasil"
    ],
    "urgente": false,
    "assuntos": [],
@@ -238,6 +407,28 @@
    "foto_tamanho": "800x450",
    "foto_qualidade": "media",
    "materia_url": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-domingo-21.html"
+  },
+  {
+   "titulo": "Defesa Civil reforça alerta para chuva forte em todo o estado de SP entre domingo (22) e terça-feira (24) - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFBpZ29TTEczVk41MXF6M1Z5NTFGWmcwUWdmdVpHWnUwYlJpUmdSeVRDenJkeUVrU2V6RXJyZGNYaV9EYzdnOEI1VnBtUl9TSE4xZjZEOExiZzJzbHY4cFBFWWVpLTFyZGxPSWZDRG5yazAwc3BnQTFTalZldkRxLVJDQTQ3OGIyN2pJRDZUeWRxbW84OXhVSS1vNTNqcXJVeTVzeTVrTUpfaVdBZnp4OG5Pa0FqN0tMeHYxbUNZamVtcXFpWjUwMG9WSHZ6ZkJPMXlENDZVTXJaZlFva29KSldB?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795290128.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "21/11 16:42",
+   "foto": "01116d882ea2.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-reforca-alerta-para-chuva-forte-em-todo-o-estado-de-sao-paulo-entre-domingo-e-terca-feira/"
   }
  ]
 }
