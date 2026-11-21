@@ -1,5 +1,5 @@
 {
- "gerado": "21/11/2026 06:43",
+ "gerado": "21/11/2026 07:32",
  "desde": "20/11/2026 16:35",
  "pautas": [
   {
@@ -136,6 +136,29 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/apanhou-pouco-vereador-de-votorantim-debocha-de-agressao-de-pms-contra-advogado-oab-repudia.ghtml"
   },
   {
+   "titulo": "Papel de Alcolumbre na votação do ajuste fiscal amplia dependência de Lula - 7Segundos",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1RaOWVGaE0tS3VDdDF2NDRTTkZIajRZZHpzb2RuMjRGWVctalFnMVo1ekctUzVjZ2Jjb0tUakNJWmxTVjB3NmgzcFptODR0amdZQ1ZkWjF5TXAwaXlJWmoyZlR0OXlJM0JNTjdZOF8yUnYxRTFCOGRfOFMzcEJiTEM0SUU0RG9fXzVoeUJ3YkVRU3AwZzk5aGhTbVpxenJVMGZFVmljaEczZkRxN1g1WG12X3lKZ040bWRESGN1VmF3WHV4SU1hS2tTRzVpT2lvbG9SSG84dw?oc=5",
+   "fonte": "7Segundos",
+   "quando": 1795255620.0,
+   "categoria": "brasil",
+   "fontes": [
+    "7Segundos",
+    "Metrópoles"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 8,
+   "hora": "21/11 07:07",
+   "foto": "f079cae5d125.jpg",
+   "credito": "Foto: 7Segundos",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.7segundos.com.br/arapiraca/noticias/2026/11/21/311432-papel-de-alcolumbre-na-votacao-do-ajuste-fiscal-amplia-dependencia-de-lula"
+  },
+  {
    "titulo": "Lula sanciona lei que pereniza o Move Brasil com R$ 14,5 bi, mas recursos ficam fora do orçamento - Estadão",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTW1jX1RwV094RXNZNFlhcldPZ2ExdUxyUG9mTDljeld2dHZJUVFZTzl1R1JsazFhbUhuYVZSaEI2Tkt5MWJKNzV3eDJZZ09BWlR6WDduazVZa3Y5TndDWkhLQWZsRHhTTFNZVlhWLUJmemlQZXNUNHA4X0d5Wm1TejJEQnFEOW1kVTNGOU1URDNLZ2lqWFl2TVYwUmZIOEprckowWHFLamVxcFBiLXZXWUR5dklyQ0dfaXFuc0E1MUNVTEZPVHNTV1VIdWg4clRIU01USkkzemxHX21NbldKVdIB5gFBVV95cUxNNURRSmtCdmhUU0pDTklab0VFYU1qMVZhWDdJVmgyd29iTXlSSVY4b1VvSWsxSUtDTzFzZ0Nva3ZVeFJES3NfWnNWTld3VHFwb0xpT0pSdmFDeENkNVVZejBqeThRdm1yRDkyZFJlREZrTmJFenpsUm9oYUJBTFhncTZSS3FyLXNDRkowa0tBVzY2RUxtQ08zbGIyVUR4QktpQUhTVUhfODhkUXhCNzU2UHkyNEhDMXBKMDF2OHFKVGRpcmhHRFh0YTdxaU5hUmlYM0dmNmhIcDdvSXhUak45YUt5eHdrUQ?oc=5",
    "fonte": "Estadão",
@@ -174,29 +197,6 @@
    ],
    "pontos": 8,
    "hora": "20/11 17:39"
-  },
-  {
-   "titulo": "Chuva em SP alaga ruas, faz via em Perdizes virar piscinão e trânsito passar de 1200 km de lentidão - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1JLbnMtWkwzeDFqWXpXV3E2NTNEcG9ZbVplSHRVUGtodE4yQjc4eVBfYklocm9aQTZ4NDBhN2Q3RG12N3FPb3Q3T2l6WG1LYUNIblhTOXRJN19ITEtLOFd1SGtJTTVzSlhiODJRcHdlTFNRSkFSTlJUQ1RtSHY0VElvTkZYa01iaWc?oc=5",
-   "fonte": "Estadão",
-   "quando": 1795250498.0,
-   "categoria": "estado",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima",
-    "transito"
-   ],
-   "pontos": 7,
-   "hora": "21/11 05:41",
-   "foto": "99d7fb5392f9.jpg",
-   "credito": "Foto: Estadão",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.estadao.com.br/em-alta/sao-paulo/chuva-forte-sp-estado-de-atencao-npr/"
   },
   {
    "titulo": "CHUVA FORTE NESTA SEXTA-FEIRA EM CAMPO LIMPO PAULISTA - Facebook",
@@ -303,6 +303,26 @@
    "foto_tamanho": "1280x720",
    "foto_qualidade": "hd",
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/lojas-de-sorocaba-oferecem-descontos-de-ate-60-em-black-friday-antecipada-15268594.ghtml"
+  },
+  {
+   "titulo": "Tatuí Basquete vence Assis e sai na frente na disputa final do Campeonato Paulista - G1",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQYlRXX2x4RVJUNnJlTXJoVmJiSnFFVWhtcmRGUEdnVXVWSlJEUWhKaTdfNjlpNUQwNzQ4SW9BVXlDbUJ1dG03MFhCdzVMaEdCNzJOQ0RMeTMxbmZmTF9IYjhIdGM4OTRlT0duOHZRTjlVMVpHWkNBWEo1MmZrQU1XVjJ5RE96VU1kOWptSEVlU1dzYlJkRW56SDVaQXpSbG5nT2JOaURhaHZCcmJpNkU0WmJndGV6QUx3czlsQUc1cE84WXoydXVaQ1RzSG4xN1NLNTJ5UWNFZ1hEMmt1Z3JoR2FOQV94bTFpajFJMEhfVFlJUXlVWktkTWNUVTBJU1NKNGJn0gGSAkFVX3lxTE9DVlQ2ZTg1dmk3eHAwVVc1ZWViWTFPY3M1eTVqa3p0VmprWXcwd2JqbkpFSHR5c0ZoVjNNdjlIOVpVT2ZLVWVscS1fMEpxV0NXSG5DejFzbTlRZ3F4N1l5UWVoV1ZEUk1PWmhGN0NZZHNjQWowMTdoRlZZLXRtX09YOWVRajNJNnVoQTFzRU1UQllUbV9KX1N4QTE2SWw2YlBCdzFzbGMwZmlTUkwzQ2lScVd1MlZGc3M2SkdQSVk0X01MY1U3ZFZiRE1oSWpKZER3ZEV2RmJnT3VKNHdSU09faE5KUy1IYUNBTkRCSnBhaUNILWJwVnFsMVBTZHZyLTZNVVQ1aENZazFBQUZaVjdia2c?oc=5",
+   "fonte": "G1",
+   "quando": 1795215758.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "20/11 20:02",
+   "foto": "baa9458a689d.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/tatui-basquete-vence-assis-e-sai-na-frente-na-disputa-final-do-campeonato-paulista-15268596.ghtml"
   },
   {
    "titulo": "'Marcha da Consciência Negra' comanda programação do feriado em Jundiaí - G1",
@@ -471,6 +491,28 @@
    "materia_url": "https://poptvweb.com.br/motorista-de-empresa-de-jarinu-e-sequestrado-durante-roubo-de-caminhao-na-fernao-dias/"
   },
   {
+   "titulo": "Pedágio da Estrada do Feijão terá reajuste de 4,64%; tarifa para carros sobe para R$ 23,20 - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTlN2ZXlkbnkyeGxKVjhwSEtfUjJUVWdROXFiS2FwQU5ZRk5pRm4wNWlrRklTN0RfZlpWMUNXakh5WFB4OVRGdE12UHNXREV3YzhQeTBQZnlOVW1uWms5MkxLQml2NkstZW5GVkNUei1fNXZJTTlMb1RlVzdaR0tuSFVROVI0QnUybjhFZkN0aF9Eel83MU5ITW1sN2p0Y0p5Tm9JT2trc2h2dlRneHVkVi1FdnFBaGVKc00xOHJmcC1YQTREcTA2TGF0MjRxSU1GODhTMVczMmYzQl8zRFBEZVBwdjFkRGJ1Zi1TaGdRZWphdUdVdzhILdIBhwJBVV95cUxOVU9PTEtuWFdGSEllcU5KY0ZjbVhEcTc2YXZkS0JjWmVaMDhxMGNqZU52TUZiRTVCMTBLTUdMNjN4Z2ZCcm5ReklqZ1A0NUdzZlRKOEFtTTlEUDU1SWMteDl2UWJGN2RacUdUa3dFaUhBY29RVktEMW5VakdwbVVkT2tpbUdrbTVnNHROQ016R2dPNXh1Ri1iNTJFaDJCRms2WjBuaTNxQno0b1Z0STJ1SmFZa25wRE9BY3ZLWEd4bThNckw4N3hGa0tENWJGN00zNnFfVXhyZjFTVXE0MTNEUXowMlJZdXBUMTY0Yzg3QXB3MnpCZTk4N2J2a1ktOVNGd0pZZGdBQQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795209356.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "20/11 18:15",
+   "foto": "b4aa67196d05.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1599x899",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/20/pedagio-da-estrada-do-feijao-tera-reajuste-de-464percent-tarifa-para-carros-sobe-para-r-2320.ghtml"
+  },
+  {
    "titulo": "Morre menino de 11 anos que teve corpo incendiado por colega em Campo Grande - G1",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVlGSVlrRUM1aURrRzNWSGhBZ19kcWtTcmt2VWZ3ZnRHM3NoczVwVFhiYzE4YkhvWmhEVWxMR1NKWlhKaDVaYWJXN0tSNEFVN1lyZHpTSlQxQzNnNThtbVZMMzhPc09Ja2E4VGxBcllXRWRRTGFIclpkcUdSbDdmOTBDUEZyWlNkSFp2LU5XTEgwZ2d0Vl9uQWNUV0NlY2lsQWhwSDFjamg3NWttWFh3U2JKSFV5UzR6SXB4MEtaMHlBMzVDaGY5ZTcwU0Z5WVZ5cGk1eVg3X0V6cGRY0gHrAUFVX3lxTE5PRXhYM0xJR1ZOTllPY1h2d0FOTUtrcGpxNW1kZU5DOGFReGJwZF9JNFRGWUhnU3hDWU01VU0wazZEMkE1VGkxdnNQekw1anZQdFZIX0V2RXVWbkpSdVlNRzdIeHZ6RkVfRFVTR2NxRTZudmhnclF0Tk1TSW9vZDFFcnBUZE1tUHVRSHZsZkl4N0dRWC1MQzFEZ2pnSTJxVnFJUDlveTg4TXJEb1l3QUd1TDNfb2FUWGM0MTBLYkdFY0xQZ082V3FMdVo0RUlkdlJNYmx6THAxS0tLNVRvLWtsU0htY2ZoR1BlUDA?oc=5",
    "fonte": "G1",
@@ -504,13 +546,7 @@
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "20/11 18:03",
-   "foto": "5028bc46e208.jpg",
-   "credito": "Foto: poptvweb.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1284x1253",
-   "foto_qualidade": "hd",
-   "materia_url": "https://poptvweb.com.br/homem-morre-apos-passar-mal-em-clinica-clandestina-para-idosos-o-responsavel-foi-preso-pela-pm/"
+   "hora": "20/11 18:03"
   },
   {
    "titulo": "Defesa Civil alerta para chuvas fortes no interior de SP durante o feriado prolongado - G1",
@@ -526,13 +562,7 @@
     "clima"
    ],
    "pontos": 7,
-   "hora": "20/11 18:02",
-   "foto": "6b6ce5fb0bc1.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x960",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/20/defesa-civil-alerta-para-chuvas-fortes-no-interior-de-sp-durante-o-feriado-prolongado.ghtml"
+   "hora": "20/11 18:02"
   },
   {
    "titulo": "Ministro de Lula vai a Tupanciretã após temporal no Rio Grande do Sul - CartaCapital",
@@ -598,6 +628,52 @@
    ],
    "pontos": 7,
    "hora": "20/11 16:47"
+  },
+  {
+   "titulo": "DESPEDIDAS - 21.11.26 - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94Nk5hUW5kRHVFVlR0aEpIQ3Bhd1VkVzRvZGw3UDhoY2xtZjV1Y0kxd2N3STl4U19EYnRLX0lZcDFhQ1lZLUs3ZjZoSElPXzFicW5PWEhrUHBSOUJaZWc?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1795256768.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "21/11 07:26"
+  },
+  {
+   "titulo": "Rio Claro tem sábado (21) de calor com pancadas de chuva e possibilidade de temporais - Grupo Rio Claro, São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkxHSmwtMExha05hMlk4cEFqcS00V1FfZW8xNXJvNmFaX1VOSzIzMUJrQXR0MkpRUHU5MzI0eXo1NEdDY0EtMTN6TW1lM2FwbF9aVDdyLTcwN3o4VVJxM0xCQWg2Mi04N1dPWFVaMkFFdXFWVHdVMFJXZU5SUjlEeTlRdXF3dlhUWHpHd01VVHJZRG4zbnFXNkpPRVFWVkdabHloQl9hTklnSFYwXzgzYUs5TnF5d1dlOTg2dmNPN2VHcHc?oc=5",
+   "fonte": "Grupo Rio Claro, São Paulo",
+   "quando": 1795255547.0,
+   "categoria": "estado",
+   "fontes": [
+    "Grupo Rio Claro, São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "21/11 07:05"
+  },
+  {
+   "titulo": "Comissão do Senado aprova ajuda da União para elaborar plano diretor - Terra Brasil Notícias",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDlQblNmMFhyTjU0bURyU1J0d0NmNjlWSGt4bXFBSzBxUFVOTFVlaTVYWk9lbHlSUjVtNlpYRUx6UjQzd3M1TUpQVVNsMVNZczdEQlV6QjNQVURfMVdsQ2E3RUVoLTgtREFLSThHbEh1OUpYcnJ3MWJ0UkpNNlBGWFUtNTRTVHVlbVpQUG5iUXMzRkNFY0lPdDQwQlVuOWxlc3o4Vm1FRk9obi1WTVE?oc=5",
+   "fonte": "Terra Brasil Notícias",
+   "quando": 1795254060.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra Brasil Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 06:41"
   },
   {
    "titulo": "Ajuste fiscal de R$ 50 bi expõe protagonismo de Davi Alcolumbre nas negociações do governo no Senado - Blog do BG",
@@ -712,22 +788,6 @@
    "hora": "21/11 04:34"
   },
   {
-   "titulo": "Papel de Alcolumbre na votação do ajuste fiscal amplia dependência de Lula - Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDRsamZnU3Z5c2pYdGNOaHktOXFCLTFpQ2dRd0FCSDlJdnNLMXNtcFBZcTAyM01xeFF2c2VjZ29FVGplQ1hORURNQ3hlcjMyOTVHc212M3pJei0xd3YyVl9vOWdaT21LSldzQWRta2htcnN5NVF3Mm9HX3NITWtZRE5XOXJDUXRHa29SdVFDcU8tVEZ4QVloc3VPdS1wTE9yeDB5XzhKNklPVUtY?oc=5",
-   "fonte": "Metrópoles",
-   "quando": 1795246200.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Metrópoles"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 04:30"
-  },
-  {
    "titulo": "Câmara envia ao Senado projeto que revoga Lei de Alienação Parental - Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0tLNkpwU0FaaWdBMmhMTVJ1TGRQWkdlZjcxbFZtX3FlLTNoY1k4cHZyZWY5NEIzNnBDdjRSQ1NHU0JkMFh5SXd5d0gzaklabEJPNDV3NUNwWkJ1VjFsUlBPTEo3ckRfbXh1NjNCT3pUcUtnem1zb2h6N1B0QTc4czN0akstQXJjRmRqSjA3THhrYzVOZml6SF9MYmFKX1F4NHk0Q0RnbHdjZ2JnbGhjRVBidWE0WnZu?oc=5",
    "fonte": "Folha de S.Paulo",
@@ -742,20 +802,6 @@
    ],
    "pontos": 5,
    "hora": "21/11 04:00"
-  },
-  {
-   "titulo": "Menino de 11 anos morre após mais de três meses de tratamento por queimaduras - Jornal Pequeno",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeV9kZjhwOWlpR2NBSGpybWZQYWtDV3g3blhaTUFWRkVyMWRJUlZnejdtZGtGQzRlOTl0eXdadlNhR0M2aWF1cjVpNFF6QlV2NkxHMDJONVFzd2xXYUhaOTBHS0otQnZQNmFmcTBtcFkzZ0RHQ2dhbmtVaWY0UDZBR29ZZjR0cTZ2b1EzcXZqaWRXemFYM3ZlYmhsakFiZ2tXUkRRdFhmVUMtQlVhQ0tXR05vUGRuaHQzVUE?oc=5",
-   "fonte": "Jornal Pequeno",
-   "quando": 1795241846.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Jornal Pequeno"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "21/11 03:17"
   },
   {
    "titulo": "Pedágio de São Carlos fica mais caro a partir de segunda-feira; tarifa sobe para R$ 8,20 - São Carlos no Toque - São Carlos no Toque",
@@ -804,22 +850,6 @@
    ],
    "pontos": 5,
    "hora": "21/11 01:19"
-  },
-  {
-   "titulo": "Governo Lula já prepara nova onda de cortes - Diário Causa Operária",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGR4RlE4NDMzUlh4d1cyWS1oLXUwU3BFeUtYcUVjbTJXSUFWcjZYTGpJcWVXM244aUQ4ekotM0xJSFhXanpVSFVWTHA1THhXZmlhNDZ0UkRSeTloMXpnVlE1UDludkRVQ1pGY0dEY1NvWUQyNThnREg3ZWhLdE5DbHFtMXM?oc=5",
-   "fonte": "Diário Causa Operária",
-   "quando": 1795234729.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Diário Causa Operária"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 01:18"
   },
   {
    "titulo": "Novos pedágios e congestionamentos preocupam usuários da Rota Mogiana - Estradas",
@@ -902,6 +932,22 @@
    "hora": "21/11 00:01"
   },
   {
+   "titulo": "Governo Lula já prepara nova onda de cortes - Diário Causa Operária",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGR4RlE4NDMzUlh4d1cyWS1oLXUwU3BFeUtYcUVjbTJXSUFWcjZYTGpJcWVXM244aUQ4ekotM0xJSFhXanpVSFVWTHA1THhXZmlhNDZ0UkRSeTloMXpnVlE1UDludkRVQ1pGY0dEY1NvWUQyNThnREg3ZWhLdE5DbHFtMXM?oc=5",
+   "fonte": "Diário Causa Operária",
+   "quando": 1795230028.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário Causa Operária"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 00:00"
+  },
+  {
    "titulo": "Defesa Civil emite 33 alertas de chuva em São Paulo e monitora risco de temporais - YacoNews",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONktzM0dfeGlEYUdXeG9WejZ0TlNWTTFWX1ZCb1loYk5tOWVuNFFwMFRucXRPMkRRMmhuVnlLYnYxa2tZdFNzekw0MC1xWjRCWEhldjFQSW9NSXRwZzF3M1JJYUJvMkc2V2hram9teEdUSUlyOG1yRjUxb0ZQYUg1UG55WFU?oc=5",
    "fonte": "YacoNews",
@@ -916,20 +962,6 @@
    ],
    "pontos": 5,
    "hora": "20/11 23:03"
-  },
-  {
-   "titulo": "Morador da região de Goioerê morre ao sofrer queda de altura – VEJA COMO FOI - Goionews",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2hnOXhjMVpxdlU0dWJLQ0Y4MTF0SEdsSlRQbkJyVnJHU1lTUE1WdVpnaWxPSlhQbzBkeUM4M3MtanJUNzN5ZFFHbWFXdUwxcHNabW8tUlA4a1VNVlljbjVYRUQxVmpMM1NxTlBIczdZekFJTFg2SnA3bHozb3VwbmJBSG5Wb1BsVm9hRnVGUG1lbFg4WXZ1X2JPaFlFSm5tZFlwMEo0dmZNTy1HUHhuc0ZB?oc=5",
-   "fonte": "Goionews",
-   "quando": 1795226502.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Goionews"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "20/11 23:01"
   },
   {
    "titulo": "Chuva coloca zonas de São Paulo e Marginal Tietê em atenção - Diário do Centro do Mundo",
@@ -962,6 +994,20 @@
    ],
    "pontos": 5,
    "hora": "20/11 22:17"
+  },
+  {
+   "titulo": "Tempestade atinge cidades do Vale do Paraíba e causa alagamentos em Lorena e Aparecida nesta sexta - G1",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTzRXdXc5WFlDcDJFRkUzRmx0NU9kTXppd09mQ1NOc2lJMjcwaU12amxvSXdpOUNsX01wekswZV9VOEVvVlhQa1BiSl8welhuQXgtclhIMEtQbGF0VTNZUndqbkVJZGJPS09Ma3RXQVVYcmt3cm5oVFpnaGlJVVVLSWxBR2pYVXRyekJ4ZTUwTDdhaFlTWlNUVVFVMXZtZzhKSzlZaXMxUFplLVVfb21wUUJrZUFyaFNNWVdsMjhiTTRsUlRFNUZYUXBFX3cwUXF0R1U3LUNRYkV0WGZMVmFNSGt4elhiQmJFN2QxcEFmazFPZFVVMW9qQXY5TmM2U25iVU45bTRsZ9IBlgJBVV95cUxNSVBnYXQwTXQyQXc0T2dsYkRmMENONEhjMnJZdTRpSzFnLTNDN2s2VUU5UUdJNmJnRGd1NmJ6cXFwSWJkeFpkOEVpMkN6WXBPOVIzLVgzcDdFallueXYtY2JlLWJlS3NRSGlPZUV0OEo2Tkx6QjhlcDJfZUtFQjhwS1ZZbnBNeGtHeTEybnYwdElVOHB3SUFQUkFmODZxcWRMRktvbEY1UG5SOGFHUFNiX1JRck5pT1M2a3pWZXRJcm96di1UT1Bzb1dteVVwc3dwZWtXMDdHQk9YbVc2TWFIaVAzYlcyeldJOWF6eFMtTkRvQVB2MTEwSko3SUJjYktEQzZzdHJLc3l5MDlyaUtvN3pUYkh1UQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795221882.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "20/11 21:44"
   },
   {
    "titulo": "Defesa Civil alerta para chuvas fortes em SP; domingo terá maior risco de temporais - Diário de São Paulo",
@@ -1042,52 +1088,6 @@
    ],
    "pontos": 5,
    "hora": "20/11 20:36"
-  },
-  {
-   "titulo": "NOTA À IMPRENSA — FESTIVAL CONSCIÊNCIA NEGRA - Prefeitura de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXFVOFZWVWtvSnRMZlF1VW82dGtmdnp2bVF0UFNrUXRtZDd3bHZ2V2xSdy1WMlliSm5ZN09OaTR5ejhPUUxCajBRWnpzeGs3Zk50NnhubGtOZTB5TlJnOXZNMG5YNGNTTUEyZHl1eHNhWUdNVjBGcGxmVHAtb0dUVzROcVhwdm5wa0UtN1JhNHhLSDBTaW5oUEtjSEc3Z2N6SHUtOE83N1hkU0RrZDhiaQ?oc=5",
-   "fonte": "Prefeitura de São Paulo",
-   "quando": 1795216245.0,
-   "categoria": "estado",
-   "fontes": [
-    "Prefeitura de São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "20/11 20:10"
-  },
-  {
-   "titulo": "Defesa Civil alerta para chuvas intensas em várias regiões de SP no feriado prolongado - sentidohorario.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzJQbnQ2ZkY1alRzNlh4Q0F0Wmh0ZU9xaEV3Z2VkaEpCdlduVVJGWUFOcFpmSXBmWWFKd3Y2emRYTTB2ZnRmV0dURUdQOTI5RDY1MWx2ekRUc3U2UUFzcDN2bmJzMW9HZ2ZFOWwyS3VxVkhDdFBrS3ZKM09rYVIxMi1WRVVLeGRGeHY2aVgtR0VhYzRNSFc5VkY5UmRKZjd4RlRNWi1QQzYwN0ktc0dwbkFXQU1BeERL?oc=5",
-   "fonte": "sentidohorario.com.br",
-   "quando": 1795215983.0,
-   "categoria": "estado",
-   "fontes": [
-    "sentidohorario.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "20/11 20:06"
-  },
-  {
-   "titulo": "PSD recorre ao STF por 2º turno no Rio e pede suspensão da diplomação - Prensa Mercosur",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2hESWN5emxCa1JTeFA5Um9Zc3FYMHZMUWxucmZSWDdBTFN5TEZVZDVSNGM1NjZoUXhnMGtXdTBYcWhsRWE4SWZLM2RKX1hXaUV6RlJsc0R1eDM3aGZmTUhKTDRuZE5XMG5fMWJGZkNSMEhaX1pEVFJSbWpWZkhJTVkxY0N5RXJNQjNWZTV3Y1JmVTdEVmFsdGoyTFV1Q0dyWlVYOVp2dXJXUE1M?oc=5",
-   "fonte": "Prensa Mercosur",
-   "quando": 1795215588.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Prensa Mercosur"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "20/11 19:59"
   }
  ]
 }
