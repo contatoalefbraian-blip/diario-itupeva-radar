@@ -1,7 +1,109 @@
 {
- "gerado": "21/11/2026 11:31",
+ "gerado": "21/11/2026 12:27",
  "desde": "21/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "Polícia Civil investiga morte de homem encontrado em clínica clandestina de idosos em Campo Limpo Paulista - G1",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb3BGVlNZM2ZUdW1NeEFMRVpJdERHMVJPdXRmVVppVHlxT3pwcjRhdjhqT1dVcjZxS2FIMjloTkd0MDZCNER6Ukp1Mk9JTFVFd0JEdEduTjlNM3RIZURtcFROaU9fWDFqbGhTNzk0d2c1TzRHS05NeUtTb1UtMHplU1VvWU00TENDbjd6V3FFeDhKeS1XYVg3YzNNSWdqTUY2R1VCWVVtcVZ5ZjFrNm50UjBDdUtoWmdQMEMwY1NmMDFVYmxHYmlUZXdYX3YxQTNIUFQ0Z2NxblFYckswMjZhczVONWpoV256LVpLTkI3NklOSlMzZDFGb2dXMHhUTkdTeWfSAZACQVVfeXFMT2NucmR1amx3VnVPWnVzdldwSGEySGdMNnZSdFUteHJONEJJSkJpNGZMLWprX0tLSlBpWjhSbEtRSGpOZ2hIN05mQXNHaldiSmdYNHdkbHNNQlNFcXg0NGxnLUVXakpLVE5DUmF5WElDZjhuaDgzcTZYZ3dIT0lBcThUbjZDRE4zdi0zTEZpdGxMaWNJNmw0aGs0TVFTSzhWMWVUbmFMdG9jMDV1N2otdTBjeG1mWVVwbVFJZ25zYmRsUlBjalQ2eWZQRldfSHdpT3duV0FqLUFVemNMRXB0ZVVQRVBZQ2t6RmY4R094YUl4TThZUEpqV1UzSkxObzc0RkhZUzg4d2hETzhsb19BX00?oc=5",
+   "fonte": "G1",
+   "quando": 1795271828.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 14,
+   "hora": "21/11 11:37",
+   "foto": "889c3f38886e.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x700",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/21/policia-civil-investiga-morte-de-homem-encontrado-em-clinica-clandestina-de-idosos-em-campo-limpo-paulista.ghtml"
+  },
+  {
+   "titulo": "O presidente da Câmara Municipal de Itupeva, vereador Marcão Marchi, oficializou ... - Instagram",
+   "link": "https://www.instagram.com/p/DgAQEVbltPf/",
+   "fonte": "instagram.com",
+   "quando": 1795268784.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "instagram.com"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura"
+   ],
+   "pontos": 9,
+   "hora": "21/11 10:46",
+   "foto": "51b2d03dd214.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "JJ: GM prende homem com 115 porções de drogas na Vila Municipal - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTC1MYTA0S243OWhrQnZndThxbjV3a2FUVURxa3FhWU9GZWJQMENBb3ZmSS1TMkVUOXE2ZF83VHE4TnpuT0w1VnpSYWFJZ1luN2VTa0RFTHF4LVc0b0tNZFl6VUFKUUNxZGZROENRYjU3bEhEMFcwbTg5eUNxVTJTM01jd1hCYnVjbjlLeEZxblQ1RS1Ib2MxQlMxYjFrZGJnLXNEVzZaWFVoTWsyQUZlM3hlaFh1bS1JSGZZRTBn?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795271473.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "21/11 11:31",
+   "foto": "83d2cf4b60df.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3020224/policia/2026/11/gm-prende-homem-com-115-porcoes-de-drogas-na-vila-municipal"
+  },
+  {
+   "titulo": "Programa 'Óculos do Futuro' beneficia 160 alunos da rede municipal de Itupeva O ... - Instagram",
+   "link": "https://www.instagram.com/p/DgAYKELl9qi/",
+   "fonte": "instagram.com",
+   "quando": 1795271136.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "instagram.com"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "21/11 11:25",
+   "foto": "6d0165b8e491.jpg",
+   "credito": "Imagem ilustrativa: Colégio São Luís / Wikimedia Commons (Public domain)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1024x690"
+  },
+  {
+   "titulo": "Mulher é presa pela Polícia Penal ao tentar levar maconha para o companheiro no CDP de Jundiaí - poptvweb.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlU4R0JIWU85MjNRR1VNcDdGSEtTbjNadlVCMUlPa2FRcWRhVzg0S1JXNFo0ZGxFbEtNWHZXb2hZMXFjNC1yekRyRzN6WEw0V2t4NDB5T3dWUGVhcHpYNmlmMDdqS2hJam5tN05FOTdaSy03dHZoVXZzTkQzbUJTODFSczhNcmZTZU4tajBWOURaS1ZkS2NpbktRRGI1SkgtSUFYY19BY1k5cXFyVHpNZUtrVzNYUjZ6M1Rz?oc=5",
+   "fonte": "poptvweb.com.br",
+   "quando": 1795269081.0,
+   "categoria": "regiao",
+   "fontes": [
+    "poptvweb.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "21/11 10:51",
+   "foto": "c88851145fe8.jpg",
+   "credito": "Foto: poptvweb.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x963",
+   "foto_qualidade": "hd",
+   "materia_url": "https://poptvweb.com.br/mulher-e-presa-pela-policia-penal-ao-tentar-levar-maconha-para-o-companheiro-no-cdp-de-jundiai/"
+  },
   {
    "titulo": "Programa ‘Óculos do Futuro’ beneficia 160 alunos da rede municipal de Itupeva - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmJYcUlmc3RtUndrMUJINWFJTmlvRFFJYkt2VFlkcTN2MEk1VmZGLVB0VXVNemR6bWpTcDVDVXN6ZjBBYndiU3BsdzU5TkNWc2tIcmIzVnZUcEUtT240NHJlMmNoTGNoX1lfdmRocllGSkgxY1JWV0RxYUZtRmJSZGJQRDhDT2JpSUNXY1BNOGFWaUdT?oc=5",
@@ -41,6 +143,346 @@
    "foto_tamanho": "1200x800",
    "foto_qualidade": "media",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3020211/regiao/2026/11/defesa-civil-monitora-chuvas-e-emite-11-alertas-em-todo-o-estado"
+  },
+  {
+   "titulo": "Lula defende ajuste fiscal e diz que não aceitará pressão do mercado financeiro - Exame",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLURPQk5YUDlnMG5ZMnJTcTJ3SGFnR3ZmbmV5UC1nV2dJeEcxdWRoUFl6ZXhlblRKUXZxdDZJMFhBamVJS0RwYmEzOHg1VEwxMGNuQmc1ekFuRHM1dEhBQWR4b3dBb0UxNWY2NTF6REFaU2k5MGxuLUk4dDFVMW1WMGk4cnJYLXFzTGR2WEFrYkI2UkJYcGlkQ21lRHA4am94TFZFMmNZSGE?oc=5",
+   "fonte": "Exame",
+   "quando": 1795274343.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Exame"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:19",
+   "foto": "f52e31c8b027.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Free flow: veja onde estão os pedágios eletrônicos no litoral de São Paulo - Folha do ABC",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazZXeTBVQjhXeS00ZFAwT3k2aEx5SmdwaHZsT3JmV01JQWY1cEJMdjAxdGpsNExXdS0tRG1uT2VSV1VDWG1KajJFRzgxdmo3eFdPRnFPU0wxZDB5aTdZdGppdXpjX29hMnE3ODI3R1dTdWdFMkdtajZNeFNHSXd0b2hadFBubGZlbWd6dmhkWG9DX1RjMGFrTHRQQkx5UXJxb3c?oc=5",
+   "fonte": "Folha do ABC",
+   "quando": 1795274198.0,
+   "categoria": "estado",
+   "fontes": [
+    "Folha do ABC"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:16",
+   "foto": "d23b23cb6c4a.jpg",
+   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x873"
+  },
+  {
+   "titulo": "Lula ataca 'yuppies da Faria Lima' e diz que mercado financeiro não vai ensiná-lo a governar - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNjRyUGdVT0VfSXhqdUVHa29YeVRXWXVLX1VzNTR1dXZZWU9UeWpJSFdkOU5WcENrNVVTSklhTVI0Z0tyZWFoMmUtMS12YzVoWFdqYV9Sd3RSMm5fYVE2c2gxY1h4TExjd0wzSG1CS1lpcjdpX0tvZFNnQVRZNldYSUJxdG9mMF9VU0E5Z2dHNVhyT1RNcG5NdkZ0X09IZkk5bTlHLUd1Ti1hMERNWWVvMGh6bm9rSVZzUnd5U1FZcTVmSFVQbzZkQ3pQMC1vUDNBcTNqcXhfa2Y0QQ?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795274040.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Folha de S.Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:14",
+   "foto": "5ba2d828d473.jpg",
+   "credito": "Foto: Folha de S.Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1024x682",
+   "foto_qualidade": "media",
+   "materia_url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml"
+  },
+  {
+   "titulo": "Lula faz live com André Janones para detalhar planos e defesa de direitos - Diário Carioca",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzVyVEs4RVF1Q2ROckpDMEphQW9Sb2ROZW1mNHBiV0VSa3loeEpMQThNeV83UTF2UkxtU0NlczBaazdkMkp4Ml9saTlJOWphdXZ4d19selJTX29ZdXBiZW0yXy1VaXNPSzZBeTZQWGRuS1dyRWFWME82aWNfVUtTV0tuWF9OVnhuYlFhQ0xwTEFZZ0hYTnk0S01rNzkzQQ?oc=5",
+   "fonte": "Diário Carioca",
+   "quando": 1795273950.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário Carioca"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:12",
+   "foto": "9cdccfaf5afe.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Lula presta solidariedade e garante esforços após estragos em Tupanciretã - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXB4UUlscFZFWlBiUGI0VG1UNkNvZzlGdEFydzFFRzNzX0Q0ZGpOMnRoTlpDamRtcWdLQjNzT3ppWk9xc0EtQUJEWVNoNjA3dTZvRndjZHdzYm5CalhLV1B4YzZiZDhuYVd2cnBiZktWcHI2VWhFU0V0NGNrQnJGc2xCaHJiOGNDV0tNcTBoUDNCeXVsZ284Nld6emY2ZWxtRDNGSGJGZ0pUaUVYQXNtdWNn?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1795273901.0,
+   "categoria": "brasil",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:11",
+   "foto": "9fe814b67825.jpg",
+   "credito": "Foto: CNN Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.cnnbrasil.com.br/politica/lula-presta-solidariedade-e-garante-esforcos-apos-estragos-em-tupancireta/"
+  },
+  {
+   "titulo": "Lula chama projeto fiscal de ajuste para 2027 e descarta cortes em programas sociais - Rádio Metrópole",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaEhpR0t1VzBTVkVOSjg1dWFHSlM1SWpPWVFyUFBGdEdlT3ZTLV9UakJHWHhTWTdFb21RSEJiLWVNTXA5SnpIWVg5bUZtMXc3QU9sTTBvS0Z6cUM2Z2g3YTdabHhUNFFvZDlKaVVBcGhxUEtMTmJOcXBqREpDeFExeG9TQlFQNlN3cVo0S0RDUzdidTN0YThKU2R4SzkyZ1hhelBtNUo4OTFPaU1GajVKc0w2bUJsZ1J2Uy04ZFl0SW5Tb2pLWkhfWlRvOWp2bzIw?oc=5",
+   "fonte": "Rádio Metrópole",
+   "quando": 1795273860.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Rádio Metrópole"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:11",
+   "foto": "12a6c287fc06.jpg",
+   "credito": "Foto: Rádio Metrópole",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x752",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.metro1.com.br/noticias/politica/191741,lula-chama-projeto-fiscal-de-ajuste-para-2027-e-descarta-cortes-em-programas-sociais"
+  },
+  {
+   "titulo": "Ajuste fiscal: Lula defende Moretti e critica 'gritaria' de parte da esquerda e de 'yuppies da Faria Lima' - Money Times",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODBmVWp3MF9XLUFzUE5nLXdLOEM5QXFxNE9zSnBncVMteHpRRUJJNWRsbTNSMnZudVJsWWtKRkljaERITUEwcjMyVzNqNER0R2NZTGlJbjk1MVU4UlBreDNzTUR3UGNReERSSVVlaC1WUmpmOUVrY2pOdThCY1JaN3FIQktUZS1pU1B1SGlobmFDaklSNk5wLUU1elRJVWhJdFBXREpWc1RiMUJVWG4yZEN5Uy0yWFhYTEZmLUtBUGsxaUQ5cVE4eWVKcTA?oc=5",
+   "fonte": "Money Times",
+   "quando": 1795273860.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Money Times"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:11",
+   "foto": "884685a0a732.jpg",
+   "credito": "Foto: Money Times",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1200",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/"
+  },
+  {
+   "titulo": "Pacote fiscal de Lula: presidente rebate críticas e defende medidas - WSCOM",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDMxMndiMVNUZUJoTmVpa1JXUncwbjdtaFM4TFRoTWdCUmZVLWNxWHVsdkdPSFlxWWZuY3VJd1docEdWSWVwTlBESWU4cVUtTWw5dlFPcjludWxnTUs3T3dRX0Z2ODFXUjk5b2I3Y0FsemtTYTJZUGdNRjdpZ0JudFJCUUs0ZVNRUTBLZV81ZDVkbkppZ1lrSWxqdExqWmZROXduMUdB?oc=5",
+   "fonte": "WSCOM",
+   "quando": 1795273766.0,
+   "categoria": "brasil",
+   "fontes": [
+    "WSCOM"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:09",
+   "foto": "132db64aa04f.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
+  },
+  {
+   "titulo": "Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti - Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPanRXc1NXUlJ2bkZwMjdxaS1YVVlUbWptdU1LZUFEZXVDQXdHeEFvYlJSdmtMSklWQl9oMXI2UEE4SFJFMjJnNzM4bURpUUtzNG5qcFctQU1JaWdRNjRTMHN4N3BKMGUwekZNQWplc0FzOV9JOTM1cTJCalhoSTJHU0tpZ1Vvc1QxeU1URXlqYmZaMEJBRkFuNjBWZUwzM29nR19xb2J5LVJuSGtuQi1mV1FIcmZ3eUdlR0dNSW05Wklpc29tUTl3V091RFFtN055VFRkT2NoSkdUbDBpSk9kd0ZmVk_SAfMBQVVfeXFMTVVuNmNFekdacUREWmM4MTFReWVWQnQxMFRhZ21jd2IydjFCTWtNZXEwZ1lRbVNPYlNqa3hkQ25ja0ZnemdDNnhBc3hHSzhRY094a1JMcHl3UHB2WlNEbi1jQ3h6Q0RpWXhDTF9Ub091SU9TLTE5b2N0dkhnMFJxaG0xeUppaTVJN3RxQWJlSHpRSXdvNXBVc0xXUFEzdTRIRG5TWTBEVEZMb2NZY0g3XzBtdmtCWWJ5RkpvN1VMY3lOZ1dxT2VpR0dsRWY1WXJVQVBfVTVTZmw2R05YalJRRXZVX20zQ2phMmdVVUJVR3lUT3RJ?oc=5",
+   "fonte": "Valor Econômico",
+   "quando": 1795273678.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Valor Econômico"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:07",
+   "foto": "68c5488465da.jpg",
+   "credito": "Foto: Valor Econômico",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x702",
+   "foto_qualidade": "media",
+   "materia_url": "https://valor.globo.com/politica/noticia/2026/11/21/lula-rebate-crticas-ao-ajuste-fiscal-diz-que-no-far-cortes-em-educao-e-sade-e-elogia-moretti.ghtml"
+  },
+  {
+   "titulo": "Lula rebate críticas ao pacote fiscal: “Não vou tirar dos pobres\" - A TARDE",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2ZYV2NITEdQQVNmY2pXVHlrTTB4eTJWUFFndEJLbFc1VVl3M09JNE1pdkZJOG1GYXdNMGlPaEtnb3p0blAtMTNoUzN2NEJVZGVnMEtBQkNGN2JDMzlhbUlIU205ak10Y2ZvaVZJejJyb01URmFGaEZReEE4WmEybmN0V3l1MGdvZDJqbTFLenRsQUd0MExRX0E5Vm9PVjFDUmpB0gGrAUFVX3lxTE41X3NYaXRqbC1USV94M2dEZTJzSzAwRWw1eExHMm1QVlpmbTl0NUdyZk42ek5wZzZDZTdlQ3o1d3p4Mkw2UENrQjNwVnRtWUg4bC1PT1dwNkJQMmhiQ3pwUTRfejhMY0tyVkJKNVl6TjRSS2JLaTM2YVA3ZmF1dEVTV2dVb1BGNmVPUmZFcEpNTDlNQWJiSnJRYnM2aFhLeDZtOFhvRlRhQXd4WQ?oc=5",
+   "fonte": "A TARDE",
+   "quando": 1795273657.0,
+   "categoria": "brasil",
+   "fontes": [
+    "A TARDE"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:07",
+   "foto": "1f14bc707300.jpg",
+   "credito": "Foto: A TARDE",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x869",
+   "foto_qualidade": "hd",
+   "materia_url": "https://atarde.com.br/politica/lula-rebate-criticas-ao-pacote-fiscal-nao-vou-tirar-dos-pobres-1410219"
+  },
+  {
+   "titulo": "Lula anuncia estratégia de comunicação direta para evitar interpretações da imprensa - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV00tVDQ3S1dCNk5iSG1JWWlkTVNDNlMxMFMxR2NPbkM4bDdPYldQSGxuRDZwelZ3eGNmSDljRmhEV0JMem11dHFkSG9OVzBnUHpiVVBBWTF0ZlFGSW9jWU5FbHFKREtBdHRTZjhLaFhXZGhXdTFlSkl5am5DNGVXQll0ZzFDVUNGN2xyamQxTVJHdkFnZS1zcXRRSnF6VXNTZzV2TE5sOU5pUnV5Q2diOFA3ZFNuUXNtTXJsbTN6V1pISXBBU1hvSXh3?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1795273494.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 12:04",
+   "foto": "3a8c53482516.jpg",
+   "credito": "Foto: Plantão Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x819",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164778-lula-anuncia-estrategia-de-comunicacao-direta-para-evitar-interpretacoes-da-imprensa"
+  },
+  {
+   "titulo": "Guarda Municipal de Jundiaí reforça segurança no Fazenda Grande contra tráfico e poluição sonora - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVNkT3FVRkVPTzc1d3NmU0YtTHBkNkhNUmVhOGtzUkV5ODlxaG5BWEtBR0NCY093QTYyNERGMkd0NWlPdlJTTGhab040N2FFTVRDSWlMZTBkVnJnN0lfNGdNc1RSVlhaTlB5QVhVSHBMT2YyX2o1NWQ3NVZDRVJqdVNYTkZ4RUNmUXJHaHd2UVE3Zw?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795273458.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "21/11 12:04",
+   "foto": "0119f26de376.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-jundiai-fazenda-grande/"
+  },
+  {
+   "titulo": "Ação no STF pode alterar três cadeiras do Paraná na Câmara dos Deputados - P1 News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTy04M3Q4RDRIRVZ4blVxZWxDWnUyc1Bodi01aUlYWDRaZHlpZEw3S3hmSlJrU1YxMW9tclFTQ2ZfblhVTFBYbklwd3N3SGtiRnVsTzZTZTRzTlFtYnV2MC05dTFUcHdvc2FnMkx4aXNfTUs3QkFGTnFzTlIwd0VkbHhqMmtFWTRXcTB2SnQ0bTRlQWNtdldUaU50YlZuMGZBd05FR1FDYw?oc=5",
+   "fonte": "P1 News",
+   "quando": 1795273115.0,
+   "categoria": "brasil",
+   "fontes": [
+    "P1 News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 11:58",
+   "foto": "bd82745bde1d.jpg",
+   "credito": "Foto: P1 News",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1131",
+   "foto_qualidade": "hd",
+   "materia_url": "https://p1news.com.br/destaque/acao-no-stf-pode-alterar-tres-cadeiras-do-parana-na-camara-dos-deputados/"
+  },
+  {
+   "titulo": "Lula rebate fake news sobre ajuste fiscal e defende controle do orçamento - Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lFSC0yWEtOYmloZnFNeDNfWlFZUjc2WXBjVTZfVmJRUll4d0xlWXc2ZWtGb2g3T2NmMXVEMHVfRThpTEk4d09QWFU0eXFJcnJUMzk4azhqcVJ6T0R5S3FtbzhOU0xXelU5Z1ZQY3pYZW0yZ1ZGMUJwVnZzb2ZNU0hYN2NERXNuSkI1Q3o0SmpNekVfRDExWFVnR3kyakwxWmVJUUJGZmdKbnByTVBSRldCZERYbnpGSkxV?oc=5",
+   "fonte": "Plantão Brasil",
+   "quando": 1795272882.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Plantão Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 11:54",
+   "foto": "eea114677c9d.jpg",
+   "credito": "Foto: Plantão Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x642",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.plantaobrasil.net/noticias/164775-lula-rebate-fake-news-sobre-ajuste-fiscal-e-defende-controle-do-orcamento"
+  },
+  {
+   "titulo": "Lula defende pacote fiscal do governo e diz que Faria Lima está preocupada em 'ganhar mais dinheiro' - Terra",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMWt6UlozRkpOTmNiaTV6cWtoWGpYY0UydzdrcnUzaG90QUFzc3A3TlNlMlQxc25JNWZRZWlpanBqRjZuZFFqbzBSLWZrYnNINVl3V2pabTBfbGlYLUVsSk9INWJNTXhfbU1ieHNJMVd5a1ZQdnAyUVlDMjJXOU1yNjQ0Rm55SWZucTkyazE3NzhSeHBNbDFNa2gxWmpabVIzaFV6M2N0cXZSSFp0b2NoVDlNb2xiSzV0cGRUclY2TW0xMElycXQ3WWNoMzlPMk1pVGRmcUVoX1NtbTdEV016Q1MxQnNMbTJsdGFVc1lsdFBDRjV0dVJVZWhlRHVQTWM5Tm9jU2lHS2dmNUFNZHJ5UTZ0RGJCZUJFYS1NN0E3WQ?oc=5",
+   "fonte": "Terra",
+   "quando": 1795272540.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 11:49",
+   "foto": "b780f8cc031f.jpg",
+   "credito": "Foto: Terra",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.terra.com.br/noticias/brasil/politica/lula-defende-pacote-fiscal-do-governo-e-diz-que-faria-lima-esta-preocupada-em-ganhar-mais-dinheiro,29dfa58a31ee71fb5ec4fa5dd61bf94f67qg44ck.html"
+  },
+  {
+   "titulo": "Caravana da Coca-Cola sai hoje às 18h30 do Assaí em Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFI3d2hKY1hFS0hCUFZzZThidDIxcndhVURxVkVxeWVRVWhtSHpTVkZMMXVkUGpOeXBrcVNNWmFRVUZITW9vZ2N5bXpUSXRZS2hYNTJvR0xYaW8xWXlodkl6MHdkUUtMREJHbVh4NWZFVDAwRktRTDZsS1NlVTg2dGdkNHYtOE16d1VfMk5kdjZjbXJ0VWJ3bk0wdnFyb25ZNldOY0N2ZDI3cUtIcXRHbnBFcjNCOVI0c29WQ3QxZkFKUQ?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795271974.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "21/11 11:39",
+   "foto": "93c8a6d209c2.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3020225/jundiai/2026/11/caravana-da-cocacola-sai-hoje-as-18h30-do-assai-em-jundiai"
   },
   {
    "titulo": "Criança morre após ter corpo incendiado por colega de 12 anos - Massa.com.br",
@@ -83,26 +525,20 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/21/safra-de-30-mil-toneladas-marca-contagem-regressiva-para-a-festa-da-uva-de-jundiai-2027/"
   },
   {
-   "titulo": "Trump ameaça multar empresas de tecnologia que construírem centros de dados fora dos EUA - MT HOJE",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR0JXSEtLT3h3MFJwS2p4NVloVXdJOGhsM2ZMRFh3QnJGWEhlVUdieW15dGs1NWpEc0xnX2JQT3VmOHVod3I5b05ZcXBHemVNcW53OFlXbG1OZVNxdmVlZWJrRUpJVmhDaTFJWHZBZ0NBS2pTOXQ4ZDZTSGVzVVZlUC1wMHlOVkJIWkNIRUpCbGRKenFiUnJMSDF1QzV6QXNmSGpvNWxFRkpVN1cwRXdfY3JUajV1SVZ2enBLems1eVlubEZXMmc2VThR?oc=5",
-   "fonte": "MT HOJE",
+   "titulo": "Trump ameaça multar empresas de tecnologia que construírem centros de dados fora dos EUA - bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGRiYWJESEY3NWcwQ1ZwbkN1b19YeXJBRXdDMVE5MGJrc25KODVON0JKS2oxNzdrc1hmR3pKTVBOX0RGbDE1SUZXakhLeVR1RjBSZ3U3MU93OGpjdC04dExUOERrckJmYVhtVHVqckJPVnhvOHpVVGk3d1ZQMXU1OWNzZ0ZuMk9uM1hUMDFqbVpZMlZ0dmpQdHNLUENhTEV5ZFN1UWJoMmpoaEpQeDFKVXpMTXZ2SnRzS2d3eG51V2YzWWd3aEVF?oc=5",
+   "fonte": "bra1.com.br",
    "quando": 1795270860.0,
    "categoria": "brasil",
    "fontes": [
-    "MT HOJE"
+    "bra1.com.br"
    ],
    "urgente": false,
    "assuntos": [
     "seguranca"
    ],
    "pontos": 5,
-   "hora": "21/11 11:21",
-   "foto": "a32411920d7f.jpg",
-   "credito": "Foto: MT HOJE",
-   "foto_tipo": "materia",
-   "foto_tamanho": "500x281",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://www.mthoje.com.br/geral/id-730034/trump_ameaca_multar_empresas_de_tecnologia_que_construirem_centros_de_dados_fora_dos_eua"
+   "hora": "21/11 11:21"
   },
   {
    "titulo": "Destaque do Corinthians vira alvo do Vasco - Tribuna de Jundiaí",
@@ -116,19 +552,13 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "21/11 11:19",
-   "foto": "df8bc87e0083.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1807",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/destaque-do-corinthians-vira-alvo-do-vasco/"
+   "hora": "21/11 11:19"
   },
   {
    "titulo": "Pedágio sem cancela na Anchieta–Imigrantes começa em dezembro. Veja o que muda na descida, na volta e no pagamento - Diário do Transporte",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLXVXZzFqWVdHLXk0UjNUcHF5VVZmdDJTUjdCT3ZkNEpicHRxZUYzeGdlZ29OV2N1M1RIY3JUYURoeTUwdG9vX0drd1h2cUhJWmtYZXBwcFFlWW9SQVIyQ2N4cGJuejdKY1E1S194Vk5GRUtBeFdHODJ2al9BOXI4MkM1N21pT3pQZHdwZGs0X0xDRVZfeXl2V0RBN3RxaWRxVUN2Q2pLUDBwVEdhMjFucHNYbjBXTkl1NzJUMGRWZU9zU0NqZUM3VjdnaG1CVjJxd2hfc3AwTk43RXBOZnVuamZnR245Y2dWU0d2WlFHVdIB9AFBVV95cUxQYXF2WW9HcWpPWGxtb2ozRUxCWGR2QlUwSjYyNWNtQXQ0U2o2Y2ZrWUEwRTFjUHF1SmgwZF9aX1pVWnM3VTZQN2Y0cTVKMU50dVdIR0UzRl9VTGs1cWpRLUR0RlJsTlhzNzVjXzlJWUVfVWZnMTBjMUFTVjlRRHQyRHRjY3pDZUlZZW8yUE5KV2E4UWpsMlNZVHJFM2xkUi11VkV5Z0c3Q0ZrVDlDV25LTkFWSUoxcDZTX1Z4dEh6U2Q2Q2hBWE9GTjBvLTktdnZ2ZE9pc1BLbW5PVjlxUV81SExkZVhqczdpZzg0M3o4OGFZVjdX?oc=5",
    "fonte": "Diário do Transporte",
-   "quando": 1795269825.0,
+   "quando": 1795270328.0,
    "categoria": "estado",
    "fontes": [
     "Diário do Transporte"
@@ -138,13 +568,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "21/11 11:03",
-   "foto": "3adc9ee5360d.jpg",
-   "credito": "Foto: Diário do Transporte",
-   "foto_tipo": "materia",
-   "foto_tamanho": "419x279",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://diariodotransporte.com.br/2026/11/21/pedagio-sem-cancela-na-anchieta-imigrantes-comeca-em-dezembro-veja-o-que-muda-na-descida-na-volta-e-no-pagamento/"
+   "hora": "21/11 11:12"
   },
   {
    "titulo": "Receita Federal abre o código da calculadora de imposto - Diolinux",
@@ -160,13 +584,49 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "21/11 11:00",
-   "foto": "35a96edc80b3.jpg",
-   "credito": "Foto: Diolinux",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://diolinux.com.br/noticias/calculadora-reforma-tributaria-github.html"
+   "hora": "21/11 11:00"
+  },
+  {
+   "titulo": "Travessias hídricas em SP: Concessionária inicia transição e inclui Pix nas formas de pagamento - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ1ZZY2lzelkwdUJZSGZrT3IxcmUyT01zT1hRTC05NW1jSWd2bTlCcnFpejU0LXdfcHFDdUR0RkVidk55Q25ObGE2NVVwSHpiRnRSaGgwaEJsTGVPeGhSQlBaMHA5Qi1WNVk5b0xfb2s2N0k4OU8wMlhSc0RkX2ZGZlJqZlZFQXIwYVNrWWRtRHFxRnVLUEItXy03TG9ZOTNSM3BfNmpBaUtIX1RzWnVWdFhLbXJOM0RaZ001bWExbWJqNG1NcW9hdGhzS1BYWHB2dGx2dFV3WndlNDRQandTbTU4QQ?oc=5",
+   "fonte": "Estadão",
+   "quando": 1795273200.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "21/11 12:00"
+  },
+  {
+   "titulo": "Temporais provocam alagamentos e danos em imóveis no estado de SP - Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHJsUk9oY0RuWmU1QVIxSDN3NVBWTTE4b29ZOFh6SmdRcXNURWxabUtadkNzTXZxUy1CbkhYT1ZGc2RvR056OHRrVEpVV0lsTnV0RTRfSlVwYlV0eG1VMkdHTkRaSFRBWDk1cF9qTF92VjF5TVh1aXNZWjk0QzFPdFoxdGQ5ZkdndXBkbHNoMmJRVXZtX19HdzhtQ2U2RXE0b0xUVlN6WDdfdzVoNDVuRUlFWDAwb3dWMlhhZkE3SEI0YVFVT3JZ?oc=5",
+   "fonte": "Agência Brasil",
+   "quando": 1795272600.0,
+   "categoria": "estado",
+   "fontes": [
+    "Agência Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "21/11 11:50"
+  },
+  {
+   "titulo": "Câncer de boca: lesões que persistem por mais de 10 dias devem ser investigadas, alerta especialista - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfdXFLVmotNUJySjRqLUpEa1hfWTYyQjN4NlJIbVFLZGY3VU5leWtfbGo5NDJrUm1vWnNuRUlyNkxVVlFmamdnQXJnODEzdFRVQktlLXdSanZnNTk0R2tNeU8yX0QwdWdRSmdaR01vOTVKSTZBU1NiZVVRdW1EQQ?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795272360.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "21/11 11:46"
   },
   {
    "titulo": "Mais de 10 mil mulheres já receberam auxílio-aluguel em SP; veja como funciona - Costa Norte",
@@ -180,13 +640,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "21/11 11:21",
-   "foto": "67e74c74097c.jpg",
-   "credito": "Foto: Costa Norte",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x450",
-   "foto_qualidade": "media",
-   "materia_url": "https://costanorte.com.br/cidades/mais-de-10-mil-mulheres-ja-receberam-auxilio-aluguel-em-sp-veja-como-funciona.html"
+   "hora": "21/11 11:21"
   },
   {
    "titulo": "Dengue já soma 45 mortes em SP; estado prepara semana de combate ao mosquito - Costa Norte",
@@ -200,13 +654,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "21/11 11:09",
-   "foto": "dc0aaca21e42.jpg",
-   "credito": "Foto: Costa Norte",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x450",
-   "foto_qualidade": "media",
-   "materia_url": "https://costanorte.com.br/cidades/dengue-ja-soma-45-mortes-em-sp-estado-prepara-semana-de-combate-ao-mosquito.html"
+   "hora": "21/11 11:09"
   }
  ]
 }
