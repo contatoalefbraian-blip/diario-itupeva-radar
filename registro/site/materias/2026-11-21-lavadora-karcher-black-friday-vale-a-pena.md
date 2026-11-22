@@ -1,7 +1,7 @@
 ---
 titulo: "Lavadora de alta pressão Kärcher cai para R$ 282 na Black Friday: vale a pena?"
 subtitulo: "Modelo Prática Black tem nota 4,7 e mais de 1,6 mil avaliações, mas vale conferir a voltagem antes de comprar"
-data: 2026-11-22T10:00:00-03:00
+data: 2026-11-21T23:15:00-03:00
 editoria: Tecnologia
 cidade: Geral
 urgente: false
