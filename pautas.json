@@ -1,5 +1,5 @@
 {
- "gerado": "21/11/2026 23:27",
+ "gerado": "22/11/2026 00:23",
  "desde": "21/11/2026 16:35",
  "pautas": [
   {
@@ -45,6 +45,50 @@
    "foto_tamanho": "405x720",
    "foto_qualidade": "media",
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/produtor-rural-perde-quase-400-litros-de-leite-por-falta-de-energia-eletrica-em-itarare-15270243.ghtml"
+  },
+  {
+   "titulo": "Produtor rural perde quase 400 litros de leite por falta de energia elétrica em Itararé - G1",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMlZnamFEOFdkSHdNYVRwWjJrU05uUE53QXVLVnI1SkNEN1NKMHlycFRET2ZST1h3OVFtY01SRmlsMGxIREZQQzhfdU91eEVrTGpvZWhuWWpBeFhyak05clFZaENqTktqSW1qdlVLM0pZM1BMVjFCbjR2VnhrUFFyVHctbW9VM01iQU1TdzU5dDh3VVBmeE1Rc3p3ZG1KVmlacy1yeVNFQWE0VzJXVHJRZklvd3JNYnFqTm9aTW5EdE0yeGY0Y3d0eDd5Q1l5S1JqWVo1cUZ4ZGI1RDhXZ2lISVJQWdIB8gFBVV95cUxQekwwTW44TzFXeWtlZnZJTl9CLWw2U3lNX3VTbERMeEhZU0p0VlQ0bzlrb0ltMmhSaUhYYmFMNVZNUkdzTTEwNmozWDI2YzVYRV9leWJNNmNzbFduT2phdUpVLVdoclBPNEdSQVhoSUVpUVVxTW11VV94UkdWeHNwcDJKOElyWXVLNENxRFRUdzlneXpraHAxV2FFTkxfQ0ZMR1hCWFBQajNhRlhSZ2JTZVZBX2dpcEFucF9KcXZCQnRMNkFwd19lVUk5OFpXVzI3czR3RkpJQkpLN0w0Ukwxa2RTQWxPXzF0UWFoTHJtUDlwZw?oc=5",
+   "fonte": "G1",
+   "quando": 1795296402.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "21/11 18:26",
+   "foto": "5e195c2a4659.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/produtor-rural-perde-quase-400-litros-de-leite-por-falta-de-energia-eletrica-em-itarare-15270243.ghtml"
+  },
+  {
+   "titulo": "Após temporal que deixou 5 mortos, moradores e voluntários começam a reconstruir Tupanciretã (RS) - G1",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRk5KcmtycXQwVGcyNFVDaUM3clFpd0RkQ3VyQVlDY0hxZGdVTF90YjZtak5rdURQNUxjQkFLd3J4ZHJkaUpKdkdyM1BId1Z3OXdxMk9BNG1WTGZxY18zS1RFLU4td1kxVEdDSVR2dlNJT1ZTeWNkaFF5TkQtVFZKc3lndUNWSzJDVHRIclI1Z1hYUV9WejV0MXBqZDBPbHV6TWQtY3J0eFhZZHZrcXRqRDd6aXV5TU1mN2hWWU1kTmduMjFNeTREWWNLSVlDd3hVcmtBd3NtOWI5Y0dWbDNYUlBiQngwNGlNbXJFV3RZYkI2cmNoYXJj0gGGAkFVX3lxTE0zRFk0SG1WdG9nYk5fd3lIOWdlOHdULWtyVzVuQzBZemRBS2NtNWNWTUh2YWw1VU82endZa3NjdkdCRDVDQUtJY0htMFNfM3hrVHh2QU42dnEzNjRPZUNwRkRIVVAxTnU0TS1rZDJITEd6Yk1Ec0ZPTFE3NWRoVFNoS1N5MmZHY3FjcVdvUm1PODYteXZvd3d0amNEZ2Y0YlB5LUw0MWlISlVvR2hRZU1rN2ltZ1lMeHVFZ1JJZ3c0VmhHdldIVzRhR3Q0X0dUc2RXSXJVYjBydU1vZ0RKQ3oteWFLTVpQMjcycGxGSHk2ZWlKajFnb1BEaXl4X09KeTFSVnFyZWc?oc=5",
+   "fonte": "G1",
+   "quando": 1795305522.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 7,
+   "hora": "21/11 20:58",
+   "foto": "d079d8850fd4.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/temporal-deixa-5-mortos-e-mais-de-8-mil-imoveis-atingidos-em-tupancireta-rs-cidade-comeca-reconstrucao.ghtml"
   },
   {
    "titulo": "Homem é preso após agredir companheira e ameaçar matar filha dela, que estava grávida - poptvweb.com.br",
@@ -237,6 +281,72 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/varzea-paulista/consultas-exames-varzea-paulista/"
   },
   {
+   "titulo": "Pedágio na Estrada do Feijão (BA-052) terá reajuste de 4,64% - Estradas",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzY3WVEzSVRJNktqZ0N5NkhxSTlzVEVhRnpBLVc4dWxETVlyR2g5VVFDZml1NlNjZ3poSEpXNmZoczk2b3R6ZTBabjBTUXRGelV1UzEyM1dZcFJYQi14R2UxOHE3ZkxNY1ZhSktrSkltR1hSQ0kwSGRVdVFJaUhENDlnNmk2eVdE?oc=5",
+   "fonte": "Estradas",
+   "quando": 1795317138.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estradas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "22/11 00:12",
+   "foto": "5420e7b93719.jpg",
+   "credito": "Foto: Estradas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://estradas.com.br/pedagio-na-estrada-do-feijao-ba-052-tera-reajuste-de-464/"
+  },
+  {
+   "titulo": "Defesa Civil reforça alerta para chuva forte em todo o estado de SP entre domingo (22) e terça-feira (24) - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFBpZ29TTEczVk41MXF6M1Z5NTFGWmcwUWdmdVpHWnUwYlJpUmdSeVRDenJkeUVrU2V6RXJyZGNYaV9EYzdnOEI1VnBtUl9TSE4xZjZEOExiZzJzbHY4cFBFWWVpLTFyZGxPSWZDRG5yazAwc3BnQTFTalZldkRxLVJDQTQ3OGIyN2pJRDZUeWRxbW84OXhVSS1vNTNqcXJVeTVzeTVrTUpfaVdBZnp4OG5Pa0FqN0tMeHYxbUNZamVtcXFpWjUwMG9WSHZ6ZkJPMXlENDZVTXJaZlFva29KSldB?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795315117.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "21/11 23:38",
+   "foto": "01116d882ea2.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-reforca-alerta-para-chuva-forte-em-todo-o-estado-de-sao-paulo-entre-domingo-e-terca-feira/"
+  },
+  {
+   "titulo": "Programa de governo do Lula a partir do próximo ano nem sequer cita a palavra ‘cortes’ - Diário do Poder",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbnZVUlJNSzNmSldRcjFMMzNOM0JWLUlENEFXbE1FUlFJNlluUmVSTm5vZE1uMFp1S3dFWlRBN3hkbW5qOEcwOXhSdURoRktIUWxLQk0zal96cDJ5Q1l5MlpmVkFsNGV0aExzdmxFV2k3Y19tSnhfU2FUZlpZX2pkbFhjSjJQWGpuRjFweHFGM3FCUDF0ZVhSTzllS3Fld1JZODFIcGlMUk9CTWFRR3NhWFlIdG5fUjNGV2RyTXMzNTlSZU1qUDQtZVFMT0NHV1hKQkdj0gHYAUFVX3lxTE5yXzVBTjRkUjUwMzR3REx4bFNmY2FGZl9iVnFMZnI3alVSNzZOX09ETGMyYzFtWTY3NGdQRjhMNWxOQ2Fwa2NpWHRGWXVXeDJmMmVwd3lzcGYzeGNNQzQ0WFBOWWFITmtiUWVEY3JXRlZ1SnFmalNYZFVydWs5WkdmcmFQcGpvVWpKcHpVZTlSU0c2cWdZZktSSnd1VGFMWW9MZFJxN2htTTlEcHpUZllhRXpNN1Z0amc2ek9uTktvanRJTkgtY1p6dEVCRllDT3ZzOUFtM2NVdA?oc=5",
+   "fonte": "Diário do Poder",
+   "quando": 1795314240.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário do Poder"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 23:24",
+   "foto": "7a8479bdd983.jpg",
+   "credito": "Foto: Diário do Poder",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x977",
+   "foto_qualidade": "hd",
+   "materia_url": "https://diariodopoder.com.br/coluna-claudio-humberto/programa-de-governo-do-lula-a-partir-do-proximo-ano-nem-sequer-cita-a-palavra-cortes"
+  },
+  {
    "titulo": "Morador da região de Goioerê morre ao sofrer queda de altura – VEJA COMO FOI - Goionews",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFFzdXV4azc5RmYxdDVTOGlkaXh3b0lFZVg3NVYzSlJEN2l0bm1heE9mWmJwMXZrUURwOG83dTJDV0dla09rVThLWkwwRVZWZmhXS1Qwa2J2bGRWLUtsZ0pxdFBDaEZWak85aXU1czhWVjk0MVVCOVl5VnZNalFNOVZKcFBCVVBxYi1HS3ZnU3h4RVQ0NUY1VUZWR2xEdElsTzhzd01PU1hxLWQ2REpHNklR?oc=5",
    "fonte": "Goionews",
@@ -279,28 +389,6 @@
    "materia_url": "https://www1.folha.uol.com.br/poder/2026/11/entorno-branco-e-masculino-de-lula-dificulta-uma-ministra-negra-no-stf-diz-ex-ministra-do-tse.shtml"
   },
   {
-   "titulo": "Defesa Civil reforça alerta para chuva forte em todo o estado de SP entre domingo (22) e terça-feira (24) - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFBpZ29TTEczVk41MXF6M1Z5NTFGWmcwUWdmdVpHWnUwYlJpUmdSeVRDenJkeUVrU2V6RXJyZGNYaV9EYzdnOEI1VnBtUl9TSE4xZjZEOExiZzJzbHY4cFBFWWVpLTFyZGxPSWZDRG5yazAwc3BnQTFTalZldkRxLVJDQTQ3OGIyN2pJRDZUeWRxbW84OXhVSS1vNTNqcXJVeTVzeTVrTUpfaVdBZnp4OG5Pa0FqN0tMeHYxbUNZamVtcXFpWjUwMG9WSHZ6ZkJPMXlENDZVTXJaZlFva29KSldB?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795312162.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "21/11 22:49",
-   "foto": "01116d882ea2.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-reforca-alerta-para-chuva-forte-em-todo-o-estado-de-sao-paulo-entre-domingo-e-terca-feira/"
-  },
-  {
    "titulo": "Zanin suspende Congresso do Cidadania que decidiria sobre incorporação ao PP - Tribuna do Sertão",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFF2c3FDWXBWNE9TTGlmMU1xNkJWLUVpRlc3azh6UlBxOFJ1My1IMmduLU9PdXBnUmtrWGUxQ1hLMFBKZkhhLWFUY3Q2bjZ4cmt0dGI4RXAxbzFWR0laZnZsS1Nzd2hXM0xySExGd01RUkhIcjBZSDJnWllMRlliOFZueHQ4MlR1LVVxZTc0QllMRlY1eWxiZEp1YVFtWDZTZmlsNHFPS0pMQXRuOXE1RUExREtxbHpLLUNQTlNGcXZIUTNYa0NjMW5KakFMZ1ZQcGtVS2tCQzZYaW1JVFdB?oc=5",
    "fonte": "Tribuna do Sertão",
@@ -323,6 +411,28 @@
    "materia_url": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/21/1027191-zanin-suspende-congresso-do-cidadania-que-decidiria-sobre-incorporacao-ao-pp"
   },
   {
+   "titulo": "Frente fria pode trazer novos temporais ao Norte do RS neste domingo - Correio do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlR5a2c0cEo5bE10aXdjY3lYRHUxOFdnd09aVkNOZng3dlk3NjBvc0laOER6Mzg0bERTalprTFlwOTJwQUxsS21NSE1XZzlCdmF2cDdKczZ0UFhBQUxOTTNhVkh5bkpLSEI2UVNEMS0zYUFrdmFHSTN6cGRuOU5ubExXTW1FYVB4UlJHY2tvM1FWWnlkSlZhM3ZpakhoWGxmQmRYR0QwZWN6Vm1WUHhkU2xZNnpzWmFn?oc=5",
+   "fonte": "Correio do Povo",
+   "quando": 1795309972.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Correio do Povo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "21/11 22:12",
+   "foto": "39844b08e536.jpg",
+   "credito": "Foto: Correio do Povo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "900x471",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.correiodopovo.com.br/tempo/frente-fria-pode-trazer-novos-temporais-ao-norte-do-rs-neste-domingo-1.1766705"
+  },
+  {
    "titulo": "O que a Folha pensa: Salles na Justiça mancha governo Tarcísio - Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXlCVzZUa3lDa2RwUDRlTkI3SFBfekgydWI3X2JxaTBFNzhFRm9RX2tFS2VfNmlMNEV4bTRZc3pJMjh0d1llOVVmNVlPM2psSFRweHdrWTN6VkVsVWpKTmh0Vm44bEgyVUt6cVpOeWdzYUhMdFI3ZkRUZ0ZWcUQ4Q2t6TTJBNHd1QWRHLUJuRUtYZVFFdlh4Uw?oc=5",
    "fonte": "Folha de S.Paulo",
@@ -343,6 +453,72 @@
    "foto_tamanho": "1600x1067",
    "foto_qualidade": "hd",
    "materia_url": "https://www1.folha.uol.com.br/opiniao/2026/11/salles-na-justica-mancha-governo-tarcisio.shtml"
+  },
+  {
+   "titulo": "Haddad defende taxar bilionários durante evento em Paris | Diário do Grande ABC - Notícias e informações - Diário do Grande ABC",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRWlxRHU2SUk5aU9uLXdtSkNjbjVUNk4wSkxoZ2ZPVEVXR2l2U2hRZHltazdoNjhheUw2anBXTzNqSXJOa01FelJkeDBfenlWaVVBNGVNX1ZjMmV6VTZGU3o4aGdvOEdWNnVQOGExMGlfUVRKRVlvQmFEX0NCcWR6X3RqczRZcEFnLTRxY2liV1dBXzJZbGFPakdnZXp6dw?oc=5",
+   "fonte": "Diário do Grande ABC",
+   "quando": 1795308780.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário do Grande ABC"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 21:53",
+   "foto": "05c5ab4cf04f.jpg",
+   "credito": "Foto: Diário do Grande ABC",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x720",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.dgabc.com.br/Noticia/4370090/haddad-defende-taxar-bilionarios-durante-evento-em-paris"
+  },
+  {
+   "titulo": "Zanin suspende congresso do Cidadania sobre fusão com PP - SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2F2V3JkWmpXaHpYaFJLcHNtbUVQRGdYaXZ1ZHRDUkJtU1ZmbENUQ05peWtzbVV0U19PLVZGWFBTNENhVXYxZmJZWXVoM2lkZWYtemxweUJJOXktckZqT3oyUWJTWGNfVzl6ZkVyMUNEUTFvVmxLclR1dFZDenpMX3k3bw?oc=5",
+   "fonte": "SpaceMoney",
+   "quando": 1795307953.0,
+   "categoria": "brasil",
+   "fontes": [
+    "SpaceMoney"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 21:39",
+   "foto": "557cdb581689.jpg",
+   "credito": "Foto: SpaceMoney",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x627",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.spacemoney.com.br/politica/zanin-suspende-congresso-cidadania-pp/"
+  },
+  {
+   "titulo": "Ministro Zanin anula Congresso do Cidadania que previa fusão ao PP - Tribuna do Agreste",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQkh1dV9ZSGlNY2NXZnhBQnZBcEhJbGVLSGVoVXJ0dUNQRGpfeDdLTlc4WDJnYUMwZUhXTV9Yb0Jlc0FZUmpaQWl3Wmo4aDM2T0VUcFdUWmdPN0VBVC1UVGUya3Myblh0YXhMTVYzbmdGWGVrQk83S3BsMUVadnIzRm15c1dBdmNTcXFTdXZtdWR3M1ZidTUwUjNwamZUNnRQeVc1bXFXOWFOV1RNNUFNNnZCZGhEYW4tNEtYbkhSQTgycFFSY1pRNzRB?oc=5",
+   "fonte": "Tribuna do Agreste",
+   "quando": 1795307280.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Tribuna do Agreste"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 21:28",
+   "foto": "a2677666475f.jpg",
+   "credito": "Foto: Tribuna do Agreste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.tribunadoagreste.com.br/politica/2026/11/21/1027231-ministro-zanin-anula-congresso-do-cidadania-que-previa-fusao-ao-pp"
   },
   {
    "titulo": "Abel Ferreira exalta Flamengo e Leonardo Jardim - Tribuna de Jundiaí",
@@ -378,13 +554,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "21/11 20:56",
-   "foto": "dbec3dc4f458.jpg",
-   "credito": "Foto: Estadão",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.estadao.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/"
+   "hora": "21/11 20:56"
   },
   {
    "titulo": "SEGURANÇA PÚBLICA E DIREITOS DAS MULHERES: O DEBATE SOBRE O AUMENTO DOS CASOS DE FEMINICÍDIO NO ESTADO DE SÃO PAULO DURANTE A GESTÃO TARCÍSIO - Grupo Portal de Notícias",
@@ -400,13 +570,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "21/11 20:55",
-   "foto": "0b47c9ddbb18.jpg",
-   "credito": "Foto: Grupo Portal de Notícias",
-   "foto_tipo": "materia",
-   "foto_tamanho": "451x262",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://grupoportaldenoticias.com.br/seguranca-publica-e-direitos-das-mulheres-o-debate-sobre-o-aumento-dos-casos-de-feminicidio-no-estado-de-sao-paulo-durante-a-gestao-tarcisio/"
+   "hora": "21/11 20:55"
   },
   {
    "titulo": "Governo federal anuncia protocolo para combater casamentos infantis - boca.com.br",
@@ -422,13 +586,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "21/11 20:46",
-   "foto": "ce6b59e2d0e5.jpg",
-   "credito": "Foto: boca.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://boca.com.br/justica/governo-anuncia-protocolo-combater-casamentos-infantis"
+   "hora": "21/11 20:46"
   },
   {
    "titulo": "Pedágio da ViaPaulista sobe 4,58%: Guatapará vai a R$ 21,20 - CPG Click Petróleo e Gás",
@@ -444,13 +602,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "21/11 20:40",
-   "foto": "4a596c6ff88c.jpg",
-   "credito": "Foto: CPG Click Petróleo e Gás",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://clickpetroleoegas.com.br/pedagio-viapaulista-reajuste-458-sao-simao-batatais-davila/?utm_source=rss&utm_medium=rss&utm_campaign=pedagio-viapaulista-reajuste-458-sao-simao-batatais-davila"
+   "hora": "21/11 20:40"
   },
   {
    "titulo": "Horóscopo de Aquário hoje, 22/11: um sarau aberto mostra como novas amizades começam com espaço para diferentes formas de participar - Tribuna de Jundiaí",
@@ -464,13 +616,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "21/11 20:30",
-   "foto": "2277517b311b.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/horoscopo/aquario/horoscopo-de-aquario-hoje-22-11-2026/"
+   "hora": "21/11 20:30"
   },
   {
    "titulo": "Horóscopo de Câncer hoje, 22/11: um mural de fotografias antigas aproxima moradores sem apagar a privacidade das famílias - Tribuna de Jundiaí",
@@ -484,13 +630,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "21/11 20:30",
-   "foto": "9e76c1656512.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/horoscopo/cancer/horoscopo-de-cancer-hoje-22-11-2026/"
+   "hora": "21/11 20:30"
   },
   {
    "titulo": "Horóscopo de Touro hoje, 22/11: um aroma familiar lembra o valor de reconhecer gostos próprios e respeitar preferências à mesa - Tribuna de Jundiaí",
@@ -504,13 +644,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "21/11 20:30",
-   "foto": "7cc61e29f742.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/horoscopo/touro/horoscopo-de-touro-hoje-22-11-2026/"
+   "hora": "21/11 20:30"
   },
   {
    "titulo": "Horóscopo de Áries hoje, 22/11: um detalhe histórico encontrado no caminho desperta perguntas e amplia o olhar sobre lugares conhecidos - Tribuna de Jundiaí",
@@ -524,13 +658,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "21/11 20:30",
-   "foto": "16b0f3d13d2c.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/horoscopo/aries/horoscopo-de-aries-hoje-22-11-2026/"
+   "hora": "21/11 20:30"
   },
   {
    "titulo": "Horóscopo de Capricórnio hoje, 22/11: uma batucada improvisada em família revela o prazer de criar sem buscar perfeição - Tribuna de Jundiaí",
@@ -559,6 +687,22 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "21/11 20:30"
+  },
+  {
+   "titulo": "Lula termina 3º mandato sem cumprir promessas feitas em 2022 sobre mudanças estruturais na economia; veja lista - Blog do BG",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjdPczYwMzExQ3YyY2dNam1JZTJWc2NnYXU2LW51Z3BONk1RclViakJiQmZtTlBfdk1SOXFZckZfcDczMTVtODFEbDh0emtWODhjdm9GNTYtaFRCeDVzTE80QXQyLWdTVHpGNGlTUl9oamxBM0M1M05BZkU2WWpwVV9IV2FZTjM2RVBwVnpvemxoQXZOWm9uT3FKQTdvY0xtdkxfUTAxc09vTWpkcmEycjBSOHN3aFVYWmE0dV95Wk5VT0h0SktZRFZDdDJsVEpFTk9IUGl3?oc=5",
+   "fonte": "Blog do BG",
+   "quando": 1795303661.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Blog do BG"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 20:27"
   },
   {
    "titulo": "Lula sanciona lei que torna permanente o Move Brasil com R$ 14,5 bi - Acia Araçatuba",
@@ -600,6 +744,22 @@
    "categoria": "brasil",
    "fontes": [
     "Jornal O Sul"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 20:00"
+  },
+  {
+   "titulo": "Lula defende ajuste fiscal e rebate críticas do mercado - Portal Viu",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaW81dU1mWFNTdnVLTWRGVlEzdlVVXzFOMUEtcnhYRkwtWVpGWnNRU2hveUVTb2FfSXlYY2hFaGhNeDl2V0FGSGRfTDVkcHVuVWVqNnFXZVdrdFhfVGpyVl82VmVNZlpNZ3ZucHdMLVZFTjgzNFY1Z0NBVng3UWs5cm5kNVBZLUhwTDFzY2ZGcV9kRExVemc?oc=5",
+   "fonte": "Portal Viu",
+   "quando": 1795302035.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal Viu"
    ],
    "urgente": false,
    "assuntos": [
@@ -685,6 +845,22 @@
    "hora": "21/11 19:42"
   },
   {
+   "titulo": "STF marca julgamento da Lei da Dosimetria para dezembro - alfinetei.com.br",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGRRM1JUNmFuUU45QVk3MGU5X3lwZzA3aGJ4M0lGNlM0WTNWS3pCMHBzRTVxRnVUaENpTWJQc2gtQ0tDNDZRN1N2UDhXLVU4YWVnNGZTRklQalNiR2hPVFVqR19DYUc4UEY5cndRZ2lKNWVXbXp5a2M3Tnh2cW5CSDBDREpydUpxOFNqNEEwdHYxTUlyNE5fRzlMSjlZUQ?oc=5",
+   "fonte": "alfinetei.com.br",
+   "quando": 1795300758.0,
+   "categoria": "brasil",
+   "fontes": [
+    "alfinetei.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "21/11 19:39"
+  },
+  {
    "titulo": "Projeto no Senado quer limitar a R$ 3,5 mil por ano dedução de despesas médicas no Imposto de Renda - Jornaldiadia",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWFEN3Jua1NyMWhEQ0EydXVkRDZxV195Z0lrLVlfQ05oa21xX3RXM1lMaVZxTmQ0WnRpUEN5MF83ZWpxdXJYblAwTUZKaHZyUnR3U1J4b3dwM0dYUXFyMlREZUprMGJncHNsZWxTcV9GZFhUSV9EYnFMZ09HbG1YNkpDanIzVV82dWp6VTlfSFY3OFFLd3NadU8wSGFTM2tZM0FocS1hakx0UV82dXZsbUdQQ2QwZDVTS2VteURVNElYN1BQ?oc=5",
    "fonte": "Jornaldiadia",
@@ -701,68 +877,6 @@
    "hora": "21/11 19:29"
   },
   {
-   "titulo": "Lula defende ajuste fiscal e rebate críticas do mercado - Portal Viu",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaW81dU1mWFNTdnVLTWRGVlEzdlVVXzFOMUEtcnhYRkwtWVpGWnNRU2hveUVTb2FfSXlYY2hFaGhNeDl2V0FGSGRfTDVkcHVuVWVqNnFXZVdrdFhfVGpyVl82VmVNZlpNZ3ZucHdMLVZFTjgzNFY1Z0NBVng3UWs5cm5kNVBZLUhwTDFzY2ZGcV9kRExVemc?oc=5",
-   "fonte": "Portal Viu",
-   "quando": 1795299525.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal Viu"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 19:18"
-  },
-  {
-   "titulo": "Responsabilidade fiscal começa em casa pelo corte de gastos públicos - Correio dos Municípios",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTnF1c1REdzVIOHBYcnRNZkhRMGgwdEJyaFBEQXVwMDNHUkltU2xBWFEyLXZpTjJ1Y2J5bXhINVlGWmR1TTZxTDl2T0hDeXMweUNMLWNreDBJMXhOY0dJYXgtVEVVV1BESUdWZkJtZHlOXzJCWUhJNFVNWnc0VkktaXNpZ2hQdkdRem5CM2JqemdadjA0bHVMYXlhYzRlMXJEMDFKaVZGNlpfRm9uOGpnRWtoa01pd2xzUmlaZnZTZlZhN2tPSjZzRlkzTnUxdw?oc=5",
-   "fonte": "Correio dos Municípios",
-   "quando": 1795299158.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Correio dos Municípios"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 19:12"
-  },
-  {
-   "titulo": "Brasil disputa liderança da América Latina na atração de data centers - Juruá 24 horas",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmg4YW45bEI2aU1UN2Zfd0hkOUtPZV9GRFhfSHZDTXp0bjY0SHNoLVFzclRZcUpvTWJxdTJUd0xpejJaTGxNOGlIY3JZNE5wWjhRYUNkb2NPOTZ0THVkNW1QVDhxaU1QTGxmS1U2bW5ROWhMT2VGaFZES2tENHV4WVlweFRUc1NLRGJDcHFpQUhjb1dHckN0MWtBVGVLS0NjOE53Zg?oc=5",
-   "fonte": "Juruá 24 horas",
-   "quando": 1795299153.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Juruá 24 horas"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "21/11 19:12"
-  },
-  {
-   "titulo": "Lula anuncia reconhecimento da Terra Indígena Kapôt Nhinore - Portal Viu",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ25xM1JHU196N3Fsbk1DYnVZQUNwdEI0b2hjWVFpZ1g3NmNoV0JOMmNwV3lpZ28zTENzWUpwZXYxeVVNaWxJV3BoaGVXWVN4ZEF6UlNNUlB0RUhtdXJuXzh1QjFDeE9ITG5QM29YM2xtb0dZYmlNaHB5Tm4wYkw5S3p3ZGg1czNqeUhWcmVyZGFCbkR6dGVNNVVPdw?oc=5",
-   "fonte": "Portal Viu",
-   "quando": 1795298969.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal Viu"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 19:09"
-  },
-  {
    "titulo": "Flamengo celebra título com taça de 2025 - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWN2M0ZJdlo0dV9BWHVIQkVyRzFvMU5yV1VTNjEtbzZkMXlpRTNKczYyaFRMbS1nMk1zRTBfUHZKYWV1a0E4TDE0Rmg4b1hadWVsd05WNzd6MTBfUDhObHZ4ZFU0N1RhM2FfcEh3NElxdFlYaVNJVmJHS0lWOTNVWEdleUJKc2pXR2JjYlhpYVI?oc=5",
    "fonte": "Tribuna de Jundiaí",
@@ -775,22 +889,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "21/11 19:06"
-  },
-  {
-   "titulo": "Lula termina 3º mandato sem cumprir promessas feitas em 2022 sobre mudanças estruturais na economia; veja lista - Blog do BG",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjdPczYwMzExQ3YyY2dNam1JZTJWc2NnYXU2LW51Z3BONk1RclViakJiQmZtTlBfdk1SOXFZckZfcDczMTVtODFEbDh0emtWODhjdm9GNTYtaFRCeDVzTE80QXQyLWdTVHpGNGlTUl9oamxBM0M1M05BZkU2WWpwVV9IV2FZTjM2RVBwVnpvemxoQXZOWm9uT3FKQTdvY0xtdkxfUTAxc09vTWpkcmEycjBSOHN3aFVYWmE0dV95Wk5VT0h0SktZRFZDdDJsVEpFTk9IUGl3?oc=5",
-   "fonte": "Blog do BG",
-   "quando": 1795298147.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Blog do BG"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 18:55"
   },
   {
    "titulo": "Pedágio Eletrônico começa a operar no Sistema Anchieta-Imigrantes em dezembro - Repórter Diário",
@@ -809,20 +907,34 @@
    "hora": "21/11 18:52"
   },
   {
-   "titulo": "Zanin suspende congresso do Cidadania convocado para aprovar incorporação ao PP - PAIPEE -",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWtIa0djQVVHMmRwM1VqeG95aGF0QzZLWTh3MEdNMzBacjVYVk1YVS1MeDltUUxCZkdJdXBwMDVqc0gwekh5ajRfQ0FuQW5GSko2aVFxd1JlT0FHWGR2QVpzLS1nVkpkUF9UM0ZSR29RMi1tXy1tRzlpclBTNFdmVXNxUUhaTUxwZm9JX1FOX1Y5ek5ocVVBMHBIZDlLQ0N3cmZyVlZoWHRWQTdGUWx5Q1ZXaw?oc=5",
-   "fonte": "PAIPEE -",
-   "quando": 1795297124.0,
-   "categoria": "brasil",
+   "titulo": "São Carlos fica em atenção para chuva forte - Jornal Primeira Página",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1JscW5vTjZYSzdSZy1pVEM1UzRjdnhqNjBjTjVwTzZIZXdXT09nVThab3VJOG1ScGtjUldxRmJCcm8yMEtvQXAyQ29Wb3N1YkJudVIzdnNLVjhGWXNZcGtrS0tNUUF3WVBsYU9hOXpicUpndml5c3JwWkNaZGdqTDVoS1dxWDZDR3M3bjh3?oc=5",
+   "fonte": "Jornal Primeira Página",
+   "quando": 1795297712.0,
+   "categoria": "estado",
    "fontes": [
-    "PAIPEE -"
+    "Jornal Primeira Página"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "21/11 18:38"
+   "hora": "21/11 18:48"
+  },
+  {
+   "titulo": "Brasil disputa liderança na atração de data centers, diz The Economist - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWFad3RXQVVYY1A3WGdSejJjcFNGeUxPRDAzRVVucU8xNlA2azJmeXkxbkV3OGVMamltaXhmV2xaOS1NNXYxNWFqTWhsNDZDU0Fxalg3YXAxZll6QktiQnpORXo4X0s5Y2NYVmRYYWN2dE5haWVBS1ZmQmFILURNVUFON3RjYUNnYjJZNkRCTTllUFF2dVJibHI0UEEwTndmWUhSVVNWUjB5RkdETUJ0MzFqcUJMVGM5OXlJdGhOcGtUNW8?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1795297418.0,
+   "categoria": "regiao",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "21/11 18:43"
   },
   {
    "titulo": "Defesa Civil alerta para chuva forte, granizo e ventos de até 60 km/h no Vale e Litoral Norte de domingo a terça - MEON",
@@ -871,22 +983,6 @@
    "hora": "21/11 18:21"
   },
   {
-   "titulo": "Lula anuncia visita à UFF para agradecer mobilização de estudantes no segundo turno - Nill Junior",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmxUWHBNOEZraHA5ME82WTFKbWhQRlRneDRWSkV1UFJDeDlKajdWbkYxam5KSWpuOW5DNUFNeDlCU256Y2hYazVVYlZhX0hyM3JQdmdZazM5SmF6cmFHR2FnMDEzVnZCMEczZ1gzUENSWWpJTlJkRXlaX2VPZno3RElCZUJJMERuRC1takxBZHo0R0lQVnFvSHJadlM5cDNRV015Yks5cldfeHEwcWFF?oc=5",
-   "fonte": "Nill Junior",
-   "quando": 1795295632.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Nill Junior"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 18:13"
-  },
-  {
    "titulo": "Defesa Civil reforça alerta para chuva forte em SP de domingo até terça - UOL Notícias",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVndwNXdkVmxzSFBtaF9HZVdWcVUwQ3dnNlFULXJGVU9DXy1OWG0wRm9XOW1PdW1wbVBJUWJlTXU0R1dHa19JbzFWYjRnYjR3STJ4Wkh5Y1dFTmlFd0hPVmlwMjM5NVlJckxiNk12ajlTTVY2eC1CZXdDYjlfUmRCVVJrNmRSaGtENThkUGhReEhvT2NxQ3ZJUjRLWGUxcFFHenRrYUxkZEEyS2NjWlV4U0VSNHZUT3BMWnEzSnJHNWVCcXg2bFBZM1FGUXhXVnZwS0Nr?oc=5",
    "fonte": "UOL Notícias",
@@ -898,22 +994,6 @@
    "urgente": false,
    "assuntos": [
     "clima"
-   ],
-   "pontos": 5,
-   "hora": "21/11 18:10"
-  },
-  {
-   "titulo": "Lula anuncia Janja como coordenadora da cerimônia de posse em 2027 - Correio Braziliense",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmRMRGZlQ3Fxcl9jdVlJYlhZVlRTRnhjX0l3V1VhVm5TMFk1NHNLbzRRSkQ4U0hYVVo4SlptNkYxUmtDWGZjNE0yRXZRN2JWSHpIWlJHT1FLWDQyYWc0RDBzMHJVRE5ndWQxT3BhOHd4NFVYT2I1dHJUTHZPQ1RBSGo5UmJVYUZnY2NPaGtwLVNEUEpKSHVXUThLYUl4eFBHM1YwakVGbjcyMEtwSUwtbVBjTWMxN284clhJVUI2TmhoNXlBZTR4YTFfeFlsNGfSAdQBQVVfeXFMTnVtMGQ0aHE5TWhGeWpxOURWb04yOWk4WWF4QVhNa3ZXa003SGNBRGQ3TTMzS2wxcjlVd29QS1NvZV8wZ0hndXlNVVJxbTlLUnptRnhwQldJWlhTbzExTGc4YzR2dk1ZRnZpOVp5bVB5ZVhOSXhfTWtmSTZRX0hGdW54dXdjand3elhSTnRnVWJvZU5hcVVzS2s0S0c3dXZncF9paTZMaU1SU3MtSG1hOEdhMkZyZGNjcl92bW5OczNHeVJ2Zjg5R21NU2RDaEV1cUpJUjk?oc=5",
-   "fonte": "Correio Braziliense",
-   "quando": 1795295400.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Correio Braziliense"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
    ],
    "pontos": 5,
    "hora": "21/11 18:10"
@@ -979,52 +1059,6 @@
    "hora": "21/11 17:41"
   },
   {
-   "titulo": "STF trava manobra para extinguir Cidadania e absorção pelo PP - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFFISUpwcDhzblM1NFo4RjBrUDFTcFhjNFZLdFVFNjhWeGhLaHJHR1BXRzNBbVNNRHFoeGdGZVMxV0gtdXp5TlJoQ2d1TDIwS2JYbDI1a0h5NkVDaFJwRWs0UW9xeGMwSHJpbm9wQUFoNEptTzhlS0J4YXc1V0pQTnptVXB3SVdBelc2Z3Y1dDVOMTNrRDhjUlhBUlVwSTR4aVVLOXFiN2U1M0k?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1795293282.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 17:34"
-  },
-  {
-   "titulo": "Ex-candidato a vice de Flávio libera projeto que proíbe inquéritos de ofício do STF - O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3pXWXk2UG1DSWQ3Q1pTOFlyb0xSQ0JzbU15alZGYkVibzFuN3BWSUUtem14U0szU3NZaVlZUWZGZ1pXOVI4dkMydmhJU1JXNXo4ajgyN3ktY283NDNmVmZ6T2lMUlBqS1hudzVTb19fNC1RVlFSNnhMemd4MjR3aGlXclozRVVac2NkZ3Y4bEE3WGNBT2ZZM2tuUDBKdGRjS3B4c1JYWVFvY1NhWHBr0gG0AUFVX3lxTE1LcnhlSXc0WWZGV0FERFRMb2pCdUtGUXQ4N1JybXljdGRtak8zd0tUZ2JYNXpTaTNkc0xDY1FjanJwVXJkWXczRnVCOEJNQ3docnJnLTFCdlBoeG13Q0R2TmY5Qk5QaEQ2ZWRaYUhGdmIyREo3UUFLSUh3OFdtWVZuLTJzb2QzcXFfaEV4TTFUNnRTQi1sbzVvQnk4SHlXOWtkRWNZaHRSUTBSZXZNV29FaTh5Mw?oc=5",
-   "fonte": "O Cafezinho",
-   "quando": 1795293000.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O Cafezinho"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "21/11 17:30"
-  },
-  {
-   "titulo": "América Latina caminha a passos largos na construção de ‘data centers’ - Jornal Correio do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVpJWFpuSG5JNGFkcnNhM2UwenZELXdaYTA3OW55ZXozS0JwdFR6OEcwZnpxMU1BeHYzZGRmakpiMGhwSExVVXlMLVZNS1YtamFnbFVIeDJESS11d0dMYklDQmdwYVpCUkljT2ZsZjRxeHFDUDg4azFjX0NRM3hkUzNZQTZNSUplMHhDNUFDSVM0Y284UHYzYw?oc=5",
-   "fonte": "Jornal Correio do Brasil",
-   "quando": 1795291304.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Jornal Correio do Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "21/11 17:01"
-  },
-  {
    "titulo": "Defesa Civil reforça alerta para chuva forte em todo o estado de São Paulo entre domingo e terça-feira - Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTUhXM29rY1lld1BkN1JDdnU0RjBuM2lWSHpSLS1mR3lnN3VPeWtZMlZMM1JIWkhPNmVjNjdONVNXbHdpYmN2ZGVjb2JoMU9KRHZCUE9Ub0l3OWw5dmhMZHBVTHNVMXl6dEt2blVMdU81cmRWM3UwVEQ2ZUxYcVBoN0VyR2hxOHRwSDRxRnM4TzVhWkNqeHRSeTRSMG5sdFA1YWtZRW0wVldjMmMzUG9fOFFnRXpPOFhSQlcwRnVFSTNRNmI3YXFOSUtpMDh5T3ZqSk5lQjZMenA?oc=5",
    "fonte": "Portal VV8",
@@ -1041,22 +1075,6 @@
    "hora": "21/11 16:55"
   },
   {
-   "titulo": "Rodovia Presidente Dutra registra tráfego normal neste sabado (21) - Costa Norte",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMURqY1k1V2w5eEdwR0E1aWNrME5LbFgyYlA5N2lWZmo3WXVNX3VaSXhMaWxMblg4U2FpX2NxVURzVHJhOVBwWW9LbzVFU0tGcXQ2dWxfSzd2cndWRGRTVC11SjItcWFMOHE2QzA5eFl3d3FNTWNRWlllMjRPeUZxYnRZT1BSXy13NVp5d0h2SXBoYlZiemVJQkU2TzRvXzZDTUtPVGZScGp1VDYyZ3ZmaGIwdFdldllU0gG-AUFVX3lxTE1Dc2I1MC1DbDJkenQ1RnF3YlVJSzBuNWZEeFpvQzZkdmkwa19SZjlKQnVMa1VENlBKNFN6RTJ0NkUzLWtHMHpJektuRmllSGNValRvRTZRVzY1c3ZTNU53alhQN2I3eFREWDBydEhiV3NmM09aUDVZWS1taFQ1MTAwcGJrbWFUUEFLWGFwREVJbWxGOEFOMFdDQ19QZXpxazM0cG1NNzJfaHprQTAzT0hyX1daSEhqMm5QUVBKVEE?oc=5",
-   "fonte": "Costa Norte",
-   "quando": 1795290641.0,
-   "categoria": "estado",
-   "fontes": [
-    "Costa Norte"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 5,
-   "hora": "21/11 16:50"
-  },
-  {
    "titulo": "Chuva ganha força em SP no domingo (22) com frente fria; veja previsão - ACidade ON",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkh6UXMySjMzSXlVeXMtNVhEaXQ1R3gwNEpIWGFSbVRkd2lkTi1fUnV3aDZlNHpPbDdnZGtZYnpEZXZCd0hSWWNUOTVZVmpkSmJvUnZPUkhIQmIta2dISVRqUjVvTzhESm9FZ0VCdV8wdnRwb0FCcV9Wc2M2elMzckptYkhBSFlHSHZwYkxxV1JJczhZN1ZEVEMxWk9uT2hUSDltamUxS0hXdmFqcE9SUGRfRVRQaU9vN2c?oc=5",
    "fonte": "ACidade ON",
@@ -1071,20 +1089,6 @@
    ],
    "pontos": 5,
    "hora": "21/11 16:48"
-  },
-  {
-   "titulo": "Mostra EmVelhoSer premia 15 curtas-metragens em São Paulo - Diário Zona Norte",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3VCNDJ6MmstZUg4QzJTVjhES210SFpNLVJXd3lhVEUzZS1hOGlHamRYdlpYS21vdVhoeG9TZW9YeHlJNnlDc3QtbXNmVUJ6QUg4UjBrMXVsN21WMklyVmIwcHJDTDVHMnRPNF9haHJPMTVUWjBDQUIwWEpYeWNNY0Fadjd6MHpyRTdJYjlWemktUjA3bHFlNQ?oc=5",
-   "fonte": "Diário Zona Norte",
-   "quando": 1795312928.0,
-   "categoria": "estado",
-   "fontes": [
-    "Diário Zona Norte"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "21/11 23:02"
   }
  ]
 }
