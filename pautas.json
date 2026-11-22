@@ -1,7 +1,27 @@
 {
- "gerado": "22/11/2026 19:17",
+ "gerado": "22/11/2026 20:14",
  "desde": "22/11/2026 16:35",
  "pautas": [
+  {
+   "titulo": "JJ: Kronos, da GM de Jundiaí, é certificado na busca de desaparecidos - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUJCdG9Tdm1fcE5ZZC1fT044cEs1TEJnQzFLdlh4cjVLbHE5eVhsVWFtX0N2aEFzZWEwZWdCVV9EUlN0ZVJ3MG5SSUxkLXlsX1pjd19ZeTgxNjRqd1lVRU5qc3o0bHdzcEl4WGZ5MWxoMUszQkNVaUxJQ0k2RW9LUnNVTkVtbnZCS08yc1A0LWUxNDhVR192NHJmTWNuYzBtS3oyY1NLNFloam85N3g3bW42WGxvbVJhaVJDWDdyOGxFZmc?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795387500.0,
+   "categoria": "regiao",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 10,
+   "hora": "22/11 19:45",
+   "foto": "b35ca5588531.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3020400/policia/2026/11/kronos-da-gm-de-jundiai-e-certificado-na-busca-de-desaparecidos"
+  },
   {
    "titulo": "São Paulo terá desfalque de peso contra o Botafogo por cláusula - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWhzV3Nod3Y2MWo0LWFxbHU4bXVJLWVVU2tEaWtQWFlSTWM5dWduZEV3TjFDdkR6S05HNEZqYnlxQzlha1JhSzBXbS1mRXk2UE9kZUpjb2dLX21SdERfVVU2bG1qNWhDZWtQM2d2SHk5UTJtVE9NY1BsS0NGa2tKYW5yUXhqOW0xWWVNY3AyZ2x2Skx1Sk1IR2c0ZjNVYmh0SWI0dGZTYVR0eXdubFBB?oc=5",
@@ -23,8 +43,74 @@
    "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-tera-desfalque-de-peso-contra-o-botafogo-por-clausula/"
   },
   {
+   "titulo": "Defesa Civil de Macaé alerta para chuvas intensas e ventos fortes até a noite desta segunda - G1",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMnU3cjdmMVBxZFlqTlpVcUJVSzl3VG5wWWZpT2ZVTFlWMEdubXdNa3Nhc1htYnpNWm1WeERoVFNUOFA2THgxdklXeElDalUxZy1yU3pDR3JvdkJYUlZ2eFJnb0NVZzNfLVZsa0s2YUU5Wk5hekctalU3YnZURll3b1ptRzJmYTNJN2hSd1kzdy04dmNPM050Y2xDSkFDUFplRHowYjdDTTdXRjdqRjJ3RUtELW5ESEhQbFcxNm8tQmVleHUxSzFHbVdFNXhRWTdfUjR6RE45eWJ1Q0lfMjQ1NUQ1NG5XN2hTSk1lbm9B0gH8AUFVX3lxTFBjSkQ5d1M2Z3R5eFIxei1TWkhzN3VCSVpYWmd6a3RGN2dYLTJCd3h4bm9KOEZmUlN4bFBabm1PWmI0d0FHQkdtQXpRZEJZLTNfc2d4OE1DT3lyUkI0aVVNcHgxQXhlVTh5aHktYlFvbVV4dW1CTk9SVzNvYUlsMGEteXR2SnlDTWp1WDJraXpQRWd4X2Z0QUJoeldScHVvRUx0a3NnaEpUdThyek1jcDFJZFlkaW9GNWJiYlQ3aDhtOXhPVGpxZ2tLaE8tYVJFYVJ5RVI0MGJXd1AzNHUyLXZYY3FJbGtkb1lsMzl5dDRFOEQycllFcm95NTg1dA?oc=5",
+   "fonte": "G1",
+   "quando": 1795386805.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 9,
+   "hora": "22/11 19:33",
+   "foto": "7e2dd7b3f568.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1500x1000",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/22/defesa-civil-de-macae-alerta-para-chuvas-intensas-e-ventos-fortes-ate-a-noite-desta-segunda.ghtml"
+  },
+  {
+   "titulo": "Rodovias de SP têm lentidão no retorno do feriado da Consciência Negra - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3Q5b2VjdWgzeGtYaFVmYjlQNmpVbGQ3VmJmWFFCNjhNTmdDVjFPdGpTQ0ZUVWZWaU9RNmp5SllqLUxyamtjeUx5QnVSOTIyQTZTRWFtejE4eHRCeEtVZFFqaWdOa3VDYjI1S3YyUTFxTHRhUXViengwYUJUbFdUN3dyNGQxWWRCVmJFNDhvclNGcVU3NFZoWVY2UTBuU2UzWGc?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1795387048.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "22/11 19:37",
+   "foto": "1d1cef8ddc08.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/22/rodovias-de-sp-tem-lentidao-no-retorno-do-feriado-da-consciencia-negra/"
+  },
+  {
+   "titulo": "VÍDEO: Novas imagens mostram destruição em Tupanciretã após supercélula que deixou 5 mortos no RS - G1",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlRKRUVYaGloUlM1OGhkNTNWMmJBNGRqUkRoZVRxNE93bTFtS0VralhzS01ablBWTE54Vi11V2hOQzJsd0pTSzFCWXFTOXZFMFB1NllpRGNSY2xteEU4Zm12OFB5ZlFoLWVsUmRFeHZ3ODNZMUxzVXB0MVdaWFBLMVBocDdIVTNBTzdLOW9wdDN0dV95VGVZ0gGmAUFVX3lxTE52S0d0WjZaSkVWTEp4aV9FcVBEc1VITUhQRS0xdWJDMUF3NkkzVmgzeWF4cGNiMmwwc19mUFFTc1lIaVEyMzgzeDkyQTRELUloQ3F1UXlFYXdoTGU0M3VGa2FDcUJRR3RZYXN1bjdWTzktelU2aERnblVJbEdxYWcxYzI0X3N6cTVlZ25TNGp0cldDRDBUWnJNd3lzWFh4NEw5V2cwMWc?oc=5",
+   "fonte": "G1",
+   "quando": 1795386926.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "22/11 19:35",
+   "foto": "79e2fc463f97.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/novas-imagens-tupancireta.ghtml"
+  },
+  {
    "titulo": "Motoristas enfrentam trânsito nas estradas de SP durante retorno do feriado da Consciência Negra - G1",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQWt6T0tFYnNaanpTanY3bTBuWk9ZbDJQVjZxTzRXN3l0LWQtcmRpTHdPbS1sLUVsWjJvSThobGsweU02ZVEyaFhWY1M1aWx2eGwxSWs1alllMjVxQzBDd1RaOUctRE5JRkRKazEwbHNOaGlyd2xJV2MtUHFleGREc2NjampCZGpQQ0dKVFpfTG9JanFMTVhObXNnNjE0cG1lbGl1UEdTR1hzNjM5YXpWZTYxR0lhSXgtanhHcXd4MkdZMFJLS0xoSDFBSTZkcTZvbnhETy0tM3A3c1A3M2NMMWZRSEZtOGdrRW9LbjlvdjhXXzRyd0NDeHBSdmNIYVXSAf8BQVVfeXFMUEFrek9LRWJzWmp6U2p2N20wblpPWWwyUFY2cU80Vzd5dC1kLXJkaUx3T20tbC1FbFoyb0k4aGxrMHlNNmVRMmhYVmNTNWlsdnhsMUlrNWpZZTI1cUMwQ3dUWjlHLUROSUZESmsxMGxzTmhpcndsSVdjLVBxZXhkRHNjY2pqQmRqUENHSlRaX0xvSWpxTE1YTm1zZzYxNHBtZWxpdVBHU0dYczYzOWF6VmU2MUdJYUl4LWp4R3F3eDJHWTBSS0tMaEgxQUk2ZHE2b254RE8tLTNwN3NQNzNjTDFmUUhGbThna0VvS245b3Y4V180cndDQ3hwUnZjSGFV?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnR5WkZBamxYUGd6TmxnUk1tLW9KRDZYNXlpRGV2Q01GSXdGaUVCdm9udTRHbGl2UjBaZDhkMG9YaFVnUmRYOVFoTHMtU2lGZTB0Yjl0U0hQUnlFOFZRcHpETjRGZ1RLbHlWQVdjMWdITVpYVU1mc0pUdmNHOHZRWlpjTzYwNC1PMF83OEV1UEJya25IZ3pqeG9JTnFJcDVmVUFlSkZZdVB0TTZyS0diOUYtcUo2MmRrR0tOYk96X01nQ3lXOWg2U1oxWkh1U3pyMzRHeFlOemkzUzRXaENZTzI4NjJDVzZDV3Bsc3RpTFHSAf8BQVVfeXFMUEFrek9LRWJzWmp6U2p2N20wblpPWWwyUFY2cU80Vzd5dC1kLXJkaUx3T20tbC1FbFoyb0k4aGxrMHlNNmVRMmhYVmNTNWlsdnhsMUlrNWpZZTI1cUMwQ3dUWjlHLUROSUZESmsxMGxzTmhpcndsSVdjLVBxZXhkRHNjY2pqQmRqUENHSlRaX0xvSWpxTE1YTm1zZzYxNHBtZWxpdVBHU0dYczYzOWF6VmU2MUdJYUl4LWp4R3F3eDJHWTBSS0tMaEgxQUk2ZHE2b254RE8tLTNwN3NQNzNjTDFmUUhGbThna0VvS245b3Y4V180cndDQ3hwUnZjSGFV?oc=5",
    "fonte": "G1",
    "quando": 1795382724.0,
    "categoria": "estado",
@@ -85,6 +171,26 @@
    "materia_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos-defesa-civil-emite-alerta-severo.ghtml"
   },
   {
+   "titulo": "Presenteada com patins na infância, moradora de Bauru adota cartas nos Correios - G1",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcGJhZ1c4SEpvTUdNV08yNXFRcHRNX0RNS2stZ010SzYtM0NPdXVxelllNVl3TlVfWkROQjI4TE5nX0RjaGN3dzQtaFIzV05rc3lyUlF5WHdRQjBGcWZ1Rm9Sdi12QllCUTR4d2R0YVNIU0hYS0c3Mk9CLURDNTFuOFQ5X2k2WElKTlNPMWhYS0FaV01JLUlaZVgyMkxxTWlUbG45bmxFeGJRLU9MWTRRamVHYmlFdGxVUnVDNDIzY1B4cGF0TUFxUVdrUGF2TGFZaEVYVGFfONIB5gFBVV95cUxQaWRZU1J1X2QtdjZmZlNUaFh3aXZTUWFrd0FNNWhudHpvb0VOeXY2MVRFUkc1SF95Mi03WDdKclp1N3BXOVd6RHBqRkZpWGFkdUdVYVQ5S2lIZ3hNT2FwejlWaEhnWDc0TTVOeDdzNkUyTFpDa08xb2ZkX3c2dGhhWWkxWDY1b1VBS1plUUxkRm5vbndxa2IzZ3FJUHpBVTNIQjU2LWFxWG9YRXhtbWFBTHNnLWo5VkZEbnFzc3ZFQzZSZUtrNHJwZXF5R1dqczJZRHJqSXpscmNqTzBaUGZLWmhxUkdtUQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795381638.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "22/11 18:07",
+   "foto": "d79d4840c8ae.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/presenteada-com-patins-na-infancia-moradora-de-bauru-adota-cartas-nos-correios-15271482.ghtml"
+  },
+  {
    "titulo": "Gabarito Concurso Câmara de Jarinu: Veja o Resultado e Consulta - Portal PNE",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USHdyTGwzMGFKRnNPdWw0RkNRVVZOWklBM2FLXzIyT0p1NldUMVBubl95VGpLNXRXNGpZUGhsU1JkeEVLMEIxXzFuZVJkTTVOU1h4UWxXNWo0YjRXejBjWE1XUHp1V251clFiMW5yUlI4Y2xrbnc?oc=5",
    "fonte": "Portal PNE",
@@ -105,28 +211,6 @@
    "foto_tamanho": "1200x675",
    "foto_qualidade": "media",
    "materia_url": "https://portalpne.com/noticia/gabarito-concurso-camara-jarinu-2026/"
-  },
-  {
-   "titulo": "'Em questão de 20 minutos devastou tudo', diz homem resgatado de escombros após temporal em Tupanciretã, no RS - G1",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnFKSENHWXRuaVZGTk1SRkJGNzVmLXBES3VrOW92R1liaVp6M3daSlVVT1Z6dml5dU91XzV4Y2tkT1U4WTNjRUhVNlVLb2w1QXNHUjNmMEk3cXFaLXVWeGNXLXZEQ1h4YWlueDc4WlhKSk0yanVNeWIzcDAyZUlXMGF2YktCVG1INVlwVGhaNUFOcGtzQUcwd0lSaU9oLUtyTm400gGyAUFVX3lxTE9KQUJLQ3NLRnNGYVFnQ3RvdGwxQkMwX2ZYLWxNUC10amZfMU1PSk9QZWRadGdVZEh0Y3VwOHNWYklDaVBTT1VZV3FsSG9KYUxqcW4zTU1sYTlCa0FBMVNmaFBicGEwdzRHaFk3QW5WRWJaOGxDM2Y0NG1qZDlhX2FfY3N5R0VEeTVXcWRJNVlKR2c0Q0ppb1duYjhiM0hmeXVtYjZWem9iOEZUblJLWGJITVE?oc=5",
-   "fonte": "G1",
-   "quando": 1795378871.0,
-   "categoria": "brasil",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 7,
-   "hora": "22/11 17:21",
-   "foto": "75c51619e640.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/resgatado-escombros-tupancireta-rs.ghtml"
   },
   {
    "titulo": "Parada do Orgulho LGBTI+ Rio reúne milhares em Copacabana e tem show surpresa de Ludmilla - G1",
@@ -193,26 +277,262 @@
    "materia_url": "https://www.tvsmais.com.br/motoboy-e-preso-com-maconha-apos-tentar-fugir-da-pm-em-jundiai/"
   },
   {
-   "titulo": "Chuvas em São Paulo fazem cidade entrar em estado de alerta para alagamentos - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmlubks2VW53NDEwd2pjVGVzd1JYRXJvb0RRb1dET0xQYXVIOFdxd0x6MHBtb1RaamprcERGVTB0dlpWVmZRY204anZac2FhWnV6T0RFaUJ1clM3bzM1dlZLaGdjem9QcmF5LUU1bmRZWXlRNTkyRVJ5OUpyeUFfNEt0c9IBiAFBVV95cUxPRDBCa1FCMzdieXN3QXRMY0tadkVST2F1aURIZVhnSWJWQllvNGM2cVNUWGZ6TDhKa01vM09USFpNZDdXOGJFS2hFcWJWc2c5Y1ZCaFl5Ri1LczRyM1hEWDdEakNIa0xtd3dkZlNFYWQ0U0p3NDZJV1VVMFRyVWlYczVDdk1lNUg5?oc=5",
-   "fonte": "Estadão",
-   "quando": 1795385211.0,
+   "titulo": "Homem desaparecido de Itatiba é encontrado morto em região de mata - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlJNWGJEbTIzUkhTMVd5dm1waHRCS2xuQkRoSmhzVVp5M205Nlhzc0VzNjRienRFZ3lNRVcyWGdQNGFGbnJtQVduQ1psSmN5S1BWaDUxZTRBQnM2LTdpMDZYeUJhZXZMeTdockVJZFdQczk5cjF6NHlVRXd1Y3NiYUMzSXlRTmp5UEZTa09pZ0FMbFhDNTRUYnh4TDk?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1795388774.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "22/11 20:06",
+   "foto": "487a8615983d.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x445",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/22/homem-desaparecido-de-itatiba-e-encontrado-morto-em-regiao-de-mata/"
+  },
+  {
+   "titulo": "Sigilo justifica 44,3% das negativas a pedidos de informação no governo Lula, aponta levantamento - sentidohorario.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdkRKczRuZ0stLThXajVRYmI0ME5zdHV0ZExGUGJmWnFUZENRcER6Y2s1cU95dlF5QnV1cFRRZDJSWnNDT2lCUFRnV3BOdE1SMnJNdWlsc1hQZmZEQlVZa2JjY1owNXhIdFJtY2N4NVVFVHExcFlMX3pxVjd6LVhYRTgtdnJNYWo2WDJiczlBSlljSGJtTnJBZVdVQ1NaU0d1Szl2cW9NWlMyb0JKRFcwU0MzNnpEcVVrbkxnZTZxRVhoWm8?oc=5",
+   "fonte": "sentidohorario.com.br",
+   "quando": 1795388760.0,
+   "categoria": "brasil",
+   "fontes": [
+    "sentidohorario.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 20:06",
+   "foto": "1737499cfc4f.jpg",
+   "credito": "Foto: sentidohorario.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://sentidohorario.com.br/sigilo-justifica-443-das-negativas-a-pedidos-de-informacao-no-governo-lula-aponta-levantamento/"
+  },
+  {
+   "titulo": "Time de Jundiaí conquista título por equipe no Internacional Kids IBJJF e soma 12 medalhas - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWpKU1lrbko5bmh4S1RvUG5xNGlZRmk3T1VVbkdrV1B5SU4zNlZMejBvYXRFcnB0Vl9OQ29EZFc4djNPQ3ZrQjN3ZnlrX2NlWDZKdkdqV2h6WGJOOWx2ODJva2VtcTUyMm9ueXFkdjEycHdmYmdaY0FXa3k0ZThQcmtLQTR5YWoyNmthajNQelZsRDBBRm9FUkhNdzRQZWw3UDFfRkdQOHhaamFubXRITDRJRmpraFVsOXdteA?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1795388311.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "22/11 19:58",
+   "foto": "68b94ba13f6c.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x631",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/22/time-de-jundiai-conquista-titulo-por-equipe-no-internacional-kids-ibjjf-e-soma-12-medalhas/"
+  },
+  {
+   "titulo": "Apesar de proibição sobre celulares, Carlos Bolsonaro divulga foto do pai internado na UTI: 'Como aguentar isso?' - Canoinhas Online",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTnhtZXFxVFJRQTN1QzUyd0VLb1ZJcmdOTC1pcHlFVFIzSVFuaVlnZGpZSDVlekNGRUhCVUsxOUhkVmhWcmxxRE56cG5ZTTF1TnRkcWZnZF9oVG1RR0VmYnd0UGdlclQ1ZHcyMF9JaGJibUM5cHk1b2QzMHBOaGh2VzJXLUpNSW1FSUJjTDNIUlNsZjFkbndBYUc5NnM4ZGlTQlp2R1l3Tjh3QmpLUU5RdW41X3lKdU5GWTlTbXU3ejJ0M2JtUTF2SlRaTUVOMEdLak0tMkRFMnhkMFhXcXluRGJSMUVyUGc?oc=5",
+   "fonte": "Canoinhas Online",
+   "quando": 1795387732.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Canoinhas Online"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:48",
+   "foto": "d5ffdd0afc91.jpg",
+   "credito": "Foto: Canoinhas Online",
+   "foto_tipo": "materia",
+   "foto_tamanho": "780x565",
+   "foto_qualidade": "media",
+   "materia_url": "https://canoinhasonline.com.br/2026/11/apesar-de-proibicao-sobre-celulares-carlos-bolsonaro-divulga-foto-do-pai-internado-na-uti-como-aguentar-isso.html"
+  },
+  {
+   "titulo": "Brasil — Lula critica mercado financeiro, defende ajuste fiscal sem corte social e anuncia ministério para idosos - Prensa Mercosur",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEJuSmZMZ0E0aTdQLUR2ZERUTDM3eUVidkxuYmFCZmkzSzZITzJjUVdUWlFPNXQ0VVdldWtEMW5PRGxHaG9vcWw3M2RvRU1JTXY4Wmp0Mm1vUFp6TzZuODVKRUV4WGl0UDgzamQ4WUozWkc2UkFPb3VOQzJLSzhxbS1QbGRBa3BXaWF3ZmtXdTY0TU1GVnFVdjBROWgxVG5INmU5al82OEhtRjc1YzJuQ2VhcEVJX3dPalE1UXZkd3NSSWJmaS1Wc2FlVy14REFjTGlNRzk5TE1kZVBFRlVxMXlWMA?oc=5",
+   "fonte": "Prensa Mercosur",
+   "quando": 1795387000.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Prensa Mercosur"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:36",
+   "foto": "35d069bc4dad.jpg",
+   "credito": "Foto: Prensa Mercosur",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1170x700",
+   "foto_qualidade": "media",
+   "materia_url": "https://prensamercosur.org/2026/11/22/brasil-lula-critica-mercado-financeiro-defende-ajuste-fiscal-sem-corte-social-e-anuncia-ministerio-para-idosos/"
+  },
+  {
+   "titulo": "Defesa Civil emite alerta severo de chuva para São Paulo após 25 avisos no estado - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSlUwNDlObVkyOWlSTUh0d0pZR1VTbUkxeVpVZEdRNTJDbDdSeEJQV25KdHVkZmZNVXpSZzRXbmIxdFZBUU9faEFLMzByNGFqN2NFeWQ2ak8talZpTWljOUQwOTNSSTkzLW4wOWJucjl6Wld0VGhENW1WM19rQ3lSVmEycU5CN3dmaks4cHZHNEJnUGdMUnd3Wmh3YVhqbGpFdXp3cmVia3o5dWtWaGItbVFiRk1jeEZYaDE3Q1lsUlZMNnk5SFNzZFMzak1qNjlr?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795386960.0,
    "categoria": "estado",
    "fontes": [
-    "Estadão"
+    "Folha de S.Paulo"
    ],
    "urgente": false,
    "assuntos": [
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 19:06",
+   "hora": "22/11 19:36",
+   "foto": "848f3e219f6e.jpg",
+   "credito": "Foto: Folha de S.Paulo",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://www1.folha.uol.com.br/cotidiano/2026/11/defesa-civil-emite-alerta-severo-de-chuva-para-sao-paulo-apos-25-avisos-no-estado.shtml"
+  },
+  {
+   "titulo": "Governo federal reconhece calamidade pública em Tupanciretã (RS) - Revista Oeste",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1NwMXBRWFdORk8wWjh0NFNtZHR2UU84VXJDSFIwWEhoVGR2OVNKaXhrVFNXWS1vWmdRLUNzR1pNWEVzVzVtTmJQWGpxOTNhbFlUYjNGMUUyMmlNaU81cEtoOTlsQUJib0MzUHVYNlg5N1JCNnVLZW1lQ2lROUpCTW1qelRWT2ZBTWJlVzVIVU1aSmY0WXlsa0ZPOA?oc=5",
+   "fonte": "Revista Oeste",
+   "quando": 1795386620.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Revista Oeste"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:30",
+   "foto": "50216ec98e0e.jpg",
+   "credito": "Foto: Revista Oeste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "910x554",
+   "foto_qualidade": "media",
+   "materia_url": "https://revistaoeste.com/brasil/governo-federal-reconhece-calamidade-publica-em-tupancireta-rs/"
+  },
+  {
+   "titulo": "Pauta da Câmara tem ajuste fiscal e políticas de igualdade racial - Congresso em Foco",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODhTcjQ1UmQwYVpzR1VjVnR4RHBmSjluYWhNT3RxSlFmQ1pqYXRCMUd4OUcwRHNzYXJLTWhOa3BubWJDZVpNUHRiOFcyc255VVJDeV82YnJCZExuOFJsZmZuWk0wM1lsRzQ3eTZYazE1aDZlVjFoYmNWNjRJQkZ2ZjJ0MDhBZS1iN0M5cFd3T19WVWJtVzFfelduZk9iQnM1ckpVajFMMnMyWmpYXzR3RWg1bmkyZw?oc=5",
+   "fonte": "Congresso em Foco",
+   "quando": 1795386374.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Congresso em Foco"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:26",
+   "foto": "296e2775ead7.jpg",
+   "credito": "Foto: Congresso em Foco",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x628",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.congressoemfoco.com.br/noticia/131765/pauta-da-camara-tem-ajuste-fiscal-e-politicas-de-igualdade-racial"
+  },
+  {
+   "titulo": "Defesa Civil emite alerta severo para chuva com granizo em SP; veja áreas afetadas - BNews SP",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONzV1dXBXMF9BS0FETVN2UlE1ZHRxaHRyUVlYSHdHWXhndG00RkFRbk9KSktNSi04eGs3OU1sbGtzSjVPdXBnSWFSYXNHdXZaY1JHdlowUWxhVEJialpIUHI4NGVxZGl3Qmw0VGtiQkhCbGk2ZHBKUG1iVUJ6WVdUMGV0bjlkX3FFR3lDR19URW9kZjg2SzMxWWxWTWQ3c0pocGl0bjRoQmRvN1g0eEQ3cVBMMTVHOVRsZ0dOUFV4UERzRUItLVFyOTNMUG9HaDFSRFFV0gHYAUFVX3lxTFBiMU1HS1gxZlJSTFNOUW1YNFlveGhkeGdaT0tFNUhmaE1KbHo4VlRxQ3lQRXZwYTQtdTl0REJZSDhkSGpqMExmN1FFdUd0dEp6V29tT2FwOXE0Y3E1ZkprakpiVnRMZ2MtWTN5S08xY0NnTndBRDZ1RUwydWlCcWhnX2xRRGJ2SHBlMUxRX2w3WTZwVnZSWF9XVEpzQ2xKeTBpSXpqUDJuRG1PV09QTkh0bFJSMzBzeG4xZjlYVGh2LVk1SFo4dVEzeDhYQm5sM3drME4tYVRSMw?oc=5",
+   "fonte": "BNews SP",
+   "quando": 1795386060.0,
+   "categoria": "estado",
+   "fontes": [
+    "BNews SP"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:21",
+   "foto": "ee0a3c3e1ebe.jpg",
+   "credito": "Foto: BNews SP",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.bnewssaopaulo.com.br/noticias/politica/defesa-civil-emite-alerta-severo-para-chuva-com-granizo-em-sp-veja-areas-afetadas.html"
+  },
+  {
+   "titulo": "Chuvas em São Paulo fazem cidade entrar em estado de alerta para alagamentos - Terra",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOak45cTBUTmJtN0ZpelZNa1ZYcU5PY0lXSUVsZVFkOXNTYUFfVl9PZEQ0RkI2TmcwREJvX1JEVVBTRVJXOVJ6S29NUUtGbm5nUGNxSjh3d1VCNlA5S3BfX3ZBU2hiY1NnNGplUnY4UUd2Wld5aTZrZEJBcjYxTDZOZ2x3cUJ1SXl5U3NLOTVMMGJVZ2gyNy1ZTlRva0xLTVJiLW00S0x0WmxKRzBQeHNuMG5RU3FqbHBhUDBmRzJnaGh6VkpvUmQ1WjdpT0lWcjNzUFNwSXhrY3VYSGFfZU5FTVdHQkFuamRiRWxscWhBUk5FcmdIc3pfSFlFMU5tNU12?oc=5",
+   "fonte": "Terra",
+   "quando": 1795385760.0,
+   "categoria": "estado",
+   "fontes": [
+    "Terra"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:16",
    "foto": "22b6c8b8d07a.jpg",
    "credito": "Foto: Estadão",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
    "foto_qualidade": "media",
    "materia_url": "https://www.estadao.com.br/sao-paulo/sao-paulo-estado-de-atencao-alagamentos/"
+  },
+  {
+   "titulo": "Responsabilidade fiscal começa em casa pelo corte de gastos públicos - Capital News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPclB4X1BnSlBQQUg4T0NjVGtLdHZpbHJrVlJRbXVjci1PaUk4d1l5OHBIOG56NkZrM2R6dHE0LUoxWGo5R0ZnQ2VfbnY2NmR4NHREbElpY18waHZqNUo3amszZ014ZXgyaGRZVVlwd0ZzMldYbXViTDRfM1M0REFEWWllTWFScmxET2M2UFNrNktRM0lMdGx0dm1QSkRxVU1rZlZCdDlPb2NsYnlzYm1XZkh0YTA?oc=5",
+   "fonte": "Capital News",
+   "quando": 1795385700.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Capital News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:15",
+   "foto": "eadd90ddefcf.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Defesa de Flávio Bolsonaro aciona Fux no STF para anular decisão de Dino sobre publicações ligadas a Nossa Senhora Apare - sentidohorario.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUkwNEN2M2NQaTBjbnhlX0g2YjhoVWl0bXhqY0xMN2UxWDNvTktQN05uVWNPcWxzQ3ZFbkR1eTN4QV9Uck5SczB4Y1RaUlNidm90ZkdhMmlmRmdzcTc5d2pMNHZldUU4WWFMczBaZFFXekpiMjBxc1UtTHdlVEpzTXlRYlFzaHdvc2NDaUJmR1VILW9sRnEzZVpGRzhjRl9Rc1Nfekx5UU4yZHJIZkJhd05ZTVJLZkdKOVZXazhwMDJqQW9MMjhnRWUyV0lIVEFHNlBHVDlyYUlacEl2VHJ2bU00UlpRZw?oc=5",
+   "fonte": "sentidohorario.com.br",
+   "quando": 1795385466.0,
+   "categoria": "brasil",
+   "fontes": [
+    "sentidohorario.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 19:11",
+   "foto": "4cb6c668d9c9.jpg",
+   "credito": "Foto: sentidohorario.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x675",
+   "foto_qualidade": "media",
+   "materia_url": "https://sentidohorario.com.br/defesa-de-flavio-bolsonaro-aciona-fux-no-stf-para-anular-decisao-de-dino-sobre-publicacoes-ligadas-a-nossa-senhora-apare/"
   },
   {
    "titulo": "Defesa Civil emite alerta severo de chuva em São Paulo - SBT News",
@@ -228,13 +548,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 19:05",
-   "foto": "b56cab8b7747.jpg",
-   "credito": "Foto: SBT News",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://sbtnews.sbt.com.br/noticia/brasil/defesa-civil-emite-alerta-severo-de-chuva-em-sao-paulo-1"
+   "hora": "22/11 19:05"
   },
   {
    "titulo": "Athletico rebaixa o Remo no Brasileirão - Tribuna de Jundiaí",
@@ -248,13 +562,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 18:34",
-   "foto": "6cbc13272eee.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1080x848",
-   "foto_qualidade": "media",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/athletico-rebaixa-o-remo-no-brasileirao/"
+   "hora": "22/11 18:34"
   },
   {
    "titulo": "Há uma cadeira vaga no STF (Supremo Tribunal Federal) e uma mobilização crescente de diferentes setores da sociedade para que seja uma ministra negra a ocupá-la. Para a advogada e ex-ministra do TSE (Tribunal Superior Eleitoral), Vera Lúcia Santana - Instagram",
@@ -270,15 +578,11 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 18:34",
-   "foto": "7d754364a8cd.jpg",
-   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1018"
+   "hora": "22/11 18:34"
   },
   {
-   "titulo": "JJ: Volta do feriado deixa 6 km de lentidão no trecho de Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMC02NTVUUVFpVmZVTGI5WVVMTElBaXlpVFUyd0ZJU3gwaTVIc0dGajNoSFpNLTUzT3VEdExKMWtsZERYTFMxWkhSZkZqbG55aUdLTlBrRDZzUE1tSWhzMHE5SjduNUdiNi1ORkZzd1YydUhTdl9uNkF3cVdST0V1V0FGTE9RMVdUNzRQUGl1UHVSVGgwMkZWMjNIQjN3SDNMWkJWTExYazZTOEl0cVdzRzBnNGRPQ2Jxa3NSZmVDSQ?oc=5",
+   "titulo": "Volta do feriado deixa 6 km de lentidão no trecho de Jundiaí - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFFBZ3hyNzdUMy1MajFiSWZ1Rm1HSUtIMWMyWFM3TGFDbld2bXYwUElNTGJUMEdKdHdrbmxoYXpvTV9wN3l2T3A2LWJQeE9XSkJsNlBEYW16MFRrMEdXMlRUVjhFa2Y1dHV6d0J1TG5IaE5MTTVIZFZ6bnlxNEEyeWpOR210SHRFODNMQ21kQ21oWGk4cjJfZUFrVm40UWZuTVhkY29Lc3hyTWppOS1FTjVlS0xiSUdhWVdXbnRQbXVyY2dM?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1795382796.0,
    "categoria": "regiao",
@@ -288,33 +592,55 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 18:26",
-   "foto": "5f30e4b6fa83.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3020405/jundiai/2026/11/volta-do-feriado-deixa-6-km-de-lentidao-no-trecho-de-jundiai"
+   "hora": "22/11 18:26"
   },
   {
-   "titulo": "Volta do feriado: veja os pontos de lentidão e o que esperar do trânsito - BOL",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWxjT0NTcnBhWGFEMll0N3puNjJFNmk3TUNqeGRNS2pKQi1WSUIxTGF0VFhwVm53ai1USVo4S21BWmczUEswclVSQ2g2LUpXOXhSeWZicVFLOGZPX24zNVRoeEg3Zm5Bc2w0M20yMjRROE1uRllMdExEWHhOa0ZEVEhkaTM4azdlcy0tWmUtNElLQlRla2ktOFdHcm1aclZNRkw3WnJ6ZlgtS1hzN1JybjlVb09DZklXUmFR0gG_AUFVX3lxTFBPalVPYlRBQlNBUFR2Szh4Y0RwbWpINE9Wem83SEZ2OUwtMWE3YnJWNG1Cb0lVd3JqRkdWaENjanY2Y0RnbUNCb2RmWm1iNm1NRmpyck5HQ1AxS1hTMy1Bek1CdDBSWWRxTnlkUDVzLXVOVS1RUXMzWEZlRERnak51RDd4eGRCcC1zd1dTbjZRc2Rkc25HUWtXeE9WVEE3bjJQUXFfbmNET0czeGlDVFFYcjZoYkpsM29ucTNDOWJr?oc=5",
-   "fonte": "BOL",
+   "titulo": "Mulher afirma que Lula morreu, usa sósia e estaria congelado em hospital de SP - Área VIP",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWhoamZVUzN2TWQ5eUczR0MzbnpiWkdOV0hqOGNqQU1Sejg4SmU2RUhnZWJsbThsYVhDdHBXUDJJbDdnWGZpLVRQaFp4WkhJVXZMNE9aMGpZSHptNkRyZ2FqMzlIOEVBSUhZS2IyZElOSmx5U3NIOTByT2Q5OXZMbmdrWXYyN2U3TEo5Z2tBY1VQSDd5aWZMRTNBRlV6YUZRdlNkTVZxZkNWVUs2eEtfSWxyS2xPZFNqQnZ4Vi1n?oc=5",
+   "fonte": "Área VIP",
+   "quando": 1795382398.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Área VIP"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 18:19"
+  },
+  {
+   "titulo": "Volta do feriado: veja os pontos de lentidão e o que esperar do trânsito - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQVFlZi1rd2dCQkhMcDdHa0RIR2d2UWhuRjIxZFkxNGdWRFNNMlozMHZ1czRPcEJzWWZNd1lpRjYtRzl3Si1YT21hQnZ6R3NITm5wMG04MVFVVUtBaXItZXNUcW5NYzJTWkhWcXExOEI0QmZ4ZWprZVZYcE5hQnZtd2c5U1pCY0tlWW9idHgxTXFJeWJBTm1ocUdfVW0zeE10VU93X1huQVl5UXJfZHJHYjNFcHJXQ2ZXQU9QY1ZST1NaMUNaemVIOVdPS3pHNzh5YW1CLQ?oc=5",
+   "fonte": "UOL Notícias",
    "quando": 1795381680.0,
    "categoria": "estado",
    "fontes": [
-    "BOL"
+    "UOL Notícias"
    ],
    "urgente": false,
    "assuntos": [
     "transito"
    ],
    "pontos": 5,
-   "hora": "22/11 18:08",
-   "foto": "fc06373e59cb.jpg",
-   "credito": "Imagem ilustrativa: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x873"
+   "hora": "22/11 18:08"
+  },
+  {
+   "titulo": "#Editorial | O que a Folha pensa A nomeação de Ricardo Salles para o comando da Secretaria da Justiça e Cidadania tem vícios desde a origem. Trata-se de uma recompensa a um dos ex-ministros mais marcantes, no pior sentido, do governo Bolsonaro, pe - Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeVJYSXp6dzh1N19tam1PdmI5bzZJaFpsSGU5dFZVcnJ2SV9YeTFYME9IckxDWnF5NkNWX3g3XzFCYmpwcWgzRU1jSDlvZTFHc0E?oc=5",
+   "fonte": "Instagram",
+   "quando": 1795381489.0,
+   "categoria": "estado",
+   "fontes": [
+    "Instagram"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 18:04"
   },
   {
    "titulo": "Tarcísio mantém metade do secretariado e só traz Salles de fora do governo; veja quem é quem - Estadão",
@@ -330,13 +656,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 18:00",
-   "foto": "5237ea3ff76d.jpg",
-   "credito": "Foto: Estadão",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.estadao.com.br/politica/tarcisio-mantem-metade-do-secretariado-e-so-traz-salles-de-fora-do-governo-veja-quem-e-quem/"
+   "hora": "22/11 18:00"
+  },
+  {
+   "titulo": "Atenção para muita chuva em áreas do Sudeste e do Centro-Oeste até o fim da semana - Climatempo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMTNxZjhrSjhpVFRmQ2g1Ty1SOTF6Ty1fVTB2NklpSFNUa3ktVmVQOHZSUkRGUktvYXM5d0dXWTBNbG44R0luSFVOb2FhUjdyR3dRT3hwS25zVVFqOERTWWx1ZVZ3TDlPUVZiUkpxMEhvVDZocFo3emFtN3YyM2pZLWdMeHpyNC14Vl9hVWxHaVpjcG43RmZiVU54NFhPeVhmOVBFV3pNdW9pd0JZT09qVWhtekdJazhmSWd4MmNFOURjbGN6OGh3WA?oc=5",
+   "fonte": "Climatempo",
+   "quando": 1795380420.0,
+   "categoria": "estado",
+   "fontes": [
+    "Climatempo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "22/11 17:47"
   },
   {
    "titulo": "Defesa Civil dispara 25 alertas de chuva em SP e aciona sirene em Campos do Jordão após temporal com granizo - AgoraVale",
@@ -352,13 +688,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 17:45",
-   "foto": "26e2ccce3eae.jpg",
-   "credito": "Foto: AgoraVale",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://agoravale.com.br/noticias/previsao-do-tempo/defesa-civil-dispara-25-alertas-de-chuva-em-sp-e-aciona-sirene-em-campos-do-jordao-apos-temporal-com-granizo"
+   "hora": "22/11 17:45"
   },
   {
    "titulo": "Copinha 2027: Veja os detalhes do lancamento - Tribuna de Jundiaí",
@@ -372,13 +702,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 17:38",
-   "foto": "53dd3c5f63df.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/copinha-2027-veja-os-detalhes-do-lancamento/"
+   "hora": "22/11 17:38"
   },
   {
    "titulo": "Defesa Civil de SP envia 25 alertas de chuvas neste domingo (22) para o estado; sirene em Campos do Jordão é acionada - agenciasp.sp.gov.br",
@@ -394,13 +718,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 17:14",
-   "foto": "8567ca4b8fdf.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-envia-25-alertas-de-chuvas-neste-domingo-22-para-o-estado-sirene-em-campos-do-jordao-e-acionada/"
+   "hora": "22/11 17:14"
   },
   {
    "titulo": "O melhor programa social é o emprego - Estadão",
@@ -416,13 +734,7 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "22/11 17:00",
-   "foto": "32f612d21fb3.jpg",
-   "credito": "Foto: Estadão",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.estadao.com.br/economia/henrique-meirelles/melhor-programa-social-emprego/"
+   "hora": "22/11 17:00"
   },
   {
    "titulo": "Defesa Civil reforça alerta para chuvas fortes em todo o Estado de São Paulo - Jornal da Orla",
@@ -438,13 +750,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 16:51",
-   "foto": "bee26a33a007.jpg",
-   "credito": "Foto: Jornal da Orla",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1152",
-   "foto_qualidade": "hd",
-   "materia_url": "https://jornaldaorla.com.br/noticias/defesa-civil-reforca-alerta-para-chuvas-fortes-em-todo-o-estado-de-sao-paulo/"
+   "hora": "22/11 16:51"
   },
   {
    "titulo": "Governo Federal anuncia auxílio extra para famílias com renda de até R$ 3.242 no próximo dia 10 - Portal Tempo Novo",
@@ -460,13 +766,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 16:49",
-   "foto": "2c45af89362f.jpg",
-   "credito": "Foto: Portal Tempo Novo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.portaltemponovo.com.br/governo-federal-anuncia-auxilio-extra/"
+   "hora": "22/11 16:49"
   },
   {
    "titulo": "Pra começar a semana: Semana tem pacote fiscal na Câmara, vaga no STF e final da Libertadores - UOL Notícias",
@@ -485,6 +785,22 @@
    "hora": "22/11 16:44"
   },
   {
+   "titulo": "Unecs e outras entidades criticam alta de impostos e pedem corte de gastos - Terra Brasil Notícias",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc25QM09CRnB6WnlhdmlWc1c5ZUVGZTdmMnVMSzhjdkZaRHpiWFpqZzdDaWozaHNmUUF1ZHNLMHFkODBCN2NDamI3VWhoakF4dHA1S3hhMjcwMUJsd2F2MTdYX0N4VXVoSzZ0dm9ZUS1Ya3BrS2pmSUg0WmVwQXV4TFp4cWR3ejg5ZmFCV0JLbHducFNBZnNFcFFhRHM0V1RoRmRzSGxSN01VamhIN1BvajRyQUV1dw?oc=5",
+   "fonte": "Terra Brasil Notícias",
+   "quando": 1795376516.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Terra Brasil Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 16:41"
+  },
+  {
    "titulo": "Brasil atrai bilhões em data centers e mira liderança em IA - Diário Carioca",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1VyM2NQZXZJQWt1dUtMS2Z1RnhCaENmVkRJZ0Nuamt5Szl6SG51S3YzY2VWZ3E0WlFxODNuNFZiOXNFenV3eEhwWGVyVWhoOUEtUVZMYm1peHJHQ2o0UFB1T2VmR0dLSkNaNFhLOW1wel9JdjVsWGd0V3Rqb0NuaEZIck5rejhzbjE4eUlTeUhLSFZ1QjA2dFlKMzVSb0E?oc=5",
    "fonte": "Diário Carioca",
@@ -496,11 +812,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 16:41",
-   "foto": "c154584ca7dc.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "hora": "22/11 16:41"
   },
   {
    "titulo": "Corinthians segue preparação para pegar o Atlético fora de casa - Tribuna de Jundiaí",
@@ -514,13 +826,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 16:35",
-   "foto": "f064e9c09b59.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1232",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/corinthians-segue-preparacao-para-pegar-o-atletico-fora-de-casa/"
+   "hora": "22/11 16:35"
   },
   {
    "titulo": "PM de SP tira de circulação carro de luxo com mais de R$ 530 mil em débitos e 363 multas - agenciasp.sp.gov.br",
@@ -551,74 +857,18 @@
    "hora": "22/11 18:45"
   },
   {
-   "titulo": "CGE coloca São Paulo em estado de atenção para alagamentos - BOL",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZk5NMkVXV2RLM0hnVFFlSzZLZXhIVkEtYWF6anhoVFRHX01IWXZQdzlsQVZmbXA5X1A3OGNDcXZKblNBdmJ5STVBNmlqNVJwM1dFQmpYZkxUc19XclZqR0p2WTZfeGFHOXdfT21TWkNLWVV3ZGhJN2hvN2EweDBGMUJhbG56ZkprUDZsSm5FZGRsQTJXMElkQlUzaHhXNUFfcHVzTDV5ckRmVDFxbkZR0gGzAUFVX3lxTE1leWJCNUNOUlRhb3FXYkFHUzdKelpLRXZLS3RQOE14RGFYTUROZDllTHpQNmJzcWl3QmxFSmc3SW9TS3BrcjNvVzNVcHpEOGViZDRic1h3c2tXcDVhT3JLUUd1WUNFZ2ZZQVRlVzVtMGRlWEhEN1hBWmRhanp1VFEwNHI2dHBjUzRUVWxRSE1NeVlPWEw3a185a0g2LVhERlNUb2p1TUJoZk1vVVZWdkd3b1pv?oc=5",
-   "fonte": "BOL",
-   "quando": 1795381817.0,
+   "titulo": "São Paulo (SP) entra em estado de atenção para alagamentos na noite deste domingo (22) - Diário do Transporte",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEZ4RHNud1Zha0VEc3JxaHJna1FJSEpoSDAxSG1Fd2c3Y3JLbU5HMG8zTG5MVnI0REhzcUZLemJmdk9STG9oaVduWUpPd3p5T2xuZWoxVUllOWxvaENfT05tMWJFZ25FX3RPdWRHU2ZLNEF1b2ZDMEFEOUJqMm9md1dLeDFzaUJ2VU9fMF9yMm4yOG1oT3R1RXNadlRiMm5hbnhhRnRfUzFiZDJrUklyWkJfY2w2Q0JYc0JEUkxrZDU4YWVsYUJV0gHMAUFVX3lxTFBtY21DOVNHT1FVNUxRdWhlQzBLNld5N2F2VWt6MXBfWHJDWEQ2cUlDclRBN21nNFNyTlBfQ211SkpnbC1VTmw5azRjbmJweWxOQVRMZnRiVmlvY1g0aTRROG16YXZ1N3ZIOHQ1d0xPTjZCT3UwLXBscmZ4d2tLa1JqSGdwaHlCeVBMS09XVklIN1NaaHN1R0ptbmpIYi1KOGJ3d1BKN053eXJCdzhtckZKLTVob1dtMnp3TVVjblBuX3RaUHBFY3BlcEtINg?oc=5",
+   "fonte": "Diário do Transporte",
+   "quando": 1795382254.0,
    "categoria": "estado",
    "fontes": [
-    "BOL"
+    "Diário do Transporte"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "22/11 18:10"
-  },
-  {
-   "titulo": "São Paulo lidera em sete modalidades na primeira semana das Paralimpíadas Escolares 2026 - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdGRhY3o4U3NQSzBPXzJUdkMwd3RocXpadzVRWjRfNU5qSFJvcGN4NjZ6WTZLZFhTaWdxblVheFlIMHJjY1NIbnZ6cGxZN3BOeTBDX3llY09oS2RfaVAwdU9vTTVxMkEwTWlsUHhzY050UkFmQVhjd3BLUm8zS3Jpa2NxcHp2ZGJGTlA1aldSQXl4WGtKU2FwUEpwR0tDclU4T05EdkR3OFY3S3NNLTNsREVSR3dPakg1NEZteG8zcldER0Vpazh4OFln?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795381591.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "22/11 18:06"
-  },
-  {
-   "titulo": "Mello diz que não recebeu recado de Bolsonaro e que vai 'continuar incomodando' na prefeitura de SP - Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLTgtWkNtNVI5N1JuRXVYdTU2emZNVVRDTmQ0SE1xODZqRXRwV18yUDNQci1QMG1rbV9LTlo5Q0NnOGIzMHdYak5FSnRpbVNEazdIM0pZVzFlcUozOVg4SFQ0N3lDVzFDc2VIVlo4RGpJMUstQTRoUkNwLTRJbnRxZVMxYjl4cm9XLTkxcnVPUW5QU1hwNGJVdXdIc0tDeXRUREpwc0JwZVl4WXNOQUpZT3lCanlqSDdKTnp5ekNTdW4xRHNiUEV6NDh0X09xd3dGZkFqbnJralV0TW9TY2JKZHdLc2oyWHFmbE9xZkNvamdlQm9IZUJjV1g1NA?oc=5",
-   "fonte": "Tribuna do Sertão",
-   "quando": 1795379640.0,
-   "categoria": "estado",
-   "fontes": [
-    "Tribuna do Sertão"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "22/11 17:34"
-  },
-  {
-   "titulo": "O Papai Noel chegou a São Paulo com um cortejo pelo centro histórico da capital paulista na última sexta-feira (20), Dia da Consciência Negra. Personagem cada vez mais popular em shoppings e apresentações de fim de ano, o Papai Noel negro é um símb - Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WMHRPMC1OQW53Z2hRNTNYTWh4dThycVQ5djl0T1VDT2hkYVZ0OFM2VEptN0R5Y1F0QTM0aWpxbmx6ajREY2RRRmd4d1hNQUlaNzd5MTR3?oc=5",
-   "fonte": "Instagram",
-   "quando": 1795379298.0,
-   "categoria": "estado",
-   "fontes": [
-    "Instagram"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "22/11 17:28"
-  },
-  {
-   "titulo": "Imigrantes registra 11 km de fila para São Paulo na tarde deste domingo - Diário de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDhJZ2swaWJtS2VFS01qV3JQQ3hGOWoyN0d2SF9UeFlTTUNtMVRDcnlKT29EQ1pRN01CeXQyYml1UGVWaTQ3MEVaRkFDMkREZUczMWFqVXpYNU5ERnBTT2FNdUhsaU8yOXNuSjB4U0J0aWZ0UnQ3azZHR21wU0IyX3pieDl5SndNUjJxX0FiV29aNVFFdmFVMTBvYWZ6ZExPRzU1MTJ1UlNzdi1SZXV3NlJDd01PRDRIQU5ZNEg3NFFtUdIBxwFBVV95cUxPM1hFNlJsZkpWQlAxV2V1UmhXMzdmSlJrZy10MVo2cm5QZkszMzlDZ185X1hDWGp3MFF5MUREMThWM2oxZng5Q2lITVFoVkZsUElSZ1JDTzV0MWhjZkc3bE5vcEV6M3l4Q2RHVHltZUdXWDhKSVFLX1dWSDJ3THQwb1RRRVlXMl82YzBhWHRheTJHbnZBZ2FMeEZTSzllQXFMZHBMTUFwMzIta3RlM2U3N2NybTJvT3d1amVDZzJlVm95aG9RWG13?oc=5",
-   "fonte": "Diário de São Paulo",
-   "quando": 1795378442.0,
-   "categoria": "estado",
-   "fontes": [
-    "Diário de São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "22/11 17:14"
+   "hora": "22/11 18:17"
   }
  ]
 }
