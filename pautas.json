@@ -1,5 +1,5 @@
 {
- "gerado": "22/11/2026 12:28",
+ "gerado": "22/11/2026 13:19",
  "desde": "22/11/2026 10:35",
  "pautas": [
   {
@@ -23,28 +23,6 @@
    "foto_tamanho": "1600x900",
    "foto_qualidade": "hd",
    "materia_url": "https://tribunadejundiai.com.br/mais/brasil/chuva-forte-sp-alerta-defesa-civil/"
-  },
-  {
-   "titulo": "Domingo de calor e temporal em Jundiaí: máxima chega a 29°C, mas chuva pode atrapalhar passeios - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2NHSVJnNGR6X2dJMUp3M1hpRXd4YXMyMTJfOWJRdldOc2phYTYxdjkxU3VFc0N2OExZX25SSDdjQ2JWSmhfdWpUZ0tRVjlHdEZjQzNydW5wNFVfV2htMW0wcWh1M3cwcHdvVHFGVjhXLTNZaGQtOE9ZVGNJczhULUtHOTFSTVBVU2VEY1Y4cw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1795351163.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 12,
-   "hora": "22/11 09:39",
-   "foto": "1ec83e9d5fcb.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1400x933",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-22-novembro/"
   },
   {
    "titulo": "Miss Beleza Negra 2026: conheça as vencedoras do concurso em Itupeva - Tribuna de Jundiaí",
@@ -91,6 +69,48 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/itupeva/miss-beleza-negra-2026-itupeva/"
   },
   {
+   "titulo": "JJ: Semana de mobilização do combate à dengue começa na segunda em SP - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUFhelR4WHFhbHBaczRaUGkzY3NYTEZHR0RQRjF3UkJhV1Vwbm5mRmNNa1h5REhyNzRGOTRHQWxqd0hRdS15dHh3NDJId0dETEUzVXZhOW54ZXhUMW4wTUVJMEN6ZkNEeDNMLUQtY3FGbmpBd0h1VXNyTWhzVVYxTEpKRXdyVnhjb2NMeDFNUkdpaFFNZEdsQ2NJRnBzN0JhSmZDZFI1bzlERzJTdlhaeEVLUlFNcFhNaFBSRmJSOTlKbWg1MEE?oc=5",
+   "fonte": "sampi.net.br",
+   "quando": 1795362992.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "sampi.net.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "22/11 12:56",
+   "foto": "85e0a02d90f5.jpg",
+   "credito": "Foto: sampi.net.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x800",
+   "foto_qualidade": "media",
+   "materia_url": "https://sampi.net.br/jundiai/noticias/3020363/jundiai/2026/11/semana-de-mobilizacao-do-combate-a-dengue-comeca-na-segunda-em-sp"
+  },
+  {
+   "titulo": "Bombeiros quebram calçada para salvar gatinha presa em bueiro - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0NrUWRCVE5mcUhPMzZEYWZtdlNVODY2YUF0QUE3ZTZnaVFOcHVqUVU4VEJvOTRZYzRJZ1hxdnZ2RllYSDJmcV83ZGpjRDdKdWozR0tpWXE1a0c2azkyNm5WWVc5b3ZYU2NfR0Y0UEswRFZZTlBFUzZ6bGNNX0RlN0pyZ01wVEhCR1VB?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795361296.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "22/11 12:28",
+   "foto": "58989967b9b4.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/mais/mundo-pet/gata-presa-bueiro-resgate-bombeiros/"
+  },
+  {
    "titulo": "VÍDEO: carro invade maratona com 6 mil corredores e causa confusão generalizada em Sorocaba - G1",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjc0MzdSSlNlOGRQRTRfenN4YUtjNGdidGs2VlFwZDY3TU5COXY5ODZnSUVPQVRlVy1ISkNiVkZMZzF2OXR5NnN1LVJwb0NIY3hydi1mcFFsd0UxQWE5TVRQMnhCTm1xYkMzQVEtVVJWMU41ZDdXbDlUZS1aYVlwM3FVOXB2THVpeVhwY3E1VnAwRXN5TFpYR2xmRGpidExsY2xFNHVXbXPSAbcBQVVfeXFMT3ZzcEplcXZMV1FfMjZhcWVQUkxlcUdJY21GS241a0hXMkt3NndoOVdmdnliWkJWSlRFRW4xQjNwMEs3MGhKMXd5NE51QXd5b0Q1Qjc5TXk1U21raVk0djA0YVFyaTd2Y1BnaUhCeFRYazVHZ04yNGl6bG9TcjdmQzBMUzl3MW12eU1PWWY2V0ZhMTBWYVc2Z2dqR05wLVJIMmN4UmJNenlyQUg2dG1oQ2VWaVBXSXhJ?oc=5",
    "fonte": "G1",
@@ -109,6 +129,26 @@
    "foto_tamanho": "1280x918",
    "foto_qualidade": "hd",
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/22/carro-invade-maratona-no-interior-de-sp.ghtml"
+  },
+  {
+   "titulo": "Carro invade maratona com 6 mil corredores no interior de SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTFNVanZPYlo1OGF1WEJhTERjWmszMXVuYW1wVGx4X3V5TGgyXzAzLWxUbHdJYndQRHB2ZlR2aExIR1Eyd09KMXlwaVQ0MzRSUGtfbVMxX2pHLXF0OXNxMkpod1BsS0h5RmJ4Z3k0MVlaTGwyaVlaMS11anFCeEpJbTc1ckEzWVdrbmUweXJpT3QxMUZLZzE0STd1RWNYcjgxbFdzLTRlTlppaFNEOHlLT3RaaXRTV1p5X1JYa01FSdIBzgFBVV95cUxNd3FVVFpGQ05zNHA1VWo0R0N6dGhLQmo2b1ZNRVNXT2JLRFhoQ1JIenVQUFdrSWhZNUgxLTJqQzBtajZFQWV6MGhDZWlhVmcwcmg4Q05ha1FjQ0R3ZkdEeXNDSTI4QW5faGtraFBEVFVkWEtsOXIxb0hON21RaldCdGJGZFM3YzE2c1d2eEszRTU5WWJfbTRhWjdrZERuM1E2OGRXQlE2eDVNNUtnUG1YVUZ3anJwSU91ZDNuMDMzU0ZIcVBUbmpNMnZYcXh6QQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795359298.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "22/11 11:54",
+   "foto": "0bc184028efa.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "405x720",
+   "foto_qualidade": "media",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/carro-invade-maratona-com-6-mil-corredores-no-interior-de-sp-15271156.ghtml"
   },
   {
    "titulo": "Cabeleireiro e influenciador é detido após confusão com funcionária em shopping de Jundiaí. VEJA VÍDEO - Portal do Zacarias",
@@ -218,6 +258,48 @@
    "foto_tamanho": "800x539"
   },
   {
+   "titulo": "Praia Grande (SP): coleta de eletrônicos nesta quarta; confira detalhes - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREhnaWdEYVhWMFBWNFJRaDhZcHoxNDBhR3djM2UtRy1hVTIzSC1JdndYZXo3Zzg3YU9RWTJBVGR0WVBfZHVyeGJzWWRhQWJESy1NWTlaTTdxYmY5NkdPZkx5b3N3Y2tpckFpSFl2NmNjTFRJSmUyMDBHRklZUjFtUlRwWWdGbVBvYUJOOGlYQXZjbzVmZXFvWlduME5jUUhXMFE?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1795363252.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "22/11 13:00",
+   "foto": "b8e3e8398cc0.jpg",
+   "credito": "Foto: Diário do Estado",
+   "foto_tipo": "materia",
+   "foto_tamanho": "984x656",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodoestadogo.com.br/praia-grande-sp-coleta-de-eletronicos-nesta-quarta-confira-detalhes/"
+  },
+  {
+   "titulo": "Congresso tem semana de votações sobre ajuste fiscal e debates sobre reforma tributária - Capital News",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzllMWRkOGFnenR5X0NXYmI1YzRDSmRnekg1aXpNYnRGMkthdDRXY2F6YWtxWXNsUXl0cm55VERNYTVaQ3RJNkhUbElINWhDNVlrbEZia1lZVkZLb2ZIbU5CUmJiQmNvOGJkSm1qTXd3bVdHZWNqblFrV0lib3ZTMVhFVFZDVE5KaEpjNjN2UF82N3AyODNjaFdOcERzZUZIdW9Ka3hpQnd4SjN2d2R4dnlSZjRtMEJfa3pNaVdqWDBHMC1OZWtwTU1GVzRnM0E?oc=5",
+   "fonte": "Capital News",
+   "quando": 1795362900.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Capital News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 12:55",
+   "foto": "286cfaf82250.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
    "titulo": "Câmara deve votar ajuste fiscal de Lula nesta segunda-feira; proposta prevê limite para gastos e corte de benefícios - Fonte 83",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUGd5OVk2MzdobTlaN21TUGhPeHI1TFRTSHlPelU1alM4dVdrZElmYmxjeTlkcVpfZHBhdzNucEZROTV1bXpHNUw2Rk8zZmRWT0dIV0FueEtxcDB6RUpvdkpRY1RSMmFsRGRQVDBsQ2hldVVDelcwVjdkdmt0TUJzUlkxWWRTV0NpOFIyLXFNRmd2a0o0MHQyY1VYNXpDWGhDOXlxY3ozVldXd2MyN2VOcE85Y043bEItTGJNOHM0NHprRHlJd0RKcE82ZXZ5X3ktazA5SHdhSUM2QjgtRTJ0ZkRn?oc=5",
    "fonte": "Fonte 83",
@@ -240,24 +322,26 @@
    "materia_url": "https://fonte83.com.br/politica/camara-deve-votar-ajuste-fiscal-de-lula-nesta-segunda-feira-proposta-preve-limite-para-gastos-e-corte-de-beneficios/"
   },
   {
-   "titulo": "#Editorial | O que a Folha pensa A nomeação de Ricardo Salles para o comando da Secretaria da Justiça e Cidadania tem vícios desde a origem. Trata-se de uma recompensa a um dos ex-ministros mais marcantes, no pior sentido, do governo Bolsonaro, pe - Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeVJYSXp6dzh1N19tam1PdmI5bzZJaFpsSGU5dFZVcnJ2SV9YeTFYME9IckxDWnF5NkNWX3g3XzFCYmpwcWgzRU1jSDlvZTFHc0E?oc=5",
-   "fonte": "Instagram",
-   "quando": 1795359622.0,
+   "titulo": "Defesa Civil de SP reforça alerta para fortes chuvas em todo o Estado - viva.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMG5KVUU0bjlNc1A1Mi1FanNpcm5nRWlmZ0xJVWpFUWRQR0diRlE1VjlJRmJ5MjRCaDNSTW1VUWUtbzAwcExIdGpHdDJKeDNhWlFrX3RUQjN2c0t0OThDN2IzMmlpbjdyMVJJdmgxRzVvNER0ZGpMS0I1TmFYbGcyeXlTSFpXSzl0YUxZaG1OTGdFOGNab09tVlBmYkZ1MzRCMEg3ZFRn?oc=5",
+   "fonte": "viva.com.br",
+   "quando": 1795359780.0,
    "categoria": "estado",
    "fontes": [
-    "Instagram"
+    "viva.com.br"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 12:00",
-   "foto": "df4b7b77f686.jpg",
-   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
+   "hora": "22/11 12:03",
+   "foto": "074519806790.jpg",
+   "credito": "Foto: viva.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x450",
+   "foto_qualidade": "media",
+   "materia_url": "https://viva.com.br/noticias/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-em-todo-o-estado.html"
   },
   {
    "titulo": "Presidente do Memorial propõe a Lula federalizar complexo para barrar privatização de Tarcísio - Hora do Povo",
@@ -280,6 +364,26 @@
    "foto_tamanho": "870x600",
    "foto_qualidade": "media",
    "materia_url": "https://horadopovo.com.br/presidente-do-memorial-propoe-a-lula-federalizar-complexo-para-barrar-privatizacao-de-tarcisio/"
+  },
+  {
+   "titulo": "Em um momento de emoção, equipe do SAU realiza parto e ajuda bebê a chegar ao mundo em Várzea Paulista - poptvweb.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdXY3VmdWNWh3R0ZnMWprelg3cW9oYU82aE1oVU52N1h2MVZRX1FFOUJFaFA3di1mbV9LV21LLTVBTWRWVXdjMWFrZkduNTJLQjhGcUhWWHE2ZWdxODdNakY4cWhxbWZGenFoWXZsZW9nb1YwamZCQjIyaUluZE1PbEJnMEF4Ry1qWS1zajBQWDFCM1RibW5XR21YaEM1eDdNRldaXzZNdEt4aHRDcHNXU01LWGwwRVpnTFV4cDNYNUdsTlVoT3JrVV9B?oc=5",
+   "fonte": "poptvweb.com.br",
+   "quando": 1795359073.0,
+   "categoria": "regiao",
+   "fontes": [
+    "poptvweb.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "22/11 11:51",
+   "foto": "6d98b2f9217c.jpg",
+   "credito": "Foto: poptvweb.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1320x693",
+   "foto_qualidade": "hd",
+   "materia_url": "https://poptvweb.com.br/em-um-momento-de-emocao-equipe-do-sau-realiza-parto-e-ajuda-bebe-a-chegar-ao-mundo-em-varzea-paulista/"
   },
   {
    "titulo": "PF vê risco de ataques de fuzil e anuncia compra de blindados transportar Lula - G5News",
@@ -324,6 +428,26 @@
    "materia_url": "https://www.infomoney.com.br/brasil/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-em-todo-o-estado-ate-terca-feira/"
   },
   {
+   "titulo": "Governo Federal agiliza socorro imediato a Tupanciretã (RS) - www.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1GV3QtMnZYekp5WGpwVlV5SUM0WWtaOTY1XzBKQjJzdm8yUnZ0SnBWOXpkVVBna1NQeDI5Q3EtNDVqaXdVRGcyZmJIbzBqQVJYdHotYVRTYjJlWU9FTHI3Ukd5cWZrZmhQdHlpZmFBZnNyTnAtZ1g4RkFCY0pzZnc5UHY1emwxQkZIWUlGMWh0WmJIX2I0c25JTQ?oc=5",
+   "fonte": "www.gov.br",
+   "quando": 1795358726.0,
+   "categoria": "brasil",
+   "fontes": [
+    "www.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 11:45",
+   "foto": "f224565c26f3.jpg",
+   "credito": "Imagem ilustrativa: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1018"
+  },
+  {
    "titulo": "Moraes vota para tornar Van Hattem réu por críticas a policial que trabalha em seu gabinete - Diário Causa Operária",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzc1ZzZ3eHVnTHFtbXd6NkdnblFYLTVKZ28wc3pjc3ZDQkRuRFhoTTJMWjFaTnRvdl93Z19FQVdKdlR6MkxOdWtwenhHZkU4ZXVSZlUwcnBVSlIzV2h0TTNkR01XeHZtSHEybldsNmNPSnFObFFJaTBYMFhzR3U0UGk1c1RGSDFOdURyd1VWbVhYcVJJYU9sa3pTc2thcUVJeW11MUZNN2NfWXZsXzFtS1hoMFczSlVRcGFVYldXR3NXSEtE?oc=5",
    "fonte": "Diário Causa Operária",
@@ -366,26 +490,6 @@
    "foto_tamanho": "1371x877",
    "foto_qualidade": "hd",
    "materia_url": "https://povonarua.com.br/douglas-ruas-isencao-ipva-motos-rio-de-janeiro/"
-  },
-  {
-   "titulo": "Em um momento de emoção, equipe do SAU realiza parto e ajuda bebê a chegar ao mundo em Várzea Paulista - poptvweb.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFVSeVBZbW8wQnpmZmU5M3BpSzZzbE9DTHYwZjJZTGIwLVNwRzZFb3lJRjAtWkFGVkw5ZmVYNzYybUJ4UmtNLUZLbHRfdjRMZHBIYW8xRWN0ZzNZQTRENlJnSU5MSzA0Z0dRV1ZpQ1R0VzN4eVJHLU9fMGxzSElRU1pGY3lBZFNJSmNTc3MxdzBlS3Qwcnl2MjhJM2VzVkg1Uk5WZFpCUWNQOTMtZzZqMWg3blFGcDQ4c081bmkxYUFmZHZK?oc=5",
-   "fonte": "poptvweb.com.br",
-   "quando": 1795357686.0,
-   "categoria": "regiao",
-   "fontes": [
-    "poptvweb.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 11:28",
-   "foto": "6d98b2f9217c.jpg",
-   "credito": "Foto: poptvweb.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1320x693",
-   "foto_qualidade": "hd",
-   "materia_url": "https://poptvweb.com.br/em-um-momento-de-emocao-equipe-do-sau-realiza-parto-e-ajuda-bebe-a-chegar-ao-mundo-em-varzea-paulista/"
   },
   {
    "titulo": "Governo Lula prepara lei para acabar com salários acima de R$ 46 mil na carreira pública - bra1.com.br",
@@ -441,11 +545,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 11:12",
-   "foto": "783754ad5813.jpg",
-   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1195"
+   "hora": "22/11 11:12"
   },
   {
    "titulo": "Reforma tributária - Revide",
@@ -461,13 +561,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 11:00",
-   "foto": "a0c4f2dff679.jpg",
-   "credito": "Foto: Revide",
-   "foto_tipo": "materia",
-   "foto_tamanho": "880x550",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.revide.com.br/noticias/artigo/reforma-tributaria/"
+   "hora": "22/11 11:00"
   },
   {
    "titulo": "Defesa Civil alerta para chuva forte em todo o Estado até terça | Geral | Notícias - Siga Mais",
@@ -483,13 +577,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 10:52",
-   "foto": "cc823b492475.jpg",
-   "credito": "Foto: Siga Mais",
-   "foto_tipo": "materia",
-   "foto_tamanho": "600x337",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://www.sigamais.com/noticias/geral/defesa-civil-alerta-para-chuva-forte-em-todo-o-estado-atn-terna/"
+   "hora": "22/11 10:52"
   },
   {
    "titulo": "Governo Lula avalia apresentar projeto de lei próprio para barrar supersalários - Rádio Metrópole",
@@ -505,13 +593,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 10:51",
-   "foto": "ed5d5c9c0cda.jpg",
-   "credito": "Foto: Rádio Metrópole",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x752",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.metro1.com.br/noticias/politica/191765,governo-lula-avalia-apresentar-projeto-de-lei-proprio-para-barrar-supersalarios"
+   "hora": "22/11 10:51"
   },
   {
    "titulo": "Chuva Intensa Causa Estragos em São Paulo: Defesa Civil Mobiliza Ajuda e Monitora Situação em Diversos Municípios - Jornal Digital da Região Oeste",
@@ -527,13 +609,7 @@
     "clima"
    ],
    "pontos": 5,
-   "hora": "22/11 10:46",
-   "foto": "e8f0be04158a.jpg",
-   "credito": "Foto: Jornal Digital da Região Oeste",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1066",
-   "foto_qualidade": "hd",
-   "materia_url": "https://jornaldigitaldaregiaooeste.com.br/chuva-intensa-causa-estragos-em-sao-paulo-defesa-civil-mobiliza-ajuda-e-monitora-situacao-em-diversos-municipios/"
+   "hora": "22/11 10:46"
   },
   {
    "titulo": "Alcolumbre trava CPI do Master e impasse chega ao STF - SpaceMoney",
