@@ -1,7 +1,29 @@
 {
- "gerado": "22/11/2026 10:30",
- "desde": "22/11/2026 07:35",
+ "gerado": "22/11/2026 11:31",
+ "desde": "22/11/2026 10:35",
  "pautas": [
+  {
+   "titulo": "Chuva forte em SP: Defesa Civil alerta para temporais até terça-feira (24) - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONktsS2FTSXhRMG9TQm4xc2tLcmp2MGxBUkpndEUtZjNjd1p1eHZ6UlgxV1BNMEhzeEtLLWgycktSODk1dldyUmQ3SE93Y2hmV0VhamkxaVQ4Tzl6YWZndjBLOTZiQmdSMzdCUGZJVVN0WjNHUW9ubHVIYmhULUpWamtVRm9YZw?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795355955.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": true,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 12,
+   "hora": "22/11 10:59",
+   "foto": "1362729340fc.jpg",
+   "credito": "Foto: Tribuna de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tribunadejundiai.com.br/mais/brasil/chuva-forte-sp-alerta-defesa-civil/"
+  },
   {
    "titulo": "Domingo de calor e temporal em Jundiaí: máxima chega a 29°C, mas chuva pode atrapalhar passeios - Tribuna de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2NHSVJnNGR6X2dJMUp3M1hpRXd4YXMyMTJfOWJRdldOc2phYTYxdjkxU3VFc0N2OExZX25SSDdjQ2JWSmhfdWpUZ0tRVjlHdEZjQzNydW5wNFVfV2htMW0wcWh1M3cwcHdvVHFGVjhXLTNZaGQtOE9ZVGNJczhULUtHOTFSTVBVU2VEY1Y4cw?oc=5",
@@ -25,477 +47,53 @@
    "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-22-novembro/"
   },
   {
-   "titulo": "Morre aos 47 anos Rosana Frasseto, de Bandeirantes, após acidente de trânsito no interior de São Paulo - Passando a Régua",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaTg5bktWMVZScjFsbGFIQUlMSEtTZHVCYzktOXdrOUlDRXg2YnpuWG1MLUZQVlo0ZjNMMk50NXpkbWlBaV9uZkxqTVZKT0FaTk8wRlhTblFUVVlJMDRuZldMWE5MbTBqaVpBUEQtajhzbFc4aXI5eGRZc1VOUzh6MVU4dTVueGV4MnpGSTZPQWhjb0ZxV1d1SDFxODJqRE1pR3NMUUx6djhVOFJ0NldxdkQ0bmRSNi1yMHVzTVh6VkhTVUxTdnhtbFluLXI2MjBoTUFmVGc1SVBncl9SakYtTkJ3?oc=5",
-   "fonte": "Passando a Régua",
-   "quando": 1795349520.0,
-   "categoria": "estado",
+   "titulo": "Disputa no STF mantém empresas e trabalhadores em alerta para mudanças na escala 5x2 - Capital News",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHlrYndZSEJJcnpndFBrSnlvNnUtRkZSS0JUV3hGRXZWdHk1SEZQWTlqSnlRN3JTWUFmRFhTbU9DS3pxZVR5dXNTdFpydlhFUEs3WF9EMlNZeGlDNjlJVlEyUk5Rc2Jibzk4c1F5TUhRQnA4dEVMUE9xbHdKUWNxazIyTkloZTZqWnBiNllXSkxnb0U3YmpqNDI1Nlk1UzVRSm5SOG80QjRJemhoZ1ZJTjJRdVFZNWVKQVV0MXRFUnpBLUllZmZLRV9HVQ?oc=5",
+   "fonte": "Capital News",
+   "quando": 1795355040.0,
+   "categoria": "brasil",
    "fontes": [
-    "Passando a Régua"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 10,
-   "hora": "22/11 09:12",
-   "foto": "875dc0147f21.jpg",
-   "credito": "Foto: Passando a Régua",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x1253",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.passandoaregua.com.br/noticia/morre-aos-47-anos-rosana-frasseto-de-bandeirantes-apos-acidente-de-transito-no-interior-de-sao-paulo-32345"
-  },
-  {
-   "titulo": "Defesa Civil reforça alerta para chuva forte na região - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbV9pSTJhellCSmxNV0IxdVcyeGY3bVJFQ09lRGYwXzJ4emdEbHlRc1hHT3hwVVlQdGR0MnUydjVVYnp1c2hlckE4T2Nac2VhYU5XbzFKSG9XVDhURFpBbUJrZXdwUjRhZ3I5Z2hodUpIUGk2Ml95cjFLWGJxU19Hc3hVcEgxM2hVT1E?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795353692.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVS+ SBT"
+    "Capital News"
    ],
    "urgente": false,
    "assuntos": [
-    "clima"
-   ],
-   "pontos": 7,
-   "hora": "22/11 10:21",
-   "foto": "ec3d68fb4803.jpg",
-   "credito": "Foto: TVS+ SBT",
-   "foto_tipo": "materia",
-   "foto_tamanho": "700x500",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.tvsmais.com.br/defesa-civil-reforca-alerta-para-chuva-forte-na-regiao/"
-  },
-  {
-   "titulo": "Mulher cai em Golpe do falso atendente do \"Cartão de Todos\" e perde R$ 15 mil - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVQ2dWJ1M3FHVVJMZkJORzFWa2pnTzVNVXlPcndJWXk5THNvbEprTWd4QU81OEdHRC1FbExqT053TDUyd0xuZjY1dGRPeUpFX2dYeThZTUI0eXRKeVhrb0NFblRLWXFhOE5kWlJPZTFMaS0ycm00eWs1UXV6S0JBYklvVl9JcHhqYXk5Z0dQTDcxZ0VBRkZ3cDZhSkJzYVp5NFpFZzA3TQ?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795351402.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
+    "politica",
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "22/11 09:43",
-   "foto": "1e6d26d5ab86.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x631",
-   "foto_qualidade": "media",
-   "materia_url": "https://jr.jor.br/2026/11/22/mulher-cai-em-golpe-do-falso-atendente-do-cartao-de-todos-e-perde-r-15-mil/"
-  },
-  {
-   "titulo": "Governo federal reconhece calamidade em Tupanciretã após temporal - Studio Notícias",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTNxem5BVU5YWWFVLVhwQ0pKNkdZZTQwVFAwWjFGMnRWc3l2UENta3RaVm9ucXF2YkFiUG9makFBV2F2OUNXaXpBWmRLTV82Qnk1MEMzWjRGMnAzOXdGVEJwSTBBRHNCaXBfeDN4U0JOazlDSHNNSzdIdzlQLUNWdWhrLUJTdzduWi1zWW9rZUxnQjRmZ292M0MtcHNmcWI3?oc=5",
-   "fonte": "Studio Notícias",
-   "quando": 1795349809.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Studio Notícias"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima",
-    "politica"
-   ],
-   "pontos": 7,
-   "hora": "22/11 09:16",
-   "foto": "4d039e6341fe.jpg",
-   "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "hora": "22/11 10:44",
+   "foto": "2f285ddb7e91.jpg",
+   "credito": "Imagem ilustrativa: Mat Fascione / Wikimedia Commons (CC BY-SA 2.0)",
    "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "foto_tamanho": "800x539"
   },
   {
-   "titulo": "Homem é preso acusado de tentar estuprar menina de 10 anos em camping - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWENwWjJQd1d4Z3dXSTk5U3djZTBydDB3RnVsRl9rWTFDcTEyTHRGZFkwV3doUVNZNmp4OUpoSEFDc2ZkLXhzXzdBbWtxT05rWUdOdHF6RHJsRVg3VmotNW54S0V5TmF0dlJ6SDhHX2NjcUZjQTZmOHBpWC1MLUZDNWhrT012Y1R6X0EtbVh4ZFp0YlBlOWNNLWx0OFYzR3Fx?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795347088.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "22/11 08:31",
-   "foto": "e93182ddfbfb.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "foto_qualidade": "media",
-   "materia_url": "https://jr.jor.br/2026/11/22/homem-e-preso-acusado-de-tentar-estuprar-menina-de-10-anos-em-camping/"
-  },
-  {
-   "titulo": "Cerveja na Barão terá edição especial no Parque da Uva em novembro, no dia 28 - Prefeitura de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTEJBcVBsMExBRUtfbk0zUUxfcnl3M0RIUzlsdnByNXdxYVJBNnhpYmRjU05DZEhmOFZ0SkxhOTBMNWVUU0YtcFBxSDU0RjVlNUJFaUVKYm4yaTkySHdYakhsdFN6Zjk0R2dNbFNtMjhHUGdrN1VZbWE5bDI3cUlWSXppOUpPNWg1MDlsQnhGbmlFeEJvX3E4SThLN2tVR0tzRVNZZ2RCeE5iWGdkNHNwOGZiNnFyUUVIZndDX25LNkxrOHFnM1NhUEpobWlYNVJYaHlDb003REc?oc=5",
-   "fonte": "Prefeitura de Jundiaí",
-   "quando": 1795346580.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Prefeitura de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "22/11 08:23",
-   "foto": "27f54f0382d6.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/22/cerveja-na-barao-tera-edicao-especial-no-parque-da-uva-em-novembro-no-dia-28/"
-  },
-  {
-   "titulo": "Retorno do feriado concentra trânsito às 16h em rodovias do país - iG Último Segundo",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVy14OGRNQm52UVR0WDZGb3ozZURpZnlrTTh6Qk5RaUJRTVJpQzlnX3ZST29JTDlVZzdWbTdiSW9fa2lNNWF2Y0owT0wzcHlDeHZfSFhyY3JYRkhzdzNLMzJtSnh6cEJhZnZ3OVF2Q3gzWGZlOThoYnRqc3Azc0huVWZ4Nmt5RjM2aWxpQ3A3X0I5UGIxbHp1OEFudDNrV0Nib2lxY1JMOVFQYTBueWR6dkh0NTlReHpBUXR3MGJTQnl5T2trUGhJ0gHHAUFVX3lxTFBXLXg4ZE1CbnZRVHRYNkZvejNlRGlmeWtNOHpCTlFpQlFNUmlDOWdfdlJPb0lMOVVnN1ZtN2JJb19raU01YXZjSjBPTDNweUN4dl9IWHJjclhGSHN3M0szMm1KeHpwQmFmdnc5UXZDeDNYZmU5OGhidGpzcDNzSG5VZng2a3lGMzZpbGlDcDdfQjlQYjFsenU4QW50M2tXQ2JvaXFjUkw5UVBhMG55ZHp2SHQ1OVF4ekFRdHcwYlNCeXlPa2tQaEk?oc=5",
-   "fonte": "iG Último Segundo",
-   "quando": 1795346040.0,
-   "categoria": "regiao",
-   "fontes": [
-    "iG Último Segundo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "transito"
-   ],
-   "pontos": 7,
-   "hora": "22/11 08:14",
-   "foto": "1465ee372512.jpg",
-   "credito": "Foto: iG Último Segundo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://ultimosegundo.ig.com.br/2026-11-22/retorno-do-feriado-concentra-transito-as-16h-nas-principais-rodovias-do-pais.html.amp"
-  },
-  {
-   "titulo": "De sapos elegantes a gatos orientais, tatuadores criam desenhos fora do comum no interior de SP - G1",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNDhCMmlYc1JZbHJzN2daYWZhYzhUT3BWckZSeWNxdVh6cFZLMXJJMVlpRmdLY1poLVEzSnBNR1A2N3Q4M3V3a2NacFJSX192VXJSRF84N3otYkFnMnVaZWdEQ21oM3ZUTnpqbGtHOThmenlnckhCNFE0OURsM0xweXlRYVNvTndwcm5ZX1VVMWdEaTlIS0d4RUV1QXFpb3BFOThRSzU4dHBUNWVyMTJmWUpIQmNvLTZURnJuV0VYc1BUQ1NneVNYSWM3OTlISWZJZXhhMEh4N3dsNkxqRDVuZFlaOHAtX0R3Q0U0ME51cG1nQdIBgAJBVV95cUxOSVVqQzBqQ1R1NjhGOV82bTdURUxweXFJdWMtRDRqcHBQc09HYmUwMEd6dE01R0RjRlpRYTBZNGozZi1jaGNpWHhaWnNkLTFzZmFhdmY4R2sxZnhJZjVDZS1IajVrTlFtTVhIRU5DSkRMWlViZjJfWGNFTTBYN3puRnV0blF6M0VlZGQyRlNoTGN2YXJqX3hqeldNdHZEWE51aG9yTVVvYkUxOXc3N1oyaGJmVlh3Y3JZbk9NZlM4RWg3QXZicVNPdlgzMGlWYkp5OThuamVIRVhQOXd5MVJCZzdSYVNhaXg3bllDelNieE1fRHIwWk1FSlNFZEd4TnBY?oc=5",
-   "fonte": "G1",
-   "quando": 1795345200.0,
-   "categoria": "regiao",
-   "fontes": [
-    "G1"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "22/11 08:00",
-   "foto": "9f942fd25858.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1270x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/22/de-sapos-elegantes-a-gatos-orientais-tatuadores-criam-desenhos-fora-do-comum-no-interior-de-sp.ghtml"
-  },
-  {
-   "titulo": "Motoboy da Keeta é preso com um quilo de drogas em Jundiaí - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTVGTEpTc0k5TG81SlpVQ0FxamJKWkNOSzFtNTlmOWh2bzh5cnYwdDNCb2FXTzJIbzBhc0ZTMFJ0ZEtuYTRVYmtqVVBVNkdBeUpJMnZvdGhfUDlvenFCRU5kb254MmNteTk1RThJR05vSS1qVmFsZW9yWjU1LXFtYlFmUHo0MHNjbkhGbF92clpMdw?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795345135.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 7,
-   "hora": "22/11 07:58",
-   "foto": "d52375b7a05d.jpg",
-   "credito": "Foto: JORNAL DA REGIÃO",
-   "foto_tipo": "materia",
-   "foto_tamanho": "800x445",
-   "foto_qualidade": "media",
-   "materia_url": "https://jr.jor.br/2026/11/22/motoboy-da-keeta-e-preso-com-um-quilo-de-drogas-em-jundiai/"
-  },
-  {
-   "titulo": "Lula 4 não prevê cortes de gastos, e o Brasil pode pagar uma conta cada vez mais alta - gazeta hora1",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHNHYnF4UDAtdFJibEZnRTNFQWRSb0ZNeWtRNUhPRXI2bHI1eDdSOGgtdlVTQmczUVdiYjh0bEhua29nbVRuRDJOc01hQ3lxVGNsbUo3djRNOFFOQ0VqdEExVkl6VWdOdE5JczZIcGRfUnJuSElmYlVRWHFaUmRLN1ZSRG0zWXQtQXptN1lGY2tpWW0zc2dQTE1PLW0zcF8xNnBTdVVzNmxEeE5IUVRlTXJKcGVmMFhWSm9ic3lFbw?oc=5",
-   "fonte": "gazeta hora1",
-   "quando": 1795353841.0,
+   "titulo": "Governo Lula prepara lei para acabar com salários acima de R$ 46 mil na carreira pública - MT HOJE",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHNFX0FfRUxjUzNVQWRnT0JXYW1hUEV5NmZ5cS03TEliVVVUZ0pfVzdQb3pqQW5IZ1F1RjhBcTBSbGVTV1YzWXNaVjFOVFZrRE9TOUJ5WG1wTUFwQ1Jka1lzV09NZXRaV3EyODlVYWN1M1RzVC1OSkxBWnpBellwSEVzU2VBeHJYQUNKdV8wSXVrREtmd25GU3NYa0Z4aGMtbzZuTUNQTWF0WllMZEZkMVlLUG5WM3BKR3drX3VKc1FjZndLMjduWGJnY1Bidw?oc=5",
+   "fonte": "MT HOJE",
+   "quando": 1795357380.0,
    "categoria": "brasil",
    "fontes": [
-    "gazeta hora1"
+    "MT HOJE"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 10:24",
-   "foto": "af89f036ad84.jpg",
-   "credito": "Foto: gazeta hora1",
+   "hora": "22/11 11:23",
+   "foto": "6ad93155e74c.jpg",
+   "credito": "Foto: MT HOJE",
    "foto_tipo": "materia",
-   "foto_tamanho": "1000x610",
-   "foto_qualidade": "media",
-   "materia_url": "https://gazetahora1.com/noticia/12793/lula-4-nao-preve-cortes-de-gastos-e-o-brasil-pode-pagar-uma-conta-cada-vez-mais-alta"
+   "foto_tamanho": "500x281",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://www.mthoje.com.br/economia/id-730458/governo_lula_prepara_lei_para_acabar_com_salarios_acima_de_r__46_mil_na_carreira_publica"
   },
   {
-   "titulo": "Lula anuncia decisão sobre idade mínima para aposentadoria - Área VIP",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWZQUVExVks2c2JkX1hIdXVKWFJuYmdKVktuRnk3VWZZLV9xSHd6STRzZExXaHdmUHMtazlEeEpYeVcyNVNZQS13Q240aXZMYmpBMC15QlRFYVVnRW53RUhMOHlHVV9uVzVUVmVDMGRkZlJVNW5lSy16THZXMjB4WW9jN2hrOVlONWxxSTBrS3VHMXpkZzAwNWZnOVVKbExzM1hTZ29MZw?oc=5",
-   "fonte": "Área VIP",
-   "quando": 1795353837.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Área VIP"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 10:23",
-   "foto": "e305013cc9c6.jpg",
-   "credito": "Foto: Área VIP",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x700",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.areavip.com.br/noticias/politica/lula-anuncia-decisao-sobre-idade-minima-para-aposentadoria/"
-  },
-  {
-   "titulo": "Arroz, carne, leite e café: veja os alimentos que terão imposto zero no governo Lula em 2027 - Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YU0FldlBsVHItYXlOeWI2bkZ0X0M5OS1iYzhJR19OZWUtOXRHYnp1OGphX2dLYTlUYVVFaC1kaEhHT1hRa001cW53bWFWTWZrRGVFNk9aX0F3LUJYQkYybzFRLTVjVWdmV2dhS3h1UHpoYTg?oc=5",
-   "fonte": "Revista Fórum",
-   "quando": 1795351803.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Revista Fórum"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 09:50",
-   "foto": "47515cad7973.jpg",
-   "credito": "Foto: Revista Fórum",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x992",
-   "foto_qualidade": "hd",
-   "materia_url": "https://revistaforum.com.br/economia/alimentos-imposto-zero-2027/"
-  },
-  {
-   "titulo": "Brasil vira palco de disputa global por infraestrutura de IA e atrai bilhões em investimentos - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdFNJRzdmVTVrLVFPMkx5dW94by01MHdnXzM5NXE3UlBKNTRWa1h4UE11ZERQdXgtMWVJa2NCSUkxeWVvZFJJYnZJMnNFc2hXS05LRkZxcHZFQlJxMkFnWjRZbHhiTTV4U0dUeG9TbU8yamJWM0pQU0J0WVFPX1JDQlNBS1dsYUpfaVNwMnVZRTlMY2JybU1zRXhHTkNkRXlXRkZva1BEbGZYQzM2dERReGZWcXV1TjMwdzhhTXVhZml1ajRXNnRUSm5HbWxqd2ZmSEk1Wm5R?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1795351787.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 09:49",
-   "foto": "387b83591259.jpg",
-   "credito": "Foto: Plantão Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x651",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/164855-brasil-vira-palco-de-disputa-global-por-infraestrutura-de-ia-e-atrai-bilhoes-em-investimentos"
-  },
-  {
-   "titulo": "Brasil entra em nova era tributária em 2027 e MT teme perder R$ 10 bilhões com novo modelo - JBNEWS",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3dQT1R1R3dqSEpCRUJjaGNaNkJfTHZYRjZIdlhubFB1UzFEdjVEQlpNVHQzVHNIRWptNHplRTkyRU8tRkRyRVZLd2kzRW1UdmRCVzFlUXI4bHA1VDFzSFhDeHhpZmM4Y1lTVEJldkM5UE5SNEZQMkdFZVF1d0VjNHZudGxRTGVaLUJ6N1VGRE1PUVRBcE9jVkZOcV9vb1J5OWNWTV9sYzBaal85T19Ycm9R?oc=5",
-   "fonte": "JBNEWS",
-   "quando": 1795351522.0,
-   "categoria": "brasil",
-   "fontes": [
-    "JBNEWS"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 09:45",
-   "foto": "b059fe91b25d.jpg",
-   "credito": "Foto: JBNEWS",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1125x895",
-   "foto_qualidade": "media",
-   "materia_url": "https://jbnews.com.br/brasil-entra-em-nova-era-tributaria-em-2027-e-mt-teme-perder-r-10-bilhoes-com-novo-modelo/"
-  },
-  {
-   "titulo": "Brasil atrai bilhões em data centers e entra na disputa global por IA, diz a Economist - Diário do Centro do Mundo",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1pVQW9yc2FFYjU2SEM2aUp4cEhHT2RMTG9JQ2VxUlgyYjJPS2YxdGtsOWxsMW5yd3pTY19LbUhaU3haRm5BTWw4YWdyZ0hQVW1HZTdXck1kYnlpT3VhV0F2dDVuOFdCcURXTTVEbU9idnhGd3BDeHFaQm9VVjJvcTJXeFRNRjZTbjZwRE8yYVRaSFJHMGs0cjZQdm5DRFBoZFhBb2tMUmU1UDVwLTNLTXF6N1BsQUNEOFVSWlBTWHVBelRyMHc?oc=5",
-   "fonte": "Diário do Centro do Mundo",
-   "quando": 1795351440.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Diário do Centro do Mundo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 09:44",
-   "foto": "03c3e1a346a9.jpg",
-   "credito": "Foto: Diário do Centro do Mundo",
-   "foto_tipo": "materia",
-   "foto_tamanho": "935x507",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.diariodocentrodomundo.com.br/brasil-atrai-bilhoes-em-data-centers-e-entra-na-disputa-global-por-ia-diz-a-economist/"
-  },
-  {
-   "titulo": "JJ: Festival Baobá termina neste domingo com shows em Jundiaí - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbXJLUWpWMTBZakN3ZS1YaWtoLThfa0RkcUd1WWtWRW0wVmZWcGVWZG1ZTTNiLTR0bUp4LVZQRkJvU2ZEa3RnRXgtSGd1RFhXZk15dlVCTEdFMXEzV2liS0hXYVZiTXEwSG9MVHZNaDBLbzBodzBKT001a3EtaDI0ZnFYRjZhWUstTzFrWTBGV01Hcm5mdUd1TFFhYWxtNXpWRnFDR1B2NlU1SVYydEpGVXNNS1JULWx5REQ4?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1795351238.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 09:40",
-   "foto": "ce4e8a991bd6.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3020346/jundiai/2026/11/festival-baoba-termina-neste-domingo-com-shows-em-jundiai"
-  },
-  {
-   "titulo": "Brasil mira boom de data centers até 2030 - Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qUG1JdnFhTTNZNktvc0RRaXpSVXdtMVFLUVcxY1RqVmtWVnZDWDB1ekhBRW5RQkh3dW9YaklGWVQyQ25NZkV3YmJpZkNFQjhnNU5nVDgzOVJRRVVmQjQ2VXA5dl82djB5Z0Ribkh5TE1fQQ?oc=5",
-   "fonte": "Acia Araçatuba",
-   "quando": 1795351018.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Acia Araçatuba"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 09:36",
-   "foto": "9cd06d283c81.jpg",
-   "credito": "Foto: Acia Araçatuba",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1067",
-   "foto_qualidade": "hd",
-   "materia_url": "https://aciara.com.br/brasil-mira-boom-de-data-centers-ate-2030/"
-  },
-  {
-   "titulo": "Brasil disputa liderança na atração de data centers, diz The Economist - O Potiguar",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1NjMll1MjlTRkkybmVYVzJRdEk5LXc3MTd1VTV0R3o3dUxoSUxCenhNZUZ4TVBqMG5majZSbzF6UV9iNzR5LVZfMWFyNm9YNXIzRUMyRmdaYW90azZiRkIzOVdfN2RUY3NqRzlXN3hGSXhHT2FZQXRhQi1FZ3l2WGJFQUFDLURvYjVvWjBLOEFCb0dQdFd2V243aUh1bUk?oc=5",
-   "fonte": "O Potiguar",
-   "quando": 1795350827.0,
-   "categoria": "regiao",
-   "fontes": [
-    "O Potiguar"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 09:33",
-   "foto": "a46177130677.jpg",
-   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1200"
-  },
-  {
-   "titulo": "Governo Lula prepara ofensiva para acabar com supersalários no serviço público - Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpMVkIwOFJ4Z3Mxc21iZ25iWXNudEpDazVVM3ZPbEx3SmpsZHNuNmpQWW9xNndfZFBiVXQxVnViT0JpcHlwQnZQS01GMlhwMXE0d21GZ2N4d1lxcC1wcmVvUlFybG5CT3EwLV9ibW5PZHdpcnJBZDBzcFlHd0tHZVMxalotcEZRaG05NDRweUVLV0pyeFo4a3czejlSdUxDTVp1dWlFN082U3I4ZE10WlZWaXdXQ2ZGMy1hd3FlcmJ2Zw?oc=5",
-   "fonte": "Plantão Brasil",
-   "quando": 1795349682.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Plantão Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 09:14",
-   "foto": "d8cb4899f584.jpg",
-   "credito": "Foto: Plantão Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x721",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/164849-governo-lula-prepara-ofensiva-para-acabar-com-supersalarios-no-servico-publico"
-  },
-  {
-   "titulo": "Governo Lula quer barrar supersalários de até R$ 100 mil e prevê economia de R$ 3 bilhões por ano - Lavras24Horas",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaFYtajVJMGgxd1FpMl9vdTJ0aVFqb2pFNDltS0h0R0ZGc1UxT0REREo5MUxxYXN6Y3MxdWM0Sld3UTRPcWw3enB4bVQ1ajAzWEc3TlhSbkpORFhXWE0wNHEyaE44RW1sUmlPcWN5N3NMODh4enFaM0N4MDA3WG1vR2ZDSWRZdGhDY0tGOWNwR0Y2VnZOQ09jbnJpcFZCX1poRTJEbWlZN2QxSmd4UDM0Rm8wRWs1bzdzYnEtdUF4RVBwU1N2Tjl2RkJOeUItajRxYkE?oc=5",
-   "fonte": "Lavras24Horas",
-   "quando": 1795349657.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Lavras24Horas"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 09:14",
-   "foto": "cc10c74c1b75.jpg",
-   "credito": "Foto: Lavras24Horas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1100x659",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.lavras24horas.com.br/portal/governo-lula-quer-barrar-supersalarios-de-ate-r-100-mil-e-preve-economia-de-r-3-bilhoes-por-ano/"
-  },
-  {
-   "titulo": "O plano de Lula pra reduzir os supersalários no funcionalismo público brasileiro - Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzVUpDOHd1Z1V6M2dnbnMtd1UycG9VdHdlRUJqMDQySzVRbHN4VDBCTGx2anBEWVBWUlBmQlFsdGxpRC00a3NsZ0wzYmFiRmhSZVhMNDYwaHVxWkNZZjZxbnVWUGZSWk0?oc=5",
-   "fonte": "Revista Fórum",
-   "quando": 1795349266.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Revista Fórum"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 09:07",
-   "foto": "8c3718e56987.jpg",
-   "credito": "Foto: Revista Fórum",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x960",
-   "foto_qualidade": "hd",
-   "materia_url": "https://revistaforum.com.br/politica/lula-supersalarios/"
-  },
-  {
-   "titulo": "Ajuste fiscal, aposentadoria e tarifa zero: veja o que Lula anunciou em live - Primeira Página",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOHd4ZnBXS2Itb093WmJpUzZaSXRjdXZCUzJMSzJJTEhqaHk5T2JaMmc2VHEtQ3l1NUpac0c2TzZZOU1pczl4ckFSXzlORGNNRU1KSUl0d28yX3FCdTFLRkJfRV9Fb2FCU3k5cERNSVlCandvbUs1N0VSNm9BY0NnYkdqWjh3Y1N6RXpxS096QzlBbzFRYmotU2w0cXZmZ0RrMExneUY2Q1ZZMEEya1o0cGJGZXRpRmJ2U0g4S3YyTkZ2QnhRQkJzMGd3T0x4UQ?oc=5",
-   "fonte": "Primeira Página",
-   "quando": 1795349135.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Primeira Página"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 09:05",
-   "foto": "4b9ca24c610a.jpg",
-   "credito": "Foto: Primeira Página",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://primeirapagina.com.br/politica/lula-defende-ajuste-fiscal-critica-mercado-financeiro-e-promete-nao-cortar-beneficios-sociais/"
-  },
-  {
-   "titulo": "Câncer de próstata: ex-técnico de enfermagem compartilha sua história de diagnóstico e superação - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX21ZdDU2Rk5BTF9nVmFHbWJiMGJwVkJqT290eDF4UlhtMDByMmNLN3JuTUxfMU1kbDNmdy03RmQwX1hscldmQnk5TVZmZllXaDBXYXVEcDRoLWh2RHQ5RHZqU3lpbEw2Z19uWkt6N1lDT0h3cENCREJvZld6SW9xV2txVDVrci1xQUlYUG9zQzFfdkdEN1h3WmJab0VyRzRpTmJob2pqUU9rdw?oc=5",
+   "titulo": "Sul-Americana: Brasil chega ao sexto vice consecutivo - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEd1ZkxSdWZWTlFUVVJVNTZGTkY3cHF4clRpT0FoS3lBMUxudkJEcmdlQWFfLXdxeldIeS1pVnRPcHZIQ0NMbVFVUGN0Qmd5SlZxU21GTjFrSzB5S2VGaTFGekkzVFplcEVQRWxWZ29NaGx6QnFaQ3o5cnZId3dhZmQ2WW1IdkZueVhaR1lyUlgxNWo0TWpHb3IyNW9IMVI0?oc=5",
    "fonte": "Tribuna de Jundiaí",
-   "quando": 1795348800.0,
+   "quando": 1795357115.0,
    "categoria": "regiao",
    "fontes": [
     "Tribuna de Jundiaí"
@@ -503,181 +101,221 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "22/11 09:00",
-   "foto": "cbb0ff67e53d.jpg",
+   "hora": "22/11 11:18",
+   "foto": "1219b4d0f16f.jpg",
    "credito": "Foto: Tribuna de Jundiaí",
    "foto_tipo": "materia",
-   "foto_tamanho": "1400x930",
+   "foto_tamanho": "1536x1920",
    "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/cancer-de-prostata-historia-paciente-hospital-sao-vicente/"
+   "materia_url": "https://tribunadejundiai.com.br/mais/esportes/sul-americana-brasil-chega-ao-sexto-vice-consecutivo/"
   },
   {
-   "titulo": "Ameaça de Trump a data centers pode afastar investimentos do Brasil e elevar custos de energia nos EUA - ncnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lYzlkY3NoZFRwY1ZUWjJ5d0QtMWN1VWhpaU1zQ0REZUwzZTlwcHp4YzdxZU9uMkh5djF2S2IzaEdzOTBGU2pyamdLR29zVTYzWUpuSzd1T01KVkpXa3BkOElSbEhwLWMtN2RmYTlQTU9DS2RvMUFWZERuS1RQcTA?oc=5",
-   "fonte": "ncnews.com.br",
-   "quando": 1795347054.0,
+   "titulo": "‘Cerveja na Barão’ deixa a Praça da Matriz e terá edição especial com atrações internacionais no Parque da Uva - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcjJYa205NDFjUTlXSE0xVUxXOFJGZHlxMTJySGF6b01jU2U4bFNxZ3hDQWwzWkYzQWx6OE9fS0tBbW1tdENfSktfbVJNRjZ1RVJqamdfZ2FfSXVpU0Q0b3E0NHJvaUJWakhJcVpaRTNWa0ozUXYwYk52eU5vQlRURjVlWEptUQ?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795356758.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "22/11 11:12",
+   "foto": "783754ad5813.jpg",
+   "credito": "Imagem ilustrativa: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1195"
+  },
+  {
+   "titulo": "Reforma tributária - Revide",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuV1NTM3pkSVdEa1VaNFVia0RUVVZseVh6SnZDVjNJWF9BMWR1dW15WjhFNHNCcU9BRGplcDdQMXVwLV9waEFCdUdvWVdUV3FjV1VKVTVXOFhpRW8zMjV0SEY4RGh5X2JlOUdBVEJB?oc=5",
+   "fonte": "Revide",
+   "quando": 1795356000.0,
    "categoria": "brasil",
    "fontes": [
-    "ncnews.com.br"
+    "Revide"
    ],
    "urgente": false,
    "assuntos": [
-    "servico"
+    "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 08:30",
-   "foto": "252f59da5eee.jpg",
-   "credito": "Foto: ncnews.com.br",
+   "hora": "22/11 11:00",
+   "foto": "a0c4f2dff679.jpg",
+   "credito": "Foto: Revide",
    "foto_tipo": "materia",
-   "foto_tamanho": "1320x767",
+   "foto_tamanho": "880x550",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.revide.com.br/noticias/artigo/reforma-tributaria/"
+  },
+  {
+   "titulo": "Defesa Civil alerta para chuva forte em todo o Estado até terça | Geral | Notícias - Siga Mais",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHQyU19hUFhpUUlsbHFjRHg1dVVieXRiT1JMWjhqS25WalRTYWYzOGRoR1otTW9mbDdaZkctTHJkV1FBUTAzNWRmdTFWelBwRnlyNjJYRVdjWGhySzdNSHVWSXFOa1lkSWdwWUFOaTNOUl9VODF4STFtRE95aHJVMGxKMW5SbDNBUjlvdmVaTUtRRExUZTBtX2h0ckQ1VDMxSGgwdnF4Yw?oc=5",
+   "fonte": "Siga Mais",
+   "quando": 1795355553.0,
+   "categoria": "estado",
+   "fontes": [
+    "Siga Mais"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "22/11 10:52",
+   "foto": "cc823b492475.jpg",
+   "credito": "Foto: Siga Mais",
+   "foto_tipo": "materia",
+   "foto_tamanho": "600x337",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://www.sigamais.com/noticias/geral/defesa-civil-alerta-para-chuva-forte-em-todo-o-estado-atn-terna/"
+  },
+  {
+   "titulo": "Governo Lula avalia apresentar projeto de lei próprio para barrar supersalários - Rádio Metrópole",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXg2WXRhRXRXcTRkLWRrREhqc3QxNTVuTXhrR29fRzNwZmRnX3hTbjZYcXJJczBNODE1T1lNYmQ0Vk4xd292aHlSWUlXal9OZWZjN3BCNV9yeHNDYVlyZFlpRHJ1RUozdDR5aDZDdFh0S29yWEVjNVdXMnAyLWhycW1BY3Q4azdlYTNKRDFBY215cUwyaGZncnUtNXF5enl5OVc3NGpjdy1lM09QVFBlMEN0THBQMzRNRUFXVDZVLWJhRWgxbWVTaGhR?oc=5",
+   "fonte": "Rádio Metrópole",
+   "quando": 1795355460.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Rádio Metrópole"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 10:51",
+   "foto": "ed5d5c9c0cda.jpg",
+   "credito": "Foto: Rádio Metrópole",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x752",
    "foto_qualidade": "hd",
-   "materia_url": "https://ncnews.com.br/2026/11/22/trump-ameaca-taxar-empresas-data-centers/"
+   "materia_url": "https://www.metro1.com.br/noticias/politica/191765,governo-lula-avalia-apresentar-projeto-de-lei-proprio-para-barrar-supersalarios"
   },
   {
-   "titulo": "Jundiaí discute acesso a canetas emagrecedoras pela rede pública - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2pmVWttU1Q5Z1hjT25oNUFLQWRPUWp2QmZZaF9oYVU3a3d6a0I3cC1KZ0pva3JKVGlXeWJudWYtbWJaTk9ranc3X00wUTZtdUJmbjlRMTY4bHprem1LcENOVzhlQldpZ2M5OGg3dzM5aEIwU1ZsU0pYcDhCZ0N2WnpPeDgydVRVOVdpbUdCNE1lQzYzQXhnYWZNZ3RMWnR5R1BTdG93d1FmemVZUVNzdUhtTkVvVFh4THl4TDhheGVTV09OZDJnQzJn?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1795346461.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 08:21"
-  },
-  {
-   "titulo": "Alcolumbre insiste em Pacheco para o STF - n3news.com.br",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nM2hOZF9DeDFyXzhCT09tenpSb0szVUZaWVdnSWhmS1lEZ3RTYUtZZmZpczBadTgtWUtWeWZSbkZ5LTNGaVRLUTJici1PcjJLR2pyYldTNjVhbW0zM0E1ZE9nMjJMZzhGZXpuVm5ya3BqbS1YWFRxYjNrUUZRbk0?oc=5",
-   "fonte": "n3news.com.br",
-   "quando": 1795346280.0,
+   "titulo": "Ex-ministra do TSE critica entorno de Lula e cobra indicação de mulher negra ao STF - Nill Junior",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUttUU1meXBoU2RBUVhsaFpvQ0FhbVhTVk0ySlJXQkMyT2VYSjVlSEZ4Yks3LWt1d0I2bm1WVEdMbmk0aUU1T0pFSFluekpfTnM5ZWI1OWgycUc1NmhMMnQxaUZaTjZnSkszYWJFeUd3RkFGOG1zOFFNZnRVZFRIcWh5ZUJkVXJRUkhiemJybWRTVm9zMW1VdGkwcWF3aV83UEh0ZUpmbGNrUHlQN3ZV?oc=5",
+   "fonte": "Nill Junior",
+   "quando": 1795355434.0,
    "categoria": "brasil",
    "fontes": [
-    "n3news.com.br"
+    "Nill Junior"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "22/11 08:18"
+   "hora": "22/11 10:50",
+   "foto": "12e86f313805.jpg",
+   "credito": "Foto: Nill Junior",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1024x683",
+   "foto_qualidade": "media",
+   "materia_url": "https://nilljunior.com.br/ex-ministra-do-tse-critica-entorno-de-lula-e-cobra-indicacao-de-mulher-negra-ao-stf/"
   },
   {
-   "titulo": "Uma #locomotiva iluminada e decorada com elementos natalinos vai passar por Alagoinhas e Brumado em dezembro, como parte da programação do projeto “Trem Natalino – Magia que Conecta 2026”. Promovida pela VLI (@vli_logistica), a iniciativa perco - Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBESGhFZ1B2UTI0NHI5TlpTYUJNNXA4c29kZXVVVmJad0FsSndhTVcwYzJXcktuOVFmTGpSQkdJMVZ4dG1KQmtrSWpteTgzVGJwUFE?oc=5",
-   "fonte": "Instagram",
-   "quando": 1795345817.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Instagram"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 08:10"
-  },
-  {
-   "titulo": "Cansada de humilhações e ameaças, mulher presta queixa contra o marido - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnlEUUVGeU9VSjh2T2p5SWtVX3BuZVFlbmRnWVduUHo0U0l5eUJSMUVSUGlZYlpmaDhUQ1JQek1vR1NkRE5UQTZhRi1wN29yVnlWVFhGMHJHMFdIX2ZOc0JrUmhyVV9WLUVhelU1V01DaTNQU0VzN2g3UHhjNW1TU2ZWbXlVVU9HN0l0akE1MHpMOXAyanJucE9QUTJrVWRD?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795345707.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 08:08"
-  },
-  {
-   "titulo": "Alcolumbre pressiona Lula por Pacheco no STF e por ministérios - TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDFuOE5HbnY1enJPYmlGckdOMHJhVjlUclVzQ2JQODFoVTdTejJ3RWR0RExHRHdWUFQ0bEx3cENrUWEyMk5nM0RRdW9ILTFOSnVSZlBpSGE1MWotbFpYdXFiLUxYQkhERVdEb1FsU3lSZ010Z1J0b3JVZ0RXYVhTS3dmX2dxZ2NsWXhVaG44LVNOSktvQlhkWnVITW5DeHFKb0ctMzh0bVE4cE1GTVRrWQ?oc=5",
-   "fonte": "TV Sim Brasil",
-   "quando": 1795345560.0,
-   "categoria": "brasil",
-   "fontes": [
-    "TV Sim Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 08:06"
-  },
-  {
-   "titulo": "Lula anuncia plano para criar ministério dos idosos e defende criação de centros de lazer - Caldeirão Político",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYXhxSFVQYlhMSjl2WUdFejU1bWNyZlFMVmk0MF9EQ2MwREZ1V3JrLTBUbktGZ0l5SFJlX0tja1JBalp1YngyVEphOG02czRfa1lpQTRUbjJTcXFhbXBtR1luV2VBYmc1cTY0dk8yTng3SlpWczBETllvNks4VTBjeTRnUTM4TEpEcWRsLUo5UWQySnc2NlpNVzBHY3ZkM2xZdFdMRzhjNFNVRHFlU3pjNkowVlBxblhuWEpScUJqV2xkUURyYk1PZ1lTZ0RxYzFwSzBvWVZncw?oc=5",
-   "fonte": "Caldeirão Político",
-   "quando": 1795345380.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Caldeirão Político"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "22/11 08:03"
-  },
-  {
-   "titulo": "Ariana Grande conta situação inusitada durante depilação íntima - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzk2cDFnWnF4T2lBN0wxWTBldFkzTWd5MHd5WENIQjZ0cHZBZnE2QXJHa2FIRTFvOEhwOGwyUmJlZnhoVnVDV1FqWWlTa2o0ZkhfRjdiN2lRZjJRMl85d2Z6b2gzZjhmTGwtWi1kOHhWd19ETTFqMkFoWFFkTUUyWHQweHJ0MzZ3UVAyYjYwUnphT3lsZWZmUw?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795344614.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 07:50"
-  },
-  {
-   "titulo": "DESPEDIDAS - 22.11.26 - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSkFwS0FWOVJDMllyamFHNGxTZm9XTzRiT2RneEk0bGVIVk1QSjdJa1g2MzJ6ai1KYnA1Z3B2Uk0xcF9EMWdzU1Y2N000ZnNBN3ktOUJaRFZwcHNBNmc?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795343754.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "22/11 07:35"
-  },
-  {
-   "titulo": "Ônibus SP Por Todas Leva Atendimento Gratuito e Proteção Integral a Mulheres de Flórida Paulista - Jornal Digital da Região Oeste",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGJXeVNiMlhWVHZ6UEZGNzRGNWswdVlPbkRhRmh0UXg5Qm04UnN5Z2F5OVRSMkdabTRxanpTeXhqbldQV19ZRzU5UlF5OXEwd1FjV09CZG9sNjZuWG9wQUhZUHJaZ2dmaktyQlB5VjlzbTlibGVSNDdiVjdrYW5OUHJMRkxfOHIxblVfclVDdFAzNVZhaHV6UzJjT3FPYkpreHZlT21kTUlRbVNYNzBZbTdKWHdYQXpFWFN4UmlzSjJlMWM1bVhUTDZ3Z083b2dxOU13bXF3?oc=5",
+   "titulo": "Chuva Intensa Causa Estragos em São Paulo: Defesa Civil Mobiliza Ajuda e Monitora Situação em Diversos Municípios - Jornal Digital da Região Oeste",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGRiQTk0UTNHZmFLbGlnMkVRQTJjZXhicUFESC03NXgtVHlJWTc0WjhkSjZLWmFobWk5SG1zQzJtRE9sVmc2UDZNc2U5Q1lYNDhBNG4yeHhmc1o1SGU1dkt2X2V2bU85bmhTMHpmazh4X0UyRE5aQk9fUHhERnM0LVhhTmxXbWxheHZrV3FEV3BLWG0wclhPbDUzLVRnOWVhUGdfOUF6ajJLaTBfd05ObS1HYWtuNnBBN0VINTZ5dTFMMVQ1R0N2WDgxa3dVMU9kLWFST2pqWWltdk9rQTFONGRNeDFLWTlYS0xJ?oc=5",
    "fonte": "Jornal Digital da Região Oeste",
-   "quando": 1795349667.0,
+   "quando": 1795355200.0,
    "categoria": "estado",
    "fontes": [
     "Jornal Digital da Região Oeste"
    ],
    "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "22/11 09:14"
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "22/11 10:46",
+   "foto": "e8f0be04158a.jpg",
+   "credito": "Foto: Jornal Digital da Região Oeste",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1066",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jornaldigitaldaregiaooeste.com.br/chuva-intensa-causa-estragos-em-sao-paulo-defesa-civil-mobiliza-ajuda-e-monitora-situacao-em-diversos-municipios/"
   },
   {
-   "titulo": "Ônibus SP Por Todas leva atendimento gratuito às mulheres de Flórida Paulista nesta semana - BOM DIA SOROCABA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVh5WWJFRHlpRFlQMXp2eVpiT3psZU15MVA1SU9fcGV2cEdSWFJOdzR4Nm9wUEg2WmlXS3B4bHZPN2FHTTNPb3ZzZ3d0MERKeDBMX01QMVpNcXc0ZWdGZ3F6WDZrZFFaalZjR1dtOVlJSVFDX19hZHpoaFV5dlJYRUxpN2JtN0pKdUxjbUYtaWJKTjk2WUttZFVSdlZqZnVXcV9QZTZkOVVrNjRoc1BvdUNmX1Uta3hYSTB6UnhBTWVtbEpsOUxlLS0zeUdmLWRy?oc=5",
-   "fonte": "BOM DIA SOROCABA",
-   "quando": 1795347240.0,
+   "titulo": "Alcolumbre trava CPI do Master e impasse chega ao STF - SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBydlFyQS1ISDVoQUpMbTlBcXk3cmVFb1p2bkN0MWV0ZGxNQ1pKdEl1NG9TMDlPdmtEMnBmd2l2R0wtU2hZUkV0QjVsMDhQT2JDWEtGNFNVbzB4bC1DdXc2dnZuYmdmZnQzYTRKWVBhNGpTSU0?oc=5",
+   "fonte": "SpaceMoney",
+   "quando": 1795354744.0,
+   "categoria": "brasil",
+   "fontes": [
+    "SpaceMoney"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "22/11 10:39",
+   "foto": "fac8ebc9fe0a.jpg",
+   "credito": "Foto: SpaceMoney",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x627",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.spacemoney.com.br/politica/cpi-master-alcolumbre-stf/"
+  },
+  {
+   "titulo": "Fapesp lança segunda rodada da chamada PIPE Jornada Tecnológica - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZG5WOHNqT05RWVZsaDlLUGs4UVpYamtFSVJvWG5mQml0a0JDTmR1ang0OVpxZ25vd0tibHJrSjhNZFhqLUhvb2p3NDdVemVhQm1ZSzI1ZTY4LU5menpJS3JNeVRMMmNTRWNEZmhCLVdKXzA3Vkh5Q1ZNZksxaFZZYW9FcVR6S2Zj?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795356660.0,
    "categoria": "estado",
    "fontes": [
-    "BOM DIA SOROCABA"
+    "agenciasp.sp.gov.br"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "22/11 08:34"
+   "hora": "22/11 11:11",
+   "foto": "667efd84267a.jpg",
+   "credito": "Foto: agenciasp.sp.gov.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x845",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.agenciasp.sp.gov.br/ciencia-e-tecnologia/fapesp-segunda-chamada-pipe/"
+  },
+  {
+   "titulo": "Anchieta e Imigrantes têm quase 30 km de lentidão na volta do feriado - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWRTYlZSWm5BV3F1N3RoT3FOYUk5UXp3SDBRV3RFWmVDV1lfbkMwVU5HeXUtcnlrVW44Z3JHSElzc1dGa3VuNTVLRXl0V3JNVjRVR2hQeWV2RF9iNFdQU21xQ0JrWFJlUmpidlV3V2FqdXZhdWFzYW1xMFRObHF0WjJFM0p0eVVIbEVMNUJyRENWVjQ2d0tXUVRJT2lpSkM3V0hwWlNvTXZLQQ?oc=5",
+   "fonte": "Metrópoles",
+   "quando": 1795356660.0,
+   "categoria": "estado",
+   "fontes": [
+    "Metrópoles"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "22/11 11:11",
+   "foto": "c82ddabf4d53.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Estado de São Paulo tem semana de mobilização do combate à dengue - Tamoios News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUE11VjktOGcySEtZSWlCODUyTE04SjUzdnVIaV90ZXp5NXp6QWFEdE1DaGt5QlVrWEE3Y09PRUhCM2ItMU5UVS1rbVJVOVRvM1NxV2tacmg4dUFicUNPSEozOS1ad0NnN1hxcGZvMlBZWWRCSGNxSXZkdk5LYWV6R1cwWTZpbTlibWNMZTZPZUJzNFIxUE5nWA?oc=5",
+   "fonte": "Tamoios News",
+   "quando": 1795356004.0,
+   "categoria": "estado",
+   "fontes": [
+    "Tamoios News"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "22/11 11:00",
+   "foto": "d632cad79a42.jpg",
+   "credito": "Foto: Tamoios News",
+   "foto_tipo": "materia",
+   "foto_tamanho": "930x600",
+   "foto_qualidade": "media",
+   "materia_url": "https://tamoiosnews.com.br/estado-de-sao-paulo-tem-semana-de-mobilizacao-do-combate-a-dengue/"
   }
  ]
 }
