@@ -172,7 +172,7 @@ def main():
                 post["facebook_erro"] = str(e)
                 print("FALHA FACEBOOK:", nome, e)
         story = arq[:-5] + "-story.jpg"
-        if os.path.exists(story) and not os.path.exists("SEM_STORIES"):
+        if os.path.exists(story) and not os.path.exists("SEM_STORIES") and not post.get("sem_story"):
             post.update(publicar_story(story))
             print("STORY:", {k: v for k, v in post.items() if "story" in k})
         json.dump(post, open(f"publicados/{nome}", "w"), ensure_ascii=False, indent=1)

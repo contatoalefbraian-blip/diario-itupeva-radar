@@ -1,6 +1,7 @@
 """Gera a versao Story (9:16) dos posts da fila que ja chegaram no horario, antes da publicacao.
 A arte do feed (4:5) vai inteira no centro, sobre um fundo escuro feito da propria arte desfocada.
-Desligar: criar o arquivo SEM_STORIES na raiz do repositorio. Reels nao ganham story."""
+Desligar: criar o arquivo SEM_STORIES na raiz do repositorio (todos os posts). Reels nao ganham story.
+Para pular o story de UM post so: "sem_story": true no .json da fila."""
 import datetime as dt, glob, json, os
 from PIL import Image, ImageFilter, ImageEnhance
 
@@ -10,7 +11,7 @@ if os.path.exists("SEM_STORIES"):
 agora = dt.datetime.now(dt.timezone.utc)
 for arq in sorted(glob.glob("fila/*.json")):
     post = json.load(open(arq))
-    if post.get("tipo", "feed") in ("reels", "so_story") or dt.datetime.fromisoformat(post["horario"]) - dt.timedelta(minutes=20) > agora:
+    if post.get("sem_story") or post.get("tipo", "feed") in ("reels", "so_story") or dt.datetime.fromisoformat(post["horario"]) - dt.timedelta(minutes=20) > agora:
         continue
     destino = arq[:-5] + "-story.jpg"
     if os.path.exists(destino) or not post.get("midia") or not os.path.exists(post["midia"][0]):
