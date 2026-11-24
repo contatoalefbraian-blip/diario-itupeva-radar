@@ -1,7 +1,50 @@
 {
- "gerado": "23/11/2026 21:33",
+ "gerado": "23/11/2026 22:59",
  "desde": "23/11/2026 16:35",
  "pautas": [
+  {
+   "titulo": "Defesa Civil alerta para risco de temporais na região de Louveira - Prefeitura de Louveira",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS3lvX0YwaHo3Q1BEYVVmOGlPRnlUZVZidlBnZmpHS3g0RUZkQXMtdHVGX3owb1N1YmdBRDdkTUNZajdmT2xRVEx2eHFIQzc1MGRWQndaQWRxRG5ZQTg5TEJrRjhZR1dUS1NYNTRPMWswRkhiaGNYZHFjZ002emRwZk9SV203d2ZGNjFuSmhETkNZeFZEejhrREFheWNQRDhLNFJB?oc=5",
+   "fonte": "Prefeitura de Louveira",
+   "quando": 1795463328.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Louveira"
+   ],
+   "urgente": true,
+   "assuntos": [],
+   "pontos": 12,
+   "hora": "23/11 16:48",
+   "foto": "b8f24d8209c7.jpg",
+   "credito": "Foto: Prefeitura de Louveira",
+   "foto_tipo": "materia",
+   "foto_tamanho": "680x450",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://louveira.sp.gov.br/conteudo/defesa-civil-alerta-para-risco-de-temporais-na-regiao-de-louveira"
+  },
+  {
+   "titulo": "Prefeitura de Itupeva SP publica concurso com 59 vagas para diversos cargos - Qconcursos Folha Dirigida",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmpwWHVmRzRMc3Q4RFFqYkpEc09BWXc5WF9FMmFISUxHT0JRRks3X0k4QjcwTlZBdzNrUGxWQUNPQW02UWdsX3VySDBUdEEwT29WY1BjSkR6X3FsbUhKN2dyb0wwd2Z6X0F2SmVDR0dnNkJzY1dLaTVPOXF4VDV3ak9PV0UyMGR0TjR4bUN1aW9JclhDY1c1eHdpLW9ObUo5X29TQVF3RXNXQQ?oc=5",
+   "fonte": "Qconcursos Folha Dirigida",
+   "quando": 1795484205.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "Qconcursos Folha Dirigida"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "prefeitura",
+    "servico"
+   ],
+   "pontos": 11,
+   "hora": "23/11 22:36",
+   "foto": "d91c8858c17e.jpg",
+   "credito": "Foto: Qconcursos Folha Dirigida",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1366x727",
+   "foto_qualidade": "hd",
+   "materia_url": "https://folha.qconcursos.com/n/prefeitura-de-itupeva-sp-publica-concurso-com-59-vagas-para-diversos-cargos"
+  },
   {
    "titulo": "Prefeitura de Itupeva abre concurso público com vagas e salários de até R$ 13 mil - Imprensa 24h",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PVkhoZlBHQ29MdVgzV21IS3kteDFUNkJ0bndSblc1Y0xNYTl6d1kyNXpPVEl1RFRYakVtcVNNYzlkSDR1Qk1uZUw5VDFtaGtqSC1NME5CSlZURDZ1VW5mUGYza3ZQWl8yd0N5UExzQnllS05S?oc=5",
@@ -202,7 +245,7 @@
   },
   {
    "titulo": "Caminhão de coleta de lixo desgovernado bate contra muro de casa no interior de SP - G1",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWGwtMkZDRkZtZEpPMU5SZDFhcVNDbHJ1cXVnSkl2T1hMRk56WVExTmc4a3BZNjEtUlBmdl9VcGRvWnBaSkhycEtfNkExZVh2VTZaWUZQSWd5dUhRQ2tHNmxpcmZVUnVuWF91RmRmc0JhUzgtWjBwa1VPRVdTWG1sSHlVRU5nQ0UyRmNZZ0tvamlNb1FIMk5OblNzU1picFlCb1ZsS29QTmdBMWtCY2doY1JiM292bE5ua3BHbk50dWY1REl5RUNPSVp5amREQmxNVndrNkhHbzl6UXRvdk1FQVFCWGFURUlOWnZ30gHrAUFVX3lxTE5YbC0yRkNGRm1kSk8xTlJkMWFxU0NscnVxdWdKSXZPWExGTnpZUTFOZzhrcFk2MS1SUGZ2X1VwZG9acFpKSHJwS182QTFlWHZVNlpZRlBJZ3l1SFFDa0c2bGlyZlVSdW5YX3VGZGZzQmFTOC1aMHBrVU9FV1NYbWxIeVVFTmdDRTJGY1lnS29qaU1vUUgyTk5uU3NTWmJwWUJvVmxLb1BOZ0Exa0JjZ2hjUmIzb3ZsTm5rcEduTnR1ZjVESXlFQ09JWnlqZERCbE1Wd2s2SEdvOXpRdG92TUVBUUJYYVRFSU5adnc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZXBWYkhSNkY2b3ZSMjhDbTlGbWhZbUdnOU0yQk41ZXVPaVpxdjdKbkxOY2xCcXJXcEZINk5WaFBwdjRBbTRsa25YSkF0dHVuTXR5YXdvR205TUNXc0dOZkxmV3J5d2xpMm5LNm53UGRBQ1hlbVplLVJYQzEwSDVqdWNmOFFqLTJIek5jbkZKcjNFa1d2bG5hN0owd0ZlSjkwejZXLVlTMDU4UmxCUWp4dk9FMXVaR2FFdGVvNUpTZEdUTGZmZVBSNngzUkZMWkx1SmdyRFBtdWNVVDEt0gHrAUFVX3lxTE5YbC0yRkNGRm1kSk8xTlJkMWFxU0NscnVxdWdKSXZPWExGTnpZUTFOZzhrcFk2MS1SUGZ2X1VwZG9acFpKSHJwS182QTFlWHZVNlpZRlBJZ3l1SFFDa0c2bGlyZlVSdW5YX3VGZGZzQmFTOC1aMHBrVU9FV1NYbWxIeVVFTmdDRTJGY1lnS29qaU1vUUgyTk5uU3NTWmJwWUJvVmxLb1BOZ0Exa0JjZ2hjUmIzb3ZsTm5rcEduTnR1ZjVESXlFQ09JWnlqZERCbE1Wd2s2SEdvOXpRdG92TUVBUUJYYVRFSU5adnc?oc=5",
    "fonte": "G1",
    "quando": 1795465503.0,
    "categoria": "regiao",
@@ -245,6 +288,28 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/23/golpe-do-amor-sorocaba.ghtml"
   },
   {
+   "titulo": "Unifesp - SP abre vaga para professor substituto com salário de R$ 6.157,29 - PCI Concursos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjU1TmZsd2k3ZVY1UE9LWlh1bEtzak5VNmtldHhzdzh6UmlQWGt1ODdUY3p3NmY5aThzQjlkTzhDVk1OVkVQVnV6VDVYTmFJbHRXM2doSml6cjV5anlxdUJVeU9tMkwxWXByVjRNY0NxVWcwS1ZpbjdueXR3NTRvM2FVdDhMT0MzWFd0dTlsX2NkMWRERVRWRlNEdkd6TGtBdWhJVi1FSkQ4WWc?oc=5",
+   "fonte": "PCI Concursos",
+   "quando": 1795463223.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "PCI Concursos"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "23/11 16:47",
+   "foto": "22b96fc46205.jpg",
+   "credito": "Foto: PCI Concursos",
+   "foto_tipo": "materia",
+   "foto_tamanho": "640x480",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-vaga-para-professor-substituto-com-salario-de-6157"
+  },
+  {
    "titulo": "Prefeitura de Sertãozinho - SP abre seleção com salários de até R$ 8.732,86 na educação - PCI Concursos",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlVWc1NaM1NxQ0MtUzdNNWRmeUo4SjEzQVZueS1fazF6RXVGN0JqSlZUNlhuQ1RiYkhFTFFCeHA0dnhxSm9zeUxkVTVVNHBiSnlIMWY5Y3c4QmVxUk5kblZJNXkwV2s4NkkzOENoY1EySExHTGotYkJ6QUpnNTRraUV5RW5VZzI0aTBQUGNYemhoeVFfOFNGSlE3Wl9aZzVqWFlyN3dma0hoWUpqS25zV0FlbkZKX1V5X244?oc=5",
    "fonte": "PCI Concursos",
@@ -265,6 +330,28 @@
    "foto_tamanho": "640x480",
    "foto_qualidade": "baixa",
    "materia_url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertaozinho-sp-abre-selecao-com-salarios-de-ate-8732-na-educacao"
+  },
+  {
+   "titulo": "Homem é preso após furtar 20 pacotes de cartas Pokémon em shopping de Jundiaí - poptvweb.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNrdF9DUDU0Ty1kTUxTaFZuUlY4a1RqdHN0MTUyZDF6WElCeGlNTjQ1Q1hGQUhSbVJWTENURGJYU1U0aTNYWktNZWNJQmp1bWFOcG9jOFBsa2RfWXQ0TE53b2x1VzdCXzFHLWRuT24wczlQdEJodG1KamhjUFBZSWVqcHptakxaLTRWOTMtUFRwTS0tQ2pxUGVCWmp6aElZVmdiWg?oc=5",
+   "fonte": "poptvweb.com.br",
+   "quando": 1795481345.0,
+   "categoria": "regiao",
+   "fontes": [
+    "poptvweb.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "23/11 21:49",
+   "foto": "fe5b252d608b.jpg",
+   "credito": "Foto: poptvweb.com.br",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1088x572",
+   "foto_qualidade": "media",
+   "materia_url": "https://poptvweb.com.br/homem-e-preso-apos-furtar-20-pacotes-de-cartas-pokemon-em-shopping-de-jundiai/"
   },
   {
    "titulo": "Hospital São Vicente suspende cirurgias eletivas por superlotação no pronto-socorro em Jundiaí - G1",
@@ -414,8 +501,8 @@
    "materia_url": "https://www.tribunadoagreste.com.br/geral/2026/11/23/1028382-governo-federal-anuncia-concessao-de-imoveis-historicos-para-turismo"
   },
   {
-   "titulo": "Jovem participa de concursos de beleza e busca novo título - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHZnNjNoV0REODNNeE10eHZzTkJYSTdvdDlVZmJIcEJpb1hGdUNYU2JfN0lJSjcxOWZoOE1aMTdVUDI4TW4tMVpvMjJkMWl3SVhXUzFrTGxwaFBHR0lyVXI4UUZvUlF6eVpWNjh3NEZpc1ZYc3lSS0lkZjVSQzdoUUdqQXM3b3hnY1ZZdDd0RHFGZHUwMUp4TS1hQmw5MTNSZWVDUXRWdk9mWjJiWjY3SnJuNVlRVF9fVzl0eFBhc3I5NGM?oc=5",
+   "titulo": "JJ: Jovem participa de concursos de beleza e busca novo título - sampi.net.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUExZRG82NjZTa0gtR2VrOG5jN25QcHlXOEk0ckdjenhyRHlLbkNhd1pGaUJkd0s0cno1dTJzZko1bm8tOURzZkpVNW9jM0NVZlEzSzNMQ1A1bHJNa1lNblF4Uzl5dEV5SjlicVI3Z2o3UGVZX0E5dUtXR3JxMzNGZFVKellsZGRIcHNOUV95bERtRmhCWktuM3JNR24zcXFvVVVWUGVoRXJDb1hDemkyQXVWa2tldl9MQ2xwTnhn?oc=5",
    "fonte": "sampi.net.br",
    "quando": 1795467142.0,
    "categoria": "regiao",
@@ -428,12 +515,32 @@
    ],
    "pontos": 7,
    "hora": "23/11 17:52",
-   "foto": "4a8943ee95e4.jpg",
+   "foto": "a328d142110c.jpg",
    "credito": "Foto: sampi.net.br",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x800",
    "foto_qualidade": "media",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3020663/cultura/2026/11/jovem-participa-de-concursos-de-beleza-e-busca-novo-titulo-"
+  },
+  {
+   "titulo": "Escolas municipais da Vila Jundiaí recebem peça teatral e oficinas sobre sustentabilidade e saúde - Prefeitura de Mogi das Cruzes -",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNamR1RzctbTB4Zlo1bmdHMGZsWkFCUTVJa21PdWU1aVZHdzVab01HMXFEYXgyb3VoX3BYbGQxVHhhQjdHNHFlNkNjWTBOWGwteFdUUlBWQUJCLXdEb1JXUnUxOFBGNWtJQUNEb1A0R1lBWFRRVzQ3a1dWUVZIOXdNWmgtXzdQV1h3S0laRmpMTzlEazlfWVlwSFY5bDNuYUtZNTZGYmZkSzA2b2xvN2lGT0E3c1JnUG1oU2dJYXJETTZqQU9PSTNaMlB0S00tbjM4U2l1bEVldlE?oc=5",
+   "fonte": "Prefeitura de Mogi das Cruzes -",
+   "quando": 1795466924.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Mogi das Cruzes -"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "23/11 17:48",
+   "foto": "56a23a632ef1.jpg",
+   "credito": "Foto: Prefeitura de Mogi das Cruzes -",
+   "foto_tipo": "materia",
+   "foto_tamanho": "576x334",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://www.mogidascruzes.sp.gov.br/noticia/escolas-municipais-da-vila-jundiai-recebem-peca-teatral-e-oficinas-sobre-sustentabilidade-e-saude"
   },
   {
    "titulo": "Cheques de mais de R$ 1 milhão são apreendidos na casa de suspeito de extorsão - G1",
@@ -447,13 +554,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "23/11 17:46",
-   "foto": "5ab86dcea5f0.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "405x720",
-   "foto_qualidade": "media",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/cheques-de-mais-de-r-1-milhao-sao-apreendidos-na-casa-de-suspeito-de-extorsao-15274288.ghtml"
+   "hora": "23/11 17:46"
   },
   {
    "titulo": "Jundiaí leva informação e acolhimento às mulheres durante campanha de combate à violência - Prefeitura de Jundiaí",
@@ -467,13 +568,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "23/11 17:45",
-   "foto": "c0efc6ff7d73.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1536x1024",
-   "foto_qualidade": "hd",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/23/jundiai-leva-informacao-e-acolhimento-as-mulheres-durante-campanha-de-combate-a-violencia/"
+   "hora": "23/11 17:45"
   },
   {
    "titulo": "VISAM identifica morcego positivo para raiva em área rural do bairro Santa Clara - Prefeitura de Jundiaí",
@@ -487,13 +582,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "23/11 17:19",
-   "foto": "36d077d2db21.jpg",
-   "credito": "Foto: Prefeitura de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1273x852",
-   "foto_qualidade": "media",
-   "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/23/visam-identifica-morcego-positivo-para-raiva-em-area-rural-do-bairro-santa-clara-2/"
+   "hora": "23/11 17:19"
   },
   {
    "titulo": "g1 em 1 minuto: motorista de aplicativo é descredenciado após ataques xenofóbicos - G1",
@@ -507,13 +596,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "23/11 17:15",
-   "foto": "6e35d934c491.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1279x720",
-   "foto_qualidade": "media",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/g1-em-1-minuto-motorista-de-aplicativo-e-descredenciado-apos-ataques-xenofobicos-15274193.ghtml"
+   "hora": "23/11 17:15"
   },
   {
    "titulo": "PGR pede que STF encerre sem analisar mérito ação do PSD por segundo turno no RJ - G1",
@@ -529,13 +612,24 @@
     "politica"
    ],
    "pontos": 7,
-   "hora": "23/11 17:03",
-   "foto": "a4c3f7e46112.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1500x1000",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/google/amp/rj/rio-de-janeiro/noticia/2026/11/23/pgr-pede-que-stf-encerre-acao-do-psd-por-segundo-turno-no-rj.ghtml"
+   "hora": "23/11 17:03"
+  },
+  {
+   "titulo": "Chuva em SP interdita túnel do Anhangabaú, alaga vias e cancela voos - Band",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUJGNWZQZUZUSnFaUlVOLU1lVTRoYVRXRUU3a01SNVlpWC1Jb1dVRkQ1cy1lT3ZFM2lxelRDSGI4NWl0dkZsZXRZajM1cVljd1JfSVZ3Y20tYmEydGExc3VMcVBpeTVMUVNjaGNSV2Z0Z0VSanJfOERkVnF0aVlxalllWGNJOUdTTzhEUWlsRmZFRW1BamlJM0JOM18yMDBRT3hBR1FKOXZQQmFZ?oc=5",
+   "fonte": "Band",
+   "quando": 1795463862.0,
+   "categoria": "estado",
+   "fontes": [
+    "Band"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima",
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "23/11 16:57"
   },
   {
    "titulo": "Concurso Beleza Negra de Itatiba acontece neste sábado (28) durante Festival Amigos do Axé - Tribuna de Jundiaí",
@@ -554,6 +648,131 @@
    "hora": "23/11 16:35"
   },
   {
+   "titulo": "Câmara aprova texto-base do projeto de ajuste fiscal - O Potiguar",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHYxUjJXZVRMbmFHbC14d2JTRnJ4UVhyYWRsaFhhcmxlckgtQjhsRGNqaXNzdVBCSkdNckl0dW1RN3B0RHE5V3ZCLWdIQ2hRNk82ZnRhMWg0WU5BRTZNc3lJNGpWVUZIYUM2WTZkdDI4MmtldWoxWXpVcF8xY1E3OUdncXBPbUty?oc=5",
+   "fonte": "O Potiguar",
+   "quando": 1795484979.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1",
+    "O Potiguar"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 6,
+   "hora": "23/11 22:49"
+  },
+  {
+   "titulo": "Câmara aprova texto-base de ajuste fiscal do governo Lula de até R$ 56 bilhões - Rede 98",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUtfcGFRd3d6N0RralVNX3kwMWlvTTlEcUcxWXd1dC1RZG1lT2E0U0EwZV9BYmtTbWlRODVCVUtiTVFNNXcxbE1MR280UVJZTzhXZ0hWRS1obXEyRDNvQ3Z0TTNpVU1JaWdoTGtwOVNmaWVHLWZ5UlE2aFBsYjZVU2RYZzM2eGFQM0lSWmI4NnhwREhsQktkekZ5UGtfb2NmY2JCRHJhR1MwZkQ3MEJuMllHelVOOElSUEE?oc=5",
+   "fonte": "Rede 98",
+   "quando": 1795485300.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Rede 98"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "23/11 22:55"
+  },
+  {
+   "titulo": "Câmara aprova texto-base do ajuste fiscal de com corte de benefícios tributários - Agenda do Poder",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzFGSDRPSEp3TGpKVkFGLXVHOEhDekpob1BFY3lDM3VTd0Y2MVdOTWVTRTBJZncyTllxeVZQdjhETUFPb3BoUGk2UlZuNm5RbkozVUg3OUhUdUh3Ymk5VU5RM1ROd3JNWlc0LTExMGwxeXhsQlFSRmFyQlFoRDZtV3M5UmhqcXR1X284SDRCMGo0cmxEUzRTUVdRUG5xVGgwMFNibFRuaGFuNk5Zam9r?oc=5",
+   "fonte": "Agenda do Poder",
+   "quando": 1795484820.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agenda do Poder"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "23/11 22:47"
+  },
+  {
+   "titulo": "Câmara dos Deputados aprova texto-base do pacote fiscal - Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHBYRlVyQ09nZk5yMG5QLVNWaHE0a3IzTS1Xb3ZkNFpKYzJ5ODBsaVhJdkZDc0VGY0RVWWt0MjNwWUdWanp5NFhGVzdtbko5YW53UUQ3QjFWOGFJdWpqWGduSHJLSGdOSWxIM2ZVY3MzRGwtdzJ4QXF6anoxOWFZZ1dqUm11VG9Sa3JDc1NOLXRCdjR6LVE?oc=5",
+   "fonte": "Brasil 247",
+   "quando": 1795484580.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Brasil 247"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "23/11 22:43"
+  },
+  {
+   "titulo": "Após divergências, Câmara aprova texto-base do ajuste fiscal de Lula - Poder360",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDBvek5aanlZNlp0dnQtSjR5V3hIWnQtWnEwMWQzLTJtZUxyWHRIX2hhZldjTld5Njkzc2VfM1BWMHNqY3UtbkdJdUxJQkZfMV9aLUFYRVRreVhpVEhUM3plVHoxamt0Ynpmel9uaWxXdnFTQlJpR3pBWFZtMGxXeHNCMnFoWUh5NXd6R180M2hhRl9UbnQ3RTIxNS1YQ1dBUGJGRUVSUkhxbUZRRUpYOFh3?oc=5",
+   "fonte": "Poder360",
+   "quando": 1795484396.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Poder360"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "23/11 22:39"
+  },
+  {
+   "titulo": "Câmara aprova texto-base de ajuste fiscal de Lula com impacto de até R$ 50 bilhões em 2027 - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGxScjg2ZkE1c0RYcGMyeVlPdkJkSVVSOVpLQmpuXzZfR1RMYlpaNmNMbW5OTEw0LVJLYmxERlg0WnFlbjZwcFRzdDBHZmZQSlYyWEJEME9TVWFrUWdER0thUjBSTy0zREZuclhSZzRGY09XR0tlQ0JwNURYVmlvWDNpZ0FqaXI0VndoTlk3SFcySXdyR1JYX1Z4Q0JzSVp6QUhMNDFhUHkxQ284b2hmck1RWHo5UmRMMjU3dE530gHDAUFVX3lxTE1abWRiWGtodWI4Rk8xd2V1a0NMckR3MmhaS2xHTHhHYjJyTXZXeGhJNEcyTHYxdEhnTkYtY3J0ZU1WMnc3aUZCSElkTWJhbHdGY3lFdW1rWGxiSFZNSXJyNks5c1dIeW51eFVEdHNGNGd4bEhyQWZBeEVMQVRpSzQ0OUJQX3dCSVdPZnI5Y0NEZEFrZzRBU2hkNlJaY3IyQjdaRW1ramlVck9PdTJvcllLVkNTVVBPM3IwR29fbnNRcHFFQQ?oc=5",
+   "fonte": "Estadão",
+   "quando": 1795484107.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "23/11 22:35"
+  },
+  {
+   "titulo": "Corinthians inaugura segunda loja oficial em Jundiaí com presença de ídolos do clube - Meu Timão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVnA5ekhubjNIcHV2ZUU0YWdYYmdZaUd3bDJtT3UxeGtwbXdxVEU1cF90QXlkbTQ0aXpBWE51RGRtSk1pNGMxUjJFdU1qdURNUUx0bFgyUHNPbzF4R1NzN2w4NkVHRkNUSHVkeVY4Qm81XzlYeWhaMUxPTU13TERCLUl3aUNSU25rTUxBeXNWc3RJV190ZVVyNkNuQ0N1M0h2UzZPUlk4T1U5VVFZMnBHUUZRcDJMV3pQNmNjYnVONUg4MjNYM0hZdF8yT3gzNlBnUDBQVGpDVnp4OUE?oc=5",
+   "fonte": "Meu Timão",
+   "quando": 1795483800.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Meu Timão"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "23/11 22:30"
+  },
+  {
+   "titulo": "STF mantém recolhimento de livro assinado sob pseudônimo \"Eduardo Cunha\" - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXVtVWkxZ1pGNUdRdXRYOERjWnJjRGoydm52bVFiRDVEWnE5cDhXejE3UkF0aVpXVzJkM25mQ3VrN2N4WXYydV80RVpRaGxFSnZ6dHdFTklaUC1WelY0QS12OE5wbUstMkVXUlJuTFl6bFhnVEFkbUZENUoySUNuZlUzRVlycUl3WUExeEU3Uy12QXFHTldqVkNIZzJsSlg2cnhtSWZoM0hHMG9xRjctU1ZDYUdPYVZCUVMzeUR4VlY?oc=5",
+   "fonte": "Metrópoles",
+   "quando": 1795480980.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Metrópoles"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "23/11 21:43"
+  },
+  {
    "titulo": "STF mantém ordem para recolher livro que usa Eduardo Cunha como pseudônimo - Agenda do Poder",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEptU0JkN1ZJbVU5dkdrUjVyb2VSa3pwYXplSmtReXZ1Wk5DYWdvX0xLZ2xxOVB4T1ZieXJDTkhpQTlvU3BGeEV5c0tkdlVKN0x6UjhjRDEtR1pMSFduVlR6cnNsdm16ZUFJUHNfeUVJVDRGS3oyd3VCZjBvTzNCMWlmbVR4M2RuWktFWW82VjNTdkJYTnRXNHRveFdmNXB3ZWJCQ01Ndw?oc=5",
    "fonte": "Agenda do Poder",
@@ -568,6 +787,36 @@
    ],
    "pontos": 5,
    "hora": "23/11 21:30"
+  },
+  {
+   "titulo": "Chuva em SP fecha túnel do Anhangabaú, provoca transbordamentos e deixa carros submersos - Estadão",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWFVRVRyeHo1ZHdkUkFER2UyM0dXQkRLbG1TTzZuRVozMzJjb2ZOT0NVT2RWX1dnV0xhV3pQNDFqaUhiT2p4Z0VMSGhIT0RodlZjNDkzaktOaEJXenZBTGVtV292alBWeWtQSFl5QUxpN1Z6bUJrSUdWSWJBREFiaHVrONIBiAFBVV95cUxPWjkwZDFFWFQxa1d5LXRNb2pvV1V2WWczd0l3ZXNwS2FlTnd1S0liRFpFUm81a3NUWnVOVjVfdTVhcUdPLUd0QWtLTWFya2FtTDBfcVpZV1hNalRta3JZRlR6VC1TVjNXbDFNb25lRDQ1bkR2UkpEZmZCY1ZmX2VRdGJpUG01Unh3?oc=5",
+   "fonte": "Estadão",
+   "quando": 1795479971.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estadão"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "23/11 21:26"
+  },
+  {
+   "titulo": "Jundiaí (SP): Hospital São Vicente suspende cirurgias por 2 dias; entenda o motivo - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHBJRHgzc1cxWHBBeW8tbkRpZmU5NkFrUEc4OGRMcnZiOHFRQVFlUmZxZnBTaVVJOHhWMzgxLTI1VDQ3aTd6ZWJSbjBEOV9kdTVUU3JlMlZFNkViVEloUERBLWZvQUpfSlYwX1poSUxQSjNpenVxUzVWeHZoVVF1Wkd2ZlNicW01M3N0RmpFMXc2R3JQOXcyY0FVNGZ4UXV0al9ZM1hZSHdkX0lOWWl4Qg?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1795478455.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "23/11 21:00"
   },
   {
    "titulo": "Fim do Fethab 2 e ajuste fiscal de Lula fará 2027 ser desafiador, diz ex-secretário - Rdnews",
@@ -602,22 +851,6 @@
    "hora": "23/11 20:42"
   },
   {
-   "titulo": "Câmara aprova urgência de ajuste fiscal de Lula; pacote prevê impacto de até R$ 56 bilhões - OREPORTER.COM",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aV3hMR2d6OUR2MEd2RkdyMzZtb0hfODZ0WU1uQTBpWWk3clFlM2s4ZS1JLUtUbmVzX3NwTG1iMjZnaXJwbzJPTmxKeWctOUJHaHZzOWNsSnNCNVZOTWU2dXZoNmozY25YODJPVnh6cjVDM0VqRjc0NFdR?oc=5",
-   "fonte": "OREPORTER.COM",
-   "quando": 1795477297.0,
-   "categoria": "brasil",
-   "fontes": [
-    "OREPORTER.COM"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "23/11 20:41"
-  },
-  {
    "titulo": "Tarcísio de Freitas critica ajuste fiscal do governo federal e defende corte de despesas - Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmZ5YTZYaU5nY29nMnVYa2VYQS1VNnJMTk0tdFlaNW55VnFhSVV4MUp6U0Uzenc1X2pCcUVNS0VSQmRRa2RNR2RKNDl1dU5Zay04anFCOVF5YkhHeHFTVEtYc0tTRHN5TEZtblBBVldCRUh1VTFPVlBUc3J3b1FWb0NlY05lb3Exd2JxX0xKQUU5ak1MTC1hb2lrX2VjOGs1azl0Sko1TlBURHdzMDRnbUl2dnNza1dpc2lmd1RJbmVkRFZNbXc?oc=5",
    "fonte": "Portal VV8",
@@ -632,6 +865,22 @@
    ],
    "pontos": 5,
    "hora": "23/11 20:41"
+  },
+  {
+   "titulo": "Chuva forte causa alagamentos e quedas de árvores na Grande São Paulo - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjdaalhJUTBKS1JNS2tiQWQ5eVNxdzhFMGtjTkNVS1NoVmZxWGdBRHdvZFV6czdPRXktU2xHN1Q3TGtMdXgwWld0LVIyd1R6LWFwZjNieVhMaWUzanI0S0xabGlGazF5RGNVMzRiXzlNS1VPRkZweVMxb3dhNlZEcUQ2UlFNT0Joc2dTUUQxeC00dVUtRW1BbjJZSFkzQ1ZsT2h2T1pfMUowLU9DT3A2NGRacVZMOV9uRHR3?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1795477218.0,
+   "categoria": "estado",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "23/11 20:40"
   },
   {
    "titulo": "Câmara dos Deputados aprova regime de urgência para votar projeto de ajuste fiscal - Araraquara News",
@@ -698,6 +947,22 @@
    "hora": "23/11 20:30"
   },
   {
+   "titulo": "Mônica Bergamo: Padilha anuncia testes clínicos de vacina contra o câncer no Brasil em 2027 - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXZDYlY3ZWRKWFQ3Wk1abU1waEVXTDUzZkw1U3hBN0VVNDNmdVQ5VlR5dXc2Ym56cWVTdE5obFFzRUpQbHVIUGE5LUtlZnFPVC1NLV9XQjFkempWNERqY1ozRDhzVWkxaVZ3WGIyVW1xMjBnQzZQNmJ5TTQ0SGx1OG9WWTRWLXFQeC1GMVhFdW4xTHFXUmpwSXBhRmhyS0taNW5MTWFCRE5MeDA1cHhhRHNpN09nWU0zcHNZU2phSTZlQnhfZ2lGLUhKMjlTUXF3QW1YWExxOFo?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795476600.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Folha de S.Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "23/11 20:30"
+  },
+  {
    "titulo": "TARCÍSIO DETONA AJUSTE FISCAL DE LULA E COBRA CORTE DE DESPESAS: “NÃO ADIANTA APENAS AUMENTAR IMPOSTOS” - Diário 360 Notícias",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRml5MWNGeFA4clZPSXZjaHVXWjRQNUtZLUFzQmJxbUdPcFg4cTl5MjN5QjR1eVpWN3F6TjczVUZJTGJ5SlFRLVJ1MW5qNGNuWXJHMW5ZUEFNdE0xbTZHWno3ZUtHaGEtSWFDQkpaMFJiZUZabDVjdjFEMTQ3UmpzZ2FyN3ZCR1hab21Hc3M5THRNMk5CRHNINnZXZngzczY1Z3lERjlhd1dGZHB1Q29FMGJvcWcxV3RaelQ0YU91clk3WHlQcEI3ZXpyOHlqY0tnVW5r?oc=5",
    "fonte": "Diário 360 Notícias",
@@ -746,6 +1011,22 @@
    "hora": "23/11 20:20"
   },
   {
+   "titulo": "Estado de São Paulo começa a distribuir vacina contra mpox; siaba quem pode receber - Notícias ao Minuto Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY19hbUotR3lvSlBQc0RmZExFdk9tRHQxcEh3Zmx3UzVWemFBamx1T2hUWFVvSXhNLUJLcUFuaHMxZDk4UTlLY3hKQmFoNVhSc3h1eTJFU2pxVlV6MG1hbnRRMXRtNVM0ZjFsSllacTRvN051Y2ZkbTFZNlctQWxwWm1zTXpWTDE4ZGZ2Q01wSDBRNFNJN09iYXlCX0swT3gxQ3dVSHZIOEdpWjIwOF9Yb05Rd0QwTU1yTnNfTEpJdWd5NUctTlJPeXBILUhaUQ?oc=5",
+   "fonte": "Notícias ao Minuto Brasil",
+   "quando": 1795475520.0,
+   "categoria": "estado",
+   "fontes": [
+    "Notícias ao Minuto Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "23/11 20:12"
+  },
+  {
    "titulo": "PGR rejeita no STF tentativa do PSD de forçar segundo turno no Rio - O Cafezinho",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUJOOEJOb1RVYml5RzN0VUg3Y0w0amhveEVqSlc1Y0tNQ3B1WVNNNV9palVGd0pBbHBObzNzSlNmLVVoeDllZjY0cWhKN19JcERsRnpiX2J6WXhkdnhQWlVRWlRPMU9tQ0dhQ2RpMWttVHNlVElvbTJJcktWWnBBa2dreGFISl9uZUMtUkVSeEpIckQyMnFyLVlyVzUyWDZobUdqREhNRWTSAa4BQVVfeXFMT21PckZ3MkxseWMxNmdpazNaSEV4ZnN5SE1lQXh5M2tuNjMzckw0NzJ5OUNOTEpjZ3hlanAtaDVERFF5dGxROXVvUFhCVGctSExaeHhJbjllWm1paUtpR0RTZVUxUzdjQ2FlWUZoZFhCMy01Yk9EOFg0ZG5lV09PN2tOcGZmLXcwREpLQ1JzcUl3SDVhMHIzbHdKWDZfTDJ5NG52cl90OHVqdzA3NHhB?oc=5",
    "fonte": "O Cafezinho",
@@ -762,116 +1043,20 @@
    "hora": "23/11 20:12"
   },
   {
-   "titulo": "Câmara aprova urgência para projeto de drible fiscal do governo Lula - Claudio Dantas",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jdXVQLXVNS1hiajh5SnhxcjJSUFp0bTZnR2xRakdLUW93NmJHT0twR2l1Tkw0bHlhNmphU1FUZ1c1Yk5HS2o2eUo2bE1pQ1JEQm05dkdGT2tPX3hGelZCN0U1ZUlJZndlMEZ5cTF6Q3A3ay1RTXh5NnY1d2llNHM?oc=5",
-   "fonte": "Claudio Dantas",
-   "quando": 1795474879.0,
-   "categoria": "brasil",
+   "titulo": "VÍDEO: Chuva forte alaga escola infantil em São Paulo - SBT News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3RtSUhjMmtsYWlXd3h3U3prRHFCVmgyOVpLeHc2aUVOdGYxLXJ4Ml9HVDAxVXhIaFNYc1pMeXozNnltNnJBd1ZTNklLX3ZzRDAwaFE5MmpaX3JMYTlHYXNPLXc0UWdmVlZ2RHk5QnJBc0tIdjVmQjlaM2NPN1JReFRBc3NjZ3pMVHNKX2xmNEVXc2xqTWFVekJ3?oc=5",
+   "fonte": "SBT News",
+   "quando": 1795473710.0,
+   "categoria": "estado",
    "fontes": [
-    "Claudio Dantas"
+    "SBT News"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "23/11 20:01"
-  },
-  {
-   "titulo": "ADI 8036: ação que pode mudar bancada da PB no Congresso está parada à espera de decisão de Gilmar Mendes no STF - pb agora",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMU1aMVF6ZXlYc2xXZzFNNlBlQ3RPTlJtMm1aeE94UlRRc0lmZ05jTndkVUE1VFNkbGM4bnkxUFlna2JPRGRwaUtBZ2I4cVBhN3BXZTNxc3NYUzFjLWRjWDhVQ05SZGdpV2hJeHdrUng2Z1AybmJXQXg2UlJUcThpNW50VGNTZkN0VVZvdDZ3dm9wOURqU19UWThzQlFtMWJZT0NXaUVQN0xCQkd0bEN6SS1PQ3B2YW83TzhXRVFyYWQ3TDBEMXF2YV9OMGl0cEV2YThIc19SVUJoZllWNC0tTHRDWUhVY1JIdlZZWA?oc=5",
-   "fonte": "pb agora",
-   "quando": 1795474555.0,
-   "categoria": "brasil",
-   "fontes": [
-    "pb agora"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "23/11 19:55"
-  },
-  {
-   "titulo": "Câmara dos Deputados aprova requerimento de urgência para votação do ajuste fiscal - Terra",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNzhRQWJ0U0dpQ3dQQWl0QkhPUXFpVktqWW5zY0tRUkMwS0hlMU5XSEFZWnB0TGdUUWVRMmk1bloyVFlXNXhjekc3UWczb1lETUFsWjJOWnA4NjhBSl9jUWlaVmRwektRcTBBNURSaExzNF9ZeGRnQnlKU1Fhb0wwaWk0OHYwLW1TZl9UOWZvMXgxU1A3N3Q2OGJuYTlkY3pmRk1qSjN3ak96aDJIek5zQXpKVU5XWUFPNUltNXVBeHFibURHclAyN2VBYnBYV2JkcE5MZU1IRkQyX1p5Uk5zTW5fbTFrLU1lWGd6VnVXeEVvSV9QRkZkcDVieFlDUHlnNEJHUEVBeGFRQQ?oc=5",
-   "fonte": "Terra",
-   "quando": 1795474200.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Terra"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "23/11 19:50"
-  },
-  {
-   "titulo": "Câmara aprova urgência e acelera votação de projeto de ajuste fiscal do governo Lula - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGxScjg2ZkE1c0RYcGMyeVlPdkJkSVVSOVpLQmpuXzZfR1RMYlpaNmNMbW5OTEw0LVJLYmxERlg0WnFlbjZwcFRzdDBHZmZQSlYyWEJEME9TVWFrUWdER0thUjBSTy0zREZuclhSZzRGY09XR0tlQ0JwNURYVmlvWDNpZ0FqaXI0VndoTlk3SFcySXdyR1JYX1Z4Q0JzSVp6QUhMNDFhUHkxQ284b2hmck1RWHo5UmRMMjU3dE530gHDAUFVX3lxTE1abWRiWGtodWI4Rk8xd2V1a0NMckR3MmhaS2xHTHhHYjJyTXZXeGhJNEcyTHYxdEhnTkYtY3J0ZU1WMnc3aUZCSElkTWJhbHdGY3lFdW1rWGxiSFZNSXJyNks5c1dIeW51eFVEdHNGNGd4bEhyQWZBeEVMQVRpSzQ0OUJQX3dCSVdPZnI5Y0NEZEFrZzRBU2hkNlJaY3IyQjdaRW1ramlVck9PdTJvcllLVkNTVVBPM3IwR29fbnNRcHFFQQ?oc=5",
-   "fonte": "Estadão",
-   "quando": 1795474046.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "23/11 19:47"
-  },
-  {
-   "titulo": "Lula ouve que Mendonça prenderia Lulinha e diretor da PF se pudesse - Portal 96FM",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVpiSldMRm5jOXBqQmZROHNyd2owWWUyVTB1VkR5UmdZZ3ZGNFN5Q21mZTY1bWQ3VHBZX3oyZnZCUG1USXQ5QXZXbTE2VTN3TkdjVVNZVGthVzVRMWt6VWw3QkVwMlg2OWN4YU1YS19YWFFic2l6TXdJaXVsWjgtRjBuSmdET2txVzRhUi1jT3JYVzN6OWJ3SmdEZUFMeUVHLWctcmxvQ09lRmNMeFRoNG5iT3VvaGE2?oc=5",
-   "fonte": "Portal 96FM",
-   "quando": 1795473896.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Portal 96FM"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "23/11 19:44"
-  },
-  {
-   "titulo": "STF manda recolher exemplares de livro sobre Eduardo Cunha - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWi1nbE1TLWY0Y1JfNWdDVGFBWnNpeGZIYnFRUTJRSGN1eTF5SURJTEV0TlItencxN3VoMkRmRTF4U0hUMFk5ekQ0TWhlNS1NaUk1N2xvUHQ3UTdyWGpYWmw4QzhfMTVjcnd6Q2VQRVlaWWdxa1hoUmV3Um8yaTZwT0ZmVVBCa2hnTndjWE02Rm5pMHZ1VWxHTXBNdnBjQQ?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795473773.0,
-   "categoria": "brasil",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "23/11 19:42"
-  },
-  {
-   "titulo": "Campeã do 'BBB 26', Ana Paula Renault ganha festa de aniversário surpresa em meio ao luto: 'O primeiro sem meu pai' - Globo",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPX2hPQks2MHY1Vk1nUmNKTHlRUGxEcXJMeU5rNFBKNXVDbC0yb0RLc2tPVWZmWktvVXc4aVFJTFBlZmd0S0sxbTNoQTBhWldLNXRhVHlMam1pMTM2VEQyM2FVMFlhMG05MVVHQ0dTVS1EX2tMbW0xUUlNYnRmQVJ1SS1nUVUwNEh2YU92U2F2X0NwQy1oY3k0TE5HQmRtRmR0S0d1aS1YcGVFbV9yem9RNnE0ZUV1bXFLZ1FEaTktZE5ITFpYME1Fc2JCc09tYXRFZDFWbFNDcDM1M2cyRDlqRFc1eG9BY0NiV0ZSZ2ZIbnFnUDRwSWpmNUlpQjFVNnRIcWfSAZACQVVfeXFMTzR3eFpqeUVmUFRuTFkwSlZlNzY1d2RyaUNHdlFvY05jZjZCeFJKYmNOaGtWWEhzaDhfXzY1TWhpTnBPUlZiZTdwcTNLamdWOUZNanRLU3hSV21SX2JoVjNESUFhX09sUnRmbFladVNsalduUUhTWmhYRURoUWJlM0g2RkctUlBTM29YVXRtcEJPWjdXbWt1QUdvdklVRXZOMExVMThuNnZibi1ZX005YlVGUnBnN0Z1SWVDQWpmVVozU091QVJlZG1oRVZINlRnLTE5elFJQ3BOSXVSOXVFYXBTcUphOXktU2JrenA0MEVCeG15QnNzRmMyLXJYZWNLXy1hbEtjVnVMRUhKc04yM0g?oc=5",
-   "fonte": "Globo",
-   "quando": 1795473634.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Globo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "23/11 19:40"
+   "hora": "23/11 19:41"
   },
   {
    "titulo": "Queda de barreira interdita trecho da rodovia Presidente Dutra - Costa Norte",
@@ -890,74 +1075,18 @@
    "hora": "23/11 19:39"
   },
   {
-   "titulo": "JJ: Abrapec realiza palestras sobre saúde masculina - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUlLR0lOdjlJdy15WXdvZ0N3VmtuYzNSRVVFdWRrTjdrX2h0S1lKZ3V4aDlXSEpTUjloZmdDSnVEa3ppTV9KS1VxMGdEcTFocFFDZ3RqOXdoUUpUZzRGZW03SVdhemNRMm5jNlBXVFdNZEdpT0Z3bEZ0Ump6WGhiLWhsSERNMmxvYTJmMVBuUk9iaFVuTzFXelhpdDV0MkRtT0hEcnlTdTB2MnVfQThj?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1795470740.0,
-   "categoria": "regiao",
+   "titulo": "Botucatu confirma primeiro caso de Mpox no centro-oeste paulista e investiga outra suspeita - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcFlVRE8wczl5cWdRczVsS011Ui0zTVE2MFRKOXBEVlItV081Wk5ZNEFyYTBnSnlEcnpYTFRtOVF2MW5iR0NiOG85QUpDd3A2UXRHVkV3M1NCMG96cTVIenpVb1RuU2FSZzNxektIRzYteW1RRGNKTE1XQ25ZNUxSeW93ZW5pV21zcUxyaU9neXY4c0ZiQXJmOWRoMk13b0MwNnM2MEJmQ2JpNU5hajZ6SjBNekRnZUxUSnhjNFJTRlc5Q2tGVnBVMjFfOGhjekJITzE3NFRkT0szczJ3eUd0VWdVR3BVTC1zaW4xazFyMEJQTDZRNlRhOdIB-AFBVV95cUxOcFlVRE8wczl5cWdRczVsS011Ui0zTVE2MFRKOXBEVlItV081Wk5ZNEFyYTBnSnlEcnpYTFRtOVF2MW5iR0NiOG85QUpDd3A2UXRHVkV3M1NCMG96cTVIenpVb1RuU2FSZzNxektIRzYteW1RRGNKTE1XQ25ZNUxSeW93ZW5pV21zcUxyaU9neXY4c0ZiQXJmOWRoMk13b0MwNnM2MEJmQ2JpNU5hajZ6SjBNekRnZUxUSnhjNFJTRlc5Q2tGVnBVMjFfOGhjekJITzE3NFRkT0szczJ3eUd0VWdVR3BVTC1zaW4xazFyMEJQTDZRNlRhOQ?oc=5",
+   "fonte": "G1",
+   "quando": 1795472179.0,
+   "categoria": "estado",
    "fontes": [
-    "sampi.net.br"
+    "G1"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "23/11 18:52"
-  },
-  {
-   "titulo": "UTI do São Vicente está sem ar-condicionado, reclamam pacientes e parentes - JORNAL DA REGIÃO",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2ttRWNqamlqbUI4cnM2R0pnTHVBUWQ2ektrYWpGNFk1dTdwUFFZQjhLWUNvajlIMzBJSEQ2akxfeDk2WE54U0p2cUF3NVZFNkwwX2laeUFMeGJVTlZTUWhnOUpDN0YtdXVGZzhpSGFJZEljQVk0bVZrTHVNZ0VJOGpvWjdvLXNOZjR6R3ZKUGtHY21FM1Y3VThtZkEyY1A3UGMwcE5n?oc=5",
-   "fonte": "JORNAL DA REGIÃO",
-   "quando": 1795470381.0,
-   "categoria": "regiao",
-   "fontes": [
-    "JORNAL DA REGIÃO"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "23/11 18:46"
-  },
-  {
-   "titulo": "Defesa Civil de Santa Bárbara participa de treinamento regional para resposta a tornados e eventos climáticos extremos - SB24HORAS",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUlptRVU4S183ZFdZaG1sVEFGQWxBZXk0Q1JqNE81WFRRVmNSaURUaHZQekJvbG1fUkR6a2tLSWxHc0V2SW56ckFwZzFHZ21pU0ppTFM4TWxZeGYtbE53MG1tVmRlZWE0S25qTkxpLTVaR1MwRWlIQUtRSXBiUGg0M1EzMDRJT00tZFN6QnRFY29NX0hBSHBkSjhMUUhaVXF3cGdnZ2pDVHJTUFJPTWpiWTJBWjIzd3dUVTg2THhybDlKa2QwbEYweVRJcnNLVHMxUWk3UGFRRUhzTWk4?oc=5",
-   "fonte": "SB24HORAS",
-   "quando": 1795470000.0,
-   "categoria": "regiao",
-   "fontes": [
-    "SB24HORAS"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "23/11 18:40"
-  },
-  {
-   "titulo": "JJ: Festa das Orquídeas terá shows, exposição de flores e passeios - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEQzYmhYbjF4LW92NlhPQ1NXUHp3dXFUNTlyREZHbG5mVzFKOElZS19nNGMxc29pcXhTRXpMX1A3OTZNTFE1VEI5NWZPYjhmbE5yMnlMOE9pdVhkaUljU3dDM0c3X0dyQ2JDZ0NHakRWejdpRDh2YVE0UTl6Vmp0NlNWVGdqWnJfOG01SWY2a3ZkTWFrYWl4QkRrNVpyYm1jNWVjR3ViZUlZWHVTdWN0NmwxZ01MLWZsYkxBblJmbTA?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1795469990.0,
-   "categoria": "regiao",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "23/11 18:39"
-  },
-  {
-   "titulo": "Copa América: CONMEBOL envia local aos filiados - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFhZZVR6aVdSTjRFV0JCb1hFQUU0V0dEcFhEVUdON0FlM0d1SUllQ2tVS3JENnRKdXlWZkRLWFVXOVlnUjAyZXdid0V3UDFXY1ZPUHRiSkw0dGNqUExraUJZSDBxTExYbkRUNEZZbm52eUxXcnppVjE2aFlFM3V6VEZsdnphQXZtY2hDMEhPWFU0ZjJYaGFvZw?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1795469828.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "23/11 18:37"
+   "hora": "23/11 19:16"
   },
   {
    "titulo": "Corredor Ayrton Senna/Carvalho Pinto fica entre os 20 melhores trechos rodoviários do Brasil, aponta pesquisa da CNT - Mobilidade Sampa",
@@ -976,138 +1105,84 @@
    "hora": "23/11 18:26"
   },
   {
-   "titulo": "Fim de ano: entenda o que muda com o Free Flow nas estradas - Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yOW10ZW05XzVrMWZ5a3BJTG0yZE9EZ0VXeW9pbFd3UEVJT0t6YTBNOWQzZ1VEQjR1QThlT21nVEp3ZXJXbVV1RHRhTno3V0cxcG00ekNoNl9SR3JGWTMzb0F3aUlQamRqQ1hvZmFUVDAyMHc2VC0taQ?oc=5",
-   "fonte": "Times Brasil | CNBC",
-   "quando": 1795467600.0,
+   "titulo": "Atenção leste de SP: chuva muito volumosa deve causar transtornos entre 25 e 27 de novembro - Climatempo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzN3OTlmbWJieTRabGVPazZBaWQ3MWlXX0xvd01PRGVLNnVrN3o3eXAzSng1TGw2RmRGdzliUEFOOTFnS24zckU4VGdORE83dHMwem8zZTVxdTk1WjMwQnJXTElUUWpOTUlsV3FvTGNYSFdWVXhvX25ia2pQdlhsX2VFeEdvaXV3cXlCa05MMzViRzljRnlGV2tTbGlOM1hZdXIwRmVBQk1ieUZxRlhQdGxMZ3RZWDZCemc3eDBsZTBmLXhoT2RTbXB1SDFmbVR6ZEE?oc=5",
+   "fonte": "Climatempo",
+   "quando": 1795467780.0,
    "categoria": "estado",
    "fontes": [
-    "Times Brasil | CNBC"
+    "Climatempo"
    ],
    "urgente": false,
    "assuntos": [
-    "transito"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "23/11 18:00"
+   "hora": "23/11 18:03"
   },
   {
-   "titulo": "Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema' - Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTUo1VjF4VzBSVWk0NU9IRUZiaHV6aUpNRnk1MC1DMklzYmtVQVVhNXlzV0lHLVdRSm0wYjVEZVE2ald4dkxlRkVjMlJQRTlaVXlNUFZrc0kyRXQ3NXUwZmRqSnFZWXhBbmNTU245MzM5X0xBRXlBRGRCLV9BUzdQcGg2aHYxSmowYTBsOEoxYWxReXBhWUZ0V0hkWENrUHNGakVsa1Awd3lHcXkyZTBhRWJacDhPalZLTUlid3ZLNndrSE5iaU9aWllrZUh4MjhXX2xDSHNDUHNBWlpkYzNNTVVDSmtiZw?oc=5",
-   "fonte": "Folha de S.Paulo",
-   "quando": 1795466040.0,
+   "titulo": "Chuva forte em São Paulo alaga vias e cancela 20 voos em Congonhas - O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMjlpZWgzUXcwMXp2MU1USGZ6NVhnMmhnY3d5bXZOeTNndG9YQ2RQYmJySnJveThoWDlfRnQ2dk5fOG9lNC1ud1hxRFhoX1V6LWExczNvX2V1ODlXMEhUY0FvSkJkS1NIMGlOazhnQlQ3UDFsdGItbGZKUWctZW9zMkY4M0pVU0p4cF9RaXpRX0l6Y0lpS3dnRHh6TktuVmpjNGZ1QUFLd2g1ODJJQ2JPMVFGYWhhbTBTaFdSOWNGX25XZG9ITHpVdjM5bmtrZ9IB3AFBVV95cUxOOVI5N0t2d0syeTVxMlFqRFFrZmVEVXl1OUM0WXc4WTJvZTA4cDgtcWVnZTctU2NaZGNYTk45d2RrbnhXUG16NmFxNFhtdzlYVlBIU3Rzd3V0Vk9nNFRaQlctT0dhYXV6QzBxYTBfZ0h6dVZZaFpXVDZNZzVfZl9ZNkVsbGJCU1ZQR3FkTkY3UkJ5NEoybFBBdmM0T1JoTVFiZC1YMl9JQTdWekptQmlKZlFzWWxUaGd0TGdINHUxNTRuZWZLb0kzNDZMSTI1aDJqSlpnanRRVW10S0JC?oc=5",
+   "fonte": "O GLOBO",
+   "quando": 1795467779.0,
    "categoria": "estado",
    "fontes": [
-    "Folha de S.Paulo"
+    "O GLOBO"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "23/11 17:34"
+   "hora": "23/11 18:02"
   },
   {
-   "titulo": "Obras interditam acesso a Ourinhos pela rodovia SP-327 - Estradas",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2lDVDlwWlFBZDVxZlhmUVNLLTMwT3BDazM1QkhXbGpuN180ekVOSG1UMDBtRHRoRkZHRVFrWFRLS3UySFd0TXRxUWxEM09KRWsyN3VsNE5mWldyTFpHcjJsNGs5NzJxejBuejZxMTJqZDJhS1gtbVpoejlXV25oSktOZWdjQQ?oc=5",
-   "fonte": "Estradas",
-   "quando": 1795463547.0,
+   "titulo": "Chuva forte coloca São Paulo em atenção para alagamentos nesta segunda-feira - O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOVI5N0t2d0syeTVxMlFqRFFrZmVEVXl1OUM0WXc4WTJvZTA4cDgtcWVnZTctU2NaZGNYTk45d2RrbnhXUG16NmFxNFhtdzlYVlBIU3Rzd3V0Vk9nNFRaQlctT0dhYXV6QzBxYTBfZ0h6dVZZaFpXVDZNZzVfZl9ZNkVsbGJCU1ZQR3FkTkY3UkJ5NEoybFBBdmM0T1JoTVFiZC1YMl9JQTdWekptQmlKZlFzWWxUaGd0TGdINHUxNTRuZWZLb0kzNDZMSTI1aDJqSlpnanRRVW10S0JC0gHcAUFVX3lxTE45Ujk3S3Z3SzJ5NXEyUWpEUWtmZURVeXU5QzRZdzhZMm9lMDhwOC1xZWdlNy1TY1pkY1hOTjl3ZGtueFdQbXo2YXE0WG13OVhWUEhTdHN3dXRWT2c0VFpCVy1PR2FhdXpDMHFhMF9nSHp1VlloWldUNk1nNV9mX1k2RWxsYkJTVlBHcWRORjdSQnk0SjJsUEF2YzRPUmhNUWJkLVgyX0lBN1Z6Sm1CaUpmUXNZbFRoZ3RMZ0g0dTE1NG5lZktvSTM0NkxJMjVoMmpKWmdqdFFVbXRLQkI?oc=5",
+   "fonte": "O GLOBO",
+   "quando": 1795467779.0,
    "categoria": "estado",
    "fontes": [
-    "Estradas"
+    "O GLOBO"
    ],
    "urgente": false,
    "assuntos": [
-    "transito"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "23/11 16:52"
+   "hora": "23/11 18:02"
   },
   {
-   "titulo": "ANTT avança na transferência da concessão da Régis Bittencourt para EPR - Gazeta do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHZfU3haTC16T1BEOWNFZzhJN05ZdEFndHFXT0tmSmd4UUlqbE5ucjBxNVFNM2NBdVgzSGJWTVB6elZWYzIyckc3cS1iZHhGbF9GcUZXeXo2ZGZlQS1qN0hxVlpHd1hYUUhkNnlpMUJvNm9CSHlQMFlkMk1FUmsweDcyblh5VEROOXFCaXg2R2toZWVsNWdtZWFoNGFNdktkVUhPUGVXemg3T2puUWc?oc=5",
-   "fonte": "Gazeta do Paraná",
-   "quando": 1795462872.0,
+   "titulo": "Aeroporto de Congonhas tem 20 voos cancelados após chuva em SP - Band",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVdhLS1qYnZWNUcxemdqRTRHbldCT2lxQ0ZGUk94LUt2dV9tWW5aUWhidXN6dEpJMEtzRXNEY0pwNDZQSVN4azdldF8ycXlmYmxRbnhLT2pyUC1aaGRWME1WcVpQMktsY2JYUmkyazlrWUl1dDVudFJROWZfQmJNYmdsLVJXZzJUM25uUU5jcEtOZlNuZEstRDZ1S3dXb2c?oc=5",
+   "fonte": "Band",
+   "quando": 1795467774.0,
    "categoria": "estado",
    "fontes": [
-    "Gazeta do Paraná"
+    "Band"
    ],
    "urgente": false,
    "assuntos": [
-    "transito"
+    "clima"
    ],
    "pontos": 5,
-   "hora": "23/11 16:41"
+   "hora": "23/11 18:02"
   },
   {
-   "titulo": "Poder Infra Hoje - Poder360",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rMUVzNjVJT1gxSEwwN3kzNWx5V2pEcUZXeExIZWVVYXBPNlFTWjBLcnVPalpvN2dBd1R6OUdfMlZwSVJ4bXdLa0Jveko0NnV2enhzT3JyX1o?oc=5",
-   "fonte": "Poder360",
-   "quando": 1795477954.0,
+   "titulo": "Corredor de umidade provoca chuva forte em várias regiões de SP; entenda - ACidade ON",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGZDdFo1SWxSUEJHamVVQ3kzWHVrdmdTTElfMVIxQlZQc1EzZHJ5XzZoWHVLbGQ0VE56bm0tc3ZMT191SkpPS3kyUlZjb0Fxd3V0ZnpWQTJrQWtJMFE2Q0FqaktpajcyMWVFQ3Z3eDJLUFp5M0hHSTRTbnljT21DNXJ5SnBPblZPY3lvQk5hQVZ5OGhMLWtJLTJBSldFM2VSckdPTnlESVZqYVRxNklQZ0tyVC1ld3diTkJ0cnp3Zw?oc=5",
+   "fonte": "ACidade ON",
+   "quando": 1795467740.0,
    "categoria": "estado",
    "fontes": [
-    "Poder360"
+    "ACidade ON"
    ],
    "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "23/11 20:52"
-  },
-  {
-   "titulo": "Câmara analisa urgência da proposta de ajuste fiscal do governo; acompanhe - BOM DIA SOROCABA",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOejIybGRkQ095OV9HamxJVDl3d28wZDh6enlJZWROVkwyTG1QRDZISm0wWGdXQ2dBbzhQWjdSWGxXbFVtZkNQVHVQUXpTa2VoaWxtTEkzMV9DeV9ZYUJKeUhTYnQydjRNa0xmMGRxaWo3eGtjZ3hVNmdRUG0yREQxSzVLOGZ0TklCbGk0N0J2TU5pMzlsV2dELUlEZFI5Q2NCX1ZyNHNzcmM5NmVGX1NreWVUalFQNUVMMmc?oc=5",
-   "fonte": "BOM DIA SOROCABA",
-   "quando": 1795473360.0,
-   "categoria": "estado",
-   "fontes": [
-    "BOM DIA SOROCABA"
+   "assuntos": [
+    "clima"
    ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "23/11 19:36"
-  },
-  {
-   "titulo": "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel - Agência Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONnBZNWY0N3N0TU4tTmd1V2IydDZOLTBzYWxHLUZJNWhiVElfU2NjdmNSaW1MNG0yR1JFeHVNVUgxUjJnWlpINnJxV1Ewd0ExZHJQYnlUN1NBSXhYYzdvRE5mRVdRYlJ0d0cwZUZoU2s0NkdMTWF3azh0MUNzVkFzdFRYc2Zxc19YMU5OOTJDQ2pTUjR2NTVFOVVwM2FBWTNfWktKUkJnUVJ2X09QQ3htZk1LekZMN2RCTXljUEFmVkhvU0R4U05J?oc=5",
-   "fonte": "Agência Brasil",
-   "quando": 1795468440.0,
-   "categoria": "estado",
-   "fontes": [
-    "Agência Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "23/11 18:14"
-  },
-  {
-   "titulo": "21 Dias por Elas leva proteção, acolhimento e empreendedorismo a municípios paulistas - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5meHdaZXZOd2R3OUtPTUppUXZkVTFyOGFCeTdSU3hINzlkVXhnM3c4Qmo3bEJhTzhVOThrTTZzRlA3cGZKUU9KTFE2YWszUm43SjctNmdqa0ZfcHRVemZUVTJJbGRQOU13N0xhOU5zNndtSlZtM29TOHlaZGI0Zw?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795467841.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "23/11 18:04"
-  },
-  {
-   "titulo": "Notícias - Governo do Estado de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaVpDY3QzOVpWQ0VCQW0ycDlqQlZlb3dOMXhBTkdmNUNHcmpXNkFOYms1VTNsNFhZRDZrc3FPSENIajF6Sloyc2VYQkFHU01mYnFpY2dnbjY2Rl8tVjJHR0NIUVk2czJuM1BRR09VU2hoY0lqMFNRWUhPS20yWWtPUUc3ZkxZWWVzTm45dWpFRWdSblp0cG1pVHN5WlBNZkU3VklfTXFMOFZIQnBuOW5BZ3g1cl9lcHY3UF96bzZaZ0xGYl9pM2x2Y25xZjZiMG9vUjhOM0FqeFdyMmRXbFE?oc=5",
-   "fonte": "Governo do Estado de São Paulo",
-   "quando": 1795467693.0,
-   "categoria": "estado",
-   "fontes": [
-    "Governo do Estado de São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "23/11 18:01"
+   "pontos": 5,
+   "hora": "23/11 18:02"
   }
  ]
 }
