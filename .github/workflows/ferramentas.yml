@@ -1,0 +1,33 @@
+name: ferramentas
+on:
+  workflow_dispatch:
+    inputs:
+      acao: {description: "apagar ou baixar", required: true}
+      alvo: {description: "ig:<id>,fb:<id> (apagar) ou URL da imagem (baixar)", required: true}
+      nome: {description: "nome do arquivo (baixar)", required: false, default: ""}
+permissions:
+  contents: write
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+jobs:
+  ferramentas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: executar
+        run: python3 publicador/ferramentas.py
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          META_FB_TOKEN: ${{ secrets.META_FB_TOKEN }}
+          ACAO: ${{ inputs.acao }}
+          ALVO: ${{ inputs.alvo }}
+          NOME: ${{ inputs.nome }}
+      - name: registrar
+        if: always()
+        run: |
+          git config user.name "publicador"; git config user.email "publicador@users.noreply.github.com"
+          git add -A registro || true
+          git commit -qm "ferramentas: ${{ inputs.acao }}" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
