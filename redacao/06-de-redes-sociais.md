@@ -66,6 +66,8 @@ Sem cara de IA: corte frases feitas, exclamação em excesso e emojis demais (no
 
 ## Imagens
 
+**Regra do Alef (26/11/2026), vale para toda pauta: lugar, obra ou equipamento específico só com foto DELE.** Inauguração, entrega, reforma ou obra (terminal, escola, UBS, praça, rua, ponte, prédio público) sai só com foto da própria obra: da Prefeitura, do órgão responsável ou de veículo da lista do Diário, com crédito. **Nunca** use foto de outro lugar ou de outra cidade para representar um lugar real, nem marcada como ilustrativa: isso acaba com a credibilidade do Diário. Sem foto da própria obra, a pauta não sai (plano B ou horário vazio) e o Alef é avisado. Para baixar a foto de um site da lista que o shell não alcança, use o workflow `ferramentas` (acao=baixar, alvo=URL da imagem, nome=arquivo.jpg); a imagem fica em `registro/baixadas/`.
+
 **Regra desde 15/11/2026: nenhuma publicação sem foto. Arte com ícone está proibida** (o kit recusa). Prioridade: (1) foto da matéria em alta definição; (2) foto da matéria com qualidade inferior, a partir de 400 px, se ficar aceitável; (3) imagem que ilustre a cena, de banco público (Wikimedia Commons, Agência Brasil), escolhida com critério: relação clara com a notícia, nada genérico, nada que pareça o fato real quando não é, sempre com "Imagem ilustrativa" no crédito; (4) sem imagem adequada, a pauta não sai: troca pelo plano B ou o horário fica vazio, e o editor é avisado.
 
 **De onde vem a foto (desde 10/11/2026).** O radar baixa sozinho, no GitHub, a imagem das 25 pautas mais relevantes. Cada pauta de `pautas.json` traz `foto` (arquivo no ramo `fotos` do repositório do radar), `credito` e `foto_tipo`:
