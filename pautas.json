@@ -1,30 +1,7 @@
 {
- "gerado": "27/11/2026 11:38",
+ "gerado": "27/11/2026 12:42",
  "desde": "27/11/2026 10:35",
  "pautas": [
-  {
-   "titulo": "Rodovia Prefeito João Zacchi é interditada após queda de árvore e poste - Portal da Cidade - Cabreúva / SP",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFZvSkQ2VExPV2U1ZVoyQVQ5bjRUbVJxVHJoRU9fSTJjOXZ0UlZad2tqRl95VkpQdnc2UU4waXhmTWJlelR2X2hlZ0pIa1NHbkRZLTI5SnlhY3pIVm5wYmV3Ny1JYU1VY3BZZGZ4T2J6V3lObWNYMC01NXB0S3J2U09DVEx1RlZuTGsxVU4xT3JraS1KbDNrSF9sSXlEQTBSbkMzS01NTkxfLTljNi15QnlGdC0zcWtxTFZqMWcxYUJGWFY3eXpv?oc=5",
-   "fonte": "Portal da Cidade - Cabreúva / SP",
-   "quando": 1795783260.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Portal da Cidade - Cabreúva / SP"
-   ],
-   "urgente": true,
-   "assuntos": [
-    "transito",
-    "prefeitura"
-   ],
-   "pontos": 14,
-   "hora": "27/11 09:41",
-   "foto": "45bd985b8388.jpg",
-   "credito": "Foto: Portal da Cidade - Cabreúva / SP",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://cabreuva.portaldacidade.com/noticias/cidade/rodovia-prefeito-joao-zacchi-e-interditada-apos-queda-de-arvore-e-poste-4448"
-  },
   {
    "titulo": "Acidente entre dois caminhões causa mais de 3 km de congestionamento em Jundiaí - TVS+ SBT",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3NRcUFLRWlDaUdpZWFhSk14b2ZNM3k1TTdRY1lDYTROVG8zRnRCWDFMQm8xWmtrQnJOaUJ1Q1dBT0JSeVRMNFFLWEhHWGdOMm9DNFhBLVZvX1UwOFlxY3JoMTdFbjQ2T3FkMEY0Uk82YzJXcVA3ZC1uRkFZbmVOeUM1cGpPNnk1RTBGbGp2ZnBYek83TUpvMjhvVXZXWXZnZ05MU1pzeVc3RW8?oc=5",
@@ -48,6 +25,28 @@
    "materia_url": "https://www.tvsmais.com.br/acidente-entre-dois-caminhoes-causa-mais-de-3-km-de-congestionamento-em-jundiai/"
   },
   {
+   "titulo": "Prefeitura de Pilar do Sul - SP abre vaga para guarda civil municipal feminina - PCI Concursos",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NvVXJGSUxpeWdJcTk2aHlQdWhPQ0FhWGEwWk92azh1MVo4RDJDNWZkcVJRbE9qVnRUZ2NQVEJLcHlsNFIweDRQbi1OYU9seFNtd1NEZUtEZ3VJZm5iUmhxekJDZHRGTGo5Yi0zQTlrSExUVHlfZWpuRXNHU0dvaFBGd3B4TmhIaTB0b1JTaXAxZFFvVnh6RnBOdWg1V3VFVlhUT1RIeHBfVGpMbUZVblBuZ3E3dzlV?oc=5",
+   "fonte": "PCI Concursos",
+   "quando": 1795788518.0,
+   "categoria": "itupeva",
+   "fontes": [
+    "PCI Concursos"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 9,
+   "hora": "27/11 11:08",
+   "foto": "af62239a2bec.jpg",
+   "credito": "Foto: PCI Concursos",
+   "foto_tipo": "materia",
+   "foto_tamanho": "640x480",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-vaga-para-guarda-civil-municipal-feminina"
+  },
+  {
    "titulo": "Mercado Livre realiza seleção para 100 vagas de emprego em Hortolândia - Portal Veloz",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkxOTG15dmlvZm9JRExJUl9aTXNOWElMSVE5aVZRSXFObHBqZHF3Rkc3Z1ZueWlaYWNUNXZfa1BHOVJ6RjQ1YnBpM3dHLUl1aXVQazFIT08zZkhwTU1aRk1ManVPSXFNZnhaNDB0R19vdm5YbHo1OXhPTUJGMDZtM19DQ0NvZm9zdTBQZmhBZnVLbklmbzJTa0twQmlqWEU?oc=5",
    "fonte": "Portal Veloz",
@@ -68,6 +67,88 @@
    "foto_tamanho": "1280x853",
    "foto_qualidade": "hd",
    "materia_url": "https://portalveloz.com.br/mercado-livre-realiza-selecao-para-100-vagas-de-emprego-em-hortolandia/"
+  },
+  {
+   "titulo": "Louveira inicia campanha 21 Dias de Ativismo com reflexão e diálogo sobre a violência contra a mulher - Prefeitura de Louveira",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY09FbmJ6SzI4U2o4MzVTbDRFY25fNUMtRzJSRkRNalV3UGRuWG1UazVwNmFqTGI1ZnB0am4tZnYwbDZNeFhTcm9zMGg5T0xPM096WGRpUHNncmdydXB1QlVUUUk4dW5qSldDaS0wdG9BeWh1VVZMQzlfaXc5c0dicFY4Ri1aRXJRTm40MHpqWS04NkVKeGRxU3YzZWtGcDEzcWhqMWxYNVFhXzVGZXFsMzVrcjFES21OeUdybmVBVUk4VVVGSmJDV2xCV3cwbmVYMkNN?oc=5",
+   "fonte": "Prefeitura de Louveira",
+   "quando": 1795792258.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Louveira"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "27/11 12:10",
+   "foto": "581233506c34.jpg",
+   "credito": "Foto: Prefeitura de Louveira",
+   "foto_tipo": "materia",
+   "foto_tamanho": "680x450",
+   "foto_qualidade": "baixa",
+   "materia_url": "https://louveira.sp.gov.br/conteudo/louveira-inicia-campanha-21-dias-de-ativismo-com-reflexao-e-dialogo-sobre-a-violencia-contra-a-mulher"
+  },
+  {
+   "titulo": "Homem é baleado no Jardim das Tulipas em Jundiaí - G1",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHNTblJaOE83bW5SaklLQUN1cXF0OVFicFd1MXZKT3hvZXhkWldrblJ0NE5DQU1IYUpFM2VpclBYYVFMdkhtLVN5NlR3NzlvaXh1YkdYb2NzNVVoaDJtT0UtdFR0Q29xT2lfQllKeGVMbUJLQ01aS2dWWTg3Y0pkSllkRVk3MndUM1l3SXlUSzh3ZTFVV2w1QlRsM0xMQjY0Q2pKa1htblBKR2JmT2dNSGU4a2vSAcMBQVVfeXFMTXRLNWRSYjlOREVjZTBwTlcxUE9VekNrSU01SjRiQmxxOHNjWEtmaHU2blZ0ZGNIWWszeXc1TGppSGtKLWtMcWI1OVpVRS1ickFPSjFzdjhMVVFiYXNxN1NSVWpGeG91SGJISmRhWkN0dHVoTWlCQzJoaG5mRHYwTGRZcWVEQy15ZWZvckd6SEFPMWlBTUQ2LUFLeWFNcWNLUEdXODVrY0l3R1NubFJiMS11YjhXRUZpbkdhX1lDRGNjdnlB?oc=5",
+   "fonte": "G1",
+   "quando": 1795791849.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "27/11 12:04",
+   "foto": "386045b036f1.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/27/homem-e-baleado-no-jardim-das-tulipas-em-jundiai.ghtml"
+  },
+  {
+   "titulo": "Com trabalho contínuo, Várzea Paulista reduz casos de dengue em 92,2% - Prefeitura de Várzea Paulista",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk5lMV9xbnF1MnNCelR2UTB5NXhpZmJYRGdkMzhuY3VpOWhwZ3I4Wl9OYjUtdEx2YnhBWVhCMVVVRjh0aDFhNnI2eTlnaU80RmdUU2FkeDd0aXN2em1YdGtQeFFJUUZOMmZYU3ZpaDhxcm1yVTBVcGdRMnpnVW1Fd3pPRkZTSDZMdHItQmtORTRZUUNiclJDVUctZFBzaHh3NjN6bGhtVmhPemdBQlBxR1ZaZnlSV0F4VGc?oc=5",
+   "fonte": "Prefeitura de Várzea Paulista",
+   "quando": 1795790913.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Várzea Paulista"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "27/11 11:48",
+   "foto": "54f3d2a1c095.jpg",
+   "credito": "Foto: Prefeitura de Várzea Paulista",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1240x821",
+   "foto_qualidade": "media",
+   "materia_url": "https://portal.varzeapaulista.sp.gov.br/2026/11/27/com-trabalho-continuo-varzea-paulista-reduz-casos-de-dengue-em-922/"
+  },
+  {
+   "titulo": "Homem que postava fotos e vídeos com motocicletas furtadas é preso em Jundiaí - TVS+ SBT",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTC0wZUNDNlliWGx6X21zNkxHZm1jRkdjdHc0Zi1MaXZIQTJvd01DbUIya0l5enI5ZGdZbldwSlQ0c25QTlE0SnRSREd3QzVnVGQxOW03dGVfNVQ4VzBfUEZXSmxYZnlxbzVOZloyNFEwNExyWVpzczJzMm1sOTFqb0xZMEc0RzdHa3VSZ0huVXI1RVNSRGFaUjVxdWQ1cUdTeVp1TllnUWY?oc=5",
+   "fonte": "TVS+ SBT",
+   "quando": 1795790880.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVS+ SBT"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "27/11 11:48",
+   "foto": "9fffcbf45293.jpg",
+   "credito": "Foto: TVS+ SBT",
+   "foto_tipo": "materia",
+   "foto_tamanho": "800x600",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.tvsmais.com.br/homem-que-postava-fotos-e-videos-com-motocicletas-furtadas-e-preso-em-jundiai/"
   },
   {
    "titulo": "Governo aprova incentivo fiscal para atrair investimentos em energia renovável em Goiás - Rádio Bandeirantes Goiânia",
@@ -138,21 +219,21 @@
    "materia_url": "https://www.tvsmais.com.br/homem-e-preso-por-agredir-e-ameacar-companheira-em-varzea-paulista/"
   },
   {
-   "titulo": "Governo de SP amplia infraestrutura rodoviária entre São Roque e Araçariguama com investimento de R$ 174 milhões - BOM DIA SOROCABA",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbkhGX3cxbWJ2ZzdwcExidzlUVUE1UXFoYXk2WmhrdW5DcVRfdWlUQ19DQ1pPdGdtSUNxZVVCcHZGWjBWMlJMcjdna1g2QkJwVTVZdm1WcHM3OEVoaFFCMVB6TjBwYU9XdjI3cFRIenpzU3ZtZE11Rnd6VGVyX0hSbGpyTUhNWGViMlpuVTN1UGFIMWc0d1dsVXhCS1hsM2o4X1RuMUtGSHZYa3JEZTFGSG1qRGpfVVVwZEFvU2x4TVlpc0VOLVFQRDk3MnpSRmh4Z0RSeUZNaGszVjZ3RTRxbEZaR25IT3ZEekFUbg?oc=5",
-   "fonte": "BOM DIA SOROCABA",
-   "quando": 1795789320.0,
+   "titulo": "Governo de SP amplia infraestrutura rodoviária entre São Roque e Araçariguama com investimento de R$ 174 milhões - BOM DIA GUARULHOS",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLVY3V3o2Z1dwQUZJeWZJMXRhLUV0TnpIanZMeUtWZTBmWWxyQTl6X2ZURllSeGlYSlJBdEZHRnNsVTRWNEh0a2htNXM3T3pCTU45UmJzRVQ3emhHWmQzckZxLTdYM2VVWG9oSURtUUhTWTI1ZUp0cVJKVG1ZWkQzOUNNSUFoU0FzWjFzRkhqcm1ydXRieUNjdjBNTnVqZTduMmVQVUpjM25Lc3FkdlRfY0xvbE5sanRKYW83dmFncGFWWDRkNy1yTmRlamFKSDU1VFpEdXdBWEc4TkZvN1ZSc1RtY0tuMXJfOTN0Tg?oc=5",
+   "fonte": "BOM DIA GUARULHOS",
+   "quando": 1795789860.0,
    "categoria": "estado",
    "fontes": [
-    "BOM DIA SOROCABA",
-    "agenciasp.sp.gov.br"
+    "BOM DIA GUARULHOS",
+    "Portal VV8"
    ],
    "urgente": false,
    "assuntos": [
     "transito"
    ],
    "pontos": 6,
-   "hora": "27/11 11:22",
+   "hora": "27/11 11:31",
    "foto": "63d2177c55b1.jpg",
    "credito": "Foto: BOM DIA SOROCABA",
    "foto_tipo": "materia",
@@ -161,26 +242,210 @@
    "materia_url": "https://bomdiasorocaba.com.br/noticia/107379/governo-de-sp-amplia-infraestrutura-rodoviaria-entre-sao-roque-e-aracariguama-com-investimento-de-r-174-milhoes"
   },
   {
-   "titulo": "Prefeito Neto cobra melhorias e investimentos na BR-393 durante encontro com lideranças regionais em Volta Redonda - A Voz da Cidade",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFk1M3gwc1h3Q0xhNTNOMC1BMGdURGFvQTFrS1JES1BZbVp0TTFWSG8wdk8yZU5MeXNrRUs3bEdkRUxlUFhVSG4wN2ZRQ25vNEtVcUdQQTR1Z1pIclhnWVVwdE9wNE0yYkdfRnk3NzFrNk50WDA1N0ZBdjB0ZW5WOHc0T1JyT0dtalZiMlYzaDR4MXptT2p3UmVjdDB5MVJ0TTJLM1Mya1dpLS16aWluUG11WTVKMDNzUkE2VHotSVBEM0l1bi1ULTRCZ3dFa3JfZjNsVF81dzJCa2c?oc=5",
-   "fonte": "A Voz da Cidade",
-   "quando": 1795790063.0,
-   "categoria": "estado",
+   "titulo": "Lula sanciona lei que destina R$ 21,5 milhões a juízes aposentados por punição - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzdkTGZqTWhLTF96cEJYQnRDWWtQY1BEX0JxenlrTGYwNjBMSkIya0N4QTRXX1BEU3I3c3NPeDV5S1h5SFFGUDJfNHNLNFNVaVpQY1pUMmdjOTdQNXBHWlhKcmJqMnFjRnVSVVBBdTBMNThfOWI3dUVQX2ZEcVRBcTdYY1BVaHBMSDBhWTRTOGItUUtpNGJ4Y2tKNnloMDBIb3dXRkx5QkVMSWZtaExLUVdHOHZ3dUd5dkdVdUdoSURqN2pJLXlJ?oc=5",
+   "fonte": "UOL Notícias",
+   "quando": 1795793739.0,
+   "categoria": "brasil",
    "fontes": [
-    "A Voz da Cidade"
+    "UOL Notícias"
    ],
    "urgente": false,
    "assuntos": [
-    "prefeitura"
+    "politica"
    ],
    "pontos": 5,
-   "hora": "27/11 11:34",
-   "foto": "c83ecc60074b.jpg",
-   "credito": "Foto: A Voz da Cidade",
+   "hora": "27/11 12:35",
+   "foto": "481d1a06719f.jpg",
+   "credito": "Imagem ilustrativa: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Lula sanciona lei que inclui no ECA educação obrigatória dos 4 aos 17 anos - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNMdjRkWm1PVWdxUl9DWmNRdEpNZDNBb3ZpN21Fc09JWE5Mb05WWHkyR25WTjhjTU9HbWxLN2taZElzOVBteW9KVWgyWFN0QVE1ejZESmRVZHlIZTNxMWlBRjdIYUk5UVo2LTZKRVdLQy0xVUZRb3VMUnlVVmVsSk85S19BNEFpQ0FJLVJyZnE4TVh4bEFveTIwMEJlVF9EcDMxOXFDRWRzXzA0d3g3cWQ0SENWSUx2UmVqekNVZ1BPQk5I?oc=5",
+   "fonte": "UOL Notícias",
+   "quando": 1795793550.0,
+   "categoria": "brasil",
+   "fontes": [
+    "UOL Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 12:32",
+   "foto": "9684bc3248ae.jpg",
+   "credito": "Imagem ilustrativa: Sakibnb / Wikimedia Commons (CC BY-SA 4.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x900"
+  },
+  {
+   "titulo": "Jundiaí amplia oferta de transporte e estacionamento gratuitos para facilitar o acesso ao Centro - TVTEC Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV3lZV01BTTJScUVoR1RxemtIcmtxYWtVVXFYcjBIU05SN2tNNlZtVUdXc3B0ZTVneE80QmhCYTRjWjlRajdOdmxTem9OLXgzZ01VM2h4UUQteTZZRUxtcUxpeEtZWlNFUVIzM3FmX2VWdllUTWxSVzZid2FSS2VOcm1nMzVVRGxuYXNTLUxTWU9jcFJGRU11SldIQ0ZwWUt3aFN4U21GZHV5WUc5RUlkc1ZkOElYVThoR04zWXQ5TDBHMjV3c2Q5cmRQRFptamFCNW9tSUt0bWM?oc=5",
+   "fonte": "TVTEC Jundiaí",
+   "quando": 1795792920.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVTEC Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 12:22",
+   "foto": "a8e5ba09aa2f.jpg",
+   "credito": "Foto: TVTEC Jundiaí",
    "foto_tipo": "materia",
-   "foto_tamanho": "800x600",
+   "foto_tamanho": "1280x796",
+   "foto_qualidade": "hd",
+   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/27/jundiai-amplia-oferta-de-transporte-e-estacionamento-gratuitos-para-facilitar-o-acesso-ao-centro/"
+  },
+  {
+   "titulo": "Vem aí: Jogos Memoráveis na TVTEC Jundiaí! - TVTEC Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaG9tN09fcFdMQUpld1d6WTVGRE9laGN6Zk8yUmN2UnhuMkUzUnBtanRLQUlpT2RPYWVvYW9vRXRUZE9qejkwNHpKUkVaRXVnUnhkc0prdlZ6a0V2UG1PZG5PNUtKMVlFQ3FEb2dJR1pGVFVsLVNUVWxFaVlGaXFKdFZyaHhrLUZZYndtZ2pB?oc=5",
+   "fonte": "TVTEC Jundiaí",
+   "quando": 1795792560.0,
+   "categoria": "regiao",
+   "fontes": [
+    "TVTEC Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 12:16",
+   "foto": "4a9f29b0f0b7.jpg",
+   "credito": "Foto: TVTEC Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "940x788",
    "foto_qualidade": "media",
-   "materia_url": "https://avozdacidade.com/wp/prefeito-neto-cobra-melhorias-e-investimentos-na-br-393-durante-encontro-com-liderancas-regionais-em-volta-redonda/"
+   "materia_url": "https://tvtecjundiai.com.br/news/2026/11/27/vem-ai-jogos-memoraveis-na-tvtec-jundiai/"
+  },
+  {
+   "titulo": "COSEMS/SP participa de seminário do VigiEPI Brasil, que apresenta projeto com 2.400 vagas para curso de extensão em São Paulo - COSEMS/SP",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeFpHalNRSWc5TzRqQ2JFaWt3Q3ltUm04V0c1QS00OVRRSExZS2FMTjZvR3M4bmNLQ3Y4Y1BYTVhOOW8xZU5aT1lrcGFRRE5rbElpLVVJT2EtdHJiTGZLQi1BR3FYNG5rbEdjVzZzRTYyV3NOZmE5c3gzSmQtT1Q5R1VTY2ZLTFFkMTRweHpWRDVUMmQ3MlRpeXN5VGs4am0yWWx3dzFqeEs0MnBvUjViUnhsZVhPN3Y4c3FCc2lpT04zQ3BEbExtRF9xYzVnV2lCZ0s1YkNFRlpFemhyMVJUQk54aTljLUZhaTgwajN4R2pVdG5U?oc=5",
+   "fonte": "COSEMS/SP",
+   "quando": 1795792391.0,
+   "categoria": "estado",
+   "fontes": [
+    "COSEMS/SP"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "servico"
+   ],
+   "pontos": 5,
+   "hora": "27/11 12:13",
+   "foto": "5c7a7234c3e9.jpg",
+   "credito": "Foto: COSEMS/SP",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x777",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.cosemssp.org.br/noticias/cosems-sp-participa-de-seminario-do-vigiepi-brasil-que-apresenta-projeto-com-2-400-vagas-para-curso-de-extensao-em-sao-paulo/"
+  },
+  {
+   "titulo": "Salário-base dos professores deve respeitar mínimo nacional de R$ 5.130,63, decide STF - Folha MS",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXBCR25yTTYxeW52YWJtSl84cDZ2SU5sa2tXR0ZPcVdobW1FVkRUU2duTmJhVkRQdG5kem1lSnFpVW9BcVBub2hYaGdoRzZGNnllMkQ0UjZmVW5CdjI0aUtYLWUzUnVUVHJPN0lEWEpPbHNEcFBpampKTjN2Z096THNWUEdlZFVZYzNLeGpTbE52cllO?oc=5",
+   "fonte": "Folha MS",
+   "quando": 1795791600.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Folha MS"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 12:00",
+   "foto": "f8dc7934ecb7.jpg",
+   "credito": "Imagem ilustrativa: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x1200"
+  },
+  {
+   "titulo": "Lula avalia criar ministério para centralizar políticas de tecnologia; Esther Dweck é cotada - Mais Região",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWU5b1BmamtpMzNzUEhIbnFobTZzWl9mYmRSSUhOZENTdk1ER1FhcFBVazJKdnpJV3YxdGdRelJEWTNIRmNTYVRzbTUtLWl1N3FUSEkwSGF3cW44ODd2cVI3TERWMGhvTWRmbVkwMzAyUjBvMFRYSmZOTFFHWVI4NTRXeldnRGdBdVRQVlcwcmpTT0QyVDVReVZKMTllZDBMbHlDYnFFZjZRTm10V3o0MXZzYkJuYWltemNlMmJRSWFvZnVBNzJJU3M2WVFSblZD?oc=5",
+   "fonte": "Mais Região",
+   "quando": 1795790940.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Mais Região"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 11:49",
+   "foto": "1db39a0400aa.jpg",
+   "credito": "Foto: Mais Região",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1000x666",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.maisregiao.com.br/noticia/96379/lula-avalia-criar-ministerio-para-centralizar-politicas-de-tecnologia-esther-dweck-e-cotada"
+  },
+  {
+   "titulo": "O D.O. Cava impulsiona medidas técnicas para garantir a sustentabilidade do vinhedo - Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWdmSlAzbWNmMmtodHNGQ1pLRV84RzhpYlZud2tfTi1hN2t1NUhHY3MtMHU2M3NidHp0SFVJTklMQnJfa2JlMzVLMEw4UFl3T0R4eXJuNG5KeEJXVkhTSWF1UEVsSzlQSjJHVUpocHJ3MWYwakxpWUs3aGRiQ05nRzY0Snk2MkFLbWhqRE1fd051N0ZkbWN5YnhmZ0ZGOS1mTHl6Y05VTnNwMFFoRXF0eThPNWt4ZjlmNVJVY3JjaXpmaEdFZkNaV1RjNzUtVFFC0gHWAUFVX3lxTE5aaU8wYXJ2WEl2WFgxekZNMk5TUGIwOXRKdUVKdTZoTk5yLXZSMml6eEZjZGJJZHNzOGJKWmZyX0FrbkxGSTFrTFVJWVhzM09zN1VpZWxtUmszZkNueGFRYjRLYXd6VnB4alFQSG9Wem5hT2lreHMwTnJwU2l1dmhmblRxU0ZqNXRGalhJQ0FvZjh3dGdSeTFYeHJPZWdFV21ZTkVDVGxWR0JsZU0tWlZtZXpQcno0NE5DcTBwcUVWOTVDZzJGQkVtbUU2cjhOSGxCWEkxMlE?oc=5",
+   "fonte": "Demócrata",
+   "quando": 1795790901.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Demócrata"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 11:48",
+   "foto": "76b7b92c39f0.jpg",
+   "credito": "Imagem ilustrativa: enioprado / Wikimedia Commons (CC BY-SA 3.0)",
+   "foto_tipo": "ilustrativa",
+   "foto_tamanho": "1600x896"
+  },
+  {
+   "titulo": "Lula ouvirá novo ministro da Fazenda para destravar indicações ao BC - CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzRtdXVyOFd4SWdHUnJJNi03S19XRUF3OW9nWVlkMDlOOXNDUG45eEFiLWRQbU9Hd09PdjczOTdCMFM4ZlNxVDk5MWYzemZlLXNmZmlwVnhqZTNJRm9jRzNNOFdBTUJIbTF2bWpvd09KWjByN2JzRWdYUUFfSzBMWm5VUWJadEtDaDBUX2pTT0tCZTdxY0FPRGVGdWtlTHUzc1B3VXhPcHowTWs?oc=5",
+   "fonte": "CNN Brasil",
+   "quando": 1795790846.0,
+   "categoria": "brasil",
+   "fontes": [
+    "CNN Brasil"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 11:47",
+   "foto": "acf4dd622b66.jpg",
+   "credito": "Foto: CNN Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://www.cnnbrasil.com.br/politica/lula-ouvira-novo-ministro-da-fazenda-para-destravar-indicacoes-ao-bc/"
+  },
+  {
+   "titulo": "SP-127 terá interdição temporária para lançamento de vigas, neste sábado (28), em Tatuí - Estradas",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXNtS3RQVGRBcElzZVgzaFRCdU12T1huT19NM2swVjg0dFQ4cEpvTWNMelZZZG9HX2ZyckhaWnhTX0gtSWkxdENCdXFXUTBraVFBQTM4SWdVMmxoWHBhMWFwN3RiTU1JelRoQnVCWDhvZkZSLXpyRmY3WS1TLU9jT3dlUFAweXR4WWFOSW0zcXQxRld5VzkwNm90WUdmSmFmcGJRNFRUNFJ6cGR0?oc=5",
+   "fonte": "Estradas",
+   "quando": 1795790671.0,
+   "categoria": "estado",
+   "fontes": [
+    "Estradas"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 5,
+   "hora": "27/11 11:44",
+   "foto": "65ac168ca814.jpg",
+   "credito": "Foto: Estradas",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://estradas.com.br/sp-127-tera-interdicao-temporaria-para-lancamento-de-vigas-neste-sabado-28-em-tatui/"
   },
   {
    "titulo": "JJ: Comércio de Jundiaí inicia horário especial a partir de terça (1) - sampi.net.br",
@@ -245,28 +510,6 @@
    "materia_url": "https://sampi.net.br/jundiai/noticias/3021617/jundiai/2026/11/dezembro-tem-estacionamento-gratuito-e-expressinho-no-centro"
   },
   {
-   "titulo": "Tributar os super-ricos está na boca do povo! - adufrgs",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaldiNjNBSmlqR1VzLXFFeVBGdVBGcEhlZFNDV19mTzJfSmhsSmlFVFNxX3BHQ19EdmRTMmRDRkplVThsWnNuZE80cTlHbDh6TXpxa0RJQVNzNGl4R3VoUGRkamwtLW9kbHNTcjRsS2gzeU40Qi1zUHpzdkUzd0NFdnpWaDlfQQ?oc=5",
-   "fonte": "adufrgs",
-   "quando": 1795789008.0,
-   "categoria": "brasil",
-   "fontes": [
-    "adufrgs"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 11:16",
-   "foto": "804b723e4237.jpg",
-   "credito": "Foto: adufrgs",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1279x1600",
-   "foto_qualidade": "hd",
-   "materia_url": "https://adufrgs.org.br/2026/11/27/tributar-os-super-ricos-esta-na-boca-do-povo/"
-  },
-  {
    "titulo": "Festa das Orquídeas 2026 tem shows e exposição em Várzea Paulista - Boqnews",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVpXcGtxVXdJYUJHM0tPV2VXTFBTVUZUZ194THNzQVBuLVE5RjNyQmFSMEV3SGlrN1Qxc3ZWT19PS09QUWt1cnJpVzNFQTBQVHczUUFiNDdOTEdlQllqT0F6SWNyR0s3YnJDODhkdVI3d29EYzNJYk8xbERNZUlJbDloU3diYW5TeXV5SzlyWGdpSmtaU3FZdG1XYzlyV00?oc=5",
    "fonte": "Boqnews",
@@ -296,13 +539,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "27/11 11:15",
-   "foto": "6224787a3068.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3021614/policia/2026/11/ostentacao-ajudou-na-prisao-de-capeta-louco-em-jundiai"
+   "hora": "27/11 11:15"
   },
   {
    "titulo": "Lula anuncia Luiz Carlos Trabuco para o Ministério da Fazenda em 2027 - Portal do Agronegócio",
@@ -318,13 +555,23 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "27/11 11:15",
-   "foto": "81589e2ae33f.jpg",
-   "credito": "Foto: Portal do Agronegócio",
-   "foto_tipo": "materia",
-   "foto_tamanho": "708x476",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.portaldoagronegocio.com.br/politica-rural/governo/noticias/lula-anuncia-luiz-carlos-trabuco-para-o-ministerio-da-fazenda-em-2027"
+   "hora": "27/11 11:15"
+  },
+  {
+   "titulo": "Deputada Federal Erika Hilton - Portal da Câmara dos Deputados",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVlJJSGZpU3BjbHFoZzgxbGQ1UGJHUlhhTGtZSDNENTRlczYwWElVbjBxeS1xNW95T0M2T0w4Z1JHV0V4bFF1X003dHB2TFZYZm9LSA?oc=5",
+   "fonte": "Portal da Câmara dos Deputados",
+   "quando": 1795788725.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Portal da Câmara dos Deputados"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 11:12"
   },
   {
    "titulo": "Ministros do STF veem como positiva indicação de Alckmin para Segurança - CNN Brasil",
@@ -340,35 +587,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "27/11 11:08",
-   "foto": "904d9dc7dd4b.jpg",
-   "credito": "Foto: CNN Brasil",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x630",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.cnnbrasil.com.br/blogs/teo-cury/politica/ministros-do-stf-veem-como-positiva-indicacao-de-alckmin-para-seguranca/"
-  },
-  {
-   "titulo": "Governo do Rio envia à Alerj projeto para tributar heranças e doações no exterior - Agenda do Poder",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGhOU2lhQm1pRHdKVXJNMTgtTUZIVURqTnpQcWtfQWNzUTRleGNrbGlWZktPZW9hTlI1VmZDd2FmTTIwbFBWbDg5X3pBVVhkYWFlRlNnSkZ1MTlPSy1CZWVQcTNFRDA5eldhc0ZYaWdvLU95TFh5emVJMkZ5QXg3UlhPTjVBNDVfd1VvU2c0bUFxLVdqV2RwSk9TNmJpRXRSaExJaVhWQktYbnZHU2RiaA?oc=5",
-   "fonte": "Agenda do Poder",
-   "quando": 1795788300.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Agenda do Poder"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 11:05",
-   "foto": "6562528dc9e6.jpg",
-   "credito": "Foto: Agenda do Poder",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x721",
-   "foto_qualidade": "hd",
-   "materia_url": "https://agendadopoder.com.br/governo-do-rio-envia-a-alerj-projeto-para-tributar-herancas-e-doacoes-no-exterior/"
+   "hora": "27/11 11:08"
   },
   {
    "titulo": "BRASIL: NOVO MINISTRO DA FAZENDA! Lula anuncia Luiz Carlos Trabuco para comandar a economia a partir de 2027. - Regional 24 Horas",
@@ -384,13 +603,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "27/11 10:59",
-   "foto": "0bead2735202.jpg",
-   "credito": "Foto: Regional 24 Horas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "860x500",
-   "foto_qualidade": "media",
-   "materia_url": "https://regional24horas.com.br/noticia/brasil-novo-ministro-da-fazenda-lula-anuncia-luiz-carlos-trabuco-para-comandar-a-economia-a-partir-de-2027-/16109"
+   "hora": "27/11 10:59"
   },
   {
    "titulo": "'O mundo da imaginação' emociona o público no Teatro Polytheama - sampi.net.br",
@@ -404,13 +617,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "27/11 10:53",
-   "foto": "2ef84364b81b.jpg",
-   "credito": "Foto: sampi.net.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://sampi.net.br/jundiai/noticias/3021609/jundiai/2026/11/o-mundo-da-imaginacao-emociona-o-publico-no-teatro-polytheama"
+   "hora": "27/11 10:53"
   },
   {
    "titulo": "Várzea Paulista abre 19ª Festa das Orquídeas com shows gratuitos e desfile da Acadêmicos do Tucuruvi - www.bra1.com.br",
@@ -424,35 +631,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "27/11 10:53",
-   "foto": "322e358b464d.jpg",
-   "credito": "Foto: www.bra1.com.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "500x375",
-   "foto_qualidade": "baixa",
-   "materia_url": "https://www.bra1.com.br/geral/id-734100/varzea_paulista_abre_19__festa_das_orquideas_com_shows_gratuitos_e_desfile_da_academicos_do_tucuruvi"
-  },
-  {
-   "titulo": "Comissão de Defesa da Câmara aprova programa que dá selo federal a empresas que oferecerem descontos a militares das Forças Armadas, policiais e bombeiros - Revista Sociedade Militar",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM2Y5Z0VpRjV4VHF0SGtIOWdyclpaUkhzQTYtMVY5QlFZMlZCRXAxMnZOTUdGaFRaclp1YmdMbmh5Wjd1Z3I3MjVLYm5iYk1oMVhHMnBBQzhRSk0zV19MWnlvUlBTbWV1TEkxenRmeHhIRlpkMzFleDJQd2tiNTRVVEdBVGUzaEpKZi0yNU52X3ljdWZOZmhJY2pMakU3Z1VaVmJYSDcwM1BPQVUycXlxcXltekhOaXZGMDJrOFNLeFR2RHQwcFIwRnJlYkpZSFRjcTJqWi1wM2xwcGZ6d3ZHbjNyQlBBX3k1?oc=5",
-   "fonte": "Revista Sociedade Militar",
-   "quando": 1795787340.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Revista Sociedade Militar"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "seguranca"
-   ],
-   "pontos": 5,
-   "hora": "27/11 10:49",
-   "foto": "6ad755ceb6a1.jpg",
-   "credito": "Foto: Revista Sociedade Militar",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.sociedademilitar.com.br/2026/11/comissao-de-defesa-aprova-pronavid-selo-federal-empresas-descontos-a-militares-policiais-bombeiros-2022j.html"
+   "hora": "27/11 10:53"
   },
   {
    "titulo": "Homenagens e reconhecimento aos profissionais marcam a celebração dos 77 anos da GM de Jundiaí - Tribuna de Jundiaí",
@@ -466,39 +645,13 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 5,
-   "hora": "27/11 10:43",
-   "foto": "bfa6cc95c054.jpg",
-   "credito": "Foto: Tribuna de Jundiaí",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-de-jundiai-77-anos/"
+   "hora": "27/11 10:43"
   },
   {
-   "titulo": "Apagão em sistemas do Governo afeta delegacias, Poupatempo e Detran - Portal AquiVale",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGJjMFVQRzY3Sk5meTFqUmZadkQwS2V2eUp3M2RQaFNOQWM2RTMzSFcyOGpNWXVEUEtUZWp6emcyRnFGSEkyNVNzd1VzcWdMeGhocTM4X3kxVWVVOWhpeDEwU2hiQjhRY25tcDdvQ1RUSl8tUjZOVEYyX3VMU3gyUTduc29KZENFc2dlN2F0Nk1SZTB4NDJIU3dpWWY?oc=5",
-   "fonte": "Portal AquiVale",
-   "quando": 1795789140.0,
-   "categoria": "estado",
-   "fontes": [
-    "Portal AquiVale"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "27/11 11:19",
-   "foto": "788c0c7c4127.jpg",
-   "credito": "Foto: Portal AquiVale",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x675",
-   "foto_qualidade": "media",
-   "materia_url": "https://portalaquivale.com.br/apagao-em-sistemas-do-governo-afeta-delegacias-poupatempo-e-detran"
-  },
-  {
-   "titulo": "Acidente na SP-308 mata motorista de picape, em Elias Fausto - Estradas",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1djTEZxUC1SeDY0Z2hvY1dHN2k3T25Da0tTWnM1THQ0OHoxMVEycE4zUkxGYjEzekUzelJtMUwtM3NONmdMc2JMTVgyRk1YQ1NlS3NLSTd1dkpVd0l4Z2NqSENUVFdpblBpbEIzLWdYT3pVNDRYUmtOTV91dWdrRzhmZW5HMUI2X1JOdQ?oc=5",
+   "titulo": "Para frear mortes entre jovens, projeto da Arteris leva educação viária às universidades - Estradas",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcERrSmVPYTBNQXdnZ3Q0UFk2dVZNNE5jNVFKQUVOejlCM2VjcExUVnVlbFgxWmtZdnJyV1J5TzA4TWFDb2prN3NzbW5ublBXYjRicGVmNU0tX1lZUHVJWjRDbFQ1cEF1bVR1aWdZUk1uaUJrd2p5NERCaWt4RWZTdjJKR3pPY0pnWk1nT05SemV0Q3ZaX29MeVRDazZUa0tZakxlMGJZdTFXRU11alltMFNR?oc=5",
    "fonte": "Estradas",
-   "quando": 1795789117.0,
+   "quando": 1795793438.0,
    "categoria": "estado",
    "fontes": [
     "Estradas"
@@ -506,95 +659,13 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "27/11 11:18",
-   "foto": "a1ab9a20faec.jpg",
-   "credito": "Foto: Estradas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://estradas.com.br/acidente-na-sp-308-mata-motorista-de-picape-em-elias-fausto/"
+   "hora": "27/11 12:30"
   },
   {
-   "titulo": "Bom Prato: confira o funcionamento dos restaurantes neste fim de semana - www.agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MNDVyWU5KSWxCU3N2TEJYTFBZUlZoYnNNR01sUDF0NjFDVzlpV0xUa0lPd0NoMkppLWdLQ0FFcEIyNkFwZEpHVThUd1J1cUs1dTFpNFNJeS1VY3BYdlFZdXZVdkJZd0t6RFo2dk42empscG1f?oc=5",
-   "fonte": "www.agenciasp.sp.gov.br",
-   "quando": 1795788465.0,
-   "categoria": "estado",
-   "fontes": [
-    "www.agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "27/11 11:07",
-   "foto": "0d802c6746d6.jpg",
-   "credito": "Foto: www.agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x1005",
-   "foto_qualidade": "hd",
-   "materia_url": "https://www.agenciasp.sp.gov.br/social/bom-prato-funcionamento-28/"
-  },
-  {
-   "titulo": "Rompimento de cabos durante obra causa instabilidade em serviços de SP - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjRQUG9FcmdaWGxNVFZnd2VzOWVnV2VhQ3RZQ3NJcjV1TXBsZmhxSWV3M3BXalBsS1pGZlF3MGdVOXJvZ1h6dnE0cjFPMWJweVpNMXBOUHZYYjhMRnM3Si1GUnpiUnJ3TUoxMGFNeHpPVkRodDdiUnA0aWNGSlZlWFFlR3pPWEY4VnZURElHaFN1VmVDWEpqUTFuR1dMTzVfSm1uSkZ4b3lWNmRRdFdJZ0ZyekRCYWlzVF9VZw?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795788119.0,
-   "categoria": "estado",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "27/11 11:01"
-  },
-  {
-   "titulo": "OVALE: Apagão no sistema do governo de SP afeta atendimento na RMVale - sampi.net.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQzhZaTI4cXMzbll5UHJBNUtaSkhPMFpTZDVrUVhTVFBId1R5TlV5SWRaMDM0MWRHLXNicGRLTnJ2MlZzeUl3UVhjMFduUVhXc3pkS2ViQ1lIenMxQkJwY21DZFdiNWYzVllLcGRUbHkwVGswNkZuUWxZQnJqZnBUQ0JkYTd5X0pnbGxUVkNmR1g0aUJCM01HNkd0Yko5aC1rT0UzZW1MWWtRVF8yUWdEUEtGOXhwMk5BTUdZaTZhTU5fQ3dBYi1kRVN3?oc=5",
-   "fonte": "sampi.net.br",
-   "quando": 1795788067.0,
-   "categoria": "estado",
-   "fontes": [
-    "sampi.net.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "27/11 11:01"
-  },
-  {
-   "titulo": "Temporais atingem 11 estados do Brasil no fim de semana; veja previsão - Portal Tela",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWdtVWVETk5rS3RnX0pWb0xCTU54RkM2Vnl2MUVJaWRlSmxUaGhKTU9CVG9YRmRPTkZYRGlYRWQ1aFgxQ1loYVZNSm1tQXFXWHNVRk5WTUNWTWtIcnpKUEVGaEZNOEpCdU82WF8taGtvMWQxQ1F5SlRZTXF1Z0Q0ZUxFdWlkUVRZSE9wdDBKd21iOFl1cWNRYjdrck12Y1dqYU1iMVk1bnhaTi1C?oc=5",
-   "fonte": "Portal Tela",
-   "quando": 1795787731.0,
-   "categoria": "estado",
-   "fontes": [
-    "Portal Tela"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "27/11 10:55"
-  },
-  {
-   "titulo": "Casos graves de Covid-19 quintuplicam em dois meses na cidade de São Paulo - Diário de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjFwTHpfbllFejNZc01Mc1FMVXFJUEhZVWMxSGtnNk9EQlBfdVRCSEZtZmhlajJaQzJUVE8xVnVQMWtZbGd1SFNRV3RIUWRvWXV0LUg2dmp5OVhZR2c1N3BKcExYVk5jUWlBWmtCVDVZZmhHdWFYV3h6cjRXWUtBSzRUUTR0UHh2Z2VCYnhMOEdjYlByWDBlcHQ2ZExSU3h1X0x0RFkyZG1yRFFFYnlQQm94SHJyaW1XcVHSAb8BQVVfeXFMUFMzWU5GMWhodG8wNUc3N1ptUDMwSDRDSFZEY2tmU25qMzc1RFlzZDB6VTZER0w3a29XR0RsYkpOZ2J4dU1ONjlWOXU1eDFaNjIzQVg0b2NxaTg5N3o1TGtjNFB2TTkxWU9ocksxXzZQbjM1OHhERXpWTHA0Z1hqYmMyUXlCRi1OeTduZ2lwcnh0X2MyUkNnWTlBeERHYUhmamlBZ0hDYVRmd1ppNmg3a3VDQ0dHamFaQkRHUnJnQ1k?oc=5",
-   "fonte": "Diário de São Paulo",
-   "quando": 1795787115.0,
-   "categoria": "estado",
-   "fontes": [
-    "Diário de São Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "27/11 10:45"
-  },
-  {
-   "titulo": "Portais do Governo de SP, Poupatempo e Detran-SP voltam a funcionar após rompimento de fibra óptica - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2RFNWM5OHJ3b25pTlpoUHhfY2VKczVrWUZZZFlPYl9BeGY4Q0s4MnBrQnZQSlFrbXQ0RDU3VVF0amktbkZHcFE0VGxibWpENEc3Z2VoUkh2MW5UQUdfSVR2SGZ3WFRWb3RTTm5iYXlKSVpYSF9QZ3QzU09xbjlCR2tBemFleld3TWJha1E0NlJzQWdjc2FfVllXVlM5a2ppX2U3XzJhZWhONkY2U2hjMGh6dkJWdWxMcjVITkZaQ0NQeW5oV2h4d0J3T1pMZFVybjJSUWlR?oc=5",
+   "titulo": "Ônibus SP Por Todas leva atendimento gratuito e orientação sobre direitos das mulheres a São Carlos nesta segunda-feira (30) - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQLWRGZlpVeGw5ZnJDNTZSNnA3M2NDTjh3Vy1Jb1hpNUFPUWo2TUM1N3RCYjJleVprR0lNelVYdHRPYjBQX1czeWNXajRKRm1YRmtwNHItYmVReUVHOWZEYVVBd3NPZlFROVFNSFk5ekFuTE9YaGx6REI0SWFUSDlENEluNkJDWUF5S0Q1aVd5X0hyM0QxUWFwUnR4TExpdk03eUR0aEFfeWxLX3NLSjRjdG5FMEw2Z1pZenZtUXBrVEZNM0xCakRuX1FPVzdQUk83Ry1abm9QS0ZyS3N1Z1Q2RWlFNFVNVTQzemxpZ2tYVzFmYThhSHRZNXd0LWFvUzN4Y3JkUmVKelFyaEk?oc=5",
    "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795786922.0,
+   "quando": 1795792972.0,
    "categoria": "estado",
    "fontes": [
     "agenciasp.sp.gov.br"
@@ -602,7 +673,105 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "27/11 10:42"
+   "hora": "27/11 12:22"
+  },
+  {
+   "titulo": "Governo de SP lança Polo de Cosméticos para consolidar liderança paulista na indústria - agenciasp.sp.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0Ruclp6Z1pXb3hWRnNiSjBReVJzaTNYTEJBWExhWUZ3ZV9DZ1hzQks4cnNxZnhSSk5qTlR4d3V6aUswR0hzX19waG1BMFhrNEtoYm1iOGhLaEFuZ3JJQ2J5dkljbjZvQ01kTDY1M1ZqRURaOWdGTnNuSl9yU1dGdTR3?oc=5",
+   "fonte": "agenciasp.sp.gov.br",
+   "quando": 1795792813.0,
+   "categoria": "estado",
+   "fontes": [
+    "agenciasp.sp.gov.br"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 12:20"
+  },
+  {
+   "titulo": "Obra rompe fibra óptica e afeta sistemas do Governo de SP - iG Último Segundo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRm4xM19Tc0NDRUlDZlZBNGVUZktYRXpzbnFlalhGOVBFX1BKclozajlZaldiNmlhNWZkYkdiVmNaOFRjenpoWTVDZFpRNHVHWHV0WGthUnZSamgwRkNmM1lRWlBDakZSRVhwY2V6TXNxNjlEamlVSXBZNUFrZTdtSm9YNXFYS0lOd21LRHRZeUNVTkxVTHZTYThHZjBrVS1haWYzMWtIa3VESmswYUFYNklyNlltUdIBuwFBVV95cUxPQ3N3Xzl1eW9ael81amxTZ3ZreWdQNnkwQ3BMdTUxNlgtUnFhd3RGMnZ4ejdacXFpREJ6WVU1a3V3ZGlpN3VMdUVha3QzOVNaRW1MMHZGT0ZiYWNJdEkyczJQaVJaZUxZU2ZhbXo2U2ZBeVR3Qm1WcTY0cm9QbmFIZmRZVHpfLW1rVEpoS0h5VjljUHNvbVF1OWx0UWsyQS1vY2pUYjNxbHVobF94VkhoQ2oySFBGUXdBZWlJ?oc=5",
+   "fonte": "iG Último Segundo",
+   "quando": 1795792680.0,
+   "categoria": "estado",
+   "fontes": [
+    "iG Último Segundo"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 12:18"
+  },
+  {
+   "titulo": "Dia D contra a dengue acontece neste sábado (28) em Sorocaba - Jornal Cruzeiro do Sul",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ3gtYXlYX0VrS0ZieF9kT3FCQktnRmVfQ21paklpa1h5Z0kwQVdZaklERGxDNDEtTGpFc0tXNXY2OFFuaG50SVBNREl1YVJwLXV1MU1yeWQ1a0hOLWx3d25QTGkzQi1MeWFzbjgtTW5RNXluUWRUWm9ITmxzOS1FOXFPS2JnSXVVcGZ0UWx1R1dWVlhGZEg2RFB6Ty1YWG84VTdXbHgwVzNDeTFkX0R6dzRzR0ZveGZzTlBYWjRIQmdrV3lZX3h5LXNn0gHPAUFVX3lxTE5YT2puNHRMS0VCTzBCdWJkYWh6Q0dySjNQcTBBQ3B1REdWQWtUZ250a3NDbXhBTXFScy1YRm9DaTFXVXF2UGJuTThXMlFmT0FBRWR3TTdyM3hPTGNIZ2RhRVR0MkZ5ckZKNVd2bXZ2M1k2RTJ3dnltZkFtU3NsdmxUcDNKSllDeVV2OVU0R3ZCTVVadTljMVhvN0FmZ0REUG1DMC1KNTAyWmJ4VXdaOElnczdoTUF4UXVHM25EYWM2YU13TjJ3UndBR3pWT0Vtbw?oc=5",
+   "fonte": "Jornal Cruzeiro do Sul",
+   "quando": 1795792440.0,
+   "categoria": "estado",
+   "fontes": [
+    "Jornal Cruzeiro do Sul"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 12:14"
+  },
+  {
+   "titulo": "Fibra óptica rompida em São Paulo afeta portais do governo e Poupatempo - Fato Paulista",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZNXJkQldjRVRLYXBvZ0NXTzVMM2RjaUlXRzdVeVBnRzlHUWlPOWh2YndOTnQzbkZXVWR2YXFtRG00dkZ1NE9vN0ZkMkFmMTZReG9KVFc3TVVaMmU2UXRrczBIUHdPU3F2eEM0UjRaUzlIWVB5WlVXa19iOVZ0dw?oc=5",
+   "fonte": "Fato Paulista",
+   "quando": 1795792042.0,
+   "categoria": "estado",
+   "fontes": [
+    "Fato Paulista"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 12:07"
+  },
+  {
+   "titulo": "Rompimento de cabos de fibra óptica provoca instabilidade em sistemas do governo de SP - Diário de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmlZZFE3VFBVUXkzS1o4Rkg4c0xLU2lpdTR0NVBtUkF4VnoweDI0MUVZdHJ3LVU0bDB1VkQtT3ZKcG9PTFFxMVdxdVFMSlNvOC13SFhWV3J1QVBkN19pQWNHTDF1TE1RZGN5dE9nd2tQU2Q1SnNISFZPZzZ4dkNncVE2b1czMGs1MHVFNXlXZUdIalo1dHdpTnR5WVZlMUVtc0M2T1NnZUdRZFgyVTVONkVJSklCQ1AxZFF0V0Q5anpHWmNIdjB2YWlfYWtueF9lSExPUDlR0gHbAUFVX3lxTFBNeGZ4YVotZVlxYTdBNVFEdnBGQjRJZk9LM1F0WHh2UUZJSVM0MW9RNzlFLVlkSlVLN3hmbEdVQXl2WDFTUzNUSkdESVhVQzhLUlZ4WTJtSnNpdEM5Z0N4YjhDdGFURWx0MngtTlFPQVFrTWF0M2E2cjRkWTRLc2s1MjJGZ195Vy1HUU9kSHpJb3RQM09aRHZhZ091OWx4al96dFZWSXp5YzNfNmdCclNyZzg3eHVXOTlydzJnQ1pZZzV5amduMlFmdEJvWFlsYlZLMlNYNDVwUVNIZw?oc=5",
+   "fonte": "Diário de São Paulo",
+   "quando": 1795791086.0,
+   "categoria": "estado",
+   "fontes": [
+    "Diário de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 11:51"
+  },
+  {
+   "titulo": "Problema na conexão à internet afeta serviços de SP - SBT News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEJEOWxWc1QxRDJVaDFROHZIeVJnOWQ0MWQ0SGtkbW1FbDZ3NWZUeUlyOUVZZm5YYWdtN2dKZ2pzcGVESkhXdGx6UXNPa3B4QzFGYl81Y3c1NEdLY3E4Vm9DV1luSDVkdXVKclM4eWtSbE1DVGtjcXdDMWx5THBzRE10TUpCNVlfdEVUVHhMaDVBVUNkdzljWDFpek4?oc=5",
+   "fonte": "SBT News",
+   "quando": 1795790522.0,
+   "categoria": "estado",
+   "fontes": [
+    "SBT News"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 11:42"
+  },
+  {
+   "titulo": "Família paulista gasta R$ 528 por mês com plano de saúde, 66% acima da média do país, aponta IBGE - BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenIwOVVlSVFPeTJ2WmdpOXZQLUh0WEs5VlVEUV9ETXpfVGIybUEzcW9UUHNsU3Zmbm80cFZGcV91ZXo1SXhmUjlqeGx5akNKSnJIRHlmNzlYUXFXRTNaQ2YyWUJEQlRjTUFUODliZUNlaktiWVZSbXlrZDgzNXdzSjNFdkVESVU?oc=5",
+   "fonte": "BPMoney",
+   "quando": 1795790477.0,
+   "categoria": "estado",
+   "fontes": [
+    "BPMoney"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 3,
+   "hora": "27/11 11:41"
   }
  ]
 }
