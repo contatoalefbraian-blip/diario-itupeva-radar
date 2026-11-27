@@ -1,0 +1,75 @@
+{
+ "pedido": {
+  "id": "2026-11-16-urgente-medeiros",
+  "termos": [
+   "adega fachada Jundiaí",
+   "Jundiaí rua bairro Medeiros",
+   "viatura Polícia Militar São Paulo",
+   "Jundiaí avenida trânsito"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo",
+   "pessoa",
+   "sangue",
+   "arma",
+   "acidente grave"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Viatura Polícia Militar Rodoviária.jpg",
+   "descricao": "Carro Fiat viatura",
+   "tamanho": "1600x1200",
+   "termo": "viatura Polícia Militar São Paulo",
+   "credito": "Foto: Lmportella / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viatura_Pol%C3%ADcia_Militar_Rodovi%C3%A1ria.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Viaturas da Polícia Militar de São Paulo.jpg",
+   "descricao": "O Governador do Estado de São Paulo Geraldo Alckmin, participou da Entrega de 72 Viaturas da PM + Assinatura de 3 Decretos:I) Concurso para 2.200 soldadosII) Concurso para 221 alunos-oficiais III) Red",
+   "tamanho": "1600x1100",
+   "termo": "viatura Polícia Militar São Paulo",
+   "credito": "Foto: Alexandre Carvalho/A2img / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viaturas_da_Pol%C3%ADcia_Militar_de_S%C3%A3o_Paulo.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Viatura Polícia Militar Rodoviária 2.jpg",
+   "descricao": "Gol VW Viatura Polícia",
+   "tamanho": "1600x1200",
+   "termo": "viatura Polícia Militar São Paulo",
+   "credito": "Foto: Lmportella / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viatura_Pol%C3%ADcia_Militar_Rodovi%C3%A1ria_2.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Viaturas da Polícia de São Paulo, Ribeirão preto.jpg",
+   "descricao": "O Governador Geraldo Alckmin participa da entrega de viaturas no CPI-3 na Cidade de Ribeirão Preto. DATA 30/08/2017. LOCAL: Ribeirão Preto/SP. FOTO: Diogo Moreira",
+   "tamanho": "1600x1100",
+   "termo": "viatura Polícia Militar São Paulo",
+   "credito": "Foto: Diogo Moreira / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viaturas_da_Pol%C3%ADcia_de_S%C3%A3o_Paulo,_Ribeir%C3%A3o_preto.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Viaturas da Polícia de São Paulo.jpg",
+   "descricao": "O Governador do Estado de São Paulo, Geraldo Alckmin, participou da Entrega de 57 viaturas da CPI-6. Local: Santos/SP. Data: 05/10/2017. Foto: Alexandre Carvalho/A2img",
+   "tamanho": "1600x1100",
+   "termo": "viatura Polícia Militar São Paulo",
+   "credito": "Foto: Alexandre Carvalho/A2img / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viaturas_da_Pol%C3%ADcia_de_S%C3%A3o_Paulo.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Viaturas da Polícia Rodoviária de São Paulo.jpg",
+   "descricao": "O Governador Geraldo Alckmin, participa do início das obras da Duplicação da SP-333 e entrega de viaturas para Polícia Rodoviária e assinatura de contratos do IAMSPE.DATA 21/10/2017. LOCAL: Marília/SP",
+   "tamanho": "1600x1067",
+   "termo": "viatura Polícia Militar São Paulo",
+   "credito": "Foto: Daniel Guimarães / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viaturas_da_Pol%C3%ADcia_Rodovi%C3%A1ria_de_S%C3%A3o_Paulo.jpg"
+  }
+ ]
+}

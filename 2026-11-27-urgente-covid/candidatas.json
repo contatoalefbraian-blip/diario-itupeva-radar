@@ -1,0 +1,76 @@
+{
+ "pedido": {
+  "id": "2026-11-27-urgente-covid",
+  "termos": [
+   "SARS-CoV-2",
+   "SARS-CoV-2 electron micrograph",
+   "coronavirus virion",
+   "COVID-19 virus"
+  ],
+  "evitar": [
+   "paciente",
+   "patient",
+   "corpo",
+   "body",
+   "funeral",
+   "hospital",
+   "mask"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Cells infected with SARS-CoV-2.jpg",
+   "descricao": "A cluster of CCL-81 cells infected with SARS-CoV-2 virus particles, which are the small spherical structures found on the surface of the cells. The protrusions extending from the cells are cell projec",
+   "tamanho": "1600x1375",
+   "termo": "SARS-CoV-2",
+   "credito": "Foto: NIAID / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Cells_infected_with_SARS-CoV-2.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "SARS-CoV-2 Virus.jpg",
+   "descricao": "Creative layout featuring 3D print models of SARS-CoV-2 virus particles in the foreground (gray viral surface with red spike proteins) and a background image that is a colorized scanning electron micr",
+   "tamanho": "1600x1246",
+   "termo": "SARS-CoV-2",
+   "credito": "Foto: NIAID / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:SARS-CoV-2_Virus.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "SARS-CoV-2 illustration (20).jpg",
+   "descricao": "Illustration of SARS-CoV-2 virus.",
+   "tamanho": "1600x900",
+   "termo": "SARS-CoV-2",
+   "credito": "Foto: We Are Covert / Wikimedia Commons (Copyrighted free use)",
+   "origem": "https://commons.wikimedia.org/wiki/File:SARS-CoV-2_illustration_(20).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "SARS-CoV-2 illustration (19).jpg",
+   "descricao": "Illustration of SARS-CoV-2 virus.",
+   "tamanho": "1600x900",
+   "termo": "SARS-CoV-2",
+   "credito": "Foto: We Are Covert / Wikimedia Commons (Copyrighted free use)",
+   "origem": "https://commons.wikimedia.org/wiki/File:SARS-CoV-2_illustration_(19).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "SARS-CoV-2 illustration (06).jpg",
+   "descricao": "Illustration of SARS-CoV-2 virus.",
+   "tamanho": "1600x900",
+   "termo": "SARS-CoV-2",
+   "credito": "Foto: We Are Covert / Wikimedia Commons (Copyrighted free use)",
+   "origem": "https://commons.wikimedia.org/wiki/File:SARS-CoV-2_illustration_(06).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "SARS-CoV-2 illustration (18).jpg",
+   "descricao": "Illustration of SARS-CoV-2 virus.",
+   "tamanho": "1600x900",
+   "termo": "SARS-CoV-2",
+   "credito": "Foto: We Are Covert / Wikimedia Commons (Copyrighted free use)",
+   "origem": "https://commons.wikimedia.org/wiki/File:SARS-CoV-2_illustration_(18).jpg"
+  }
+ ]
+}

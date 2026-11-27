@@ -1,0 +1,73 @@
+{
+ "pedido": {
+  "id": "2026-11-27-9h",
+  "termos": [
+   "Aedes aegypti mosquito",
+   "Aedes aegypti Brasil dengue",
+   "combate à dengue agente de saúde"
+  ],
+  "evitar": [
+   "vitima",
+   "paciente",
+   "criança",
+   "doente",
+   "sangue"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Aedes aegypti.jpg",
+   "descricao": "Aedes aegypti in Dar es Salaam, Tanzania",
+   "tamanho": "1600x1067",
+   "termo": "Aedes aegypti mosquito",
+   "credito": "Foto: Muhammad Mahdi Karim / Wikimedia Commons (GFDL 1.2)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Aedes_aegypti.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Aedes aegypti (83920).jpg",
+   "descricao": "Aedes aegypti mosquito on a leaf",
+   "tamanho": "1600x2133",
+   "termo": "Aedes aegypti mosquito",
+   "credito": "Foto: Dr. Chinchu C. / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Aedes_aegypti_(83920).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Dead Aedes Aegypti Mosquito .jpg",
+   "descricao": "Dead Aedes Aegypti Mosquito .",
+   "tamanho": "1280x2276",
+   "termo": "Aedes aegypti mosquito",
+   "credito": "Foto: User:Jith4245 / Wikimedia Commons (CC BY-SA 1.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Dead_Aedes_Aegypti_Mosquito_.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Male Aedes Aegypti Mosquito (26418876982).jpg",
+   "descricao": "A male Aedes aegypti mosquito. Credit: NIAID",
+   "tamanho": "1600x1672",
+   "termo": "Aedes aegypti mosquito",
+   "credito": "Foto: NIAID / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Male_Aedes_Aegypti_Mosquito_(26418876982).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Aedes Aegypti Mosquitoes (26444995041).jpg",
+   "descricao": "Adult Aedes aegypti mosquitoes. Credit: NIAID",
+   "tamanho": "1600x1200",
+   "termo": "Aedes aegypti mosquito",
+   "credito": "Foto: NIAID / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Aedes_Aegypti_Mosquitoes_(26444995041).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Aedes aegypti resting position E-A-Goeldi 1905.jpg",
+   "descricao": "Detail from a colour print of the yellow fever or dengue mosquito Aedes aegypti (then called Stegomyia fasciata, today also Stegomyia aegypti): a resting female.",
+   "tamanho": "776x370",
+   "termo": "Aedes aegypti mosquito",
+   "credito": "Foto: Detail from the original by Emil August Goeldi (1859 - 1917) / Wikimedia Commons (Public domain)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Aedes_aegypti_resting_position_E-A-Goeldi_1905.jpg"
+  }
+ ]
+}

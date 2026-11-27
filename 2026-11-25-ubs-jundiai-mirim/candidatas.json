@@ -1,0 +1,70 @@
+{
+ "pedido": {
+  "id": "2026-11-25-ubs-jundiai-mirim",
+  "termos": [
+   "Unidade Básica de Saúde fachada",
+   "posto de saúde Brasil",
+   "Jundiaí Unidade Básica de Saúde"
+  ],
+  "evitar": [
+   "rosto",
+   "paciente"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Barra do Rocha ganha posto de Saúde da Família (3852921757).jpg",
+   "descricao": "Estrutura física da unidade do Programa de Saúde da Familia (PSF) inaugurada em Barra do Rocha. Foto: Arisson Marinho / AGECOM",
+   "tamanho": "1600x1067",
+   "termo": "posto de saúde Brasil",
+   "credito": "Foto: Jaques Wagner Governador from Bahia/Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Barra_do_Rocha_ganha_posto_de_Sa%C3%BAde_da_Fam%C3%ADlia_(3852921757).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Barra do Rocha ganha posto de Saúde da Família (3853328509).jpg",
+   "descricao": "A estrutura física segue um padrão, sendo dotada de farmácia, consultórios de enfermagem, médicos e odontológicos, salas de curativo, sutura e vacina, além de equipe formada por médicos, enfermeiros, ",
+   "tamanho": "1600x1065",
+   "termo": "posto de saúde Brasil",
+   "credito": "Foto: Jaques Wagner Governador from Bahia/Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Barra_do_Rocha_ganha_posto_de_Sa%C3%BAde_da_Fam%C3%ADlia_(3853328509).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Barra do Rocha ganha posto de Saúde da Família (3852927047).jpg",
+   "descricao": "Consultório odontológico do posto de Saúde da Familia (PSF) de Barra do Rocha. Foto: Arisson Marinho / AGECOM",
+   "tamanho": "1600x1067",
+   "termo": "posto de saúde Brasil",
+   "credito": "Foto: Jaques Wagner Governador from Bahia/Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Barra_do_Rocha_ganha_posto_de_Sa%C3%BAde_da_Fam%C3%ADlia_(3852927047).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Barra do Rocha ganha posto de Saúde da Família (3853719482).jpg",
+   "descricao": "A estrutura física segue um padrão, sendo dotada de farmácia, consultórios de enfermagem, médicos e odontológicos, salas de curativo, sutura e vacina, além de equipe formada por médicos, enfermeiros, ",
+   "tamanho": "1600x1067",
+   "termo": "posto de saúde Brasil",
+   "credito": "Foto: Jaques Wagner Governador from Bahia/Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Barra_do_Rocha_ganha_posto_de_Sa%C3%BAde_da_Fam%C3%ADlia_(3853719482).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Barra do Rocha ganha posto de Saúde da Família (3854118658).jpg",
+   "descricao": "A estrutura física segue um padrão, sendo dotada de farmácia, consultórios de enfermagem, médicos e odontológicos, salas de curativo, sutura e vacina, além de equipe formada por médicos, enfermeiros, ",
+   "tamanho": "1600x1065",
+   "termo": "posto de saúde Brasil",
+   "credito": "Foto: Jaques Wagner Governador from Bahia/Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Barra_do_Rocha_ganha_posto_de_Sa%C3%BAde_da_Fam%C3%ADlia_(3854118658).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Barra do Rocha ganha posto de Saúde da Família (3853712642).jpg",
+   "descricao": "Estrutura física da unidade do Programa de Saúde da Familia (PSF) inaugurada em Barra do Rocha. Foto: Arisson Marinho / AGECOM",
+   "tamanho": "1600x1067",
+   "termo": "posto de saúde Brasil",
+   "credito": "Foto: Jaques Wagner Governador from Bahia/Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Barra_do_Rocha_ganha_posto_de_Sa%C3%BAde_da_Fam%C3%ADlia_(3853712642).jpg"
+  }
+ ]
+}

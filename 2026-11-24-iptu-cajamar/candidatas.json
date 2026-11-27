@@ -1,0 +1,69 @@
+{
+ "pedido": {
+  "id": "2026-11-24-iptu-cajamar",
+  "termos": [
+   "Cajamar São Paulo",
+   "Prefeitura de Cajamar",
+   "Cajamar SP cidade"
+  ],
+  "evitar": [
+   "rosto"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Jordanésia-Cajamar-SP.jpg",
+   "descricao": "Distrito de Jordanésia, local conhecido como a \"Faria Lima dos Galpões\" da Grande São Paulo. Local onde abriga gigantes do E-Commerce nacional e internacional.",
+   "tamanho": "1600x900",
+   "termo": "Cajamar São Paulo",
+   "credito": "Foto: Fcrus / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jordan%C3%A9sia-Cajamar-SP.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Cajamar - Jordanésia - São Paulo - panoramio (1).jpg",
+   "descricao": "Cajamar - Jordanésia - São Paulo",
+   "tamanho": "1600x1200",
+   "termo": "Cajamar São Paulo",
+   "credito": "Foto: Anderson Martins / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Cajamar_-_Jordan%C3%A9sia_-_S%C3%A3o_Paulo_-_panoramio_(1).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Cajamar - Jordanésia - São Paulo - panoramio.jpg",
+   "descricao": "Cajamar - Jordanésia - São Paulo",
+   "tamanho": "1600x1200",
+   "termo": "Cajamar São Paulo",
+   "credito": "Foto: Anderson Martins / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Cajamar_-_Jordan%C3%A9sia_-_S%C3%A3o_Paulo_-_panoramio.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Cajamar - Jordanésia - São Paulo - panoramio (3).jpg",
+   "descricao": "Cajamar - Jordanésia - São Paulo",
+   "tamanho": "1600x1200",
+   "termo": "Cajamar São Paulo",
+   "credito": "Foto: Anderson Martins / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Cajamar_-_Jordan%C3%A9sia_-_S%C3%A3o_Paulo_-_panoramio_(3).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Cajamar - Jordanésia - São Paulo - panoramio (2).jpg",
+   "descricao": "Cajamar - Jordanésia - São Paulo",
+   "tamanho": "1600x1200",
+   "termo": "Cajamar São Paulo",
+   "credito": "Foto: Anderson Martins / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Cajamar_-_Jordan%C3%A9sia_-_S%C3%A3o_Paulo_-_panoramio_(2).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "PlacaCajamar.jpg",
+   "descricao": "Placa de Cajamar. Local turístico, ponto mais alto da cidade com vistas para a região Norte e Oeste da Grande São Paulo.",
+   "tamanho": "1197x719",
+   "termo": "Cajamar São Paulo",
+   "credito": "Foto: Fcrus / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:PlacaCajamar.jpg"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "pedido": {
+  "id": "2026-11-23-faltometro-saude-2",
+  "termos": [
+   "waiting room",
+   "Unidade Básica de Saúde",
+   "hospital waiting room",
+   "medical office"
+  ],
+  "evitar": []
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Waiting room at Punsari bus station - Punsari - Sabarkantha DSC002.jpg",
+   "descricao": "Waiting room at Punsari bus station",
+   "tamanho": "1600x1067",
+   "termo": "waiting room",
+   "credito": "Foto: Snehrashmi / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Waiting_room_at_Punsari_bus_station_-_Punsari_-_Sabarkantha_DSC002.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Waiting room at Earlestown railway station 1.jpg",
+   "descricao": "Angle shot of the grade II listed waiting room, the oldest still in use (but only the exterior seating).",
+   "tamanho": "1600x998",
+   "termo": "waiting room",
+   "credito": "Foto: Rodhullandemu / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Waiting_room_at_Earlestown_railway_station_1.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "A waiting room at a medical healthcare clinic, doctor's office, hospital.jpg",
+   "descricao": "A waiting room at a medical healthcare clinic / doctor's office / hospital",
+   "tamanho": "1600x1200",
+   "termo": "waiting room",
+   "credito": "Foto: Harrison Keely / Wikimedia Commons (CC BY 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:A_waiting_room_at_a_medical_healthcare_clinic,_doctor%27s_office,_hospital.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Doctor office waiting room.jpg",
+   "descricao": "waiting room",
+   "tamanho": "1600x1200",
+   "termo": "waiting room",
+   "credito": "Foto: Kurt Kaiser / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Doctor_office_waiting_room.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "2026-06-30 Waiting Room (George Stephen House) 03.jpg",
+   "descricao": "Waiting room, George Stephen House, 1440 Drummond Street, Montreal, Quebec, Canada, H3G 1V9.",
+   "tamanho": "1600x2133",
+   "termo": "waiting room",
+   "credito": "Foto: Thomas1313 / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:2026-06-30_Waiting_Room_(George_Stephen_House)_03.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Atrium waiting room at MedStar McLean.jpg",
+   "descricao": "A waiting room",
+   "tamanho": "1600x2125",
+   "termo": "waiting room",
+   "credito": "Foto: Sdkb / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Atrium_waiting_room_at_MedStar_McLean.jpg"
+  }
+ ]
+}

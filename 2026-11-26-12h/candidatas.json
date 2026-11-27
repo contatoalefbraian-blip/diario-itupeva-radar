@@ -1,0 +1,72 @@
+{
+ "pedido": {
+  "id": "2026-11-26-12h",
+  "termos": [
+   "simulado de emergência evacuação",
+   "Defesa Civil simulado",
+   "alarme de incêndio saída de emergência",
+   "Corpo de Bombeiros treinamento brigada"
+  ],
+  "evitar": [
+   "rosto",
+   "vítima",
+   "fogo"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Simulado de enchente com a Defesa Civil. (31860688887).jpg",
+   "descricao": "Simulado de enchente realizado no distrito de Catuçaba, no munícipio de São Luiz do Paraitinga, junto com a Defesa Civil. Local: São Luiz do Paraitinga/SP Data: 19/01/2019 Foto: Governo do Estado de S",
+   "tamanho": "1600x1100",
+   "termo": "Defesa Civil simulado",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Simulado_de_enchente_com_a_Defesa_Civil._(31860688887).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Simulado de enchente com a Defesa Civil. (46077418514).jpg",
+   "descricao": "Simulado de enchente realizado no distrito de Catuçaba, no munícipio de São Luiz do Paraitinga, junto com a Defesa Civil. Local: São Luiz do Paraitinga/SP Data: 19/01/2019 Foto: Governo do Estado de S",
+   "tamanho": "1600x1100",
+   "termo": "Defesa Civil simulado",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Simulado_de_enchente_com_a_Defesa_Civil._(46077418514).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Simulado de enchente com a Defesa Civil. (46802469651).jpg",
+   "descricao": "Simulado de enchente realizado no distrito de Catuçaba, no munícipio de São Luiz do Paraitinga, junto com a Defesa Civil. Local: São Luiz do Paraitinga/SP Data: 19/01/2019 Foto: Governo do Estado de S",
+   "tamanho": "1600x1100",
+   "termo": "Defesa Civil simulado",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Simulado_de_enchente_com_a_Defesa_Civil._(46802469651).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Simulado de enchente com a Defesa Civil. (45887141815).jpg",
+   "descricao": "Simulado de enchente realizado no distrito de Catuçaba, no munícipio de São Luiz do Paraitinga, junto com a Defesa Civil. Local: São Luiz do Paraitinga/SP Data: 19/01/2019 Foto: Governo do Estado de S",
+   "tamanho": "1600x1100",
+   "termo": "Defesa Civil simulado",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Simulado_de_enchente_com_a_Defesa_Civil._(45887141815).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Simulado de enchente com a Defesa Civil. (31860670287).jpg",
+   "descricao": "Simulado de enchente realizado no distrito de Catuçaba, no munícipio de São Luiz do Paraitinga, junto com a Defesa Civil. Local: São Luiz do Paraitinga/SP Data: 19/01/2019 Foto: Governo do Estado de S",
+   "tamanho": "1600x2328",
+   "termo": "Defesa Civil simulado",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Simulado_de_enchente_com_a_Defesa_Civil._(31860670287).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Simulado de enchente com a Defesa Civil. (46802478361).jpg",
+   "descricao": "Simulado de enchente realizado no distrito de Catuçaba, no munícipio de São Luiz do Paraitinga, junto com a Defesa Civil. Local: São Luiz do Paraitinga/SP Data: 19/01/2019 Foto: Governo do Estado de S",
+   "tamanho": "1600x1100",
+   "termo": "Defesa Civil simulado",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Simulado_de_enchente_com_a_Defesa_Civil._(46802478361).jpg"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "pedido": {
+  "id": "2026-11-23-faltometro-saude",
+  "termos": [
+   "sala de espera unidade básica de saúde",
+   "empty waiting room clinic chairs",
+   "consultório médico vazio"
+  ],
+  "evitar": [
+   "pessoa",
+   "rosto",
+   "paciente"
+  ]
+ },
+ "candidatas": []
+}

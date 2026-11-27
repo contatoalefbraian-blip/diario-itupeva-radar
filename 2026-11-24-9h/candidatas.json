@@ -1,0 +1,49 @@
+{
+ "pedido": {
+  "id": "2026-11-24-9h",
+  "termos": [
+   "motociclista capacete Jundiaí",
+   "moto rodovia trânsito São Paulo",
+   "motorcycle rider helmet Brazil road",
+   "motocicleta rua Brasil"
+  ],
+  "evitar": [
+   "acidente",
+   "vitima",
+   "victim",
+   "corpo",
+   "sangue",
+   "crash",
+   "funeral"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Petrol station in Bénin.jpg",
+   "descricao": "Petrol is sold by the (mainly liquor) bottle in Bénin. There are thousands of these shops in the capital Cotonou, where motorbikes can refuel. It is said that the petrol is illegally imported by sea f",
+   "tamanho": "1600x852",
+   "termo": "motocicleta rua Brasil",
+   "credito": "Foto: Ferdinand Reus / Wikimedia Commons (CC BY-SA 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Petrol_station_in_B%C3%A9nin.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Mundo de entrega - Letícia - Vista da minha rua.jpg",
+   "descricao": "Três entregadores de aplicativo passam em alta velocidade pela Avenida Antártico, em São Bernardo do Campo, e vão em direção à Rodovia Anchieta. Eles carregam mochilas coloridas dos maiores apps de de",
+   "tamanho": "1600x882",
+   "termo": "motocicleta rua Brasil",
+   "credito": "Foto: Leafelix / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Mundo_de_entrega_-_Let%C3%ADcia_-_Vista_da_minha_rua.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Mundo de entrega - Beatriz Foiadelli - Entregador de aplicativo.jpg",
+   "descricao": "Entregador de aplicativo sobre motocicleta em velocidade, em rua de São Paulo, Brasil. Foto retirada em período diurno, em meio ao contexto de pandemia do vírus Sars-CoV-2. Fotografia realizada no con",
+   "tamanho": "1600x1862",
+   "termo": "motocicleta rua Brasil",
+   "credito": "Foto: Beatriz Foiadelli / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Mundo_de_entrega_-_Beatriz_Foiadelli_-_Entregador_de_aplicativo.jpg"
+  }
+ ]
+}

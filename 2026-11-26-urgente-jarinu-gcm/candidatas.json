@@ -1,0 +1,74 @@
+{
+ "pedido": {
+  "id": "2026-11-26-urgente-jarinu-gcm",
+  "termos": [
+   "Jarinu",
+   "Jarinu Prefeitura",
+   "Guarda Civil Municipal viatura",
+   "Guarda Municipal Brasil"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo",
+   "sangue",
+   "funeral",
+   "arma"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Jarinu 071012 REFON 3.JPG",
+   "descricao": "Imagem do município de Jarinu, estado de São Paulo, Brasil.",
+   "tamanho": "994x661",
+   "termo": "Jarinu",
+   "credito": "Foto: Jose Reynaldo da Fonseca / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jarinu_071012_REFON_3.JPG"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Jarinu - SP - panoramio (89).jpg",
+   "descricao": "Jarinu - SP",
+   "tamanho": "1600x1195",
+   "termo": "Jarinu",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jarinu_-_SP_-_panoramio_(89).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Jarinu - SP - panoramio (83).jpg",
+   "descricao": "Jarinu - SP",
+   "tamanho": "1600x1195",
+   "termo": "Jarinu",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jarinu_-_SP_-_panoramio_(83).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Jarinu 071012 REFON 1.JPG",
+   "descricao": "Imagem do município de Jarinu, estado de São Paulo, Brasil.",
+   "tamanho": "994x661",
+   "termo": "Jarinu",
+   "credito": "Foto: Jose Reynaldo da Fonseca / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jarinu_071012_REFON_1.JPG"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Jarinu - SP - panoramio.jpg",
+   "descricao": "Jarinu - SP",
+   "tamanho": "1600x1195",
+   "termo": "Jarinu",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jarinu_-_SP_-_panoramio.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Jarinu 071012 REFON 4.JPG",
+   "descricao": "Imagem do município de Jarinu, estado de São Paulo, Brasil.",
+   "tamanho": "994x661",
+   "termo": "Jarinu",
+   "credito": "Foto: Jose Reynaldo da Fonseca / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jarinu_071012_REFON_4.JPG"
+  }
+ ]
+}

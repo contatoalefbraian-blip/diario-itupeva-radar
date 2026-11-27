@@ -1,0 +1,72 @@
+{
+ "pedido": {
+  "id": "2026-11-19-18h",
+  "termos": [
+   "Itupeva",
+   "Itupeva São Paulo centro",
+   "Itupeva prefeitura",
+   "Itupeva cidade vista"
+  ],
+  "evitar": [
+   "criança",
+   "crianca",
+   "menor"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Itupeva - panoramio (93).jpg",
+   "descricao": "Itupeva",
+   "tamanho": "1600x1195",
+   "termo": "Itupeva",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Itupeva_-_panoramio_(93).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Itupeva - SP - panoramio (1312).jpg",
+   "descricao": "Itupeva - SP",
+   "tamanho": "1195x1600",
+   "termo": "Itupeva",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Itupeva_-_SP_-_panoramio_(1312).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Itupeva - SP - panoramio (28).jpg",
+   "descricao": "Itupeva - SP",
+   "tamanho": "1600x1195",
+   "termo": "Itupeva",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Itupeva_-_SP_-_panoramio_(28).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Itupeva - SP - panoramio (3359).jpg",
+   "descricao": "Itupeva - SP",
+   "tamanho": "1600x1200",
+   "termo": "Itupeva",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Itupeva_-_SP_-_panoramio_(3359).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Wet 'n Wild.jpg",
+   "descricao": "Parque Wet 'n Wild em Valinhos, São Paulo, Brasil.",
+   "tamanho": "800x540",
+   "termo": "Itupeva",
+   "credito": "Foto: Heitor Carvalho Jorge / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Wet_%27n_Wild.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Itupeva - panoramio (91).jpg",
+   "descricao": "Itupeva",
+   "tamanho": "1600x2142",
+   "termo": "Itupeva",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Itupeva_-_panoramio_(91).jpg"
+  }
+ ]
+}

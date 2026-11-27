@@ -1,0 +1,69 @@
+{
+ "pedido": {
+  "id": "2026-11-24-pf-lavagem-2",
+  "termos": [
+   "Sede da Polícia Federal Brasília",
+   "Superintendência Polícia Federal São Paulo",
+   "Brazilian real banknotes"
+  ],
+  "evitar": [
+   "rosto"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Sede da Polícia Federal (52830107256).jpg",
+   "descricao": "Nova sede da Polícia Federal, no prédio Multibrasil Corporate, localizado no Setor Comercial Norte, zona central de Brasília. Foto: Marcos Oliveira/Agência Senado",
+   "tamanho": "1600x901",
+   "termo": "Sede da Polícia Federal Brasília",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Sede_da_Pol%C3%ADcia_Federal_(52830107256).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Sede da Polícia Federal.jpg",
+   "descricao": "Sede da Polícia Federal do Brasil em Brasília.",
+   "tamanho": "862x646",
+   "termo": "Sede da Polícia Federal Brasília",
+   "credito": "Foto: Heitor Carvalho Jorge / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Sede_da_Pol%C3%ADcia_Federal.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Presidente Ernesto Beckmann Geisel (1974-1979) fora do Palácio do Planalto - inaugura nova sede do Departamento da Polícia Federal, Brasília, DF.jpg",
+   "descricao": "Imagem do Fundo Agência Nacional, do Arquivo Nacional",
+   "tamanho": "1600x1460",
+   "termo": "Sede da Polícia Federal Brasília",
+   "credito": "Foto: autor desconhecido / Wikimedia Commons (Public domain)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Presidente_Ernesto_Beckmann_Geisel_(1974-1979)_fora_do_Pal%C3%A1cio_do_Planalto_-_inaugura_nova_sede_do_Departamento_da_Pol%C3%ADcia_Federal,_Bras%C3%ADlia,_DF.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "2024-11-11, 200 Anos do Senado Federal - Medalhas Comemorativas (54133549536).jpg",
+   "descricao": "Cerimônia de entrega das Medalhas Comemorativas dos 200 anos do Senado aos servidores da Casa. As medalhas são concedidas a personalidades de destaque como forma de agradecimento e reconhecimento ao a",
+   "tamanho": "1600x1067",
+   "termo": "Sede da Polícia Federal Brasília",
+   "credito": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:2024-11-11,_200_Anos_do_Senado_Federal_-_Medalhas_Comemorativas_(54133549536).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Brasília está pronta para receber a Olimpíada com segurança (27711858073).jpg",
+   "descricao": "Secretaria de Segurança Pública, Plano Piloto, Brasília, DF, Brasil 15/7/2016 Foto: Andre Borges/Agência Brasília. Nesta sexta-feira (15), foram assinados os documentos que estabelecem as áreas de atu",
+   "tamanho": "1600x1065",
+   "termo": "Sede da Polícia Federal Brasília",
+   "credito": "Foto: Agência Brasília / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_est%C3%A1_pronta_para_receber_a_Olimp%C3%ADada_com_seguran%C3%A7a_(27711858073).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Brasília está pronta para receber a Olimpíada com segurança (28293677406).jpg",
+   "descricao": "Secretaria de Segurança Pública, Plano Piloto, Brasília, DF, Brasil 15/7/2016 Foto: Andre Borges/Agência Brasília. Nesta sexta-feira (15), foram assinados os documentos que estabelecem as áreas de atu",
+   "tamanho": "1600x1065",
+   "termo": "Sede da Polícia Federal Brasília",
+   "credito": "Foto: Agência Brasília / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_est%C3%A1_pronta_para_receber_a_Olimp%C3%ADada_com_seguran%C3%A7a_(28293677406).jpg"
+  }
+ ]
+}

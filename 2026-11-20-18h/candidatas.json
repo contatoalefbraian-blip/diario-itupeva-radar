@@ -1,0 +1,74 @@
+{
+ "pedido": {
+  "id": "2026-11-20-18h",
+  "termos": [
+   "Espaço Expressa Jundiaí",
+   "Jundiaí Expressa fachada",
+   "Jundiaí cidade centro",
+   "Jundiaí São Paulo"
+  ],
+  "evitar": [
+   "vitima",
+   "victim",
+   "corpo",
+   "crianca",
+   "child"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Centro Náutico O Centro funciona desde 2008, mantido por meio de uma parceria entre a DAE S.A., Parque da Cidade, Companhia Saneamento de Jundiaí (CSJ), Prefeitura Municipal de Jundiaí e Lions Club Oeste. - panoramio.jpg",
+   "descricao": "Centro Náutico_O Centro funciona desde 2008, mantido por meio de uma parceria entre a DAE S.A., Parque da Cidade, Companhia Saneamento de Jundiaí (CSJ), Prefeitura Municipal de Jundiaí e Lions Club Oe",
+   "tamanho": "1600x1205",
+   "termo": "Jundiaí cidade centro",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Centro_N%C3%A1utico_O_Centro_funciona_desde_2008,_mantido_por_meio_de_uma_parceria_entre_a_DAE_S.A.,_Parque_da_Cidade,_Companhia_Saneamento_de_Jundia%C3%AD_(CSJ),_Prefeitura_Municipal_de_Jundia%C3%AD_e_Lions_Club_Oeste._-_panoramio.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Área do Centro Náutico do Parque da Cidade. - panoramio.jpg",
+   "descricao": "Área do Centro Náutico do Parque da Cidade.",
+   "tamanho": "1600x1205",
+   "termo": "Jundiaí cidade centro",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:%C3%81rea_do_Centro_N%C3%A1utico_do_Parque_da_Cidade._-_panoramio.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Centro Nautico do Parque da Cidade Maio 2012. - panoramio.jpg",
+   "descricao": "Centro Nautico do Parque da Cidade_Maio_2012.",
+   "tamanho": "1600x1200",
+   "termo": "Jundiaí cidade centro",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Centro_Nautico_do_Parque_da_Cidade_Maio_2012._-_panoramio.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Área do Centro Náutico do Parque da Cidade. - panoramio (1).jpg",
+   "descricao": "Área do Centro Náutico do Parque da Cidade.",
+   "tamanho": "1600x1205",
+   "termo": "Jundiaí cidade centro",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:%C3%81rea_do_Centro_N%C3%A1utico_do_Parque_da_Cidade._-_panoramio_(1).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Em detalhe, canoas do Centro Náutico do Parque da Cidade. - panoramio.jpg",
+   "descricao": "Em detalhe; canoas do Centro Náutico do Parque da Cidade.",
+   "tamanho": "1600x1205",
+   "termo": "Jundiaí cidade centro",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Em_detalhe,_canoas_do_Centro_N%C3%A1utico_do_Parque_da_Cidade._-_panoramio.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Canoas no Centro Náutico do Parque da Cidade. - panoramio.jpg",
+   "descricao": "Canoas no Centro Náutico do Parque da Cidade.",
+   "tamanho": "1600x1205",
+   "termo": "Jundiaí cidade centro",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Canoas_no_Centro_N%C3%A1utico_do_Parque_da_Cidade._-_panoramio.jpg"
+  }
+ ]
+}

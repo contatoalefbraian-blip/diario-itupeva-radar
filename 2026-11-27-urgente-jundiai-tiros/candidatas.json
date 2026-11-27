@@ -1,0 +1,75 @@
+{
+ "pedido": {
+  "id": "2026-11-27-urgente-jundiai-tiros",
+  "termos": [
+   "Jundiaí",
+   "Jundiaí centro",
+   "Polícia Militar do Estado de São Paulo viatura",
+   "Hospital Jundiaí"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo",
+   "sangue",
+   "arma",
+   "revolver",
+   "pessoa"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Jundiaí - SP - panoramio (777).jpg",
+   "descricao": "Jundiaí - SP",
+   "tamanho": "1600x1195",
+   "termo": "Jundiaí",
+   "credito": "Foto: FernandoSantos / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jundia%C3%AD_-_SP_-_panoramio_(777).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Jundiaí2015.jpg",
+   "descricao": "View of the Nove de Julho Avenue area, from Vila Hortolandia. September 12, 2015.",
+   "tamanho": "1600x900",
+   "termo": "Jundiaí",
+   "credito": "Foto: Daniel Pavan e Silva / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Jundia%C3%AD2015.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Centro, Jundiaí - SP, Brazil - panoramio (3).jpg",
+   "descricao": "Centro, Jundiaí - SP, Brazil",
+   "tamanho": "1600x1200",
+   "termo": "Jundiaí",
+   "credito": "Foto: joao batista Shimoto / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Centro,_Jundia%C3%AD_-_SP,_Brazil_-_panoramio_(3).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "May2024. Ponte Torta, Jundiaí, state of São Paulo, Brazil 06.jpg",
+   "descricao": "Ponte Torta (“Crooked Bridge”). Built from approximately 50,000 solid clay bricks between 1888 and 1889 by the Italian stonemason Paschoal Scollato and the engineer in charge, William Harr. It crosses",
+   "tamanho": "1600x1600",
+   "termo": "Jundiaí",
+   "credito": "Foto: Ridiculopathy / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:May2024._Ponte_Torta,_Jundia%C3%AD,_state_of_S%C3%A3o_Paulo,_Brazil_06.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "May2024. Ponte Torta, Jundiaí, state of São Paulo, Brazil 03.jpg",
+   "descricao": "Ponte Torta (“Crooked Bridge”). Built from approximately 50,000 solid clay bricks between 1888 and 1889 by the Italian stonemason Paschoal Scollato and the engineer in charge, William Harr. It crosses",
+   "tamanho": "1600x1600",
+   "termo": "Jundiaí",
+   "credito": "Foto: Ridiculopathy / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:May2024._Ponte_Torta,_Jundia%C3%AD,_state_of_S%C3%A3o_Paulo,_Brazil_03.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "May2024. Ponte Torta, Jundiaí, state of São Paulo, Brazil 05.jpg",
+   "descricao": "Ponte Torta (“Crooked Bridge”). Built from approximately 50,000 solid clay bricks between 1888 and 1889 by the Italian stonemason Paschoal Scollato and the engineer in charge, William Harr. It crosses",
+   "tamanho": "1600x1600",
+   "termo": "Jundiaí",
+   "credito": "Foto: Ridiculopathy / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:May2024._Ponte_Torta,_Jundia%C3%AD,_state_of_S%C3%A3o_Paulo,_Brazil_05.jpg"
+  }
+ ]
+}

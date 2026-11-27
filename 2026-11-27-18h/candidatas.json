@@ -1,0 +1,73 @@
+{
+ "pedido": {
+  "id": "2026-11-27-18h",
+  "termos": [
+   "futsal feminino quadra",
+   "futsal feminino partida",
+   "women futsal match",
+   "futsal Brasil jogo"
+  ],
+  "evitar": [
+   "menor",
+   "crianca",
+   "child",
+   "youth"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "JUBs 2011 - Futsal Feminino - Atletas rezam antes da partida (6334828383).jpg",
+   "descricao": "Foto - Alexandra Martins",
+   "tamanho": "1000x617",
+   "termo": "futsal feminino partida",
+   "credito": "Foto: Universidade de Brasília from Brasília, Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:JUBs_2011_-_Futsal_Feminino_-_Atletas_rezam_antes_da_partida_(6334828383).jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Mundial feminino de futebol de salão AMF (2013).jpg",
+   "descricao": "Foto da partida entre Paraguai e Taipé Chinesa, no II Mundial Feminino de Futebol de Salão AMF, na Colômbia em 8/11/2013.",
+   "tamanho": "749x498",
+   "termo": "futsal feminino partida",
+   "credito": "Foto: Galeria da CNFS Brasil - Flickr / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Mundial_feminino_de_futebol_de_sal%C3%A3o_AMF_(2013).jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "2023 Jogos Regionais - Futebol Feminino.jpg",
+   "descricao": "Após 10 dias de Jogos Regionais, a cidade de Rio Preto confirmou o favoritismo e manteve o título de campeã pela 23ª vez consecutiva. A cidade, que não sediava os jogos desde 1997, recebeu 4.584 parti",
+   "tamanho": "1154x548",
+   "termo": "futsal feminino partida",
+   "credito": "Foto: ASCOM - Prefeitura de Votuporanga / Wikimedia Commons (Public domain)",
+   "origem": "https://commons.wikimedia.org/wiki/File:2023_Jogos_Regionais_-_Futebol_Feminino.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Morocco women's national futsal team (WAFCON Futsal 2025).jpg",
+   "descricao": "2025 CAF Women's Futsal Africa Cup of Nations Final Match: Tanzania v Morocco - Morocco women's national futsal team",
+   "tamanho": "1600x995",
+   "termo": "women futsal match",
+   "credito": "Foto: Reda benkhadra / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Morocco_women%27s_national_futsal_team_(WAFCON_Futsal_2025).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "2025 FIFA Futsal Women's World Cup Brazil v Panama.jpg",
+   "descricao": "The Brazil v Panama match at the 2025 FIFA Futsal Women's World Cup",
+   "tamanho": "1600x1150",
+   "termo": "women futsal match",
+   "credito": "Foto: Patrick Cristiano / Wikimedia Commons (CC BY 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:2025_FIFA_Futsal_Women%27s_World_Cup_Brazil_v_Panama.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "2025 FIFA Futsal Women's World Cup Philippines v Poland.jpg",
+   "descricao": "The Philippines v Poland match at the 2025 FIFA Futsal Women's World Cup",
+   "tamanho": "1451x886",
+   "termo": "women futsal match",
+   "credito": "Foto: Philippine Sports Commission / Wikimedia Commons (Public domain)",
+   "origem": "https://commons.wikimedia.org/wiki/File:2025_FIFA_Futsal_Women%27s_World_Cup_Philippines_v_Poland.jpg"
+  }
+ ]
+}

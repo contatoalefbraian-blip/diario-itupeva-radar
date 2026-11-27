@@ -1,0 +1,74 @@
+{
+ "pedido": {
+  "id": "2026-11-22-9h",
+  "termos": [
+   "Congresso Nacional Brasília",
+   "Câmara dos Deputados plenário",
+   "Palácio do Congresso Nacional fachada",
+   "Brazilian National Congress building"
+  ],
+  "evitar": [
+   "protesto",
+   "manifestação",
+   "pessoa",
+   "retrato",
+   "político"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Brazilian National Congress.jpg",
+   "descricao": "Brazilian Congress with rain on the background. Architecture by Oscar Niemeyer.",
+   "tamanho": "1600x1009",
+   "termo": "Congresso Nacional Brasília",
+   "credito": "Foto: Eurico Zimbres / Wikimedia Commons (CC BY-SA 2.5)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Brazilian_National_Congress.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Brasilia Eixo Monumental Nat Congress Ministries from TV Tower.jpg",
+   "descricao": "Brasilia, capital of Brazil, as seen from the TV tower: eastern part of Eixo Monumental, National Congress buildings (two towers and two hemispheres) and ministries (in green on both sides).",
+   "tamanho": "1600x844",
+   "termo": "Congresso Nacional Brasília",
+   "credito": "Foto: Cayambe / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Brasilia_Eixo_Monumental_Nat_Congress_Ministries_from_TV_Tower.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Congresso Nacional BSB 06 2014 8856 cropped.jpg",
+   "descricao": "Congresso Nacional, Brasília, Distrito Federal, Brasil",
+   "tamanho": "1600x1477",
+   "termo": "Congresso Nacional Brasília",
+   "credito": "Foto: Mariordo (Mario Roberto Durán Ortiz) / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_BSB_06_2014_8856_cropped.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Congresso Nacional, Brasília-DF, Brasil.jpg",
+   "descricao": "National Congress of Brazil at Brasília federal district",
+   "tamanho": "1600x1063",
+   "termo": "Congresso Nacional Brasília",
+   "credito": "Foto: Dária Baísa / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional,_Bras%C3%ADlia-DF,_Brasil.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Congresso do Brasil.jpg",
+   "descricao": "Congresso Nacional do Brasil, Brasília.",
+   "tamanho": "1600x1025",
+   "termo": "Congresso Nacional Brasília",
+   "credito": "Foto: P - A - S / Wikimedia Commons (CC BY-SA 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Congresso_do_Brasil.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "CONGRESSO NACIONAL BRASÍLIA FOTO ARLEY DA CRUZ.jpg",
+   "descricao": "FOTO ARLEY DA CRUZ",
+   "tamanho": "1600x904",
+   "termo": "Congresso Nacional Brasília",
+   "credito": "Foto: Arley da Cruz / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:CONGRESSO_NACIONAL_BRAS%C3%8DLIA_FOTO_ARLEY_DA_CRUZ.jpg"
+  }
+ ]
+}

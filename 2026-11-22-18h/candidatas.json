@@ -1,0 +1,39 @@
+{
+ "pedido": {
+  "id": "2026-11-22-18h",
+  "termos": [
+   "temporal chuva forte nuvens escuras São Paulo",
+   "tempestade céu nuvens carregadas",
+   "storm clouds Brazil rain"
+  ],
+  "evitar": [
+   "vitima",
+   "victim",
+   "corpo",
+   "enchente",
+   "flood",
+   "deslizamento",
+   "pessoa"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Temporal em São José dos Campos SP.jpg",
+   "descricao": "Storm in São José dos Campos, São Paulo, Brazil.",
+   "tamanho": "800x533",
+   "termo": "storm clouds Brazil rain",
+   "credito": "Foto: Wilson Neves de Miranda from São José dos Campos, Brasil / Wikimedia Commons (CC BY-SA 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Temporal_em_S%C3%A3o_Jos%C3%A9_dos_Campos_SP.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Drought along the Amazon and Tapajós Rivers (MODIS 2024-10-28).jpg",
+   "descricao": "October 23, 2024 October 12, 2021 Severe and widespread drought has gripped much of South America in 2024, dropping water levels in many rivers in the Amazon basin to record-low levels during Septembe",
+   "tamanho": "1600x1280",
+   "termo": "storm clouds Brazil rain",
+   "credito": "Foto: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons (Public domain)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Drought_along_the_Amazon_and_Tapaj%C3%B3s_Rivers_(MODIS_2024-10-28).jpg"
+  }
+ ]
+}

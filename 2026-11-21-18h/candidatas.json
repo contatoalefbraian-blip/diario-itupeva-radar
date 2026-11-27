@@ -1,0 +1,75 @@
+{
+ "pedido": {
+  "id": "2026-11-21-18h",
+  "termos": [
+   "Viaturas da Polícia Militar de São Paulo",
+   "PMSP viatura",
+   "Polícia Militar São Paulo viatura"
+  ],
+  "evitar": [
+   "vitima",
+   "victim",
+   "corpo",
+   "crianca",
+   "child",
+   "Alckmin",
+   "governador"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "São Paulo Military Police Renault radio patrol vehicle.jpg",
+   "descricao": "Rodrigo Garcia entrega de viaturas de rádio patrulha para Batalhões da Polícia Militar Local: São Paulo/SP Data: 21/12/2021 Foto: Governo do Estado de São Paulo",
+   "tamanho": "1600x1067",
+   "termo": "Viaturas da Polícia Militar de São Paulo",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_Military_Police_Renault_radio_patrol_vehicle.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Viatura Polícia Militar Rodoviária.jpg",
+   "descricao": "Carro Fiat viatura",
+   "tamanho": "1600x1200",
+   "termo": "Polícia Militar São Paulo viatura",
+   "credito": "Foto: Lmportella / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viatura_Pol%C3%ADcia_Militar_Rodovi%C3%A1ria.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Viatura Polícia Militar Rodoviária 2.jpg",
+   "descricao": "Gol VW Viatura Polícia",
+   "tamanho": "1600x1200",
+   "termo": "Polícia Militar São Paulo viatura",
+   "credito": "Foto: Lmportella / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viatura_Pol%C3%ADcia_Militar_Rodovi%C3%A1ria_2.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "ENTREGA DAS VIATURAS 100% ELÉTRICAS PARA A GUARDA MUNICIPAL E POLÍCIA MILITAR (ATIVIDADE DELEGADA) (53108833596).jpg",
+   "descricao": "ENTREGA DAS VIATURAS 100% ELÉTRICAS PARA A GUARDA MUNICIPAL E POLÍCIA MILITAR (ATIVIDADE DELEGADA) Local: SÃO JOSÉ DOS CAMPOS - SP Data: 11/08/2023 Foto: Cris Cunha / Governo do Estado de SP",
+   "tamanho": "1600x1067",
+   "termo": "Polícia Militar São Paulo viatura",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:ENTREGA_DAS_VIATURAS_100%25_EL%C3%89TRICAS_PARA_A_GUARDA_MUNICIPAL_E_POL%C3%8DCIA_MILITAR_(ATIVIDADE_DELEGADA)_(53108833596).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "ENTREGA DAS VIATURAS 100% ELÉTRICAS PARA A GUARDA MUNICIPAL E POLÍCIA MILITAR (ATIVIDADE DELEGADA) (53109040184).jpg",
+   "descricao": "ENTREGA DAS VIATURAS 100% ELÉTRICAS PARA A GUARDA MUNICIPAL E POLÍCIA MILITAR (ATIVIDADE DELEGADA) Local: SÃO JOSÉ DOS CAMPOS - SP Data: 11/08/2023 Foto: Cris Cunha / Governo do Estado de SP",
+   "tamanho": "1600x1067",
+   "termo": "Polícia Militar São Paulo viatura",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:ENTREGA_DAS_VIATURAS_100%25_EL%C3%89TRICAS_PARA_A_GUARDA_MUNICIPAL_E_POL%C3%8DCIA_MILITAR_(ATIVIDADE_DELEGADA)_(53109040184).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "ENTREGA DAS VIATURAS 100% ELÉTRICAS PARA A GUARDA MUNICIPAL E POLÍCIA MILITAR (ATIVIDADE DELEGADA) (53109039054).jpg",
+   "descricao": "ENTREGA DAS VIATURAS 100% ELÉTRICAS PARA A GUARDA MUNICIPAL E POLÍCIA MILITAR (ATIVIDADE DELEGADA) Local: SÃO JOSÉ DOS CAMPOS - SP Data: 11/08/2023 Foto: Cris Cunha / Governo do Estado de SP",
+   "tamanho": "1600x1067",
+   "termo": "Polícia Militar São Paulo viatura",
+   "credito": "Foto: Governo do Estado de São Paulo / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:ENTREGA_DAS_VIATURAS_100%25_EL%C3%89TRICAS_PARA_A_GUARDA_MUNICIPAL_E_POL%C3%8DCIA_MILITAR_(ATIVIDADE_DELEGADA)_(53109039054).jpg"
+  }
+ ]
+}

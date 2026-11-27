@@ -1,0 +1,73 @@
+{
+ "pedido": {
+  "id": "2026-11-27-janones",
+  "termos": [
+   "André Janones",
+   "André Janones deputado federal",
+   "Janones Câmara dos Deputados"
+  ],
+  "evitar": [
+   "Nikolas",
+   "protesto",
+   "manifestação",
+   "meme",
+   "caricatura"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "André Janones, August 2022.jpg",
+   "descricao": "13.08.2022 - Lula e André Janones falam, em live, sobre a continuidade do Auxílio Emergencial. foto: Ricardo Stuckert",
+   "tamanho": "1268x1742",
+   "termo": "André Janones",
+   "credito": "Foto: Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Janones,_August_2022.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "13.08.2022-Lula e Janones falam sobre Auxílio Emergencial.jpg",
+   "descricao": "13.08.2022 - Lula e André Janones falam, em live, sobre a continuidade do Auxílio Emergencial. foto: Ricardo Stuckert",
+   "tamanho": "1600x1200",
+   "termo": "André Janones",
+   "credito": "Foto: Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:13.08.2022-Lula_e_Janones_falam_sobre_Aux%C3%ADlio_Emergencial.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Fr. Parl. Saúde Mental 19 04 2023 - Foto Chico Ferreira (52829980682).jpg",
+   "descricao": "Fr. Parl. Saúde Mental 19/04/2023 - Foto: Chico Ferreira",
+   "tamanho": "1600x1067",
+   "termo": "André Janones",
+   "credito": "Foto: Liderança do PSB na Câmara / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fr._Parl._Sa%C3%BAde_Mental_19_04_2023_-_Foto_Chico_Ferreira_(52829980682).jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Fr. Parl. Saúde Mental 19 04 2023 - Foto Chico Ferreira (52830548681).jpg",
+   "descricao": "Fr. Parl. Saúde Mental 19/04/2023 - Foto: Chico Ferreira",
+   "tamanho": "1600x1067",
+   "termo": "André Janones",
+   "credito": "Foto: Liderança do PSB na Câmara / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fr._Parl._Sa%C3%BAde_Mental_19_04_2023_-_Foto_Chico_Ferreira_(52830548681).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Fr. Parl. Saúde Mental 19 04 2023 - Foto Chico Ferreira (52829980637).jpg",
+   "descricao": "Fr. Parl. Saúde Mental 19/04/2023 - Foto: Chico Ferreira",
+   "tamanho": "1600x1067",
+   "termo": "André Janones",
+   "credito": "Foto: Liderança do PSB na Câmara / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fr._Parl._Sa%C3%BAde_Mental_19_04_2023_-_Foto_Chico_Ferreira_(52829980637).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Fr. Parl. Saúde Mental 19 04 2023 - Foto Chico Ferreira (52830549081).jpg",
+   "descricao": "Fr. Parl. Saúde Mental 19/04/2023 - Foto: Chico Ferreira",
+   "tamanho": "1600x1067",
+   "termo": "André Janones",
+   "credito": "Foto: Liderança do PSB na Câmara / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fr._Parl._Sa%C3%BAde_Mental_19_04_2023_-_Foto_Chico_Ferreira_(52830549081).jpg"
+  }
+ ]
+}

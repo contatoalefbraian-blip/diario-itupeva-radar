@@ -1,0 +1,71 @@
+{
+ "pedido": {
+  "id": "2026-11-24-18h",
+  "termos": [
+   "Itupeva Paço Municipal",
+   "Itupeva prefeitura",
+   "feira de artesanato barracas",
+   "feira artesanato Brasil"
+  ],
+  "evitar": [
+   "rosto",
+   "criança"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Brasao itupeva.jpg",
+   "descricao": "Este é o brasão de Itupeva/sp",
+   "tamanho": "1600x1652",
+   "termo": "Itupeva prefeitura",
+   "credito": "Foto: Guiadeitupeva Prefeitura de Itupeva / Wikimedia Commons (Public domain)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Brasao_itupeva.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Feira de artesanato em Viçosa 02.jpg",
+   "descricao": "Street vendors of artisanal goods in a fair in the main square or Viçosa, Minas Gerais, Brazil. Products being sold include dolls, purses, clothes, decorations, and so on.",
+   "tamanho": "1600x900",
+   "termo": "feira de artesanato barracas",
+   "credito": "Foto: Mateus S. Figueiredo / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Feira_de_artesanato_em_Vi%C3%A7osa_02.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Feira de artesanato em Viçosa 01.jpg",
+   "descricao": "Street vendors of artisanal goods in a fair in the main square or Viçosa, Minas Gerais, Brazil. Products being sold include dolls, purses, clothes, decorations, and so on.",
+   "tamanho": "1600x900",
+   "termo": "feira de artesanato barracas",
+   "credito": "Foto: Mateus S. Figueiredo / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Feira_de_artesanato_em_Vi%C3%A7osa_01.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Feira de artesanato em Viçosa 05.jpg",
+   "descricao": "Street vendors of artisanal goods in a fair in the main square or Viçosa, Minas Gerais, Brazil. Products being sold include dolls, purses, clothes, decorations, and so on. Church visible.",
+   "tamanho": "1600x900",
+   "termo": "feira de artesanato barracas",
+   "credito": "Foto: Mateus S. Figueiredo / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Feira_de_artesanato_em_Vi%C3%A7osa_05.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Feira de artesanato em Viçosa 04.jpg",
+   "descricao": "Street vendors of artisanal goods in a fair in the main square or Viçosa, Minas Gerais, Brazil. Products being sold include dolls, purses, clothes, decorations, and so on.",
+   "tamanho": "1600x900",
+   "termo": "feira de artesanato barracas",
+   "credito": "Foto: Mateus S. Figueiredo / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Feira_de_artesanato_em_Vi%C3%A7osa_04.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Feira de artesanato em Viçosa 06.jpg",
+   "descricao": "Street vendors of artisanal goods in a fair in the main square or Viçosa, Minas Gerais, Brazil. Products being sold include dolls, purses, clothes, decorations, and so on.",
+   "tamanho": "1600x900",
+   "termo": "feira de artesanato barracas",
+   "credito": "Foto: Mateus S. Figueiredo / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Feira_de_artesanato_em_Vi%C3%A7osa_06.jpg"
+  }
+ ]
+}

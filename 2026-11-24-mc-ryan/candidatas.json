@@ -1,0 +1,67 @@
+{
+ "pedido": {
+  "id": "2026-11-24-mc-ryan",
+  "termos": [
+   "MC Ryan SP",
+   "MC Ryan SP show",
+   "MC Ryan SP 2024"
+  ],
+  "evitar": []
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Leucobryum sp. - Wyckoff, New Jersey 2024-07-31.jpg",
+   "descricao": "Leucobryum sp. at James A. McFaul Environmental Center in Wyckoff, New Jersey, United States of America.",
+   "tamanho": "1600x1280",
+   "termo": "MC Ryan SP",
+   "credito": "Foto: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Leucobryum_sp._-_Wyckoff,_New_Jersey_2024-07-31.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Hammertail (Efferia sp.) - Wyckoff, New Jersey 2024-07-31.jpg",
+   "descricao": "Hammertail (Efferia sp.) at James A. McFaul Environmental Center in Wyckoff, New Jersey, United States of America.",
+   "tamanho": "1600x1600",
+   "termo": "MC Ryan SP",
+   "credito": "Foto: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Hammertail_(Efferia_sp.)_-_Wyckoff,_New_Jersey_2024-07-31.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Flatsedge (Cyperus sp.) - Wyckoff, New Jersey 2024-07-31.jpg",
+   "descricao": "Flatsedge (Cyperus sp.) at James A. McFaul Environmental Center in Wyckoff, New Jersey, United States of America.",
+   "tamanho": "1600x1280",
+   "termo": "MC Ryan SP",
+   "credito": "Foto: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Flatsedge_(Cyperus_sp.)_-_Wyckoff,_New_Jersey_2024-07-31.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Greenshield Lichen (Flavoparmelia sp.) - Wyckoff, New Jersey 2023-01-15.jpg",
+   "descricao": "Greenshield Lichen (Flavoparmelia sp.) at the James A. McFaul Environmental Center in Wyckoff, New Jersey, United States of America.",
+   "tamanho": "1600x900",
+   "termo": "MC Ryan SP",
+   "credito": "Foto: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Greenshield_Lichen_(Flavoparmelia_sp.)_-_Wyckoff,_New_Jersey_2023-01-15.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Speckled Shield Lichen (Punctelia sp.) - Wyckoff, New Jersey 2023-01-15.jpg",
+   "descricao": "Speckled Shield Lichen (Punctelia sp.) at the James A. McFaul Environmental Center in Wyckoff, New Jersey, United States of America.",
+   "tamanho": "1600x1600",
+   "termo": "MC Ryan SP",
+   "credito": "Foto: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Speckled_Shield_Lichen_(Punctelia_sp.)_-_Wyckoff,_New_Jersey_2023-01-15.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "American Holly (Ilex opaca) - Wyckoff, New Jersey 2023-01-15.jpg",
+   "descricao": "American Holly (Ilex opaca) at the James A. McFaul Environmental Center in Wyckoff, New Jersey, United States of America.",
+   "tamanho": "1600x1600",
+   "termo": "MC Ryan SP",
+   "credito": "Foto: Ryan Hodnett / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:American_Holly_(Ilex_opaca)_-_Wyckoff,_New_Jersey_2023-01-15.jpg"
+  }
+ ]
+}

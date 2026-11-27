@@ -1,0 +1,44 @@
+{
+ "pedido": {
+  "id": "2026-11-15-urgente-chuva",
+  "termos": [
+   "tempestade raios céu escuro",
+   "storm clouds lightning Brazil",
+   "temporal chuva forte São Paulo"
+  ],
+  "evitar": [
+   "vitima",
+   "corpo",
+   "pessoa"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "PalaciodoplanaltoFR.jpg",
+   "descricao": "Lightning strikes over the Presidential Palace, in Brasília. After the terrorist attacks of ISIS on different cities in France, Brazil expresses its sympathy by displaying the colors of the French fla",
+   "tamanho": "1600x1067",
+   "termo": "storm clouds lightning Brazil",
+   "credito": "Foto: Dasfour2022 / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:PalaciodoplanaltoFR.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Storm - Flickr - emarquetti.jpg",
+   "descricao": "The summer storm comming from the sea.",
+   "tamanho": "700x517",
+   "termo": "storm clouds lightning Brazil",
+   "credito": "Foto: Eduardo Marquetti from Itajai, Brazil / Wikimedia Commons (CC BY-SA 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Storm_-_Flickr_-_emarquetti.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Temporal em São José dos Campos SP.jpg",
+   "descricao": "Storm in São José dos Campos, São Paulo, Brazil.",
+   "tamanho": "800x533",
+   "termo": "storm clouds lightning Brazil",
+   "credito": "Foto: Wilson Neves de Miranda from São José dos Campos, Brasil / Wikimedia Commons (CC BY-SA 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Temporal_em_S%C3%A3o_Jos%C3%A9_dos_Campos_SP.jpg"
+  }
+ ]
+}

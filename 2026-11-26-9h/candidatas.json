@@ -1,0 +1,71 @@
+{
+ "pedido": {
+  "id": "2026-11-26-9h",
+  "termos": [
+   "Terminal rodoviário fachada",
+   "rodoviária Itupeva",
+   "terminal rodoviário ônibus plataforma"
+  ],
+  "evitar": [
+   "rosto",
+   "pessoas",
+   "político"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Fachada do Terminal Rodoviário Carlos Alberto Vivácqua Campos, Vitória ES.JPG",
+   "descricao": "Facade of the Carlos Alberto Vivácqua Campos Bus Station, in Vitória, Espírito Santo, Brazil.",
+   "tamanho": "1600x1200",
+   "termo": "Terminal rodoviário fachada",
+   "credito": "Foto: HVL / Wikimedia Commons (CC BY 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Terminal_Rodovi%C3%A1rio_Carlos_Alberto_Viv%C3%A1cqua_Campos,_Vit%C3%B3ria_ES.JPG"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Fachada Terminal Rodoviário de Floriano.jpg",
+   "descricao": "Fachada do Terminal Rodoviário Dr. Filadelfo Freire de Castro",
+   "tamanho": "1600x900",
+   "termo": "Terminal rodoviário fachada",
+   "credito": "Foto: OvoMesclado / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_Terminal_Rodovi%C3%A1rio_de_Floriano.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Fachada do Terminal Rodoviário de Piúma ES.JPG",
+   "descricao": "Facade of the Juracy Bassul bus station, in Piúma, Espírito Santo, Brazil.",
+   "tamanho": "1600x1200",
+   "termo": "Terminal rodoviário fachada",
+   "credito": "Foto: HVL / Wikimedia Commons (CC BY 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_do_Terminal_Rodovi%C3%A1rio_de_Pi%C3%BAma_ES.JPG"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "FACHADA TERMINAL DO RODOVIÁRIO DE TEIXEIRA DE FREITAS.jpg",
+   "descricao": "Fachada do novo Terminal Rodoviário de Teixeira de Freitas, com letreiro de identificação",
+   "tamanho": "1600x900",
+   "termo": "Terminal rodoviário fachada",
+   "credito": "Foto: JÚNIOR ORIGEM / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:FACHADA_TERMINAL_DO_RODOVI%C3%81RIO_DE_TEIXEIRA_DE_FREITAS.jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Fachada Rodoviária do Jabaquara.jpg",
+   "descricao": "Fachada do Terminal Rodoviário Jabaquara",
+   "tamanho": "1600x1200",
+   "termo": "Terminal rodoviário fachada",
+   "credito": "Foto: LuanCampSouza93 / Wikimedia Commons (CC0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_Rodovi%C3%A1ria_do_Jabaquara.jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "Fachada Rod Tietê(1).jpg",
+   "descricao": "Imagem da fachada do Terminal Rodoviário Tietê, localizado em São Paulo, Brasil",
+   "tamanho": "1600x874",
+   "termo": "Terminal rodoviário fachada",
+   "credito": "Foto: Lucs1994 / Wikimedia Commons (CC BY-SA 4.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Fachada_Rod_Tiet%C3%AA(1).jpg"
+  }
+ ]
+}

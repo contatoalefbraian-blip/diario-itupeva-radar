@@ -1,0 +1,70 @@
+{
+ "pedido": {
+  "id": "2026-11-24-pf-lavagem",
+  "termos": [
+   "Polícia Federal viatura",
+   "Polícia Federal Brasil carro",
+   "Federal Police Brazil vehicle"
+  ],
+  "evitar": [
+   "rosto",
+   "preso"
+  ]
+ },
+ "candidatas": [
+  {
+   "arquivo": "c1.jpg",
+   "titulo": "Brazil Federal Senate Police new Chevy pickup.jpg",
+   "descricao": "Polícia do Senado recebe novas viaturas. Foto: Marcos Oliveira/Agência Senado",
+   "tamanho": "1600x1065",
+   "termo": "Polícia Federal viatura",
+   "credito": "Foto: Senado Federal / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Brazil_Federal_Senate_Police_new_Chevy_pickup.jpg"
+  },
+  {
+   "arquivo": "c2.jpg",
+   "titulo": "Viatura do NOE - PRF.jpg",
+   "descricao": "Highway Patrol Police Car - Brazil",
+   "tamanho": "1600x1248",
+   "termo": "Polícia Federal viatura",
+   "credito": "Foto: EUDOXIO / Wikimedia Commons (CC BY-SA 3.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Viatura_do_NOE_-_PRF.jpg"
+  },
+  {
+   "arquivo": "c3.jpg",
+   "titulo": "Brazil Federal Senate Police new Hyundai SUV.jpg",
+   "descricao": "Polícia do Senado recebe novas viaturas. Foto: Marcos Oliveira/Agência Senado",
+   "tamanho": "1600x1065",
+   "termo": "Polícia Federal viatura",
+   "credito": "Foto: Senado Federal / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Brazil_Federal_Senate_Police_new_Hyundai_SUV.jpg"
+  },
+  {
+   "arquivo": "c4.jpg",
+   "titulo": "Novas viaturas (8231005398).jpg",
+   "descricao": "Polícia Militar do Distrito Federal",
+   "tamanho": "1600x836",
+   "termo": "Polícia Federal viatura",
+   "credito": "Foto: André Gustavo Stumpf from Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Novas_viaturas_(8231005398).jpg"
+  },
+  {
+   "arquivo": "c5.jpg",
+   "titulo": "Novas viaturas (9614231005).jpg",
+   "descricao": "Polícia Militar do Distrito Federal",
+   "tamanho": "1600x983",
+   "termo": "Polícia Federal viatura",
+   "credito": "Foto: André Gustavo Stumpf from Brasil / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:Novas_viaturas_(9614231005).jpg"
+  },
+  {
+   "arquivo": "c6.jpg",
+   "titulo": "PMDF entrega 216 viaturas e 22 ônibus novos em solenidade.jpg",
+   "descricao": "Com o intuito de realizar a entrega de 216 viaturas Dodge Journey e 22 ônibus à Polícia Militar do Distrito Federal (PMDF), o vice-governador Paco Britto, representando o governador Ibaneis Rocha, par",
+   "tamanho": "1600x1067",
+   "termo": "Polícia Federal viatura",
+   "credito": "Foto: Agência Brasília / Wikimedia Commons (CC BY 2.0)",
+   "origem": "https://commons.wikimedia.org/wiki/File:PMDF_entrega_216_viaturas_e_22_%C3%B4nibus_novos_em_solenidade.jpg"
+  }
+ ]
+}
