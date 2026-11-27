@@ -17,6 +17,8 @@ BUSCAS = [  # (consulta, categoria)
     ("site:olharitupeva.com.br", "itupeva"),
     ("site:avozjundiai.com", "regiao"),
     ("site:poptvweb.com.br", "regiao"),  # POP TV (Jundiai e regiao, inclui Itupeva), pedido do Alef em 18/11/2026
+    ("site:tvsmais.com.br Itupeva", "itupeva"),  # TVS+ SBT (Sorocaba e Jundiai), pedido do Alef em 27/11/2026
+    ("site:tvsmais.com.br Jundiaí OR Louveira OR Cabreúva OR Jarinu OR Vinhedo OR \"Várzea Paulista\" OR \"Campo Limpo Paulista\"", "regiao"),  # idem
     ("Louveira OR Cabreúva OR Jarinu OR Vinhedo OR \"Várzea Paulista\"", "regiao"),
     ("Defesa Civil Jundiaí OR Itupeva", "regiao"),
     ("Bandeirantes Jundiaí OR Anhanguera Jundiaí OR \"Dom Gabriel\"", "regiao"),
