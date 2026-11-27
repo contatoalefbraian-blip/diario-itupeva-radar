@@ -2,8 +2,8 @@
 titulo: "Advogada que acusou Janones de abuso sexual relata ameaças; deputado nega"
 subtitulo: "Caso foi levado à Câmara na terça (24); Janones nega a acusação e fala em armação"
 data: 2026-11-27T20:00:00-03:00
-editoria: Brasil
-cidade: Brasil
+editoria: Política
+cidade: Brasília
 urgente: false
 slug: janones-advogada-ameacas
 foto: /fotos/2026/11/janones-advogada-ameacas.jpg
