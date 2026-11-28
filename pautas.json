@@ -1,12 +1,12 @@
 {
- "gerado": "28/11/2026 14:23",
+ "gerado": "28/11/2026 15:15",
  "desde": "28/11/2026 10:35",
  "pautas": [
   {
    "titulo": "Mutirão de emprego reúne centenas de pessoas no Senai de Sorocaba, mesmo com chuva - TVS+ SBT",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjIxT1d4Mm53N05jSkN3R1QzNnc5bnhUekFObDZmR05uOFlVRDR0QVhHNUliRW5sY2FNaF9EbHdYQkJYM2RoS3JDMjA0dW5wcFVacTFLTU8tNTFHTDE2UWk3aVpkQURHQUtQYVlfc0NzRmNqR21QdUl2MWl4UExOSGoxbGRCOXYybEJIaTU5S3FxTE4wMmlrb0thelNnSjd0V3JtUG9RcHdpcHRuZFE?oc=5",
    "fonte": "TVS+ SBT",
-   "quando": 1795873260.0,
+   "quando": 1795873285.0,
    "categoria": "itupeva",
    "fontes": [
     "TVS+ SBT"
@@ -22,6 +22,28 @@
    "credito": "Imagem ilustrativa: W.carter / Wikimedia Commons (CC BY-SA 4.0)",
    "foto_tipo": "ilustrativa",
    "foto_tamanho": "1600x1600"
+  },
+  {
+   "titulo": "Três pessoas morrem após caminhão capotar na Rodovia Castelinho em Sorocaba - G1",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWWsyb0VOZHV5WVY4SHRIbHdPTnQ2QmY4WEpCbWdzbU9wX1R3SG43SkptUmNxUDlzcWlVZThGTVJqV2NhVVM3TFFfdlZnUmNmRGZCU2RnN2VHTWQyZkNWYU9ScXBuT3J6RlV4Z2hXejNrWFFaWnFGaDU0RWJPWndsczVmMmFOay1EQkNWZzd3OEpTcHJzdDdfcnl5UHlrTmZTR194c2dkVjdCVk10WmV2WGEyMHVYVVI3dXdXRExNODlHN2lJUk51b2JiZHo4emVPZ1Nkc2EwZ3VVMFpseEZGbk83Q2pjQ3UydXlndzR6VlpQanpxRkdqTWN30gGIAkFVX3lxTFA5T3l6eUdzV2tuZExLeHZWX0xZTHZrZXdRYU9CanRhRE1KVHhLR0x1SDI5TGhuOXJUXzByblUtN1pUZ1NobEUyRGpBdmc5anFNSFFCM1REYkc2d3FCMjl2Y1U2T093SUlBNWg3cHFCd3dJSm9yaU13NmQyWEp2bGFyem5uUDE2RjEzdnJBYUQ2US1qNnNCMkhQWDl1MzBBRW5Ea1hobWJwZmF3dDFldnA3Vkw3RjJNTXZQdHEycFVMaWZ6d3VDYkVsUnZFeDJjcTlIcUMwSzFWeUdmU0g5c0pDbFNXZnBRblYzXzM5Tmx4WFpKUVBlU1BQTlJYcFhnY2ppT1B5M0xvNw?oc=5",
+   "fonte": "G1",
+   "quando": 1795878944.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 9,
+   "hora": "28/11 12:15",
+   "foto": "0eb0e115e422.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/tres-pessoas-morrem-apos-caminhao-capotar-na-rodovia-castelinho-em-sorocaba-15289675.ghtml"
   },
   {
    "titulo": "'Visualização única': aniversariante ganha festa surpresa, mas amigos deixam bolo cair e vídeo viraliza - G1",
@@ -47,7 +69,7 @@
   },
   {
    "titulo": "Aniversariante ganha festa surpresa, mas amigos deixam bolo cair no chão e vídeo viraliza - G1",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ0VlM2VsaG11XzRtb2dFaHc5eThlV09vSHYwOWtlM092TEJOZ2ZUdi0yTDdQUmd0Tm9nUW5QT3BHYzcxbVlRaXhpVG1BRGdTV1ZqQzJPNm84cEVpTi0tRXNMODQ5QjBUNFFqZFM0djZsa21aSGc2WWEzVFc5RTI2MzlFelYxUDRjYWhZd3dQUl9TelA2MUVhc3MxSnhVWVprd1hqVzlUSkRZUE1oSG91U2FjZEhzeDVxcV9WUEFOVlpTTXh0anpmalVYRjctcmR3eTdWYTJ2aGFSR092WjVNUVRSZWnSAfMBQVVfeXFMTWlWSTNwTFFoTjVITmJZTTZGVTB3aEJBN2N2ekVHeG1iNEhzY3VTU3ZGQ1hNOU5ZR1NnTkl4QjJVXzNCQUdTdk1Ia3Jld2wzWlVZNE5DYTJUdHRKUC1mZHFyRV9CemhGNlE5c1lxcktuMmRRZFB5MVRJYV85S0hEeVhPVVRMMEFOUExQUVFsOWlvYkRDWUw4d2lsbWtRa0Rxcm9FYWpubHFtR2tYc2tUMm9sVFlkS2FXOGFUTHVOclBHa0tiUDhwenhVV0EzanVsYmJGYjhfd2ljVU5FTk5kMXdOVWFJV05VbDNnaWZpS2dnb2Rz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaVZJM3BMUWhONUhOYllNNkZVMHdoQkE3Y3Z6RUd4bWI0SHNjdVNTdkZDWE05TllHU2dOSXhCMlVfM0JBR1N2TUhrcmV3bDNaVVk0TkNhMlR0dEpQLWZkcXJFX0J6aEY2UTlzWXFyS24yZFFkUHkxVElhXzlLSER5WE9VVEwwQU5QTFBRUWw5aW9iRENZTDh3aWxta1FrRHFyb0Vham5scW1Ha1hza1Qyb2xUWWRLYVc4YVRMdU5yUEdrS2JQOHB6eFVXQTNqdWxiYkZiOF93aWNVTkVOTmQxd05VYUlXTlVsM2dpZmlLZ2dvZHPSAfMBQVVfeXFMTWlWSTNwTFFoTjVITmJZTTZGVTB3aEJBN2N2ekVHeG1iNEhzY3VTU3ZGQ1hNOU5ZR1NnTkl4QjJVXzNCQUdTdk1Ia3Jld2wzWlVZNE5DYTJUdHRKUC1mZHFyRV9CemhGNlE5c1lxcktuMmRRZFB5MVRJYV85S0hEeVhPVVRMMEFOUExQUVFsOWlvYkRDWUw4d2lsbWtRa0Rxcm9FYWpubHFtR2tYc2tUMm9sVFlkS2FXOGFUTHVOclBHa0tiUDhwenhVV0EzanVsYmJGYjhfd2ljVU5FTk5kMXdOVWFJV05VbDNnaWZpS2dnb2Rz?oc=5",
    "fonte": "G1",
    "quando": 1795877852.0,
    "categoria": "regiao",
@@ -90,6 +112,27 @@
    "materia_url": "https://www.tvsmais.com.br/queda-de-poste-interdita-transito-apos-colisao-com-carreta-em-salto/"
   },
   {
+   "titulo": "Com o Escola da Gente, Educação de Jundiaí cumpre todos os critérios nacionais e avança na aprendizagem - Prefeitura de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWJDZ0VyRXBkVEJsbFRCamxYS3FXZjFCdV8taXd2djdtSXVEdDdOQm0wemFJN19aemtVX25qWXlETUE2a212ZGdadXdTdWp6WExOSEhseDljNkRfZHRydlk1TTlOY05hb2FwLXA1QU51LVRsdzRZcDV3OFBHSkhvaQ?oc=5",
+   "fonte": "Prefeitura de Jundiaí",
+   "quando": 1795880276.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Prefeitura de Jundiaí",
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 8,
+   "hora": "28/11 12:37",
+   "foto": "9a59ec1d2bde.jpg",
+   "credito": "Foto: Prefeitura de Jundiaí",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x1067",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jundiai.sp.gov.br/noticias/tag/valor-aluno-ano-por-resultados-vaar/"
+  },
+  {
    "titulo": "Trabuco defende revisão de gastos, mas Congresso articula R$ 57,5 bilhões em emendas para 2027 - Tribuna do Sertão",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYlcwcUdBdFREaUt3djZHc3I3SDhPSTB6WHN5dU5YdzhnR0ZEN25JT3dIT1NWVlYxb1dfdXdlOEo4cG1iUm8taE5JLVBfcHhRWUFzakJTN2Nfemp4b2hkNXZsOVMyWkU3eFh6MlctNjRfaVdqWFAyRW5FVEpVZXBoeTdpU3YtUXRGVWFfdGQ4ckVxQnlKWXBpS0FGODBGdWkyZ2NsalZLbzRiZEtfRHlxQk5NdkRsSjR1NmZhWkNBcF9tSTVjckpwam91VFZlZldPN2lKNUkzMWx3ZzZ5cTN0TE52aUhzRjFIM2c?oc=5",
    "fonte": "Tribuna do Sertão",
@@ -113,24 +156,6 @@
    "materia_url": "https://www.reporterpb.com.br/noticia/brasil/2026/11/28/trabuco-defende-revisao-de-gastos-mas-congresso-articula-r-57-5-bilhoes-em-emendas-para-2027/195129.html"
   },
   {
-   "titulo": "Festival de Natal 2026 é cancelado em Boituva - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rSHBUNlBRYW1feGxQQlBCY3RHcUk1MDU2cFR0NTU5YUV0MUV3NVRtNnA0VzFDZGI3RzFsNzg1RER1c21PU2NOMzd1WGxNMUNyLTg4RWVjM0p1OElVNDAyOUZaMzdpNU85WGdaRkxmTnpMb0VzUUhwUEdRaS1Vdw?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795885560.0,
-   "categoria": "itupeva",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 7,
-   "hora": "28/11 14:06",
-   "foto": "896f41025045.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
-  },
-  {
    "titulo": "Após 41 anos de espera, 49 famílias do Loteamento Antenor Azzoni recebem matrículas de seus imóveis - Prefeitura de Jundiaí",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWlzMWVSQm5QZXl2UDdhYjlhd0VKaFl3S0FJR3E4S0pSak9FUEg4OUlra2JNbVAwSlVsbDB4ZnBiLUF2Umd0MXBxWHBLaTRYdjlTLXE3dkVkcFdxTUdIVXJ2R0VOUjFHSHV0dTQ3aENhZGw4QjMxY3RxODQxTlotYVB0dTVySlZ6aVp3TU9BSlR1U0VvbmsxZjRkYnJfZ25yOUZKZVN0bFZhZURtWlJvcm1ZeWR0YklYd2dRYXkwMzYtQUMxZ1BWd0liR0tNNFRqeTNIampMVWt4VURnSVE?oc=5",
    "fonte": "Prefeitura de Jundiaí",
@@ -151,10 +176,10 @@
    "materia_url": "https://jundiai.sp.gov.br/noticias/2026/11/28/apos-41-anos-de-espera-49-familias-do-loteamento-antenor-azzoni-recebem-matriculas-de-seus-imoveis/"
   },
   {
-   "titulo": "Festa das Orquídeas reúne oito produtores neste fim de semana em Várzea Paulista - G1",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYXVMRXlMbkhfMlhvNG5ob2N2T3FGRGtlckNfcU42b2tTeDBmaGRQV0xaOHg0THREYTdpTDB6OGRoYzNiQzBUcmJxbUpkbU1HZHRFNVk3bjk5Y18yWEg0S2xwWjlOYWZLMnljQmhLcG9xV25kR0tzanoxVlQ0Y1kwckdPaVNOUThKWTdub2ZpcFFqNFB6LWYxeC1NYWZodVA5WmtqaG5vOW5XdERvV2NuZURkTjAzVGNxMHpJYzctdEkxRHQ5b2FJWlR4ajN5Z2JLSEZpQkZRME5UdUtpSzk3SWQxMjRKRjd2TE9zcG5kV1paMEVjQ2d1NkQ0bTJMTE1y0gGPAkFVX3lxTE1KeHJ2aEFNOE5LOVp0Z0tlcW1felg3T0pfVS1IS2FjRVZvc1R5b015TlBCQ3JLQ0ZMYVhSOE04cVlBb3BuaW02ZVptX3lXT1M3eWc5bDRNVTQxNXVwdzVBTHplNlNOUjhPSXRfaWRSbnM5MHNuZTljbFdCSlhMREFQMVdmajAyUzZ1RTZNd2xCcGkzMUNTTmt5bHllZ0F3NHJrOHpNcUp5VklIamFzMDhpOU1USHBtY2YyVWZBN3luazRZYmFKMnVLaFRtNlRrWk94M0pyNTNNOHhnN0IxRXNxaHNjT0pkckdGbWdzODNqaGZzeklXWFU1TDlOYm9TaXpvQUZRVjdVX1dSQVpMeE0?oc=5",
+   "titulo": "Torcedor de Santo Anastácio pinta casa e carro de verde e branco para a final da Libertado - G1",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaUFLUmtGb0FqYjZINUJ3REdOSnFETmhUUWVoN0w1c1lVa0Q3TE5hSHBDMDFpS1p0UDdZLXpoUDZHQUFDbmJ1QmdfU0hzTGd6WUZUOE5JRV9INjZlMGlaNEhVYzktUTNXQWdwSE9tMWhTVUxVVmYyTUN2Z1VUS2VxSXBYX3JjN2s0SmkyQVdQOXRxcW8yMnVXdzZyVlRFa2QzOWRsTjNxRTNuMjFpNUZQcGxPR2FRZmRYR2JlZllCTnFXR1YwMlhNX1d6ZjlCSXFTNks2aXdmblYzOHJwVFBNTjZmVlZVa2ctR25oQ2ZNNmxzS19hdElVdXVNNnNQLWNFWl9HX2pCUjBIZWI4UVHSAZwCQVVfeXFMT3Y0akthZGVQX2l3ZFVxQXFYdkpROTBicm9ZS0tMbTZDUUZaVkJobjhmNE5qZVF3M3RSMExKcVlwV3B1TlJ1NlJ6Z0Z0cS1nbnEwX21YOXhINVp3T2hma2NBYjBzbTZOVkV3dFQ1Yi1CZDFWVmRCVUJNcU5MTi1LUEFjel9uSXlaX2E2bTNfazRnNkxBOXlILVZ5by1QbGF6Sm9nM2xRblpBWkM0SXllRE9ZbE1hczduVDNRSEJtOVh0enRETER0VU5SMlBwOWs4Y2FCTXVuSUFUMXNXRnJMVTZrMDAyMG9keVEyblhGTGdlS1BndEtuMFFlUWdTY2Y4V3dXREt5dVlNOE41V2pHZlA4ZmN1eWRHcjl4aXc?oc=5",
    "fonte": "G1",
-   "quando": 1795883298.0,
+   "quando": 1795882102.0,
    "categoria": "regiao",
    "fontes": [
     "G1"
@@ -162,13 +187,13 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "28/11 13:28",
-   "foto": "0b4534b172fb.jpg",
+   "hora": "28/11 13:08",
+   "foto": "75c95b9f28e7.jpg",
    "credito": "Foto: G1",
    "foto_tipo": "materia",
    "foto_tamanho": "1280x720",
    "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/festa-das-orquideas-reune-oito-produtores-neste-fim-de-semana-em-varzea-paulista-15289753.ghtml"
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/torcedor-de-santo-anastacio-pinta-casa-e-carro-de-verde-e-branco-para-a-final-da-libertado-15289811.ghtml"
   },
   {
    "titulo": "JJ: Espaço Jundiaí Empreendedora recebe mutirões de emprego - sampi.net.br",
@@ -191,6 +216,26 @@
    "foto_tamanho": "1200x800",
    "foto_qualidade": "media",
    "materia_url": "https://sampi.net.br/jundiai/noticias/3021881/jundiai/2026/11/espaco-jundiai-empreendedora-recebe-mutiroes-de-emprego-"
+  },
+  {
+   "titulo": "Festa das Orquídeas reúne oito produtores neste fim de semana em Várzea Paulista - G1",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSnhydmhBTThOSzladGdLZXFtX3pYN09KX1UtSEthY0VWb3NUeW9NeU5QQkNyS0NGTGFYUjhNOHFZQW9wbmltNmVabV95V09TN3lnOWw0TVU0MTV1cHc1QUx6ZTZTTlI4T0l0X2lkUm5zOTBzbmU5Y2xXQkpYTERBUDFXZmowMlM2dUU2TXdsQnBpMzFDU05reWx5ZWdBdzRyazh6TXFKeVZJSGphczA4aTlNVEhwbWNmMlVmQTd5bms0WWJhSjJ1S2hUbTZUa1pPeDNKcjUzTTh4ZzdCMUVzcWhzY09KZHJHRm1nczgzamhmc3pJV1hVNUw5TmJvU2l6b0FGUVY3VV9XUkFaTHhN0gGPAkFVX3lxTE1KeHJ2aEFNOE5LOVp0Z0tlcW1felg3T0pfVS1IS2FjRVZvc1R5b015TlBCQ3JLQ0ZMYVhSOE04cVlBb3BuaW02ZVptX3lXT1M3eWc5bDRNVTQxNXVwdzVBTHplNlNOUjhPSXRfaWRSbnM5MHNuZTljbFdCSlhMREFQMVdmajAyUzZ1RTZNd2xCcGkzMUNTTmt5bHllZ0F3NHJrOHpNcUp5VklIamFzMDhpOU1USHBtY2YyVWZBN3luazRZYmFKMnVLaFRtNlRrWk94M0pyNTNNOHhnN0IxRXNxaHNjT0pkckdGbWdzODNqaGZzeklXWFU1TDlOYm9TaXpvQUZRVjdVX1dSQVpMeE0?oc=5",
+   "fonte": "G1",
+   "quando": 1795881004.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "28/11 12:50",
+   "foto": "0b4534b172fb.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1280x720",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-1-edicao/video/festa-das-orquideas-reune-oito-produtores-neste-fim-de-semana-em-varzea-paulista-15289753.ghtml"
   },
   {
    "titulo": "JJ: Trio é preso após furto em Campinas e perseguição até Jundiaí - sampi.net.br",
@@ -398,7 +443,7 @@
   },
   {
    "titulo": "Com mais de 10 mil discos, comerciante explica rotina e como 'garimpar' bons títulos - G1",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjNLY0RfLXc4VnRJQVhFZUZmclc5Q0VsWXlfRHZVTlZYZC03QUFfSlQxajNtMDR2VzVUYU4wNnFNMEJGOHJZUTBaNjU2S3VEZEFRSGJCSXptZzByd1prZFpYX3o3WmtIczFkX2NjZjhuUGtKYnVteG5VVzB3WkRtTWZuZEstMWFzWEJmcmpFdG1fRUh5dmRuVWlFLW9CUTRGU1ZHbk9SbEpoM0RPUmpDRk1fSTdJTWpUbXJhUDJNeGkwTV8wamJvZHltUmQwdFFIN3otUVF6QU82eWvSAeoBQVVfeXFMTS1FM2ttVHFoeENISkVmdm5Ldk5UTnE2Y2dPZG02eW1uNW9yVUFUTEtJenhUREVCSmpPa1ctczJzSzJlZ1FzOHpjUXlmQWN6UDJObk5qemhFTzFKNHk4TXFxbU5aVjFuYjlxbHdMQXdybzdNVEZUVkY5M3phZnV4RU5SUFd4LTdjUFV0Nkx1akdDV0ZMOW02dDVZNWI5UmZhTkc5d0EyQ0RXdVJwTkM5M3RfaWtMNllobHNJUmdHN0tDdFgtLVdpX1BEWUQ4bUtsa0JGVk1IdV9JcmNCTjJwakFlQ1hmUDZPWHBR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLUUza21UcWh4Q0hKRWZ2bkt2TlROcTZjZ09kbTZ5bW41b3JVQVRMS0l6eFRERUJKak9rVy1zMnNLMmVnUXM4emNReWZBY3pQMk5uTmp6aEVPMUo0eThNcXFtTlpWMW5iOXFsd0xBd3JvN01URlRWRjkzemFmdXhFTlJQV3gtN2NQVXQ2THVqR0NXRkw5bTZ0NVk1YjlSZmFORzl3QTJDRFd1UnBOQzkzdF9pa0w2WWhsc0lSZ0c3S0N0WC0tV2lfUERZRDhtS2xrQkZWTUh1X0lyY0JOMnBqQWVDWGZQNk9YcFHSAeoBQVVfeXFMTS1FM2ttVHFoeENISkVmdm5Ldk5UTnE2Y2dPZG02eW1uNW9yVUFUTEtJenhUREVCSmpPa1ctczJzSzJlZ1FzOHpjUXlmQWN6UDJObk5qemhFTzFKNHk4TXFxbU5aVjFuYjlxbHdMQXdybzdNVEZUVkY5M3phZnV4RU5SUFd4LTdjUFV0Nkx1akdDV0ZMOW02dDVZNWI5UmZhTkc5d0EyQ0RXdVJwTkM5M3RfaWtMNllobHNJUmdHN0tDdFgtLVdpX1BEWUQ4bUtsa0JGVk1IdV9JcmNCTjJwakFlQ1hmUDZPWHBR?oc=5",
    "fonte": "G1",
    "quando": 1795872962.0,
    "categoria": "regiao",
@@ -417,6 +462,146 @@
    "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/com-mais-de-10-mil-discos-comerciante-explica-rotina-e-como-garimpar-bons-titulos-15289588.ghtml"
   },
   {
+   "titulo": "PM recupera carro furtado minutos após a denúncia pelo 190 - JORNAL DA REGIÃO",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkRIbmJ0QnZ4cUN1RU4yelR4OEdQY1dYa3p1YXZPME4wbWVVMEZ3YmxiYmh6NlhYMS1KSXdOV05JMUtyME1SMmZEUFBXWjNucDlMSXF2MWhMYnJjb2llWktxeVlJN0pIVXdMSXNMZHcxa1lMb0NGTDhaWG1xeWhpRHFUZzlFTTBSS25rSE5pOTNHUQ?oc=5",
+   "fonte": "JORNAL DA REGIÃO",
+   "quando": 1795889401.0,
+   "categoria": "regiao",
+   "fontes": [
+    "JORNAL DA REGIÃO"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "28/11 15:10",
+   "foto": "7556f2026ff0.jpg",
+   "credito": "Foto: JORNAL DA REGIÃO",
+   "foto_tipo": "materia",
+   "foto_tamanho": "720x405",
+   "foto_qualidade": "media",
+   "materia_url": "https://jr.jor.br/2026/11/28/pm-recupera-carro-furtado-minutos-apos-a-denuncia-pelo-190/"
+  },
+  {
+   "titulo": "Jair Bolsonaro pode ser libertado em 2027 com decisão do STF - Diário do Estado",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlV3Q1N6QndNdF9jR1k3QnpXd1d0VGFEcTllYlhoMlJSWnlBVDdrSlNfV2E1OFRYMWtneHlfZUpTYzk0MnZBd213UnJzeG40NldrNjhpcnJETDZWMVE2ampmVGdzSUtwTVV5LTFvbGNkd2F6UTZvYzU3SVpacF9rb21Ha1VoMDRFbHJHaWhKYW95YlZwbDdOdw?oc=5",
+   "fonte": "Diário do Estado",
+   "quando": 1795888872.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Diário do Estado"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 15:01",
+   "foto": "b482617794cb.jpg",
+   "credito": "Foto: Diário do Estado",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1200x630",
+   "foto_qualidade": "media",
+   "materia_url": "https://diariodoestadogo.com.br/jair-bolsonaro-pode-ser-libertado-em-2027-com-decisao-do-stf/"
+  },
+  {
+   "titulo": "Ministro Alexandre de Moraes rejeita pedido do MPU para indicar recursos destinados ao pagamento de R$ 533 milhões em penduricalhos - Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVlZ2QVdsTUZMT1FIMHlqYmZaSnd4bWMzQ09SWVFCWjhZOGw5YkNnOGw4azFJcFN0WDlJWE5YWG9KZ3VLZ2xBVGZLakZxcFNTWEdZR0lfZWdPd184cDFhMWkyeW5kTThmRVBUeDBRazJfNEpEak8taFpkczVQaWVUVFVjbW5kWDNheW03UEw2a2drR1hjXzFWenE3UlhCaDFEeGxocDMzQmgzaDh1aE14NlFUNHpCTTdIS2U0Z2czNXpTRUVlQUxaUDAwS3FzY1Y2U0pvRWNzbVpRcDlzVGZMcDJZVnlWdF9FVUJJRkgzM05nZVk5ai1XM0pGcXROOS0yQVE?oc=5",
+   "fonte": "Jornal Grande Bahia",
+   "quando": 1795888800.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal Grande Bahia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 15:00",
+   "foto": "1ae04be493a1.jpg",
+   "credito": "Foto: Jornal Grande Bahia",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://jornalgrandebahia.com.br/2026/11/ministro-alexandre-de-moraes-rejeita-pedido-do-mpu-para-indicar-recursos-destinados-ao-pagamento-de-r-533-milhoes-em-penduricalhos/"
+  },
+  {
+   "titulo": "Cesta básica e medicamentos terão imposto zero em 2027; veja quais produtos entram na lista - Transmissão Política",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTZwU29SaHYzRnpyeFZRbmVjUHFuMUI1cEpQM3p4dmFfUmFqbklrR1FPRFdwNm9mNG5Gd2kyRERROFRzTm1TNE94RlV0dUV1TkNHNzVJMVE0d3dseEgySVh4YnBpYWlZMDdjY3JGNnUxdFlYbTNvZHlwZm1aTF9RWnhqX2hScnRpdUJZc1pSUFJLLTZHV1pyd2o1VQ?oc=5",
+   "fonte": "Transmissão Política",
+   "quando": 1795888680.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Transmissão Política"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 14:58"
+  },
+  {
+   "titulo": "Atleta de Jundiaí encara 12 horas de ‘pedalada no rolo’ em desafio solidário para arrecadar alimentos - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzZPQTRZT3lIcGJPTjc0aEljdEZ4NmJ4Q0IyQ19fNDdNeGlEeGFWMHFqdmFPTmhFY3UxWmhoeHhKRkhPMjhmOEFxWjFpaWEzeTNXVUd2TU9LeW14NmppaF82UXNtbS1WMXlCWTJDdlp0VVZGRmlsc2xRS05SQVVkb2xhWFNOZkdNYkZMWjVDODMxb3JvUzEza1RPdFlJYmYzQkZPMTY2N0p6NHJ3UGlyd0FRVk5xX0NITktVLVZxa3laYURFYXljSGduV25QVldVTHpqZkozbDd4LUNIbFU1a3dR?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795887681.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "28/11 14:41"
+  },
+  {
+   "titulo": "Alckmin aceita convite de Lula para comandar Ministério da Segurança Pública - Portal 98 FM Natal",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm5JM2w1OHlsRGpkeTlnOTZPTDZsSXRCWW1BNFhtMUg0TERRZFM0Z1B3VUZHUnlGNmpVSkNZbktZblZmaGNMRVdOVEpWYkg5Y1BTVjNBUzlmNW1BNHZWRXZMN205dlBGQko2Q0ttZVJMbmgzdXVyTTg4SWlOZENjb2hTancxTl9lMmV5LUduYzdwdDJNZ2w0eVhqNC1uc1RlelpkRDF4REJHNmJuTVZFQWs3Y3Y2YzhnTVJBVWRaMjg?oc=5",
+   "fonte": "Portal 98 FM Natal",
+   "quando": 1795887660.0,
+   "categoria": "estado",
+   "fontes": [
+    "Portal 98 FM Natal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 14:41"
+  },
+  {
+   "titulo": "Lula anuncia ajustes nos benefícios sociais: saiba o que pode mudar - alfinetei.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcnpOTmx0dVVNM3U3VVJOUWVhdUhqWmV4elkzZkRIcDRPOU01VmlkanE3cFBGaHoxYmhPQnlGX25SQmxNcDhiS0hhMjNJVlVhMTd3UEZRNDVVcmdDNkJSbXpCbkNicDhKQkstSVBoUEl4b3hUb01Xc2lldGdQU2VTaHowejc0U0ZabmZ5bUlqdzJsTjRyWUdKaExETGpDLTdCZGdR?oc=5",
+   "fonte": "alfinetei.com.br",
+   "quando": 1795886976.0,
+   "categoria": "brasil",
+   "fontes": [
+    "alfinetei.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 14:29"
+  },
+  {
+   "titulo": "Movimento de mulheres ocupa prédio vazio no Centro de Jundiaí - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM21fRGNXdk9fLTJ3NkJQV0EwM0pqd05pMHNVUDE1SVdRUHExRUFQcjFjQ1dYQlZRdU14ZjE3YnRPN2ttLVhfYnBvOWxPa0g4RjJCMnVYclJLcG5xbWtuc19YckxUbGl6SUxPRENLak9uVkJlb2p2dlhHMXQ1MkU5SVlaenFUUnNHQUtFSDBBRkM2V2tqRnJNQjNsU1lNV0g0eGdENEVB?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795886456.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "28/11 14:20"
+  },
+  {
    "titulo": "Saiba como o fundo criado pelo Governo de SP ajuda a ampliar o acesso à água e ao esgoto - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnYtOVVXU19VNEFDM1NCUnNIRGc2Z0JNSVVjMm1JVjJmM0M4ZmVEQkhoRmpGZ1NLblRhSUZPTXVLMG5qU3RBMXVSU0FqVFltdVQ1UEFoRmRxTENGQV9keUJldHdnaFl6ZlhPWFRFb0VpMnlsbjJsOUt3cGJBYTJVQ0xOS1N2bnFYSndMQTFpRHRsZ1d1NDROSmx0YkxUbWFYTFlPSmpmMG1TbmVpX2Y5X2RCNDhsRlhTT1pJTDV6cTZ2V2tSQ0FGVzJtamV6SWE4?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -430,35 +615,23 @@
     "servico"
    ],
    "pontos": 5,
-   "hora": "28/11 14:14",
-   "foto": "65d7d28920f4.jpg",
-   "credito": "Foto: agenciasp.sp.gov.br",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1000x667",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.agenciasp.sp.gov.br/meio-ambiente/saiba-como-o-fundo-criado-pelo-governo-de-sp-ajuda-a-ampliar-o-acesso-a-agua-e-ao-esgoto/"
+   "hora": "28/11 14:14"
   },
   {
-   "titulo": "Contas públicas surpreendem e governo Lula registra melhor outubro em uma década - www.plantaobrasil.net",
+   "titulo": "Contas públicas surpreendem e governo Lula registra melhor outubro em uma década - Plantão Brasil",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTF2bjFWTzF3dkRFcTlEVUpwWTl0SlZsVjlMMU9IYlUzX25PbmpNNk9vUFdkOW5RYURWZG9mS0F4UnlPOHpIU3Q5UDA5VEF4UG9yQ0RwZU9EVHN1SnlYRExNUFQtdWdNS3BXekNUOXN3ZkNtWHR1X2l6QnhmUTJYdVBycWdSbHJCVTgzOEpkZmpSQkZOS3REZXI1TWtRZ0Fxa0phcURGeGJFMXVpX2MwVUVWWUl2Q2NPNjhTWDlUMmdad3pk?oc=5",
-   "fonte": "www.plantaobrasil.net",
+   "fonte": "Plantão Brasil",
    "quando": 1795885808.0,
    "categoria": "brasil",
    "fontes": [
-    "www.plantaobrasil.net"
+    "Plantão Brasil"
    ],
    "urgente": false,
    "assuntos": [
     "politica"
    ],
    "pontos": 5,
-   "hora": "28/11 14:10",
-   "foto": "638ddbfcac07.jpg",
-   "credito": "Foto: www.plantaobrasil.net",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1200x800",
-   "foto_qualidade": "media",
-   "materia_url": "https://www.plantaobrasil.net/noticias/166020-contas-publicas-surpreendem-e-governo-lula-registra-melhor-outubro-em-uma-decada"
+   "hora": "28/11 14:10"
   },
   {
    "titulo": "Lula sanciona Lei 15.554 e libera R$ 21,5 milhões para pagar aposentadoria compulsória de juízes no país - Mix Vale",
@@ -474,11 +647,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "28/11 13:36",
-   "foto": "6f0f96e89ff5.jpg",
-   "credito": "Imagem ilustrativa: Ridiculopathy / Wikimedia Commons (CC0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1600"
+   "hora": "28/11 13:36"
   },
   {
    "titulo": "DNIT fará aferição de radares em rodovias capixabas, a partir desta segunda-feira (30) - Estradas",
@@ -494,13 +663,7 @@
     "transito"
    ],
    "pontos": 5,
-   "hora": "28/11 13:34",
-   "foto": "48e23abe609c.jpg",
-   "credito": "Foto: Estradas",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://estradas.com.br/dnit-fara-afericao-de-radares-em-rodovias-capixabas-a-partir-desta-segunda-feira-30/"
+   "hora": "28/11 13:34"
   },
   {
    "titulo": "Justiça condena Governo de São Paulo a pagar R$ 100 mil a sobrevivente do Carandiru - GP1",
@@ -516,11 +679,7 @@
     "politica"
    ],
    "pontos": 5,
-   "hora": "28/11 13:31",
-   "foto": "8e6a60d72fc2.jpg",
-   "credito": "Imagem ilustrativa: Federação Paulista de Futebol / Wikimedia Commons (CC BY-SA 4.0)",
-   "foto_tipo": "ilustrativa",
-   "foto_tamanho": "1600x1064"
+   "hora": "28/11 13:31"
   },
   {
    "titulo": "Restituição do Imposto de Renda ainda não caiu na conta de milhares de contribuintes, e alguns erros na declaração podem estar impedindo o pagamento - Brasil 247",
@@ -583,6 +742,22 @@
    "hora": "28/11 13:14"
   },
   {
+   "titulo": "STF marca para 11 de dezembro análise de súmula sobre pautas-bomba - Folha PE",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb08wV3luMUhxVi11dl94eGdac2FaSkNtVC00aDl3WEpWaHFvYlBjTFRjeXZqTm9aRnBIMUxMQnNXcG9Oc19iZ3RpemhONlZSMHdHOFpkb3NidE9JdXdOY0RUeWdIdUEyS25oSXllYmlxUEdBTlNrSnp1WUpDY1F2bmh5bXFna3NkcGJQUVRTWWpJeHc3eUFwbERRclZzdEMtUUx1TVhnc3VqbXZ6eElJ0gGzAUFVX3lxTE41ejJwaFpRdlJ0NVBvUTBiNTlfOUd6NWdHX2hxTTM4UnFTekFOWDhUcU1McmRnZ2ZRSkw5dVJWM25pbFYyWVJERWpNU2F0Ym9DQTBhVzN3bkNIanAzS2NGVm9ibklRUDZxb1F1VjhtTzNvTlJIVGx1TzM2TFlKZ2I4TXluZklWTlFhc3BraTY4Q1JOUktGOXQyZ0NpTUVlUUt5TF8yWXlvNDdqOFlvMmVYVGVZ?oc=5",
+   "fonte": "Folha PE",
+   "quando": 1795882440.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Folha PE"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 13:14"
+  },
+  {
    "titulo": "EDITORIAL | Um retrocesso inaceitável – “Na surdina, o Senado aprovou há alguns dias um requerimento de urgência para destroçar as bases de um marco que moralizou as agências reguladoras. Por meio de projeto de lei, parlamentares querem acabar c - Instagram",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mN2tYY1ZXRkxTZ293NUFlWVpQbmNLaG13bE9aakNYSGJTLXltdkgyRWhIVkROeWEtcGNmTlpnblFiN0RDblNZSV9fXzBtWDFwT3c?oc=5",
    "fonte": "Instagram",
@@ -597,6 +772,38 @@
    ],
    "pontos": 5,
    "hora": "28/11 13:04"
+  },
+  {
+   "titulo": "STF Inicia Julgamento de Súmula sobre Pautas-Bomba em 11 de Dezembro - Metrô News Jornal",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTRRWU51X2RmVnpPelF4V3pIcFNweUpRNU5UUDdlMkVGZWNfdUd2LTJCeVdZcF82cnNfRW5aLWJIbUZFUDlOTGY5UUotUmVQNU1hbTkwOHUwamFLdDBYZWd6Y2RIZ3FuTnROd0lCeHpWYzZxWVFoSWpZNmd6UGV6S25PT2JRdG5PZ09oeUZ5SlFlRVZVdGdtbVVB?oc=5",
+   "fonte": "Metrô News Jornal",
+   "quando": 1795881660.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Metrô News Jornal"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 13:01"
+  },
+  {
+   "titulo": "Lula pede desculpas após chamar FHC de “morto-vivo”: “Foi uma falha minha” - ncnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGpYaWpHSEstNGF2cllKVUZ5SEFvZ0ZjTFZfVkRyeDRYbXVWWGhZWGFLOFlRMnNOTlJTMmJRdlhkSERPWWV5MTFGWFNyMVY0MEt2Qlp1N2s2aHNDeE5hR3FxU2hkWlpjYkVPS0JLWjl6WEdqMFgyTkk3aDZuVUNJZ2IwTFNVaEdFQ2RBMU4xRFBmV0hRZVdDWnEtdWFHZi0zNmV5Nk5B?oc=5",
+   "fonte": "ncnews.com.br",
+   "quando": 1795881632.0,
+   "categoria": "brasil",
+   "fontes": [
+    "ncnews.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 13:00"
   },
   {
    "titulo": "Oposição alerta Lula sobre nomes sugeridos por Dino ao STF - Jornal Pequeno",
@@ -693,6 +900,20 @@
    "hora": "28/11 12:30"
   },
   {
+   "titulo": "Vinho Principium Malbec, produzido na Serra da Borborema, conquista 90 pontos na Revista Adega - Polêmica Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTThVLW5DVUJ0Wi1nTjVOMy1HeFhyVGFXNVBjd3J2b2l4X3p4WmItS0o1QWZEWmkyV1UyLVRRcEYxUkN4aTdWMlN4U0RqYW5Fa0daQW9ZazJXSUVtbl9mcFR6dE5wX1N4bzVVWEFqVWdSVTROOHlUY0RFOWVMYU4tSC11UDJENEN5R3ViZFNzOEZHLWstcDlxb2VZMEZRdHhXenp4eGVIRXFscVJqdF95aER6cnVZNmlEZ01PNHE0SGxUYXp4NHhNWDc4djVGTXhtOTVibVZBbUV3bzlid0JGZDd3?oc=5",
+   "fonte": "Polêmica Paraíba",
+   "quando": 1795879836.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Polêmica Paraíba"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "28/11 12:30"
+  },
+  {
    "titulo": "PM de São Paulo prende nove pessoas em operação de fiscalização de adegas na capital - agenciasp.sp.gov.br",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkMwcnJ0YnczbTlEMWlKRFNRVU56ZXd4Q1oySVluSnlkQVJwaEwwVG1YX2tETXB3bGh5RzlWbGphY1ZBdnl0NG1IUGhhcE4tZTV2b0YwOTNTQk90M3poNDFyYlRhWkhQcklvZ3dwZmNCZUlScXBxOElSam5xQ1BxdnRucmpoUFZFX25LSnlXV2N3LTduLWppeHVJZk8zTEpDaUU5eFNiY3ZidUs2S3pQeWU3aEhUV05HR0JFS290OHppS21WdG9nWmFKQnhSek1a?oc=5",
    "fonte": "agenciasp.sp.gov.br",
@@ -707,6 +928,22 @@
    ],
    "pontos": 5,
    "hora": "28/11 12:30"
+  },
+  {
+   "titulo": "STF marca julgamento de súmula contra 'pautas-bomba' para 11/12 - Vitória News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ0JIbjY3d3ZudkZKOEs3TWdBbnRvVGl4dzhULUtpUmxMaGhETVE0LUFMUVJkYzVmdnRNWUN5TjY5QnpPb3VjdW9qa2IxYnQ1TkIyZ21Gb0l2QldLRWxkUWxFSEI5VjNndXZSNzZTeEk1d3JEdXdETTA0NS1xNzN5QWpuaEVxUk1fRG9zcmRGQS0?oc=5",
+   "fonte": "Vitória News",
+   "quando": 1795879740.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Vitória News"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 12:29"
   },
   {
    "titulo": "Coronel Assis espera que Trabuco conduza a economia 'de forma séria' e critica gestão Haddad - Olhar Direto",
@@ -739,6 +976,22 @@
    ],
    "pontos": 5,
    "hora": "28/11 12:22"
+  },
+  {
+   "titulo": "Davi Alcolumbre e Lula se encontram neste sábado para definir indicação ao STF - ICL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM19BME9fSVdBczIyVG9helY0d0hfWWxoQnNMTHZVRTc4dnpiM1VfOUkxREZRb0N3NWJfMFJmSUpVZk1HYmpYb3JDT2k1SkI5SHJZbk1qeWstVFBpdUhiVm43RGlFbmlUdUNfS0RrZGwtSE1RX1VYMUxsbUMtWG5xMkE1UWU2NGhzamJEMUVRbERISTUzQUJhVkZCVjlZaWg2aHB2TzA5UlptZw?oc=5",
+   "fonte": "ICL Notícias",
+   "quando": 1795879188.0,
+   "categoria": "brasil",
+   "fontes": [
+    "ICL Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "28/11 12:19"
   },
   {
    "titulo": "Com patrocínio da iniciativa privada, Natal Encantado transforma o Centro de Jundiaí com atrações culturais e solidariedade - Tribuna de Jundiaí",
@@ -785,6 +1038,22 @@
    "hora": "28/11 12:08"
   },
   {
+   "titulo": "Previsão do tempo em Guarulhos: trovoada com 100% de chuva e 25.6°C - www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJjdlpjbmRjZkU3dXVmZXNZaGVUR0pqS21hNEVCRlFfSjZCdHhmUkVaYnpMdmJQd3haM3Y1STBQRXFvQTBTdGVjYUs1bkhVNnBGeFF3SS0ybGItRkhfTFpIb1B4ODJVQTlGRzBpclpfd0hxM0E2QW56U1lkR3dzSF9VMm9UV3lhdTZ5MHVLemx6X1MxZ1A2NHNJSk5FalZsNkk4b25zWDlhdzA?oc=5",
+   "fonte": "www.bra1.com.br",
+   "quando": 1795878360.0,
+   "categoria": "estado",
+   "fontes": [
+    "www.bra1.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "28/11 12:06"
+  },
+  {
    "titulo": "Após resgate comovente em Vinhedo, ‘Piu’ se recupera na Mata Ciliar - Hora Campinas",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWVxT24zS1BYaWcwX1pOUVUyRkd6TmhKaVR5Ql82RkRuUGFJcmZYSXQyOENCQTgzbVRVV25tcmktREFyUTV1Y1R3bXZVVkVjZm9mWTZvRmo4b2Q5czVNMnBKeEJLVEc2aXo5X09WcjBIU1FnWXBDVUJGYWJwMkxReVcwYk1GRTVFZm5jQ3BpZ254OV9KTndjMA?oc=5",
    "fonte": "Hora Campinas",
@@ -813,22 +1082,6 @@
    "hora": "28/11 11:43"
   },
   {
-   "titulo": "Lula pede desculpas após chamar FHC de \"morto-vivo\" em agenda presidencial - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3VSZmNydVE4SnFVVEV3OGVHZFgxY3NDd090NTJIeUVDcld3N2szUmJNMmxZV2FTLUZ4Z1k4eVloMkc0aDNMU1BZY2kwQWNHNW5Vb3IyQzhlVlhDdk5CV0F4VkFTaG00TVNZNEszblpmTk9xR2pBa21Xbm55WVEzcy1VY0hndUNGMVpyWUtDMzBvdndLRE1aWW5IZ2ttdjF6N1doLWJ2Uk1iSG9DMlptSQ?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795876762.0,
-   "categoria": "brasil",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "28/11 11:39"
-  },
-  {
    "titulo": "Alckmin deve assumir Ministério da Segurança no quarto governo de Lula - Portal Piauí Hoje",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWm45Tlg4LV9nQkNQYXpqa1ZyZ1BvLTB2UzI2dU5jRzFrNTFkWmRuWEx5YnQtRjV4elRLWXFhSTNuVDlILVROejdZbzBsR3pYNWdlLVZUVDRLdk50a2lLWFl2QTZnYjZqT0RaWG93cUVwUmV4VTR5WjBJSXNpTWRyRHdRVmktSXlzNlk3M2NFczZ2VThSRVRqTEc2QTBVdnRka0paY3hDMXNWUnNrUS1icmhmYlVybWtldUVlOUdjRdIBxAFBVV95cUxPN0ZsX19zcE1HVHdmSjRJWHI0VHFLS2I5azlMdGh6TUZSd0J4RHhuTG5iUTBtcEhMTllCb1Flc2JsMHNUd3R0bmZMUUIxOV9xcXBRUTlVQUNQeFdjaXM2aHJRZHpDdXFRZjlxbXRWYy1aVkNDOVdkXzZYSHFicjYtVHU1VXNiY2M4b1B5RGZMNlE4U09ZX2ZYTWViWnUxUGFzQ2xKdUxnVjU1U1JCYWxXdDE5M2hycXE5LTNZVGI4bHJudTRL?oc=5",
    "fonte": "Portal Piauí Hoje",
@@ -845,38 +1098,6 @@
    "hora": "28/11 11:32"
   },
   {
-   "titulo": "Lula sanciona lei que destina R$ 21,5 milhões à aposentadoria de juízes punidos - aRede - aRede",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOVdjSk9YeUowUllvRXpxZGI5M0ZNNEtXSmlDZDRLaXhucUxYMlVoOVFyX0R5X2gxdzMyRUZHdkRuenpRTF9Ed1d2V3ByS0F6TklPcWJGZW1SODV3akdtLV92RTFGenlRX3oteEgzOHRsUUFhR2d1OU16Rm4wMnJRSkRqRzdsZl9RQlZ4SWM4eVVmU05tcW9XOHNPT2RDVmdNeUVNS2Q0WEp5eU40OXFWTWpuNNIBuwFBVV95cUxOM2JDT2FoTkhicXRpYUhtODhNa0xBSGhPbDF3MEVIdTZwTHU3aElKal9KbmJrTDh2a0Y1bTB5UElQYUs0VHdvMW9ENGRabTJaampITmtLRV9DTUpKdElkZWFZVGQ0c3BLSHptYWVKNzhsSTk3S0FJNVAzRUdQcXQ0a3NveDZQSm9WVEt4VWtpaEhpZWkyVDRvTFYzS05CcnFOdWowdXZCa2t3TEl4WFRNQ1NPSzNQSUdMdU5j?oc=5",
-   "fonte": "aRede",
-   "quando": 1795876266.0,
-   "categoria": "brasil",
-   "fontes": [
-    "aRede"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "28/11 11:31"
-  },
-  {
-   "titulo": "Lula sanciona crédito de R$ 21,5 milhões para despesas com aposentadorias compulsórias de juízes - ncnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnBYakFsamxwRGJmMm1KRi1IX2ExQmdIcW1yc240TWZrVVFiOFpWUDNhcGJPQ2pSUFpzY1BkX2pUNk5kLUxPSUdaT0FrNkdBZWZpS2w2Z211cWNKQzE4TzJpOUFubDBPOUtWWGI1dTJmUlVoRGxaT3VqWFp1VUc1MFdPeUhLRk1YeUlJUzhmRjE3Rmhs?oc=5",
-   "fonte": "ncnews.com.br",
-   "quando": 1795875826.0,
-   "categoria": "brasil",
-   "fontes": [
-    "ncnews.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "28/11 11:23"
-  },
-  {
    "titulo": "Amora e framboesa atraem turistas e seguram a família no campo em Jundiaí - WebTV Paracatu",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEFjZWt5bWo2UHRxcGhKYk9DYzlpRmNXc2hiS2d0RzVaeGx6NzBiekctQ2l1MERSVTYxaGo2bngtSGpiMmhjQnJUdFFYcWpRZzFyT2QxYzZGRzJWRGxmTWpzR0hYM1c2RERWSmRjbElhQi1rVzlLYTlldE1td3RmU3dnRDByemFreTRacFRBVXRkcDVodFFNWXdyTnZTZDNjOEdVSjlucHhmQ1lVVVg2bGh0aXdDdw?oc=5",
    "fonte": "WebTV Paracatu",
@@ -889,68 +1110,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "28/11 11:16"
-  },
-  {
-   "titulo": "Governo federal renova subvenção ao diesel por mais 30 dias com custo de até R$ 10,5 bi - Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDh1bWdQX0NBMmdRNkFGWEdZQ3h3MVJiajc2VzVsWWQ1QWt4WWdjdUR4a1FhQVRkTmdvUEpGRmNMb0hHWnZlTmdiOWViYlZiTHNJY2JSV25WWEU4SHdJYjVvYVZWR29OSU5rcTUycFJBdWF1cUZNekg3X0VPWnBmaDF5WDRPM1BqbzJ5RWd6ZXppcWtHaWcxQzdEa29RUWNwRmhER1k3RnV4bXVNSDhlRWZjaTV4ODZpN1E0TUpmdnpQX1VwMFpGX0hOT1pmazVxUWVZ?oc=5",
-   "fonte": "Folha de S.Paulo",
-   "quando": 1795875240.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Folha de S.Paulo"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "28/11 11:14"
-  },
-  {
-   "titulo": "Lula sanciona crédito para juízes aposentados compulsoriamente - O Antagonista",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjMzMHF4WEhhUk1yX1pQSThTNmtNX29ONkpmVDV5T20xTV83Sm81bUVmNGk5aG1jRWJobU1HQ3Q0S2ctUVB1M0l4dU9FVnQxdXZNLXlSNVhGQjkzNHlWQTlJUm9wVHo0elprNTZFSWdhTWk1V1FGdjZ2VVlzaUlOeXI3TUhMNHVQUFptT0lkVkFjNHFhUjk3WTEzUC1JbUk?oc=5",
-   "fonte": "O Antagonista",
-   "quando": 1795875060.0,
-   "categoria": "brasil",
-   "fontes": [
-    "O Antagonista"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "28/11 11:11"
-  },
-  {
-   "titulo": "Supremo marca julgamento de súmula de Gilmar Mendes que propõe barrar 'pautas-bomba' do Congresso - Terra",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTC1wY1hXQ3ptZHJOLU9TdkMyVkxKXzNIQjRoandYQXpEZVQ4WThTcXU1RktKc1BSUUwtSjlrQlFJeEtxQ1loRTE5a3lPMFMyc2VSZGRRaE5sa2poV1J6LVRNRWttUmFMbU5rRkJqSGx0ellxZlQ0Z1NpYjVVUkR0bGRsdXNwU3E3VFBWUjBWNERyQWd5cEpWa2wxeTlxZU5WcWZjUEgteWpmbDhmQTJvZ2xjOFNhZk5BNmxJWEZmOHBYTGUzdjRHdDBWcGZrZjdyWWs5bVBqc2RvZUJFaVR3WlJpMkNRX0ZWZFVPeXhQaUJnbGJlQi1WRTFRMnJGc1pBUG5rTXl3?oc=5",
-   "fonte": "Terra",
-   "quando": 1795875060.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Terra"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "28/11 11:11"
-  },
-  {
-   "titulo": "Núcleo de Ordem Urbana atua no Jardim São Camilo e Prefeitura compartilha próximas etapas do programa com moradores - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUXhDT0NEWmtzV3owZTBISlRQVFpQbVRQek9HSm52YklfM0hYLWxRelFacmg4Vkt6VS15OFVIeEw3cnYxNldSR0lOZDJmeG5CT3liLV95N0NOM3ZidWR6ZDh3ZHpza2FJcG9fN2lpb2E4YURBemZvSWpIb2c5SkNHNDNxX2dycGIwU2hjRVlwR0NJQmdUc1JtbUV3?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1795875056.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "28/11 11:10"
   },
   {
    "titulo": "Pazolini pode escalar secretários que hoje estão no Governo de São Paulo - portal jornal do norte",
@@ -969,34 +1128,6 @@
    "hora": "28/11 11:04"
   },
   {
-   "titulo": "Paul Hobbs e a cabernet sauvignon - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObDI1ckk3cGZqLS1pVGN5MEJZdlQ5LU5waHItY1BJanlGYjFkWFhRQU1JY0F3VVU2d2Ntc1FLSzFBT0tSaEZ2cng3T3FDNzBocDNMRW5OZFhQNGd3c3RQeFpmUnlZM09EWXdiTmZtZlZ6MDVjRG1seFZDTXBPbl9sZmNYSHR1THNVSF8xX1JTelJtN0hHRF93REFJRFlwRTA2TWNQUWlwbUVzTmY1YUx5bHJiOXRKQ21jbTh0VGV5YmVTd2NBaV9lZUhGLXoyMzdNc09uWUFOd0pHX25KNnBSWTRtWlhzbmPSAewBQVVfeXFMT1ZuY3VoMUVUZkhMWG94X3UtTElMQzF5bllKQk9ZeGtpRnBZME53U3oxcTZZeElCdDdSRU5FY3hST3NLUVhNaEduWlZ6MnJ6Q3BLblRIWU1fTVJuS1NqOW9MOHBzLU9rWGRGQ2ZFWnFDR2pEX0x6RVQ0XzhhUVNjRUROSFpEWk0zYWE0OUk3WE12Z1N3QkNqdWhQM0taQ2ZSVVpsNmJ0aTVrS19vbTAxX3M0bU9iclF0WnNJamt3OG1feTBCdDNrSFRYWFRRNHVwQ3c0VXRFaUJIbi11Y0FCSGlOaWlIZVRiUXo4V2s?oc=5",
-   "fonte": "Estadão",
-   "quando": 1795874400.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Estadão"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "28/11 11:00"
-  },
-  {
-   "titulo": "O que deveria ser um caminho seguro para trabalhadores, crianças e famílias se ... - Facebook",
-   "link": "https://www.facebook.com/tvvitoria/photos/1788855253240755/",
-   "fonte": "facebook.com",
-   "quando": 1795873734.0,
-   "categoria": "regiao",
-   "fontes": [
-    "facebook.com"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "28/11 10:48"
-  },
-  {
    "titulo": "SP tem alerta para chuva forte, raios e granizo neste sábado - UOL Notícias",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUdNWV9vQ0dPR0JUX3J2c0ZuTWtzbld6MGh5UzQ0V2RDTkk4bzBwOU9NRXp3M2RYeEduLXg1SV9id1JEOFZlR2xheDFwRTJ0S2dRcUtPZTBpekxZdlN0ejBkS2RiXzVqeEYzUmhYam93NU5qOE04RXhIQ3Z5a2pEbE1wYm1DdTRnRG9qMG1qZTE5YURORHZLWVd6TWthRlZBX0VmUXE2RS1zRHZoM0hzQw?oc=5",
    "fonte": "UOL Notícias",
@@ -1011,34 +1142,6 @@
    ],
    "pontos": 5,
    "hora": "28/11 10:41"
-  },
-  {
-   "titulo": "Black Feirão Vire a Chave reúne carros e motos com condições especiais em Votorantim - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFhaN1dmNktid1VQVjVQbWpSWjJPXzkxdHNEVTR4NDJTVFExMDBMelNhN0lvY2xUQ1JWZmtITFlQdDIxOXdYQWF5U2hnVnRRQ3lmbHRVT284alBod19lLUVpeVNPRVA1MjZGdnNKb2Z6RldEQ1Qtb3NpbUxFMXJoYmpLSFhVeHRCTjdvcnNOdldBMkNVVG9kNk9sa1pTdUdPcFZCaHktU0hsaDVZdnFkUnB3?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795872975.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "28/11 10:36"
-  },
-  {
-   "titulo": "A Prefeitura de Campo Limpo Paulista, por meio da Secretaria de Saúde, está nas ruas do ...",
-   "link": "https://www.instagram.com/p/DgQFnUvhDEh/",
-   "fonte": "instagram.com",
-   "quando": 1795872926.0,
-   "categoria": "regiao",
-   "fontes": [
-    "instagram.com"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "28/11 10:35"
   },
   {
    "titulo": "Defesa Civil alerta para risco de tempestades em São Paulo neste sábado (28) - Guarulhos em Destaque",
@@ -1056,46 +1159,18 @@
    "hora": "28/11 11:36"
   },
   {
-   "titulo": "Alckmin aceita convite para comandar Ministério da Segurança Pública - A Tribuna RJ",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU1VX1V0WmEyUXdWcnlORlJaQUMxTGlKWlp3YXdpWFdvTHZNTGlEb0FXS1o3c0pIRmVjdnlnd2FYQWdxejFwY1N3WWxDVHZDQllBVkFJTEFJNUh0Wkdxbk0yc2p5TmRlVmRpdXZudEJxak16NmF3UDNFcmN1WFNrZHVna2VnWDUwQmdIdzRmNWFXbDE5QmRsazJ3bEZXVkZTRmxKZw?oc=5",
-   "fonte": "A Tribuna RJ",
-   "quando": 1795881060.0,
+   "titulo": "El Niño deve influenciar o clima em SP em dezembro; veja o que esperar - ACidade ON",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVo1V2xKOXphNnVubDMxZVVIekZpWXZRekpxU2Y2SzdwR3BNeHJwMExaazFwYms5SzdoQkZxSnladDJHZy1KODBNZ3hWdjBZWFRuQ3JGSFFDTGFpb2RGX0RPcjNELUNmd3Rzb2xSdDBKeWFQWmthTHcweU5tb1hLbW0zbGNHNDF1REo4c29DQk9wbUdBNXI2TVBmakZLTFAzcWlsV1lBaUJQZnFGaFV1dlpOWE90dmhZdno0Rg?oc=5",
+   "fonte": "ACidade ON",
+   "quando": 1795889381.0,
    "categoria": "estado",
    "fontes": [
-    "A Tribuna RJ"
+    "ACidade ON"
    ],
    "urgente": false,
    "assuntos": [],
    "pontos": 3,
-   "hora": "28/11 12:51"
-  },
-  {
-   "titulo": "São Paulo está sob alerta para tempestades neste sábado (28) - CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjlIdTdxV19wbm1hemdtRWdUZkpHOHpZc2lTcEhhNDBCX2NJb1ZCc3FvMHVaSlFTekk5UzJLQWZPY3FhMDh0M3hqME02elJVQmFTTDBUVlRNLTExMnVoMFJYZUpNTFRNRi1FdUdCWmk3Tk91RmxXYW5nU0NjeC05WUl6NVBmQTlVV3NpNmVaQzBVMTFCZUktWkp3THBFMlpDNVA5VG9XeEttVS16?oc=5",
-   "fonte": "CNN Brasil",
-   "quando": 1795880313.0,
-   "categoria": "estado",
-   "fontes": [
-    "CNN Brasil"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "28/11 12:38"
-  },
-  {
-   "titulo": "Bom Prato Móvel: 14 unidades passam a atender em novos endereços a partir desta segunda-feira (30) - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03V2Via2VTdUNkSWVDMW83aFBZUkhmTVJoQ3BEcGNHUnZkcUdRZlVmYXFDamo0RTd3Y0V0VlFzZV9VdlpXVHVzNU5RZHB0eFB5NTM5NGFnaWt6Smxtak5kbXpDdTdzNU1sQk5mWGNrLU4zLVhuRzB6MW8td1RWdzg?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795879500.0,
-   "categoria": "estado",
-   "fontes": [
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 3,
-   "hora": "28/11 12:25"
+   "hora": "28/11 15:09"
   }
  ]
 }
