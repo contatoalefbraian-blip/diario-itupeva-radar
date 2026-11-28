@@ -1,5 +1,5 @@
 {
- "gerado": "27/11/2026 20:48",
+ "gerado": "27/11/2026 22:00",
  "desde": "27/11/2026 16:35",
  "pautas": [
   {
@@ -176,9 +176,9 @@
   },
   {
    "titulo": "Lula sanciona lei que autoriza crédito especial de R$21 mi a aposentadoria compulsória de juízes - Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOODkzcDExMm9uYTZNMXRYOGRmelJxN3ByMXdYQVROMDhTT3AzUkJNZi01S05POG5ScXJObXRhdzllQ0l1RHQyZ0pEd0JjSFhJYmlROWliUm1JQTY0U3E2aFZsLTlnUHNYOFdGdlBVNTRJbGdVc0lGYUV3RUFNbHhwNnVROXA2YjZ0WW9ZQXRaakw2ZkJZNXA0c191cUN3dktvRnE1azFmOEdqOEduSE1jTEYzUnlMcjRaSVNSZllrTUg0Yk9ZM2IzV19pLXZTdktnb3E40gHYAUFVX3lxTE41VHJIZklvdm1ZR0dwb1BUU29ObXVDWkJkUXlIdlpXek5wYjk2aTA1RGp4ZzlJdmFpTW9LVXhHaTJQSF95ZS11ZFZXcnMzMzZScDVlVmlaN2ZzcW5EU2IxZFBaZkdSUFVyMkRqVGIyaXI5ZnFCbHBHM3JkX0hjZEZIVEVUUnpQNnBDX3FLM1JiRXllVS05eEN6b3J5dUYtelJ0VEpFSzktYXhiS283bkltT2xmM04xc2ZHNW01X2IxMk1aZU9VTm1yd3ZrTGhxZVpQZGlxazhVYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYnBuenRfdzd4eV9nYzBJWk5xSWlyek0teks5Sk1NWjdwM0RwNFRQekVTU05Pb3VnUUFKbmxEdEg5TnYtNEprSkwzX1NHYzdSS2pMUHFONktfbURIMTJjcmtkWTVnaTBONUlNWU1nRUw1alhSOTJEUXM4WVFONFpIcFhwVHE0SVlfTko3QU9ZWDVQY0RjT0h1OGlHRVpLXzB3bmFKZk5DS1RtQTRacU9tRE8ycndwR19KTGo5RXc4dk1sNFlPMlBnUzhSSnU2LVdaTEtFWjREbmZSVm94V3c?oc=5",
    "fonte": "Estadão",
-   "quando": 1795817290.0,
+   "quando": 1795817586.0,
    "categoria": "brasil",
    "fontes": [
     "Estadão",
@@ -189,13 +189,36 @@
     "politica"
    ],
    "pontos": 8,
-   "hora": "27/11 19:08",
+   "hora": "27/11 19:13",
    "foto": "e9bdc4f7f00f.jpg",
    "credito": "Foto: Estadão",
    "foto_tipo": "materia",
    "foto_tamanho": "1200x630",
    "foto_qualidade": "media",
    "materia_url": "https://www.estadao.com.br/politica/lula-sanciona-lei-que-autoriza-credito-especial-de-r21-mi-a-aposentadoria-compulsoria-de-juizes-nprp/"
+  },
+  {
+   "titulo": "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro - Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFlXZ0w5M3pmNlItS19pSGloYVRGajhmMmpEdm1lRTB6V3AzQ2FYNFhLTHFUWGsxUUx0WGV4VW5kbUxMTDRhOFFkUUNxZmRZeDRjY0k3Z1JjaXRtWE9yWXctdXhVVmVoTDBkNnFSRU5LeFNLT3BWNGtQekFKMm1uNXBlX0lIOUUxaTR3XzUzU3JrcmwyV0hmeFpWbV9KSWdhbGpTU0pMaENXM01ZM1YwQl9VekZickJs?oc=5",
+   "fonte": "Agência Brasil",
+   "quando": 1795812060.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Agência Brasil",
+    "Blog Agravo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 8,
+   "hora": "27/11 17:41",
+   "foto": "a44e203b40c3.jpg",
+   "credito": "Foto: Agência Brasil",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x800",
+   "foto_qualidade": "hd",
+   "materia_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro"
   },
   {
    "titulo": "Campos de futebol dos Centros Esportivos de Jundiaí recebem manutenção especial neste fim de ano; confira o cronograma - Tribuna de Jundiaí",
@@ -219,6 +242,67 @@
    "materia_url": "https://tribunadejundiai.com.br/noticias/manutencao-campos-futebol-centros-esportivos-jundiai/"
   },
   {
+   "titulo": "Trabuco, novo ministro da Fazenda, terá pela frente série de desafios que passam, principalmente, pelo equilíbrio das contas - G1",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONFpOa3dRLVpzTWxybTRFck9wNlVtTGlqUmhKaWp4dFNnaXJZMnRxQmhZejBMdzNzWkNQaDYxaDZIR1ZXaUZIbGtVS1UyUTU4al9yVDF2eWFtZUhPVllPZldJYXBha2NXQ05JVUo3a1FjT0t0VEZidUVKeE9Rc2kxY0k2MVIxWTNQZkhEcDlJYXQ5UEM4M0NnUTVfMkt5RkktLTRmUlN2eFVqbjVFWTVnekxlZE9iWGVESjI4T3Rhdzk3Wi1yUklNTkJBUUt1T2tPRmJxNFZpdmJraVdqMkVlb2xLUE8xc29Gb1Y5dnFpUDVkcmFNb2FvMkZBWmlMR1NSaVR1RXZ5R3ctb0FxTW1B0gGeAkFVX3lxTE9kWWVoX0FydEZRSnV4OG1YMXBmVG9TMUUtd21qdEtmeUlwMmNJemZPVXhvVTdRenZnaXQ2NkptUlBHX1pMM0xrajZmXzh6X1cwMlNzSjJXSmlqMWZxdW5EaEZXTlpMMXFOUk1zVGJ0Q2hXVDNXWms5ajIxNDdrZDNRa1BNMkJDTHZyMkVhMTZSbGdNbmZwb3dEUVI3OUNHeldPZ2U2Skx1M3VrQXcxUGJ4SlVnS1FDT3l2dXNQWDNpbkktbC1hWmc2ZUppaXhBUFkwUFY1NjlGMUI4clJmd25yTUlFaDA3Mnk5TkVwN2ZVMHNhTmxpd0lrWTVlTzlnb1VkOTNPMDZsSlZwa1QydkhzVFV0azZRdWF5dFRjN1E?oc=5",
+   "fonte": "G1",
+   "quando": 1795825948.0,
+   "categoria": "brasil",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 7,
+   "hora": "27/11 21:32",
+   "foto": "b7d3f2bf973e.jpg",
+   "credito": "Foto: G1",
+   "foto_tipo": "materia",
+   "foto_tamanho": "1600x900",
+   "foto_qualidade": "hd",
+   "materia_url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/trabuco-novo-ministro-da-fazenda-tera-pela-frente-serie-de-desafios-que-passam-principalmente-pelo-equilibrio-das-contas.ghtml"
+  },
+  {
+   "titulo": "Entidades empresariais pedem ao Supremo o adiamento da reforma tributária - Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjFjaVBhU3IyaG5rRV9YamQ0U2VKckt2M1d3eHZ0Vm1GUWZyai1PY19sNGxsVXJTN0g2QUt5c1M2RmVwSmF5TXhER0JiU1FuWDNpR1VsUEgxeno3TmI2OFdBRVdoWEJOUTl4VHdyYnpLQzVRZDNXaVhheXJMMTZSdktVVTFPQTkxekFyMkRUTDVCZDdvZjJRcTJDOE85VDDSAaQBQVVfeXFMT0QxLXctNjd3czlhUTNEUld6Z05KSy04VGJRa2hnZnliWVlES2FzLTZrWWoyR3NmYlN6TzRzc211TDhOekV5Y3JRLUM3T2JjS2N5TkpJbTFDNjFFNmVzVTF4WjdQNnloV0hLbS15TG9VOXZCV0xyYmlPQVQ0S040a1lkVkc0UTN5X1Q5MVlrcHVSTnVJVHVGZU45MHp1U3ktU0QybUY?oc=5",
+   "fonte": "Jornal O Sul",
+   "quando": 1795825189.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Jornal O Sul"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica",
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "27/11 21:19",
+   "foto": "2c5136852c9a.jpg",
+   "credito": "Foto: Jornal O Sul",
+   "foto_tipo": "materia",
+   "foto_tamanho": "868x575",
+   "foto_qualidade": "media",
+   "materia_url": "https://www.osul.com.br/entidades-empresariais-pedem-ao-supremo-o-adiamento-da-reforma-tributaria/"
+  },
+  {
+   "titulo": "Polícia Militar prende traficantes que vendiam drogas a 50 metros de uma escola em Várzea Paulista - poptvweb.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmhENWcwbi1ER0FITzQzLUVSelhTTlZSUkdZY01qb1ltekI0dDlBUUwwV0JJcFl4LTh5TXYxSi1laVUzdUJLcERxcHFQaHpIVGw0QUlTbzJjaEwybFlVbk85Z0U1anlENmYxR3VsS1FSWEJIS21YWlZjTjkwZ2ptY01oMmNCNktlU1ZyNkhYN1hwemR4M2tjWTEydjRTa1FMVV9aTDJ4X0FrSTlHeWUyV0ltQXFTcWgybmw4ZTRtdVU?oc=5",
+   "fonte": "poptvweb.com.br",
+   "quando": 1795823896.0,
+   "categoria": "regiao",
+   "fontes": [
+    "poptvweb.com.br"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "seguranca"
+   ],
+   "pontos": 7,
+   "hora": "27/11 20:58"
+  },
+  {
    "titulo": "Homem é preso em flagrante após furtar peças de bronze de cemitério de Jundiaí - Comando Notícia",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVFg5UmdVenhfNWVsUVFBSEc4YXYydk15OGN4a1gyTDN6Z2JQdTJOT2E4cHA1RFdWNkJPdzRSeFVBRElvWk8tcVFQdWpNaWNOTWlBS2tGalRuS0dyTmVGWHkzcWkwc2luVWx6aU9DU0ZOVmpDdUQwZzZxSHJpd0RWc3ZXN003MGkyYkNxamo4M2pHR1Y4djNidXh0cUlwaExKaEdmcHk4dTRjck9JdlE?oc=5",
    "fonte": "Comando Notícia",
@@ -232,13 +316,21 @@
     "seguranca"
    ],
    "pontos": 7,
-   "hora": "27/11 20:07",
-   "foto": "ae37e542a692.jpg",
-   "credito": "Foto: Comando Notícia",
-   "foto_tipo": "materia",
-   "foto_tamanho": "984x554",
-   "foto_qualidade": "media",
-   "materia_url": "https://comandonoticia.com.br/homem-e-preso-em-flagrante-apos-furtar-pecas-de-bronze-de-cemiterio-de-jundiai/"
+   "hora": "27/11 20:07"
+  },
+  {
+   "titulo": "Sorocaba intensifica ações de combate ao mosquito da dengue - G1",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHBoZzJtdGk0bW5SVXk2Y1ZNaTZ0SmVfRHZWLUlRNzRBSUl0b0RqRXltWGNOVXR6YmtYWlozS2JsWE1yUjVPd29sNFFaZWxUc2Nqd2lXdk85aVFjcmJ6YTk0MEtLR0REbjgtbW5qZDJJcmdDUkMzWHRqSVo5RElHTzBDMWMzQXlMcjlfeGJjVUdyQTI2Mm5HMXRSS18weVJRNmpVS252aGc3aThFWWZ6TEl4ajJFb09VUEt0bnFNZHpBNXd0U1BYRHptYm9LUTgtYWhFMkpPb2xYSndiMW5qTDh5emzSAfMBQVVfeXFMT0FoYWlhLUQtemk1dlNYSVZBMFJOd2R0OHZMTGhUX2JiSTlzaGJpeURPcGwzbDRDOGhKWENLZWQ3XzR5cnBFQmcxZ0FvRlFtb3dCNXg1aGRRazV5LVN4aDNYcDViODZ0aC0zNTlHbGlLNl9RTG14bElfdTZpdjdCMmpNQ0NzVE5uOUxwZVN0MDh0c1c1dWZobmx6RlBKX3lWSlJGTVhhakdfUVFJekp5WUk1dS13bmxtdUZUVGwzejgwQkg0NDl1ZVhWNnFJRGx1RWdwYm01a2J0bldwcW9LSUN3eXEyOWVEa1BCbnlBUGZURXlF?oc=5",
+   "fonte": "G1",
+   "quando": 1795820716.0,
+   "categoria": "regiao",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 7,
+   "hora": "27/11 20:05"
   },
   {
    "titulo": "Hotel Ibis Sorocaba anuncia fim das atividades após 26 anos na cidade - G1",
@@ -252,13 +344,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "27/11 19:23",
-   "foto": "7641654e5fc6.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1600x900",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/27/fim-atividades-hotel-sorocaba.ghtml"
+   "hora": "27/11 19:23"
   },
   {
    "titulo": "Prefeitura realiza audiência pública sobre alterações nas leis urbanísticas no dia 2 de dezembro",
@@ -275,10 +361,26 @@
    "hora": "27/11 19:03"
   },
   {
-   "titulo": "g1 em 1 minuto: entenda esquema de motoristas de app que 'enganavam' GPS em Bauru - G1",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWFI1Nnhrek54M0J1V1o1Y0Z4b0RyQWR5Mk44QnVKdGlaUmdYVU1iaXBTOUgzOHIxVmRBWFluVDJEQ3phZmFHTXgzNDBRZmc3dWw5RGxIMExvSjZpQnYzaHNKUTFhWGNqd3NLVjZ6b3NKQkxNcExpSmV5M0syY1l4RHVVVlBrei1NNDJYTm1LQlp2YlBSaHdiZ2tCLXNhel8yRWx4dTJHWUJtUmxFTmlBdkZ0MEdJS1JhOGtQVm9scERZSEJXdEFWQkkyb01JZUxIbURubm1Jc9IB5gFBVV95cUxOd2syRlpGeTFRbWZyRlh6X1BNOTVVdXVSSG9mNFZndFlueDJHWmpoSDY4QmVCM1gtSmljT3BMX1NxQzFnU2psbzNTdXJFUGtidjc4aHhMY0VVOF9zT0RpTmFjSWhId0pPVnpDcE9FYy1lOEhOTmdCY0hnZzlFY0RiVElQaGFnUVppWDM5bmRmUG1HeWI2RDF5bEo3NS1aLUtKaUd0TVhpeXhLdVFwRkFqVDlNSXRCRFRONFgxTDNmaEJyQnhnRExVWlRuN05PaFJ2N0Rpamc1WTJCb1BPaUJ5Q1hKM3Q0QQ?oc=5",
+   "titulo": "Acidente entre caminhões deixa um morto e provoca interdição da BR-116 - G1",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3dickVPNjlTbm1EaEVVYjFlNXc1dXEzYzIwX0RtYXc2dXFVczJRSHVUczlRdjBJdnVnUjNHWkEtbF9vTGowQjFEUTU4VG9fRUFFWmFmYTVweVduSkhWdDN1RmNSTmJ3Y0Q5VDZOQWcwRzhyS2o3T3ljVVNoWFV0bVZtYUxiV1BSZFNadHhJa0dUVmhwczRlMnV4aHR5SjQxZEdwNFNnOTh4VHdUUlAyT3pzVE9uSGppWHNuVHlCbFJEN2c0YjVtM2FZUFnSAdsBQVVfeXFMT1ZMMXBncURscmtONjR4UmxPeC1pVnFVdDVxNjQtR3pJNUVVd01mdkUtN0huUE5MUnVNSnIxZWtuTldZRkNJNi1ZbGdReFE4VTltTmJtd2xxR3BMNE9XX1R2Y3kwVkJaeFZJbWNTeFlwS0oxLUN6Q05hMGVjTVJmT2dRY0lVSDRtR2pnNUI1a1czWUJjeENKX21sYzZzOHhraV9oZjhWb001V1NCeGNRSExrVHZtZmpQUDd6RkhaeEJQMi0ycVdUdnJzekl1UXNDV1MwZl9xcWp0LWc0?oc=5",
    "fonte": "G1",
-   "quando": 1795815960.0,
+   "quando": 1795816457.0,
+   "categoria": "estado",
+   "fontes": [
+    "G1"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "transito"
+   ],
+   "pontos": 7,
+   "hora": "27/11 18:54"
+  },
+  {
+   "titulo": "g1 em 1 minuto: caçula recebe doação de rim do irmão mais velho no interior de SP - G1",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSk1sTjhhSWJ3N2NoYmNka1NYY3NaWUpyMVczTGdONnExRXVaTGJaaGFpY1BUX2hLUWxRZXVfUW9WeWZQb0RlNTUxb2R1RTlrMDF1bkhLSnpudmNjamNJczNHS0tITmo1TlJHUHRoWFJOWHZHT19Zck81MGNLMkF3TFQ3emd1STB0ZkJWY2toMHpxaDJkdlhEV1hQVC1veXF3MDNhdEtkdTA3VHNNWmdqenBUa0lFbFFxeENHak50OHhOVWNydDdEVFBqZDB0Zm4wZDhYaTlVMmZ1UdIB6AFBVV95cUxNQWlRN0VnNEg1X05wOUJlaDNNODFLUEpLNDRhdFpKWlByMmJwSXN2WmVNa3lUUmxVQ1FSNFRxSEUySDN5T3JZZ2hYbmdQTDM3U2Z4N05lSzlRU1V2YTk3Yjl1R0Ixd3JCNFdEbC05bDB2V0llbUd1REQ5bzRuMmo1cW03d2k0VGdQbDlaUF9WYXlaRGV6SC05NnpHcHJfSl9pSTJWcnhnaGxkbUhvN1cyQkt5RFFWem5SaUg3OE1oTzM2OXQweERUb1p5MGxQWVVNemo1WGw5MTNvSm1ORnBOUDNJOWJsLVlM?oc=5",
+   "fonte": "G1",
+   "quando": 1795816022.0,
    "categoria": "regiao",
    "fontes": [
     "G1"
@@ -286,13 +388,7 @@
    "urgente": false,
    "assuntos": [],
    "pontos": 7,
-   "hora": "27/11 18:46",
-   "foto": "2a46acb44fa2.jpg",
-   "credito": "Foto: G1",
-   "foto_tipo": "materia",
-   "foto_tamanho": "1280x720",
-   "foto_qualidade": "hd",
-   "materia_url": "https://g1.globo.com/sp/sorocaba-jundiai/video/g1-em-1-minuto-entenda-esquema-de-motoristas-de-app-que-enganavam-gps-em-bauru-15288590.ghtml"
+   "hora": "27/11 18:47"
   },
   {
    "titulo": "Poupatempo remarca atendimentos cancelados nesta sexta-feira (27) - JORNAL DA REGIÃO",
@@ -601,6 +697,100 @@
    "materia_url": "https://www.tvsmais.com.br/noticia-regional/sorocaba/page/527/?et_blog"
   },
   {
+   "titulo": "Black Friday no JundiaíShopping tem ofertas de até 70% em mais de 450 produtos e serviços - Tribuna de Jundiaí",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm5hWlh5Rlk0ZWs5RlRHaG5UWFZRLTZiWlJCMDU5anFpYkpnbVFfbEYzYk1BMkRQNmJXdkdTa1lJMlpGd1RfRE93ajJGbzFrOGFpNFBNTm5FNGZxNXRGTUlXUzRwTUt5eHp0a0Y4RldUMGFOTGFIVm5zc3BUUHprZHVZMDUyLTVRNmd4NE94WmpCMG1JRDdiWTlVQk9wVnFBOEJ1NXJGTVYzWW5KUTFaUmR5TUl1Y2gtS2pwLXpwNXdrNnJCU0IyTTJyZjkyM1VtWlFR?oc=5",
+   "fonte": "Tribuna de Jundiaí",
+   "quando": 1795826361.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Tribuna de Jundiaí"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 21:39"
+  },
+  {
+   "titulo": "Ministro suspende R$ 79 milhões em emendas de Flávio Bolsonaro e questiona atuação do senador nos EUA - Canoinhas Online",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbkg5eWlpZ09JNk5uaDJ5OEx0YTBWOG01djhhUVpreW9xaWYxcXBOUUhmcGVWZHZBanhSb1lPQjhJMW9VNThuT3JpUEMtbTkxbkp0NXFnYTFjNmlfMzFWRFVQZHMyMXVxeHg4YWJNWXlJR2txek9ZSlNRbEdVRG1VSEJ6V0ZXWmxJSTh0dEpiUVlFSmZFR3ZzcFdncktuZ00xbjBLZUVCckMxbDM4eHhhMzVKTW9jYmswdUNOdUoxV0pEWk1zU25jZTd6OUp5YklDOFJfQVZaWExiQXdi?oc=5",
+   "fonte": "Canoinhas Online",
+   "quando": 1795826306.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Canoinhas Online"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 21:38"
+  },
+  {
+   "titulo": "Aparecida decreta situação de emergência após registrar as maiores chuvas do estado; desalojados sobem para 44 - MEON",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkhCWXEzZ3hqSWlhLW5kR2hhRThPcmdoMUxQcFN5SXZlQ2JPZDA3eXQydDBEa1VZaHV1Y0FCMy1CR2RNOUdabUNpczIzclk5UGd0TjdDbXJhaWhGOHlDZUljanJyYmoyRThKenB0YXdpR2tkdXBsamNHc1FjUlVZN1BTTzhpQVgzMXc2YzZDeVBnYzBEX1Q0WlFHMVQ4YVA3RjhzS0tKQkpvNTNrX1BVQTUwT3JxRV9DSXc?oc=5",
+   "fonte": "MEON",
+   "quando": 1795825907.0,
+   "categoria": "estado",
+   "fontes": [
+    "MEON"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "27/11 21:31"
+  },
+  {
+   "titulo": "As diferenças entre a lei contra as bets aprovada na Argentina e a medida adotada por Lula no Brasil - Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2Q4NkZsTEhrSWdWdHJ1bWdXdEpSV015LU9mM18tX1dCQXNaS3hYbXoxTktsWXBtOEtwaV96WTFGY2J0ajZiYTVkQVd6OXUtNE0yQjFtRXRwZUJlSHcwMzFqTWE5TFlHMnJ5Q2JTVmpGT2VUZVczejFneXhKSzRQaHpGbDFDQ0xXdU5UenM1MU1xRnR3cDhJYktWRU1xVk1iV3JIanVyRW1qSHhVa1hYdTlNVzkxQ0hCX2tCY0F6TVlBWGEtTExOcWwxZF9pUXI4MWNHYXhR?oc=5",
+   "fonte": "Gazeta do Povo",
+   "quando": 1795825680.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Gazeta do Povo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 21:28"
+  },
+  {
+   "titulo": "Lula anuncia proposta para criar 'Ministério do Idoso' e explica como deve funcionar a estrutura de atendimento à população com mais de 60 anos - Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbkk4TkM3QjFjTGJkNFktQmhSQlpodWxuSk15aV9mNHJjczdzV2hsU2RKRXVFeVdXa1Axanp2b0RRMGh5NnBfaWw1UXZORjdCeEs0cWRMYlMyRVFHZHBweHZCN21mZ25MQzNUREZfcFRmWXhvZnlhM2hGZkNnbjFxeXYzSEFZelRITFk5RGpjSzFDV2lFTF9QbzZPQzA3TnZEYXhPOTZFTDlVeDB6aHQ5NlBFMUpDdG5aYndPS0FUbFFWZGlkREFISnlyNWM3VlJWTGdFVFpxODJId1BybFpZYVlsOVRVYWF2c2VISTVrR2VwR3JSUkd4V3NiQ0JJYkVUN0N3QWVOcDU?oc=5",
+   "fonte": "Gazeta de São Paulo",
+   "quando": 1795825485.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Gazeta de São Paulo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 21:24"
+  },
+  {
+   "titulo": "Lula anuncia live com Janones e estudantes neste sábado (28) - Área VIP",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd18yeGJfSGlqUm54TVRmWTFrUWJTbzVwTDljM1VUdS1mYmJwaHZZV3k5VUFOLUZ2UkpQaUYwbXRndHhpNU92WDJVeFRGUFVzZ0hKWXNpZ19Oa1VsYzZNbjFmUkdUR0NfbGMzaGlwSV8tRXZKS3hjdE5MbW1Qakl0ZGUtaDdYTVJDMjFoWmdYSDFmdHBQODRTazk5aUt2b0hNdmpkTHRJQQ?oc=5",
+   "fonte": "Área VIP",
+   "quando": 1795823491.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Área VIP"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 20:51"
+  },
+  {
    "titulo": "Ajuste fiscal de Lula não terá cortes em benefícios, diz presidente - 40graus.com.br",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2dxdjZOZmhuMWlobF9UZEtZVzAwTG5SRE1Nd0JiUGdfUVNKVU94Q2pyT3Z3Y1dJWkk3SzJVbjVEMVF1Rnc5bG5Ua2NfR3VpYllCYk9RQ21ZZjNqR0VxT210ZFNrQkFxX2E0Q3V2VVZuOHdlR1VhLTh1Zm4zT1JoOUZ0UQ?oc=5",
    "fonte": "40graus.com.br",
@@ -649,6 +839,52 @@
    "hora": "27/11 20:27"
   },
   {
+   "titulo": "Congresso renovado e troca no STF vão exigir mais negociação do governo em 2027, diz especialista na ACSP - Sala da Notícia",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaWY4ZkM3UGVXVFJkM1JzSWVoSW42YTRUc1MxTlI3RU5Tb3BVb2VsaS1GYVNXdFgwSl9ucjI1NkhUSWF4Vk1NT05pOHVqOHE1OFpsVmN0cy1LZ2lUMkRYLVVVUDE3Y3l2NFVuaVB1d2E3WGIwa0p4eXNZRG1laVJGdWh3NXoxWG02MFNSSWJ3bkktS0t4S1dZUDBmek1KaEN5b1RFR04yNDZHR0VES2ttblZmSFZTVmpIVHFUVWV3MTZUWno3bEc2UHdqa3JtdUtiaHNXQjUwNHBaV1J4LUtZUW85OFRQN1JsUXJ2Y08tNA?oc=5",
+   "fonte": "Sala da Notícia",
+   "quando": 1795821623.0,
+   "categoria": "brasil",
+   "fontes": [
+    "Sala da Notícia"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 20:20"
+  },
+  {
+   "titulo": "Lula sanciona lei que permite crédito especial de R$ 21 mi a aposentadoria compulsória de juízes - UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMDE2Y0FUQkF3a1RVYjRERUxVdHFhZzhDVUhKcGhCa216MGN4a1dHT09aXzcyel91WFdscEFmTEE0RG5tYjZEZklZWGNKU2JwTWpvTTR3NzJ4bkF2UGVkaGhXd01Jc21vM1VpSE51S2xiMEpqVmhjRzY3bHpaY1g3NHN6UHVGWlNmM0lhNzRtNVpTaDZCenBMNGd5M2xVckVJVUo0dVVKNE5JSkN4UW1BSlYyMjl1Vl8teW1NSERSblQyMnZMdVVSMG1Va3hEWUVmUmVNNnFBXzZKV1p5UmlpOWd2c3BZdnUyaXhhdnd1TFZucXJ0Nm1LUzI5VTVCUQ?oc=5",
+   "fonte": "UOL Notícias",
+   "quando": 1795821060.0,
+   "categoria": "brasil",
+   "fontes": [
+    "UOL Notícias"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 20:11"
+  },
+  {
+   "titulo": "| Novidade em Campo Limpo Paulista! Prefeitura lança programa “Tô na Posse, Tô ... - Facebook",
+   "link": "https://www.facebook.com/AVozdeJundiaieRegiao/videos/novidade-em-campo-limpo-paulista-prefeitura-lan%C3%A7a-programa-t%C3%B4-na-posse-t%C3%B4-legal/1454875016172445/",
+   "fonte": "facebook.com",
+   "quando": 1795820533.0,
+   "categoria": "regiao",
+   "fontes": [
+    "facebook.com"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 20:02"
+  },
+  {
    "titulo": "Governo de São Paulo exclui 149 mercadorias da substituição tributária do ICMS - Folha de S.Paulo",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUZhcEFINzE1VEdkREFXVklJT1ZSNFQ2YzhxNE5JSldKcnBsaEhkWmF2cXJSUmE1WXp3TUJRbEdUYzRZWFZOTHVybjBzd3V3R2NRSU1OMzg0MzEycU04S29NdlJpQ2hXdlM5TGNFN0NBbzM4Tko4UmxWQkdUNU5NX3ViU28yUTlDRy1nZWVGUHFaWGVuaThTRVljeFJ4YWZZX0VnWWlVRERVNFBSdE5LLWdRN1BFUkFzR0xieVE1QVNpTFpfbDVnNU5n?oc=5",
    "fonte": "Folha de S.Paulo",
@@ -663,6 +899,22 @@
    ],
    "pontos": 5,
    "hora": "27/11 19:54"
+  },
+  {
+   "titulo": "Aparecida decreta situação de emergência após fortes chuvas - iG Último Segundo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnZOMWRYTm9Hc1FvZGZYanRfQXd1bGJrYXdnWWpuREEyd2pTek1rQzdXQ1ZNTWEybE5fUDlVMFozWFJ5T1hrVFhWelNOTjhVZHM0Ui1ub25sMm9vbG5oR0FiRUlnMlNzSmctNkhhc3pvNURpUENjVW9MZ0Faa0o1b1NJOU0xanI4TmVWQjJNcUlCT045alZhSGlxVDJfYmdBaWJyN2NqWnVvQ2doOTVmTDNzb1hPOHprWUHSAboBQVVfeXFMTkp2TjFkWE5vR3NRb2RmWGp0X0F3dWxia2F3Z1lqbkRBMndqU3pNa0M3V0NWTU1hMmxOX1A5VTBaM1hSeU9Ya1RYVnpTTk44VWRzNFItbm9ubDJvb2xuaEdBYkVJZzJTc0pnLTZIYXN6bzVEaVBDY1VvTGdBWmtKNW9TSTlNMWpyOE5lVkIyTXFJQk9OOWpWYUhpcVQyX2JnQWlicjdjalp1b0NnaDk1Zkwzc29YTzh6a1lB?oc=5",
+   "fonte": "iG Último Segundo",
+   "quando": 1795819440.0,
+   "categoria": "estado",
+   "fontes": [
+    "iG Último Segundo"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "clima"
+   ],
+   "pontos": 5,
+   "hora": "27/11 19:44"
   },
   {
    "titulo": "Lula sanciona crédito para aposentadoria compulsória de juízes - Vero Notícias",
@@ -697,20 +949,18 @@
    "hora": "27/11 19:31"
   },
   {
-   "titulo": "Bancada do PT na Câmara reafirma apoio a Lula e defende investimentos e redução dos juros - Correio do Povo",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUGpGeWR1N3dwcWtVQTVaUGlFQS12UVlWNzRQN3hYajNVNzMyRXQ2aTJJbk4xUWlWTndjTkJSSVNxQ2xMVHI3Vndsazh2dWprRmVLVlBRZm5lbEk4M0dqZldhbVlOVnNvTEpPQTAtN3NHTHIwS0ZnZkhkc3AtbVQ2ZVEyN2twRWZoM2w5Q3dfS2hOcmVzU0E2VWI4RU5wOHBtSHhwR2hIQkthSjE0TzAxQl9KX2NxdXFvRnhaYVhqb2pWTVRod1o3RVJDdHVNajhzT0QyNUxJS19TSmpPWXl6aHdfb2JMeU1pQVV2TjBWWlNEZw?oc=5",
-   "fonte": "Correio do Povo",
-   "quando": 1795818604.0,
-   "categoria": "brasil",
+   "titulo": "Magalu prevê despachar 400 mil itens na Black Friday em seu maior centro de distribuição - Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRXo5dFYxVFlVOFJEeHV6M2E3d2NEX2otMWNtMk1sekhjS1lPTFZtcjFaeVR5cHFyUnhBV3N3RGFKak5SQnR5TV9IOGphY3pqOEJCU0o1VkhFekJ0SlI1SGtaZlNtaWNrSzFwM0hmTnY1dzg5T3FkbkJhVlhZd1p4eVJTcU9ROHNfWGgzbGR4LXZlWjFqcU5YdHNfRDZPLU0wbHQwa0gwTmRValdJamtuQjgxdF9HaG9mOE80OXQ1R3RFNEN0aGZHNzFDN01XYkYtRzhGZ253Q0dCZHU4cTlBZ0hKVEFhUWlZ0gHoAUFVX3lxTE1Fejl0VjFUWVU4UkR4dXozYTd3Y0Rfai0xY20yTWx6SGNLWU9MVm1yMVp5VHlwcXJSeEFXc3dEYUpqTlJCdHlNX0g4amFjemo4QkJTSjVWSEV6QnRKUjVIa1pmU21pY2tLMXAzSGZOdjV3ODlPcWRuQmFWWFl3Wnh5UlNxT1E4c19YaDNsZHgtdmVaMWpxTlh0c19ENk8tTTBsdDBrSDBOZFVqV0lqa25CODF0X0dob2Y4TzQ5dDVHdEU0Q3RoZkc3MUM3TVdiRi1HOEZnbndDR0JkdThxOUFnSEpUQWFRaVk?oc=5",
+   "fonte": "Valor Econômico",
+   "quando": 1795818486.0,
+   "categoria": "regiao",
    "fontes": [
-    "Correio do Povo"
+    "Valor Econômico"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "27/11 19:30"
+   "hora": "27/11 19:28"
   },
   {
    "titulo": "Lula anuncia projeto de espaços de convivência para idosos - 83 Agora",
@@ -757,6 +1007,36 @@
    ],
    "pontos": 5,
    "hora": "27/11 19:14"
+  },
+  {
+   "titulo": "Lula chama FHC de “morto-vivo” ao comentar estado de saúde do ex-presidente - Conexão Política",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1NiUDFGVFd4eW9jck0yUm80bzBwZ3ZaMHloQS1QZHdPRlpqWEYwV3lSVS1CekM5a2N0R2RSa2hIZnJfdWY2WU0yN19vVC0xbmZIUWJfWUNsWkpPSUxTWFh5M1IzaHRTejJ0SFYyNDdZX0JLN3piOS1HSThZQXRoczZVeEpVRDVVc3EtaV84R0hVc2VyOXl2STM2R2dQdTA2ZHNMNXhraVNUcklhRmU0MHdEbUJaaDFRTHc?oc=5",
+   "fonte": "Conexão Política",
+   "quando": 1795817539.0,
+   "categoria": "estado",
+   "fontes": [
+    "Conexão Política"
+   ],
+   "urgente": false,
+   "assuntos": [
+    "politica"
+   ],
+   "pontos": 5,
+   "hora": "27/11 19:12"
+  },
+  {
+   "titulo": "Distrital Oeste da ACSP recebe novo Balcão do Empreendedor e inaugura a agenda para levar o modelo às demais… - Sala da Notícia",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa1E2SGduQ1ZJUzNoVTkxQmVSU3FHd1ZNeU9abWl0NUNOam1McjkyVFBoU3llX0JPSGVDRDRyNkxrMVBaM3hOdC1MQ0J6WjUweHNwWVZWR3V0SDhnenh5Tm5kS1RxdDVWSXpxcUQyckY3d1ZjLWFzazJHSGtFcFpBUkxwOEJJSlZGZ2tkM1ExTTVFc2VlVTNNQ0R3S2dOc0xIQkZGeDk4eFJSWWQ2SENlcFViRkVDelZ0VlhUZmtpMnFoMDExX0FMWHMxM01yaEhMUnloX1pWa3FLQS1VTk1MdTc4MUtSVFRxc01QdmFBMm42RFI3bVVoQ3ZKRklDUE9EczZJ?oc=5",
+   "fonte": "Sala da Notícia",
+   "quando": 1795816817.0,
+   "categoria": "regiao",
+   "fontes": [
+    "Sala da Notícia"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 19:00"
   },
   {
    "titulo": "Jundiaí terá Expressinho de Natal e estacionamentos gratuitos para acesso ao Centro - Blogger",
@@ -881,52 +1161,20 @@
    "hora": "27/11 18:31"
   },
   {
-   "titulo": "Dino apresenta Estela Aranha a Lula como opção para vaga no STF - Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTG1nOHJ2NUpxNFhSUTVlNURCZGJsNU1FVDZmSnUxT1FBWkpKZ3pwZWtzWmtDdUZXaGYzSE5fMm5Mb1kxM1ZTUmZ2Y01saFM0SXVSdEhkVFlpWDRxRy1Md1ZlYXZEN2pYODRwam1XcGpTLWRTMGNtOVh5c3l6QnpxS0czeHp0ajZrbmMzS3lYSi1ja3RtdEFtTHFiVm04QW8?oc=5",
-   "fonte": "Vero Notícias",
-   "quando": 1795815012.0,
-   "categoria": "brasil",
+   "titulo": "Técnico de enfermagem é preso sob suspeita de matar três pacientes em UTI de Araraquara (SP) - Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2g2SXNZUVJ3NnhVQXQxLU5vMFRkNGZONmlPYTJWRERsUVB5UDRVczNHUi1aYkNxaWhGNjJaQ3BFOTFpeEtTanJjUTlKdEROSnd5TVF0Z2wtWXhJeWl2ZV9LelhiWTYxYjdRTGppOUxjbWhLZFdtQ3hzc2V2Uk40RlpLWldsSE5fZ2dUaHJLXzZvWjhxa21Ud255cHctMHVoMml1UklfMzNTci1hTVh4VTZXU2RLbklIN2JVeEtNYjNhSVdhRHZ5dUtMM0tCbzNYb2RxUWFwSmE3WFZSM01GdGFiLXdaZw?oc=5",
+   "fonte": "Folha de S.Paulo",
+   "quando": 1795814400.0,
+   "categoria": "estado",
    "fontes": [
-    "Vero Notícias"
+    "Folha de S.Paulo"
    ],
    "urgente": false,
    "assuntos": [
-    "politica"
+    "seguranca"
    ],
    "pontos": 5,
-   "hora": "27/11 18:30"
-  },
-  {
-   "titulo": "STF suspende 14 emendas de Flávio Bolsonaro ao Orçamento de 2027 - News Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnVQWWhkc3JFT3ZhdjAyWEFHVU10R2tGWE5LUUFOTnVoZWNfMFlGY3RPUlR2bXJwU0hkeEJueHJMdTQ5MzhHZnVLMmhwTXJHcGRhZVlUelhBY3NRbGh2Q3gzLUNPTTNHWlJLcGZqNnR5OW9tRE9RaTRQZFN4WU53Z25jeGhXQVE2V0xYM3JwWFBCbUluSDRwQ3gyLW05V3BIZnU4cHZhZlc2ZDJvbENJTUVCOA?oc=5",
-   "fonte": "News Rondônia",
-   "quando": 1795814611.0,
-   "categoria": "brasil",
-   "fontes": [
-    "News Rondônia"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 18:23"
-  },
-  {
-   "titulo": "Kim Kataguiri quer proibir que deputados reajustem o próprio salário - Congresso em Foco",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkpGNXFUYV9WQXhJX2ExSjd1dlc3Sk8wMDVfTXJ1Nm1acU1aN0cxUXVHR1J6anpBV0xIZUpocGt4aW5jRzhaYnlqN0RhZDlXNFMtSFBYdk5zek4wSlNVekZYbGtCc2Nid1FPMVAwX1pPNkw0Z0I4NTJqWjR5d3ZwaElVWGtjM0tKWjdXOU5ISnNGYjVZTkQtZ05IVVE0YlNUM2Jzb0tSY1p3aUlkRUltUDlXeTFueVZvNEVtRGpnMA?oc=5",
-   "fonte": "Congresso em Foco",
-   "quando": 1795814019.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Congresso em Foco"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 18:13"
+   "hora": "27/11 18:20"
   },
   {
    "titulo": "Rompimento de cabos afeta serviços do governo de São Paulo - TODODIA",
@@ -945,54 +1193,6 @@
    "hora": "27/11 18:03"
   },
   {
-   "titulo": "Lula fala em ajustes, diz que não pode gastar dinheiro à toa, mas nega corte de benefícios 📲Leia mais na #Folha: folha.com/economia 📝 Yuri Eiras e Italo Nogueira #economia #reproducao #reportagem #lula #ajustefiscal - Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QzBVM2o2RDN0UlZHMXdlcjFFUExhTU1JNXBqbjkwSnRXWUFHZkNPNmd5NDFIZWYxVGdVUW1QMS1ZUUtNd0VoWU9ZUVNzY1FCWlJVeGVB?oc=5",
-   "fonte": "Instagram",
-   "quando": 1795813339.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Instagram"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 18:02"
-  },
-  {
-   "titulo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou o bloqueio de todas as emendas individuais do senador Flávio Bolsonaro (PL-RJ). ⁣ ⁣ Na decisão proferida nesta sexta-feira, 27, o magistrado diz que os parlamentares não podem ma - Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVFVNN3Z6Mko0VHYxaHV2TnBHYnozY1VtOHoyMFlxUlpRUlZhNGRzMnJHMGRWdzRaYWgtZ0FGdnFOSXpRc0dlNE5TSkJIRFpzSXc?oc=5",
-   "fonte": "Instagram",
-   "quando": 1795813313.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Instagram"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 18:01"
-  },
-  {
-   "titulo": "STF faz questionamento sobre Flávio Bolsonaro e toma decisão envolvendo milhões - Surgiu",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNk0wcFBPVy1VUDhINEJ0YmlBaURSc0JaQlR6YWpaaXptS0tRMWN5WFgzbGhlX0R0eGhTWGlPQ29QLS1SUEZwZVJsVDNaVDhCTTloUjBnd0FLcTFRQ25MRjVHTE96N1NoWUZrdExFTkdDWFA1S1hTR1BLUnV3T0UtODB2NzZNRFVXMUozZEpBQVR3U0hfRENxUnZGUHhOU2R3NmxoYmNCTjNHZWo5ck9HcGg4WQ?oc=5",
-   "fonte": "Surgiu",
-   "quando": 1795812900.0,
-   "categoria": "brasil",
-   "fontes": [
-    "Surgiu"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 17:55"
-  },
-  {
    "titulo": "Casa usada para armazenamento e distribuição de drogas é localizada no CDHU de Iperó - TVS+ SBT",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2pTeVgzcGNTSWF5NjdWSzJKVExld2lENzhrMktCdDA0TFpLUjFsdUVjNXRjS0xLdkdwOGZYMWJvTFp1SUU2ODAzWWRDS3VWUE9RMXoxVU9JajRxYjRYSlB3dlJwd0hVNHFncUVwaUxVR3N1Q1UwVWw3M0ZnaGZsN2ZBY2NuTU1kUk8xcllKQ1luVUZ6WUdJM3ZZODAtR3U5OG1QSWNWN09KOVdPcUU1UEhR?oc=5",
    "fonte": "TVS+ SBT",
@@ -1007,18 +1207,16 @@
    "hora": "27/11 17:49"
   },
   {
-   "titulo": "Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro ao Orçamento de 2027 - Gazeta Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZTBGcEpYSmxVcEU2OVZ2Z3M2RFh4NnFTU2FmRnlhN01tcjFyTGIxOVROaFNxcjViTlBORkgyMWxKSUZOVi1qRFZsdlZUR0QzWU1mTEk2WUJGbjFHYWQ5Y3RtR1ZFYTZTczlybDZZYkNsNU03M2ZyZHJVS0x4dUY4WEhRZS1mMl9m?oc=5",
-   "fonte": "Gazeta Mercantil",
-   "quando": 1795812491.0,
-   "categoria": "brasil",
+   "titulo": "A programação de fim de ano de Louveira inicia no dia 5 de dezembro, às 17h, no Parque ...",
+   "link": "https://www.instagram.com/p/DgQd9WiCcPm/",
+   "fonte": "instagram.com",
+   "quando": 1795812518.0,
+   "categoria": "regiao",
    "fontes": [
-    "Gazeta Mercantil"
+    "instagram.com"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
    "hora": "27/11 17:48"
   },
@@ -1034,22 +1232,6 @@
    "urgente": false,
    "assuntos": [
     "transito"
-   ],
-   "pontos": 5,
-   "hora": "27/11 17:45"
-  },
-  {
-   "titulo": "STF suspende R$ 79,3 milhões em emendas indicadas por Flávio Bolsonaro para 2027 - GPS Brasília",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzJYdGk0ckNocUJoZlB4SWhib2FzRi1ZTzY0QkZkbmdHM3N2WkxpNXcxQmJwRl9IZFpHX0E4RkNfb2xQdjlYY0c4Mk1RQkstX29ROWdFUUh5ak9IRVZpak1LNWFIMTlSLW92ZVZUN3V5cVFZbUlwVUd5b3JYbDdIWA?oc=5",
-   "fonte": "GPS Brasília",
-   "quando": 1795812314.0,
-   "categoria": "brasil",
-   "fontes": [
-    "GPS Brasília"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
    ],
    "pontos": 5,
    "hora": "27/11 17:45"
@@ -1071,20 +1253,18 @@
    "hora": "27/11 17:42"
   },
   {
-   "titulo": "Crise na Alesp: Tarcísio é pressionado pela própria base por milhões em emendas - Revista Fórum",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWVNTTnVfblE4UFRLSElTMXRhZWlRTTZiYnViTjFfRWlPeW1BNHgwSXhNaTNrd2tweUc0eVdCVFVpUjdYblVVenhlM0RQV2RTS2toelZPVU9xLVpUdDFuTGZ5dUdhNXNmYVlpMTV3?oc=5",
-   "fonte": "Revista Fórum",
-   "quando": 1795812050.0,
-   "categoria": "estado",
+   "titulo": "VITÓRIA DO SINDLOUV | Justiça concede liminar e impede redução de pontos dos ...",
+   "link": "https://sindlouv.com/vitoria-do-sindlouv-justica-concede-liminar-e-impede-reducao-de-pontos-dos-servidores-da-educacao-em-razao-da-greve/",
+   "fonte": "sindlouv.com",
+   "quando": 1795811997.0,
+   "categoria": "regiao",
    "fontes": [
-    "Revista Fórum"
+    "sindlouv.com"
    ],
    "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
+   "assuntos": [],
    "pontos": 5,
-   "hora": "27/11 17:40"
+   "hora": "27/11 17:39"
   },
   {
    "titulo": "Fundo Social de SP envia ajuda humanitária para Registro diante de alerta de chuvas fortes no Litoral Sul - agenciasp.sp.gov.br",
@@ -1117,6 +1297,34 @@
    "hora": "27/11 17:25"
   },
   {
+   "titulo": "A VOZ DE BOITUVA EM OUTROS PALCOS: CORO MUNICIPAL PARTICIPA DE ENCONTROS NA ...",
+   "link": "https://www.instagram.com/p/DgQKqCjF8T9/",
+   "fonte": "instagram.com",
+   "quando": 1795811129.0,
+   "categoria": "regiao",
+   "fontes": [
+    "instagram.com"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 17:25"
+  },
+  {
+   "titulo": "O rompimento de dois cabos de fibra óptica provocou instabilidade em serviços públicos de ...",
+   "link": "https://www.instagram.com/p/DgQYbt0G6kl/",
+   "fonte": "instagram.com",
+   "quando": 1795811118.0,
+   "categoria": "regiao",
+   "fontes": [
+    "instagram.com"
+   ],
+   "urgente": false,
+   "assuntos": [],
+   "pontos": 5,
+   "hora": "27/11 17:25"
+  },
+  {
    "titulo": "JJ: Artistas pintam escultura de onça-pintada ao vivo em Jundiaí - sampi.net.br",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczZ1Wmk3WFNVWFo3YXJBTmV3S29ZdUtjeFdLOTN6Y0xWQWNiendfekI3TXpTTUJoMWxucFF2NTNCbnplbzlRTHdNTnJSenZSNEVxZ3plUGlMaUdHbTRqekRBZGttYzd0NXlESUV1M3dwMGZiVFYwMFFtblNGWHZWcldYM0Z3M2JIZ2JBSVR5OXE0VEdhSTB2Zm5weVJhSVZUbUJtcWExempuQzZXMWhEMWtkNlZaNnFrWXpmaFln?oc=5",
    "fonte": "sampi.net.br",
@@ -1129,152 +1337,6 @@
    "assuntos": [],
    "pontos": 5,
    "hora": "27/11 16:57"
-  },
-  {
-   "titulo": "Entenda por que Haddad deve ficar fora do governo Lula 4 - Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU25MbUJBWWRaalFaajVnSFRnMjhzTVpnYjRwOFJWdURWalFVRlFDbHIzT0NPN29GU1diZS1IdVRqN2h1b1FhRmtPNEhSdnBsbXFZUkp0dVJ2bXc1Wkw4bXFuMzMwUG9iWlYxSFM4cE5BMEFlOHV2RE8yQlU1UUlRQjBnc29DR0p1N3hVUW5Xcy1scVA1VC1RSnM3WFA4MTg4bXB4Qld0RWE2RlpWYlI5RXlkQkrSAcMBQVVfeXFMT0prajQ2NVUwY0RiNVdQUjcwa01ILU8ybHYxOG5DRVhoNnU3eFN1azhXOEJacXoyV3BYQmZRb3lHc2JlcGRIMEhXdVVkOG5JNmU0c2I3c0dyNDJfYmNMLVBRTmRLb1d1SUpKdU1ZQXMyZ2huWFhJV0pGN3NkOC1Eb0Y5dXdPZ0FZTzFOLU1RTmF4aUZyaVhEcUc4VGxRbGJKSjMyYlpZZEt2dUdXTDdmQ3JoMzhteEFEUEh0TDFyUUdHNkRj?oc=5",
-   "fonte": "Valor Econômico",
-   "quando": 1795809258.0,
-   "categoria": "estado",
-   "fontes": [
-    "Valor Econômico"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "politica"
-   ],
-   "pontos": 5,
-   "hora": "27/11 16:54"
-  },
-  {
-   "titulo": "Trabalhadores já planejam como usar o dinheiro do 13º salário - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRW5RUDk5WmM4UVFaSTAtSUY3NDJVZlc2S0kzXzE5WHhqd2Iybmg3NE9HQmpsTjlVVzR1ME1PeVd2ZVBNQW5haDJnYXV4NmhJR1F4X21QTUZ4SUJrclZEYnRpRTVYVVZjbU9faXdseDZkR2pJLVVtVGFiNUtUVHViSFU3MVZjQzVWbVkzSlZYSnE2ajg?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795809246.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "27/11 16:54"
-  },
-  {
-   "titulo": "Alertas continuam em SP: temporais, chuvas intensas e mais de 100 mm pelo estado - www.meteored.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazBHRkVkY2tuNWRIWjBIc0pHdWVWNWU0M0xDa2tXMWZDQ01fMjZYX2RfSVc3NkdQbmlwamg4TkU1RDdnOWo1d2E3V2tqdy1zeWNUOTlGN2hzMklxQnFvOTQ5TF9RLWZ2bE54RTdtRHV1R3NiS2VZZ0Y4MmRfSXNvQzNXZWJpVGdmWjB6UVktaWtfcTE2bmpIcHBxZ1FaNzB4c1JkQWNZdzh1WU44Z3pObHNvSDc4b2NRVnhYTUVGVVpnUzljek4wVQ?oc=5",
-   "fonte": "www.meteored.com.br",
-   "quando": 1795808699.0,
-   "categoria": "estado",
-   "fontes": [
-    "www.meteored.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [
-    "clima"
-   ],
-   "pontos": 5,
-   "hora": "27/11 16:44"
-  },
-  {
-   "titulo": "Espetáculo da APAE de Jundiaí emociona público no Teatro Polytheama - Tribuna de Jundiaí",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RZXl5UGxBNzVCd0RJUVNTZDNMV3Q3WmRJUHFCQzM5MzJaaWdrYjZxRHM1UjZpRGJIVGd6ZTBDaUItODd5Y3A5M0xnaWtFRDVmTUdpZXF6allUd1ZSbVFKelRwYkVCUFNsdHpsVHFEVGJGdDg?oc=5",
-   "fonte": "Tribuna de Jundiaí",
-   "quando": 1795808666.0,
-   "categoria": "regiao",
-   "fontes": [
-    "Tribuna de Jundiaí"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "27/11 16:44"
-  },
-  {
-   "titulo": "Sorocaba registra 40 relatos de agressão contra profissionais da saúde - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVV3ZXd2NlNvYTEtMkRoTk9DR2VUNi1hbUhMSnMzVHQtS3pqQ250ZTNuWVk5TG1RWldBZGZyWWxqNnZMdF92Qnd1dnV1UDZRWEl5d1BOOXRpOVlDZ0JrUDJ5M092SmVJT3ByWl9sazhybVdCektwTllLaExpZ2h2Sk5tci1ndVdOaXBDejYwbGxINVluYU81NUNycDRIdHM?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795808661.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "27/11 16:44"
-  },
-  {
-   "titulo": "Sorocaba registra índice de risco para dengue em outubro; região tem maior concentração de larvas - TVS+ SBT",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDhDdXZ2MnRZNmlGaHdJNGJDVks0eXNYNFNWeGl6VklPUGJGaHdET2t4NHpONE5SZHc5d1c4WklacEZQVmVjcWlJdW5GNU9JQVh5Mk0wTkdaTTNOS016V1MzVTM4aGpPLXBOYVY0WmlqalZ4TUplWXhrLTAxVUdrWE5jXzR4c2VGYkpIcmx2UnNCSXVsd3ROR1lkTGw4N19SNWhWVmphb3N3WXd3YzdtQ0RmeXY2Q01tMU1SYU5BUDhzQQ?oc=5",
-   "fonte": "TVS+ SBT",
-   "quando": 1795808643.0,
-   "categoria": "regiao",
-   "fontes": [
-    "TVS+ SBT"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "27/11 16:44"
-  },
-  {
-   "titulo": "Rockabilly Day reúne música, carros antigos e dança grátis no interior de SP - viva.com.br",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUThXWDI1M3ZKY2xsSWdwUWxPcFhqTXNVaGtPSGd6djFtaVhaSGpva0lSNGxucWl4eFZnU1lrOFRVLTg4QkRiYVBRRGRmeTJNZ29JWjdmVlN0clhGdjdEWW5zNE9pUEh4MWtGazI0Mm9fN01iUTVLTmtPLUxYNFNnai0ySm1Wa0hSb0kwSXV4VEZkZ0ZnNnlYX1Q3a3F1V1lXR2huRXBjU1VRNXRHcDVhNHRTSTlHTU0?oc=5",
-   "fonte": "viva.com.br",
-   "quando": 1795808160.0,
-   "categoria": "regiao",
-   "fontes": [
-    "viva.com.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "27/11 16:36"
-  },
-  {
-   "titulo": "A Prefeitura de Campo Limpo Paulista abriu canais de apoio para quem teve imóveis ... - Instagram",
-   "link": "https://www.instagram.com/p/DgQYqM5CQz4/",
-   "fonte": "instagram.com",
-   "quando": 1795808144.0,
-   "categoria": "regiao",
-   "fontes": [
-    "instagram.com"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 5,
-   "hora": "27/11 16:35"
-  },
-  {
-   "titulo": "Governo de SP investe R$ 21 milhões em ponte para beneficiar cerca de 451 mil em Mogi das Cruzes - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOanFfdWNBXy1WZW1HczkyaXVzSERMRzRoazZZc3hRUmtsNjVZdU9DSWlUbVpYRWdwbWY1MnVPdWhzbURGSTBHU2pWSXFNcFZtdks3T1lnY21Cak5Yel9mUjd4bHNhSV9yVlJubmhPMElVVGxNdnpicGN4LU9KN3ZPTTZDbnYyX2tpN2t1MDRKcmlvLTRodkh6d29USlRfWU5ubEY4UjZ1RTU4dnYybzc2Rk5TZ0M1UXVyM2N6YzJWRTlXTzl3NHEyRlFRUjFVc0xYR21LVEFxT3hRNmM?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795811644.0,
-   "categoria": "estado",
-   "fontes": [
-    "Tá No Site",
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 4,
-   "hora": "27/11 17:34"
-  },
-  {
-   "titulo": "Governo de SP abre comemorações dos 300 anos do café com premiação e lançamento de guia turístico - agenciasp.sp.gov.br",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWZ2eWVCYUdQN0Rqb1l0RXVPZlNlZEROSjhma0tPV2hXWTJYMngyUm1Qb1V1RHhIb2lMMFNabF91eHFpVGdrUWhpc2pKWGZhV1VULXRMbjByaG50OC10YnpBTmExNng4aDBXbWtnU0JXTmxiS2Y5RE96WEU2Sk9XMDlXOVpCQWtKQWZHTlRNZUtNVlhHMzF3X3hUcHZVQTFBMHhweHhDeVdNV241MmZSMGhtR1NsaHh1T3dVcGxaN29MSjU3ekhDU2tMY1Zja3NI?oc=5",
-   "fonte": "agenciasp.sp.gov.br",
-   "quando": 1795809283.0,
-   "categoria": "estado",
-   "fontes": [
-    "Tá No Site",
-    "agenciasp.sp.gov.br"
-   ],
-   "urgente": false,
-   "assuntos": [],
-   "pontos": 4,
-   "hora": "27/11 16:54"
   }
  ]
 }
